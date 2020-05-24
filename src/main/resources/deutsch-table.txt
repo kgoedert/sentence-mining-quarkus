@@ -1,0 +1,63 @@
+Accusativ - Direct Objects
+Dativ - Indirect Objects
+
+        |Nominative |Accusative |Dativ  |Genitiv
+-----------------------------------------------------
+Masc    |Der        |Den        |Dem    |Des
+Fem     |Die        |Die        |Der    |Der
+Neuter  |Das        |Das        |Dem    |Des
+Plural  |Die        |Die        |Den    |Keiner
+
+------------------------------------------------------
+
+        |Nominative |Accusative |Dativ     |Genitiv
+-----------------------------------------------------
+Masc    |dieser     |diesen     |diesem    |dieses
+Fem     |diese      |diese      |dieser    |dieser
+Neuter  |dieses     |dieses     |diesem    |dieses
+Plural  |diese      |diese      |diesen    |dieser
+
+------------------------------------------------------
+
+Masc    |Ein        |Einen      |Einem  |Eines
+Fem     |Eine       |Eine       |Einer  |Einer
+Neuter  |Ein        |Ein        |Einem  |Eines
+Plural  |Keine      |Keine      |Keinen |Keiner
+
+------------------------------------------------------
+
+        |ich        |mich       |mir    |mein
+        |du         |dich       |dir    |dein
+        |er         |ihn        |ihm    |sein
+        |sie        |sie        |ihr    |ihr
+        |es         |es         |ihm    |ihm
+        |wir        |uns        |uns    |uns
+        |ihr        |euch       |euch   |euch
+        |Sie        |sie        |ihnen  |ihre
+
+--------------------------------------------------------
+Possessive Akkusative - OD
+                
+            |Neuter    |Feminine    |Masculine  |Plural      
+|ich        |mein      |meine       |meinen     |meine
+|du         |dein      |deine       |deinen     |deine
+|er/es      |sein      |seine       |seinen     |seine
+|sie        |ihr       |ihre        |ihren      |ihren
+|wir        |unser     |unsere      |unseren    |unsere
+|ihr        |euer      |eure        |euren      |eure
+|sie        |ihr       |ihre        |ihren      |ihre
+|Sie        |Ihr       |Ihre        |Ihren      |Ihre
+
+--------------------------------------------------------
+Possessive Dativ - OI
+                
+            |Neuter         |Feminine       |Masculine  |Plural      
+|ich        |meinem         |meiner         |meinem     |meiner
+|du         |deinem         |deiner         |deinem     |deiner
+|er/es      |seinem         |seiner         |seinem     |seiner
+|sie        |ihrem          |ihrer          |ihrem      |ihrer
+|wir        |unserem        |unserer        |unserem    |unserer
+|ihr        |euerem         |eurer          |eurem      |eurer
+|sie        |ihrem          |ihrer          |ihrem      |ihrer
+|Sie        |Ihrem          |Ihrer          |Ihrem      |Ihrer
+
