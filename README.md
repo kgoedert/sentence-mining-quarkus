@@ -1,1 +1,1 @@
-↳ ./mvnw quarkus:dev -Dquarkus.args='<file-path> <target-language>'
+./mvnw quarkus:dev -Dquarkus.args='<file-path> <target-language>'

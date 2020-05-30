@@ -4084,8 +4084,26 @@ They are always complaining.
 Ich beschwere mich nicht.      
 I'm not complaining.
 
-Tom und Maria sagten Johannes, sie seien ungehalten.    <<<--- leech
+Tom und Maria sagten Johannes, sie seien ungehalten.   
 Tom and Mary told John that they were displeased.
+
+Er ist unser unmittelbarer Nachbar.
+He lives immediately next to us.
+
+Du brauchst nicht unmittelbar fortzugehen.
+You don't need to leave right now.
+
+Tom stand unmittelbar hinter Maria.
+Tom stood right behind Mary.
+
+Wir müssen feststellen, ob Tom Französisch spricht.
+We need to find out if Tom can speak French.
+
+Die Ärzte konnten die Todesursache nicht feststellen.
+The doctors couldn't determine the cause of death.
+
+Das ist keine Beleidigung, sondern eine Feststellung.       <<<-- leech
+It's not an insult. It's an observation.
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
