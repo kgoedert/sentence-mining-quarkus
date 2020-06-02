@@ -4892,311 +4892,311 @@
 # Is he speaking of his work? No, he never talks about it.
 # 
 # Est-ce que tu viens de Paris? Oui, j'en viens.
-# Are you coming from Paris? Yes, I am coming from there.
+# # Are you coming from Paris? Yes, I am coming from there.
+# # 
+# # Je voudrais des pommes. Combien en voulez-vous? J'en voudrais un kilo.
+# # I would like some apples. How much (of them) would you like? I would like a kilogram (of them).
+# # 
+# # Et du lait. Combien de bouteilles? Donnes m'en deux.
+# # And some milk. How many bottles (thereof)? Give me two (of them).
+# # 
+# Où est M. Day? M. Day est dans un petit hôtel.
+# Where is Mr. Day? Mr. Day is in a small hotel.
 # 
-# Je voudrais des pommes. Combien en voulez-vous? J'en voudrais un kilo.
-# I would like some apples. How much (of them) would you like? I would like a kilogram (of them).
+# Qu'est-ce qu'il veut? Il veut une chambre avec salle de bains.
+# What does he want? He wants a room with a bathroom.
 # 
-# Et du lait. Combien de bouteilles? Donnes m'en deux.
-# And some milk. How many bottles (thereof)? Give me two (of them).
+# Est-ce qu'il est seul? Oui, il est seul pour quelques jours.
+# Is he alone? Yes, he's alone for a few days.
 # 
-Où est M. Day? M. Day est dans un petit hôtel.
-Where is Mr. Day? Mr. Day is in a small hotel.
-
-Qu'est-ce qu'il veut? Il veut une chambre avec salle de bains.
-What does he want? He wants a room with a bathroom.
-
-Est-ce qu'il est seul? Oui, il est seul pour quelques jours.
-Is he alone? Yes, he's alone for a few days.
-
-À quel étage est la chambre? La chambre est au premier étage.
-What floor is the bedroom on? The room is on the first floor.
-
-Est-ce que le gérant va l'y conduire? Non, la femme de chambre va l'y conduire.
-Will the manager drive him there? No, the maid will take him there.
-
-M. Day est-il au premier étage? Oui, M. Day est au premier étage.
-Is Mr. Day on the first floor? Yes, Mr. Day is on the first floor.
-
-Est-ce que l'hôtel a le wi-fi? Oui, l'hôtel a le wi-fi.
-Does the hotel have wi-fi? Yes, the hotel has wi-fi.
-
-Quel est l’identifiant? L'identifiant est 'bonjour'.
-What is the ID? The ID is'hello'.
-
-Le petit déjeuner est inclus dans le prix de la chambre? Oui, le petit déjeuner est inlus dans le prix de la chambre.
-Is breakfast included in the price of the room? Yes, breakfast is included in the price of the room.
-
-Est-ce que la chambre convient à M. Day? Oui, elle convient tout à fait à M. Day.
-Is the room suitable for Mr. Day? Yes, it is very suitable for Mr. Day.
-
-Est-ce que M. Day va monter les bagages? Non, la femme de chambre va faire apporter les bagages.
-Is Mr. Day going to take the luggage up? No, the maid will have the luggage brought.
-
-À quelle heure la femme de chambre va réveiller M. Day? Elle va réveiller M. Day à 7 heures.
-What time will the maid wake Mr. Day? She'll wake Mr. Day at 7:00.
-
-Est-ce que M. Day va changer de chambre tout de suite? Non, il va changer de chambre quelques jours plus tard.
-Will Mr. Day change rooms right away? No, he's going to change rooms a few days later.
-
-M. Day n'est-il pas satisfait? Si, il est satisfait.
-Is Mr. Day not satisfied? Yes, he is satisfied.
-
-Quand est-ce que la famille de M. Day arrive? La famille de M. Day arrive ce soir.
-When is Mr. Day's family coming? Mr. Day's family is coming tonight.
-
-Est-ce que le gérant a des chambres communicantes? Oui, il a des chambres communicantes.
-Does the manager have communicating rooms? Yes, it has communicating rooms.
-
-Est-ce qu'elles sont libres? Oui, elles sont libres.
-Are they free? Yes, they are free.
-
-Est-ce que M. Day va remplir des fiches? Oui, il va remplir des fiches.
-Is Mr. Day going to fill out forms? Yes, he's going to fill out forms.
-
-Quand? Tout de suite.
-When? Right away.
-
-Est-ce que le gérant a la monnaie pour vingt euros? Oui, il a la monnaie pour vingt euros.
-Does the manager have change for twenty euros? Yes, he has change for twenty euros.
-
-Est-ce que l'hôtel garde les sacs? Oui, l'hôtel garde les sacs.
-Does the hotel keep the bags? Yes, the hotel keeps the bags.
-
-Donc il nous faut prendre les escaliers. 
-Therefore, we have to take the stairs.
-
-Donc il nous faut prendre l'autobus. 
-Therefore, we have to take the bus.
-
-Donc il nous faut prendre le métro. 
-Therefore, we have to take the subway.
-
-Donc il nous faut prendre l'ascenseur. 
-Therefore, we have to take the elevator.
-
-Donc il nous faut prendre le train. 
-Therefore, we have to take the train.
-
-Donc il nous faut prendre l'avion. 
-Therefore, we have to take the airplane.
-
-Quand est-ce que nous devons libérer la chambre? 
-By when must we vacate the room?
-
-Quand est-ce que nous devons partir? 
-By when must we leave?
-
-Quand est-ce que nous devons être ici? 
-By when must we be here?
-
-Quand est-ce que nous devons arriver? 
-By when must we arrive?
-
-Quand est-ce que nous devons être à l'hôtel? 
-By when must we be at the hotel?
-
-Quand est-ce que nous devons être à la gare? 
-By when must we be at the train station?
-
-Quand est-ce que nous devons être à l'aéroport? 
-By when must we be at the airport?
-
-Venez par ici pour aller aux escaliers. 
-Come this way to go to the stairs.
-
-Venez par ici pour aller à l'ascenseur. 
-Come this way to go to the elevator.
-
-Venez par ici pour aller à la chambre. 
-Come this way to go to the room.
-
-Venez par ici pour aller à la salle du petit déjeuner. 
-Come this way to go to the breakfast room.
-
-La femme de chambre va vous y conduire.
-The maid will take you there.
-
-Mademoiselle Courtois va vous y conduire.
-Miss Courtois will take you there.
-
-Mon ami va vous y conduire.
-My friend will take you there.
-
-Ma femme va vous y conduire.
-My wife will take you there.
-
-Elle va vous y conduire.
-She'll take you there.
-
-Mon fils va vous y conduire.
-My son will take you there.
-
-Il va vous y conduire.
-He'll take you there.
-
-Le gérant va vous y conduire.
-The manager will take you there.
-
-Janine va vous y conduire.
-Janine will take you there.
-
-La femme de chambre va vous y conduire.
-The maid will take you there.
-
-Que désirez-vous, Monsieur?
-What would you like, sir?
-
-Où allez-vous, Monsieur?
-Where are you going, sir?
-
-Où êtes-vous, Monsieur?
-Where are you, sir? Where are you?
-
-Que dites-vous, Monsieur?
-What are you saying, sir?
-
-Que répondez-vous, Monsieur?
-What do you say, sir?
-
-Que dit-on, Monsieur?
-What do they say, sir?
-
-Où êtes-vous, Monsieur?
-Where are you, sir? Where are you?
-
-Où allez-vous, Monsieur?
-Where are you going, sir?
-
-Que désirez-vous, Monsieur?
-What would you like, sir?
-
-Que dites-vous, Monsieur?
-What are you saying, sir?
-
-Est-ce que vous n'êtes pas satisfait?
-Are you not satisfied?
-
-Est-ce que vous n'êtes pas heureux?
-Aren't you happy?
-
-Est-ce que vous n'êtes pas à l'heure?
-Aren't you on time?
-
-Est-ce que vous n'êtes pas seul?
-Aren't you alone?
-
-Est-ce que vous n'êtes pas avec eux?
-Aren't you with them?
-
-Est-ce que vous n'êtes pas pressé?
-Aren't you in a hurry?
-
-Est-ce que vous n'êtes pas libre?
-Aren't you free?
-
-Est-ce que vous n'êtes pas au restaurant?
-Aren't you at the restaurant?
-
-Est-ce que vous n'êtes pas en vacances?
-Aren't you on vacation?
-
-Est-ce que vous n'êtes pas français?
-Aren't you French?
-
-Est-ce que vous n'êtes pas satisfait?
-Are you not satisfied?
-
-Voici la chambre, Monsieur.
-This is the room, sir.
-
-Voici le livre, Monsieur.
-Here's the book, sir.
-
-Voici le restaurant, Monsieur.
-This is the restaurant, sir.
-
-Voici la femme de chambre, Monsieur.
-This is the maid, sir.
-
-Voici les bagages, Monsieur.
-Here's the luggage, sir.
-
-Voici le café, Monsieur.
-Here's the coffee, sir.
-
-Voici la salle de bains, Monsieur.
-This is the bathroom, sir.
-
-Voici le gérant, Monsieur.
-This is the manager, sir.
-
-Voici la monnaie, Monsieur.
-Here's the change, sir.
-
-Voici la chambre, Monsieur.
-This is the room, sir.
-
-Nous avons une jolie chambre au premier étage.
-We have a nice room on the first floor.
-
-Je voudrais une jolie chambre au premier étage.
-I would like a nice room on the first floor.
-
-Voici une jolie chambre au premier étage.
-This is a nice room on the first floor.
-
-C'est une jolie chambre au premier étage.
-It's a nice room on the first floor.
-
-Vous avez une jolie chambre au premier étage.
-You have a nice room on the first floor.
-
-Vous voulez une jolie chambre au premier étage.
-You want a nice room on the first floor.
-
-Il voudrait une jolie chambre au premier étage.
-He would like a nice room on the first floor.
-
-Nous avons une jolie chambre au premier étage.
-We have a nice room on the first floor.
-
-Je vais les remplir tout de suite.
-I'll fill them out right away.
-
-Je vais les remplir maintenant.
-I'll fill them out now.
-
-Je vais les remplir ce soir.
-I'm going to fill them out tonight.
-
-Je vais les remplir aujourd'hui.
-I'm going to fill them out today.
-
-Je vais les remplir demain soir.
-I'll fill them out tomorrow night.
-
-Je vais les remplir à midi.
-I'll fill them out at noon.
-
-Je vais les remplir à huit heures.
-I'll fill them out at eight o'clock.
-
-Je vais les remplir tout de suite.
-I'll fill them out right away.
-
-Est-ce que vous êtes seul?
-Are you alone?
-
-Est-ce que vous êtes heureux?
-Are you happy? Are you happy?
-
-Est-ce que vous êtes libre?
-Are you free to go?
-
-Est-ce que vous êtes satisfait?
-Are you satisfied?
-
+# À quel étage est la chambre? La chambre est au premier étage.
+# What floor is the bedroom on? The room is on the first floor.
+# 
+# Est-ce que le gérant va l'y conduire? Non, la femme de chambre va l'y conduire.
+# Will the manager drive him there? No, the maid will take him there.
+# 
+# M. Day est-il au premier étage? Oui, M. Day est au premier étage.
+# Is Mr. Day on the first floor? Yes, Mr. Day is on the first floor.
+# 
+# Est-ce que l'hôtel a le wi-fi? Oui, l'hôtel a le wi-fi.
+# Does the hotel have wi-fi? Yes, the hotel has wi-fi.
+# 
+# Quel est l’identifiant? L'identifiant est 'bonjour'.
+# What is the ID? The ID is'hello'.
+# 
+# Le petit déjeuner est inclus dans le prix de la chambre? Oui, le petit déjeuner est inlus dans le prix de la chambre.
+# Is breakfast included in the price of the room? Yes, breakfast is included in the price of the room.
+# 
+# Est-ce que la chambre convient à M. Day? Oui, elle convient tout à fait à M. Day.
+# Is the room suitable for Mr. Day? Yes, it is very suitable for Mr. Day.
+# 
+# Est-ce que M. Day va monter les bagages? Non, la femme de chambre va faire apporter les bagages.
+# Is Mr. Day going to take the luggage up? No, the maid will have the luggage brought.
+# 
+# À quelle heure la femme de chambre va réveiller M. Day? Elle va réveiller M. Day à 7 heures.
+# What time will the maid wake Mr. Day? She'll wake Mr. Day at 7:00.
+# 
+# Est-ce que M. Day va changer de chambre tout de suite? Non, il va changer de chambre quelques jours plus tard.
+# Will Mr. Day change rooms right away? No, he's going to change rooms a few days later.
+# 
+# M. Day n'est-il pas satisfait? Si, il est satisfait.
+# Is Mr. Day not satisfied? Yes, he is satisfied.
+# 
+# Quand est-ce que la famille de M. Day arrive? La famille de M. Day arrive ce soir.
+# When is Mr. Day's family coming? Mr. Day's family is coming tonight.
+# 
+# Est-ce que le gérant a des chambres communicantes? Oui, il a des chambres communicantes.
+# Does the manager have communicating rooms? Yes, it has communicating rooms.
+# 
+# Est-ce qu'elles sont libres? Oui, elles sont libres.
+# Are they free? Yes, they are free.
+# 
+# Est-ce que M. Day va remplir des fiches? Oui, il va remplir des fiches.
+# Is Mr. Day going to fill out forms? Yes, he's going to fill out forms.
+# 
+# Quand? Tout de suite.
+# When? Right away.
+# 
+# Est-ce que le gérant a la monnaie pour vingt euros? Oui, il a la monnaie pour vingt euros.
+# Does the manager have change for twenty euros? Yes, he has change for twenty euros.
+# 
+# Est-ce que l'hôtel garde les sacs? Oui, l'hôtel garde les sacs.
+# Does the hotel keep the bags? Yes, the hotel keeps the bags.
+# 
+# Donc il nous faut prendre les escaliers. 
+# Therefore, we have to take the stairs.
+# 
+# Donc il nous faut prendre l'autobus. 
+# Therefore, we have to take the bus.
+# 
+# Donc il nous faut prendre le métro. 
+# Therefore, we have to take the subway.
+# 
+# Donc il nous faut prendre l'ascenseur. 
+# Therefore, we have to take the elevator.
+# 
+# Donc il nous faut prendre le train. 
+# Therefore, we have to take the train.
+# 
+# Donc il nous faut prendre l'avion. 
+# Therefore, we have to take the airplane.
+# 
+# Quand est-ce que nous devons libérer la chambre? 
+# By when must we vacate the room?
+# 
+# Quand est-ce que nous devons partir? 
+# By when must we leave?
+# 
+# Quand est-ce que nous devons être ici? 
+# By when must we be here?
+# 
+# Quand est-ce que nous devons arriver? 
+# By when must we arrive?
+# 
+# Quand est-ce que nous devons être à l'hôtel? 
+# By when must we be at the hotel?
+# 
+# Quand est-ce que nous devons être à la gare? 
+# By when must we be at the train station?
+# 
+# Quand est-ce que nous devons être à l'aéroport? 
+# By when must we be at the airport?
+# 
+# Venez par ici pour aller aux escaliers. 
+# Come this way to go to the stairs.
+# 
+# Venez par ici pour aller à l'ascenseur. 
+# Come this way to go to the elevator.
+# 
+# Venez par ici pour aller à la chambre. 
+# Come this way to go to the room.
+# 
+# Venez par ici pour aller à la salle du petit déjeuner. 
+# Come this way to go to the breakfast room.
+# 
+# La femme de chambre va vous y conduire.
+# The maid will take you there.
+# 
+# Mademoiselle Courtois va vous y conduire.
+# Miss Courtois will take you there.
+# 
+# Mon ami va vous y conduire.
+# My friend will take you there.
+# 
+# Ma femme va vous y conduire.
+# My wife will take you there.
+# 
+# Elle va vous y conduire.
+# She'll take you there.
+# 
+# Mon fils va vous y conduire.
+# My son will take you there.
+# 
+# Il va vous y conduire.
+# He'll take you there.
+# 
+# Le gérant va vous y conduire.
+# The manager will take you there.
+# 
+# Janine va vous y conduire.
+# Janine will take you there.
+# 
+# La femme de chambre va vous y conduire.
+# The maid will take you there.
+# 
+# Que désirez-vous, Monsieur?
+# What would you like, sir?
+# 
+# Où allez-vous, Monsieur?
+# Where are you going, sir?
+# 
+# Où êtes-vous, Monsieur?
+# Where are you, sir? Where are you?
+# 
+# Que dites-vous, Monsieur?
+# What are you saying, sir?
+# 
+# Que répondez-vous, Monsieur?
+# What do you say, sir?
+# 
+# Que dit-on, Monsieur?
+# What do they say, sir?
+# 
+# Où êtes-vous, Monsieur?
+# Where are you, sir? Where are you?
+# 
+# Où allez-vous, Monsieur?
+# Where are you going, sir?
+# 
+# Que désirez-vous, Monsieur?
+# What would you like, sir?
+# 
+# Que dites-vous, Monsieur?
+# What are you saying, sir?
+# 
+# Est-ce que vous n'êtes pas satisfait?
+# Are you not satisfied?
+# 
+# Est-ce que vous n'êtes pas heureux?
+# Aren't you happy?
+# 
+# Est-ce que vous n'êtes pas à l'heure?
+# Aren't you on time?
+# 
+# Est-ce que vous n'êtes pas seul?
+# Aren't you alone?
+# 
+# Est-ce que vous n'êtes pas avec eux?
+# Aren't you with them?
+# 
+# Est-ce que vous n'êtes pas pressé?
+# Aren't you in a hurry?
+# 
+# Est-ce que vous n'êtes pas libre?
+# Aren't you free?
+# 
+# Est-ce que vous n'êtes pas au restaurant?
+# Aren't you at the restaurant?
+# 
+# Est-ce que vous n'êtes pas en vacances?
+# Aren't you on vacation?
+# 
+# Est-ce que vous n'êtes pas français?
+# Aren't you French?
+# 
+# Est-ce que vous n'êtes pas satisfait?
+# Are you not satisfied?
+# 
+# Voici la chambre, Monsieur.
+# This is the room, sir.
+# 
+# Voici le livre, Monsieur.
+# Here's the book, sir.
+# 
+# Voici le restaurant, Monsieur.
+# This is the restaurant, sir.
+# 
+# Voici la femme de chambre, Monsieur.
+# This is the maid, sir.
+# 
+# Voici les bagages, Monsieur.
+# Here's the luggage, sir.
+# 
+# Voici le café, Monsieur.
+# Here's the coffee, sir.
+# 
+# Voici la salle de bains, Monsieur.
+# This is the bathroom, sir.
+# 
+# Voici le gérant, Monsieur.
+# This is the manager, sir.
+# 
+# Voici la monnaie, Monsieur.
+# Here's the change, sir.
+# 
+# Voici la chambre, Monsieur.
+# This is the room, sir.
+# 
+# Nous avons une jolie chambre au premier étage.
+# We have a nice room on the first floor.
+# 
+# Je voudrais une jolie chambre au premier étage.
+# I would like a nice room on the first floor.
+# 
+# Voici une jolie chambre au premier étage.
+# This is a nice room on the first floor.
+# 
+# C'est une jolie chambre au premier étage.
+# It's a nice room on the first floor.
+# 
+# Vous avez une jolie chambre au premier étage.
+# You have a nice room on the first floor.
+# 
+# Vous voulez une jolie chambre au premier étage.
+# You want a nice room on the first floor.
+# 
+# Il voudrait une jolie chambre au premier étage.
+# He would like a nice room on the first floor.
+# 
+# Nous avons une jolie chambre au premier étage.
+# We have a nice room on the first floor.
+# 
+# Je vais les remplir tout de suite.
+# I'll fill them out right away.
+# 
+# Je vais les remplir maintenant.
+# I'll fill them out now.
+# 
+# Je vais les remplir ce soir.
+# I'm going to fill them out tonight.
+# 
+# Je vais les remplir aujourd'hui.
+# I'm going to fill them out today.
+# 
+# Je vais les remplir demain soir.
+# I'll fill them out tomorrow night.
+# 
+# Je vais les remplir à midi.
+# I'll fill them out at noon.
+# 
+# Je vais les remplir à huit heures.
+# I'll fill them out at eight o'clock.
+# 
+# Je vais les remplir tout de suite.
+# I'll fill them out right away.
+# 
+# Est-ce que vous êtes seul?
+# Are you alone?
+# 
+# Est-ce que vous êtes heureux?
+# Are you happy? Are you happy?
+# 
+# Est-ce que vous êtes libre?
+# Are you free to go?
+# 
+# Est-ce que vous êtes satisfait?
+# Are you satisfied?
+# 
 Est-ce que vous êtes près d'ici?
 Are you close to here?
 
