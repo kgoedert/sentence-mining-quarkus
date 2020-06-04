@@ -4123,7 +4123,7 @@ Put out the fire.
 Lösche das Bild.
 Delete that picture.
 
-Lösch diesen Kommentar.
+Lösch diesen Kommentar.     <<-- leech
 Delete this comment.
 
 Sie können ihre Angst überwinden.
