@@ -4114,8 +4114,17 @@ We're planting seeds.
 Die Samen haben schon gekeimt.
 The seeds have germinated.
 
-Gibt es Wassermelonen ohne Samen?       <<-- leech
+Gibt es Wassermelonen ohne Samen?      
 Do seedless watermelons exist?
+
+Lösch das Feuer!
+Put out the fire.
+
+Lösche das Bild.
+Delete that picture.
+
+Lösch diesen Kommentar.
+Delete this comment.
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
