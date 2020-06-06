@@ -4123,8 +4123,17 @@ Put out the fire.
 Lösche das Bild.
 Delete that picture.
 
-Lösch diesen Kommentar.     <<-- leech
+Lösch diesen Kommentar.     
 Delete this comment.
+
+Er hat es anschließend bereut.
+He regretted it afterwards.
+
+Ich werde es dir anschließend sagen.
+I'll tell you afterwards.
+
+Anschließend möchte ich ins Hotel gehen.        <<-- leech
+Afterwards I want to go to the hotel.
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
