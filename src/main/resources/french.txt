@@ -5197,6 +5197,21 @@
 # Est-ce que vous êtes satisfait?
 # Are you satisfied?
 # 
+Je ne sais pas.
+I don't know.
+
+S'il vous plaît.
+Please. (formal)
+
+S'il te plaît.
+Please. (informal)
+
+De rien.
+You're welcome.
+
+Salut!                 
+Hello/Goodbye!                  <<<-- lingoni
+
 Est-ce que vous êtes près d'ici?
 Are you close to here?
 
