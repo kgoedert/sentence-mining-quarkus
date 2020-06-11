@@ -8478,3 +8478,6 @@ Pierre has many friends among artists.
 
 Je peux jeter un autre coup d'oeil?
 May I have another look?
+
+Le petit déjeuner est inclus dans le prix de la chambre? Oui, le petit déjeuner est inlcus dans le prix de la chambre.
+Is breakfast included in the price of the room? Yes, breakfast is included in the price of the room.
