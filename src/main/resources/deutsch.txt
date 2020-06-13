@@ -4157,7 +4157,19 @@ Wir werden uns morgen begegnen.
 See you tomorrow.
 
 Seelen begegnen sich einander nie zufällig.
-Souls never meet each other by chance.              <<<-- leech
+Souls never meet each other by chance.             
+
+Du kannst bleiben, vorausgesetzt, du bist leise.
+You may stay here as long as you keep quiet.
+
+Ich werde gehen, vorausgesetzt, dass sie kommt.
+I will go provided that she comes.
+
+Jedes Buch ist recht, vorausgesetzt, es ist interessant.
+Any book will do provided it is interesting.
+
+Wollen Sie bitte Ihren Namen hier eintragen.
+Please write down your name here.           <<<---leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.

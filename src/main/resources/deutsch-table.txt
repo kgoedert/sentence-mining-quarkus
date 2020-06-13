@@ -26,14 +26,14 @@ Plural  |Keine      |Keine      |Keinen |Keiner
 
 ------------------------------------------------------
 
-        |ich        |mich       |mir    |mein
-        |du         |dich       |dir    |dein
-        |er         |ihn        |ihm    |sein
-        |sie        |sie        |ihr    |ihr
-        |es         |es         |ihm    |ihm
-        |wir        |uns        |uns    |uns
-        |ihr        |euch       |euch   |euch
-        |Sie        |sie        |ihnen  |ihre
+        |mein        |mich       |mir    |mein
+        |dein        |dich       |dir    |dein
+        |sein        |ihn        |ihm    |sein
+        |ihr         |sie        |ihr    |ihr
+        |sein        |es         |ihm    |ihm
+        |unser       |uns        |uns    |uns
+        |euer        |euch       |euch   |euch
+        |ihr         |sie        |ihnen  |ihre
 
 --------------------------------------------------------
 Possessive Akkusative - OD
