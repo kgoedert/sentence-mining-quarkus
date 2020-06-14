@@ -4169,7 +4169,19 @@ Jedes Buch ist recht, vorausgesetzt, es ist interessant.
 Any book will do provided it is interesting.
 
 Wollen Sie bitte Ihren Namen hier eintragen.
-Please write down your name here.           <<<---leech
+Please write down your name here.         
+
+Wir werden jeden Planeten erkunden, der die Sonne umkreist.
+We will explore every planet that goes around the sun.
+
+Ich möchte, dass Sie sich über Tom erkundigen.
+I want you to find out about Tom.
+
+Alle Figuren dieser Handlung sind fiktiv.
+All the characters in this drama are fictitious.
+
+Ich verstehe die Handlung dieses Romans nicht.
+I don't understand this novel's plot.           <<<--- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
