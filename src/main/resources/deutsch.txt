@@ -4181,7 +4181,13 @@ Alle Figuren dieser Handlung sind fiktiv.
 All the characters in this drama are fictitious.
 
 Ich verstehe die Handlung dieses Romans nicht.
-I don't understand this novel's plot.           <<<--- leech
+I don't understand this novel's plot.          
+
+Ich schätze, es stimmt.
+I guess it's true.
+
+Ich schätze, wir könnten.
+I guess we could.           <<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
