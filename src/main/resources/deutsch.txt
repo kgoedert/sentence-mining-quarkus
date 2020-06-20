@@ -4187,7 +4187,16 @@ Ich schätze, es stimmt.
 I guess it's true.
 
 Ich schätze, wir könnten.
-I guess we could.           <<-- leech
+I guess we could.           
+
+Sie beging ein Verbrechen.
+She committed a crime.
+
+Verbrechen lohnt sich nicht.
+Crime doesn't pay.
+
+Liebe ist kein Verbrechen.
+Love is not a crime.                <<<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
