@@ -4789,315 +4789,315 @@
 # Preferí que lo hicieran ellos.
 # I'd rather have them do it.
 # 
-# Me encantaría que arreglasen la lavadora.
-# I'd love them to fix the washing maschine.
+# # Me encantaría que arreglasen la lavadora.
+# # I'd love them to fix the washing maschine.
+# # 
+# # Yo me encargo de que Roberto venga.
+# # I will make sure that Roberto comes.
+# # 
+# # Se ha acostumbrado a que haga yo todo.
+# # He is used to me doing everything.
+# # 
+# Catalina insistió en que fuéramos a verla.
+# Catalina insisted that we went see her.
 # 
-# Yo me encargo de que Roberto venga.
-# I will make sure that Roberto comes.
+# Nos gustaría conocer Guatemala.
+# We would like to visit Gutatemala.
 # 
-# Se ha acostumbrado a que haga yo todo.
-# He is used to me doing everything.
+# Necesito que me prestes el coche.
+# I need you to lend me the car.
 # 
-Catalina insistió en que fuéramos a verla.
-Catalina insisted that we went see her.
-
-Nos gustaría conocer Guatemala.
-We would like to visit Gutatemala.
-
-Necesito que me prestes el coche.
-I need you to lend me the car.
-
-Nos gustaría que conocieran Guatemala.
-We would like to visit Guatemala.
-
-El director no deja comer en las aulas.
-The principal does not allow eating in classes.
-
-Te prohíbo salir.
-I forbid you to go out.
-
-El director no deja que comamos en las aulas.
-The principal does not allow us to eat in classes.
-
-Te prohíbo que salgas.
-I forbid that you go out.
-
-Acuérdate de comprar el pan, Tomás.
-Remember of buying the bread, Tomás.
-
-No olvides echar la llave.
-Don't forget to leave the keys.
-
-Miguel, acuérdate de que es mi cumpleaños mañana.
-Miguel, remember that tomorrow is my birthday.
-
-No olvidéis que tenemos una reunión a las once.
-Don't forget that we have a meeting at eleven.
-
-Mira, unas fotos de mis hijos tocando piano.
-Look, some pictures of my sons playing the piano.
-
-Beto se levanta cantando.
-Beto wakes up singing.
-
-No me gusta escuchar música leyendo.
-I don't like to listen to music while reading.
-
-Carlos siempre habla gritando.
-Carlos always speaks shouting.
-
-Se hizo rico vendiendo enciclopedias.
-He has made himself rich by selling encyclopedias.
-
-Me acosté temblando de frío.
-I went to bed shivering with cold.
-
-Ayer vi a Angela jugando con sus hijos.
-Yesterday I saw Angelas playing with her kids.
-
-Vi una avioneta volando.
-I saw I small plane flying.
-
-Hay un perro ladrando en la calle.
-There is a dog barking in the street.
-
-Había dos chicos esperando a Ana.
-There were two boys waiting for Ana.
-
-Sigo buscando trabajo.
-I am still looking for a job.
-
-Le dije que se callara, pero siguió hablando.
-I told him to shut up, but he kept talking.
-
-Sofía llevaba cuatro meses viviendo en México cuando conoció a Mario.
-Sofía was living in Mexico for four months when she met Mario.
-
-Llevo esperando desde las cuatro.
-I am waiting since four o'clock.
-
-La clase ha terminado.
-The class has finished.
-
-El restaurante está cerrado.
-The restaurant is closed.
-
-Mis padres han vuelto hace un rato.
-My parents came back a while ago.
-
-Sonia había comido cuando la llamé.
-Sonia had eaten when I called her.
-
-Lidia no se ha atrevido a bañarse.
-Lidia did not dare to bathe.
-
-¿Os habéis lavado?
-Did you wash them?
-
-Óscar parece cansado.
-Óscar seems worried.
-
-Muchas personas estaban heridas.
-A lot of people was hurt.
-
-Ya está arreglada la lavadora.
-The washing maschine is already fixed.
-
-La puerta del salón sigue rota.
-The living room door's still broken.
-
-Esta mañana había dormido bien, pero seguía cansado.
-I had slept well this morning, but I was still tired.
-
-Rita y Jaime llevan casados quince años.
-Rita and Jaime are married for fifteen years.
-
-Yo vivo aquí y Margarita vive enfrente.
-I live here and Margarita lives right in front.
-
-Póngalo aquí, por favor.
-Put it here, please.
-
-Póngalo ahí, por favor.
-Put it there, please.
-
-Póngalo allí, por favor.
-Put it there, please.
-
-¿Vives cerca?
-Do you live close by?
-
-No, vivo muy lejos.
-No, I live very far.
-
-¿Qué hay arriba?
-What's upstairs?
-
-Una sala de juegos.
-A games room.
-
-Este barrio tiene muchos parques alrededor.
-This neighborhood is surrounded by parks.
-
-Hay algo aquí.
-There is something here.
-
-Aquí hay un zapato.
-There is a shoe here.
-
-¿Dónde está el otro?
-Where is the other one?
-
-Arriba están las habitaciones.
-The bedrooms are upstairs.
-
-Ponlo allí dentro.
-Put it in there.
-
-Juan, ven aquí arriba.
-Juan, come upstairs.
-
-¿Has visto a Rosa?
-Have you seen Rosa?
-
-Sí, ayer estuve con ella.
-Yes, I was with her yesterday.
-
-¿Cuándo me vas a devolver el libro que te dejé?
-When are you going to give back the book I lent you?
-
-Mañana te devuelvo.
-Tomorrow I give it back.
-
-¿Me ayudas?
-Help me?
-
-Ahora no puedo. Estoy ocupada.
-I can't now. I am busy.
-
-Le pregunté por Paula y entonces me contó todo.
-I asked him about Paula and then he told me everything.
-
-Ahora tengo clase. Nos vemos luego.
-I have class now. See you soon.
-
-Me voy. Después te llamo.
-I have to go. I call you later.
-
-Primero hablé con Carmen y después con Olivia.
-First I talked to Carmen and after that with Olivia.
-
-Hemos corrido y hemos llegado pronto.
-We ran and we got here early.
-
-Lo sabréis pronto.
-You will know very soon.
-
-Es pronto. La clase no empieza hasta las ocho.
-It's early. The class does not start until eight.
-
-Abel se levanta temprano, a las seis.
-Abel wakes up early, at six.
-
-Hoy quiero comer temprano. He quedado con Gonzalo a las tres.
-I want to eat early today. I'm meeting Gonzalo at three.
-
-Ayer cenamos muy tarde, a las doce.
-Yesterday, we ate very late, at midnight.
-
-Habéis llegado tarde. El concierto ya ha empezado.
-You have arrived late. The concert has already started.
-
-¿Se ha ido María? 
-Has María gone?
-
-Sí, pero vuelve pronto.
-Yes, but she comes back soon.
-
-Mamá, nos vamos.
-Mom, we are going.
-
-Volved temprano.
-Come back early.
-
-Anoche no pude dormir.
-Last night I couldn't sleep.
-
-No pude dormir anoche.
-I could not sleep last night.
-
-Ayer estuve con Antón.
-Yesterday I was with Antón.
-
-Estuve con Antón ayer.
-I was with Antón yesterday.
-
-Estuve ayer con Antón.
-I was yesterday with Antón.
-
-Ayer llegó Pablo.
-Pablo arrived yesterday.
-
-En el desierto de Atacama no llueve nunca.
-In the Atacama desert it never rains.
-
-Javier hace footing todos los días.
-Javier goes jogging every day.
-
-Todavía trabajo en el estudio de Monica.
-I'm still working at Monica's studio.
-
-¿Aún estás aquí? Creía que habías ido.
-Are you still here? I thought you had already gone.
-
-¡Es increíble! Son las doce y todavía está durmiendo.
-It's incredible! It's noon and he is still sleeping.
-
-Antes íbamos mucho a esquiar, pero ya no vamos casi nada.
-We used to go skiing a lot, but we almost don't go anymore.
-
-Ya no trabajo en la academia. Ahora trabajo en la universidad.
-I don't work at the academy anymore. Now I work at the university.
-
-No salgas. Todavía llueve.
-Don't go out. It is still raining.
-
-Puedes salir ahora. Ya no llueve.
-You can go out now. It's not raining anymore.
-
-Ya he terminado. Podemos marcharnos.
-I'm done. We can leave.
-
-Cuando llegué a casa de Damián, se había ido ya.
-When I arrived at Damián's, he had already gone.
-
-¿Has hablado ya con Pedro? Sí, hablé ayer.
-Have you talked to Pedro? Yes, I talked to him yesterday.
-
-Aún no he acabado. Esperadme un momento.
-I am not done yet. Wait a moment.
-
-¿Todavía no te has vestido? Vamos a llegar tarde.
-Are you not dressed yet? We are going to arrive late.
-
-Mar no ha encontrado trabajo todavía.
-Mar has not found a job yet.
-
-Todavía no han comido.
-They have not eaten yet.
-
-Ya han comido.
-They already ate.
-
-No te preocupes. Ya se arreglará todo.
-Don't worry. Everything will be alright.
-
-¡Ya me acuerdo! Tú eres Armando.
-I remember now. You are Armando.
-
-Ya no llueve. Ya podemos salir.
-It's not raining anymore. We can go out now.
-
+# Nos gustaría que conocieran Guatemala.
+# We would like to visit Guatemala.
+# 
+# El director no deja comer en las aulas.
+# The principal does not allow eating in classes.
+# 
+# Te prohíbo salir.
+# I forbid you to go out.
+# 
+# El director no deja que comamos en las aulas.
+# The principal does not allow us to eat in classes.
+# 
+# Te prohíbo que salgas.
+# I forbid that you go out.
+# 
+# Acuérdate de comprar el pan, Tomás.
+# Remember of buying the bread, Tomás.
+# 
+# No olvides echar la llave.
+# Don't forget to leave the keys.
+# 
+# Miguel, acuérdate de que es mi cumpleaños mañana.
+# Miguel, remember that tomorrow is my birthday.
+# 
+# No olvidéis que tenemos una reunión a las once.
+# Don't forget that we have a meeting at eleven.
+# 
+# Mira, unas fotos de mis hijos tocando piano.
+# Look, some pictures of my sons playing the piano.
+# 
+# Beto se levanta cantando.
+# Beto wakes up singing.
+# 
+# No me gusta escuchar música leyendo.
+# I don't like to listen to music while reading.
+# 
+# Carlos siempre habla gritando.
+# Carlos always speaks shouting.
+# 
+# Se hizo rico vendiendo enciclopedias.
+# He has made himself rich by selling encyclopedias.
+# 
+# Me acosté temblando de frío.
+# I went to bed shivering with cold.
+# 
+# Ayer vi a Angela jugando con sus hijos.
+# Yesterday I saw Angelas playing with her kids.
+# 
+# Vi una avioneta volando.
+# I saw I small plane flying.
+# 
+# Hay un perro ladrando en la calle.
+# There is a dog barking in the street.
+# 
+# Había dos chicos esperando a Ana.
+# There were two boys waiting for Ana.
+# 
+# Sigo buscando trabajo.
+# I am still looking for a job.
+# 
+# Le dije que se callara, pero siguió hablando.
+# I told him to shut up, but he kept talking.
+# 
+# Sofía llevaba cuatro meses viviendo en México cuando conoció a Mario.
+# Sofía was living in Mexico for four months when she met Mario.
+# 
+# Llevo esperando desde las cuatro.
+# I am waiting since four o'clock.
+# 
+# La clase ha terminado.
+# The class has finished.
+# 
+# El restaurante está cerrado.
+# The restaurant is closed.
+# 
+# Mis padres han vuelto hace un rato.
+# My parents came back a while ago.
+# 
+# Sonia había comido cuando la llamé.
+# Sonia had eaten when I called her.
+# 
+# Lidia no se ha atrevido a bañarse.
+# Lidia did not dare to bathe.
+# 
+# ¿Os habéis lavado?
+# Did you wash them?
+# 
+# Óscar parece cansado.
+# Óscar seems worried.
+# 
+# Muchas personas estaban heridas.
+# A lot of people was hurt.
+# 
+# Ya está arreglada la lavadora.
+# The washing maschine is already fixed.
+# 
+# La puerta del salón sigue rota.
+# The living room door's still broken.
+# 
+# Esta mañana había dormido bien, pero seguía cansado.
+# I had slept well this morning, but I was still tired.
+# 
+# Rita y Jaime llevan casados quince años.
+# Rita and Jaime are married for fifteen years.
+# 
+# Yo vivo aquí y Margarita vive enfrente.
+# I live here and Margarita lives right in front.
+# 
+# Póngalo aquí, por favor.
+# Put it here, please.
+# 
+# Póngalo ahí, por favor.
+# Put it there, please.
+# 
+# Póngalo allí, por favor.
+# Put it there, please.
+# 
+# ¿Vives cerca?
+# Do you live close by?
+# 
+# No, vivo muy lejos.
+# No, I live very far.
+# 
+# ¿Qué hay arriba?
+# What's upstairs?
+# 
+# Una sala de juegos.
+# A games room.
+# 
+# Este barrio tiene muchos parques alrededor.
+# This neighborhood is surrounded by parks.
+# 
+# Hay algo aquí.
+# There is something here.
+# 
+# Aquí hay un zapato.
+# There is a shoe here.
+# 
+# ¿Dónde está el otro?
+# Where is the other one?
+# 
+# Arriba están las habitaciones.
+# The bedrooms are upstairs.
+# 
+# Ponlo allí dentro.
+# Put it in there.
+# 
+# Juan, ven aquí arriba.
+# Juan, come upstairs.
+# 
+# ¿Has visto a Rosa?
+# Have you seen Rosa?
+# 
+# Sí, ayer estuve con ella.
+# Yes, I was with her yesterday.
+# 
+# ¿Cuándo me vas a devolver el libro que te dejé?
+# When are you going to give back the book I lent you?
+# 
+# Mañana te devuelvo.
+# Tomorrow I give it back.
+# 
+# ¿Me ayudas?
+# Help me?
+# 
+# Ahora no puedo. Estoy ocupada.
+# I can't now. I am busy.
+# 
+# Le pregunté por Paula y entonces me contó todo.
+# I asked him about Paula and then he told me everything.
+# 
+# Ahora tengo clase. Nos vemos luego.
+# I have class now. See you soon.
+# 
+# Me voy. Después te llamo.
+# I have to go. I call you later.
+# 
+# Primero hablé con Carmen y después con Olivia.
+# First I talked to Carmen and after that with Olivia.
+# 
+# Hemos corrido y hemos llegado pronto.
+# We ran and we got here early.
+# 
+# Lo sabréis pronto.
+# You will know very soon.
+# 
+# Es pronto. La clase no empieza hasta las ocho.
+# It's early. The class does not start until eight.
+# 
+# Abel se levanta temprano, a las seis.
+# Abel wakes up early, at six.
+# 
+# Hoy quiero comer temprano. He quedado con Gonzalo a las tres.
+# I want to eat early today. I'm meeting Gonzalo at three.
+# 
+# Ayer cenamos muy tarde, a las doce.
+# Yesterday, we ate very late, at midnight.
+# 
+# Habéis llegado tarde. El concierto ya ha empezado.
+# You have arrived late. The concert has already started.
+# 
+# ¿Se ha ido María? 
+# Has María gone?
+# 
+# Sí, pero vuelve pronto.
+# Yes, but she comes back soon.
+# 
+# Mamá, nos vamos.
+# Mom, we are going.
+# 
+# Volved temprano.
+# Come back early.
+# 
+# Anoche no pude dormir.
+# Last night I couldn't sleep.
+# 
+# No pude dormir anoche.
+# I could not sleep last night.
+# 
+# Ayer estuve con Antón.
+# Yesterday I was with Antón.
+# 
+# Estuve con Antón ayer.
+# I was with Antón yesterday.
+# 
+# Estuve ayer con Antón.
+# I was yesterday with Antón.
+# 
+# Ayer llegó Pablo.
+# Pablo arrived yesterday.
+# 
+# En el desierto de Atacama no llueve nunca.
+# In the Atacama desert it never rains.
+# 
+# Javier hace footing todos los días.
+# Javier goes jogging every day.
+# 
+# Todavía trabajo en el estudio de Monica.
+# I'm still working at Monica's studio.
+# 
+# ¿Aún estás aquí? Creía que habías ido.
+# Are you still here? I thought you had already gone.
+# 
+# ¡Es increíble! Son las doce y todavía está durmiendo.
+# It's incredible! It's noon and he is still sleeping.
+# 
+# Antes íbamos mucho a esquiar, pero ya no vamos casi nada.
+# We used to go skiing a lot, but we almost don't go anymore.
+# 
+# Ya no trabajo en la academia. Ahora trabajo en la universidad.
+# I don't work at the academy anymore. Now I work at the university.
+# 
+# No salgas. Todavía llueve.
+# Don't go out. It is still raining.
+# 
+# Puedes salir ahora. Ya no llueve.
+# You can go out now. It's not raining anymore.
+# 
+# Ya he terminado. Podemos marcharnos.
+# I'm done. We can leave.
+# 
+# Cuando llegué a casa de Damián, se había ido ya.
+# When I arrived at Damián's, he had already gone.
+# 
+# ¿Has hablado ya con Pedro? Sí, hablé ayer.
+# Have you talked to Pedro? Yes, I talked to him yesterday.
+# 
+# Aún no he acabado. Esperadme un momento.
+# I am not done yet. Wait a moment.
+# 
+# ¿Todavía no te has vestido? Vamos a llegar tarde.
+# Are you not dressed yet? We are going to arrive late.
+# 
+# Mar no ha encontrado trabajo todavía.
+# Mar has not found a job yet.
+# 
+# Todavía no han comido.
+# They have not eaten yet.
+# 
+# Ya han comido.
+# They already ate.
+# 
+# No te preocupes. Ya se arreglará todo.
+# Don't worry. Everything will be alright.
+# 
+# ¡Ya me acuerdo! Tú eres Armando.
+# I remember now. You are Armando.
+# 
+# Ya no llueve. Ya podemos salir.
+# It's not raining anymore. We can go out now.
+# 
 En mi casa comemos pescado de vez en cuando.
 At home we eat seafood once in a while.
 
@@ -12145,3 +12145,8 @@ If you argue, I will go.
 Quiero hacer un viaje a Colombia el año que viene.
 I want to make a trip to Colombia next year. 
 
+Cuando era joven, solía hacer mucho deporte.
+When I was young, I used to do a lot of sports. 
+
+Este año no ha hecho mucho frío.
+Este ano não tem feito muito frio.
