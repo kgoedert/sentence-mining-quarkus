@@ -4196,7 +4196,13 @@ Verbrechen lohnt sich nicht.
 Crime doesn't pay.
 
 Liebe ist kein Verbrechen.
-Love is not a crime.                <<<-- leech
+Love is not a crime.              
+
+Tom und ich leben im selben Wohnhaus.
+Tom and I live in the same apartment building.
+
+Sami folgte uns vom Geschäft zu unserem Wohnhaus.
+Sami followed us from the store to our apartment building.      <<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
