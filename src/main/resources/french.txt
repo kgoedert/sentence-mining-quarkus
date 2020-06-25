@@ -5182,321 +5182,321 @@
 # Je vais les remplir à huit heures.
 # I'll fill them out at eight o'clock.
 # 
+# # Je vais les remplir tout de suite.
+# # I'll fill them out right away.
+# # 
+# # Est-ce que vous êtes seul?
+# # Are you alone?
+# # 
+# # Est-ce que vous êtes heureux?
+# # Are you happy? Are you happy?
+# # 
+# # Est-ce que vous êtes libre?
+# # Are you free to go?
+# # 
+# # Est-ce que vous êtes satisfait?
+# # Are you satisfied?
+# # 
+# Je ne sais pas.
+# I don't know.
+# 
+# S'il vous plaît.
+# Please. (formal)
+# 
+# S'il te plaît.
+# Please. (informal)
+# 
+# De rien.
+# You're welcome.
+# 
+# Salut!                 
+# Hello/Goodbye!                  <<<-- lingoni
+# 
+# Est-ce que vous êtes près d'ici?
+# Are you close to here?
+# 
+# Est-ce que vous êtes à Paris?
+# Are you in Paris?
+# 
+# Le café me convient tout à fait.
+# Coffee is fine with me.
+# 
+# Il me convient tout à fait.
+# It suits me perfectly.
+# 
+# Le restaurant me convient tout à fait.
+# The restaurant is fine with me.
+# 
+# L'hôtel me convient tout à fait.
+# The hotel is fine with me.
+# 
+# La chambre me convient tout à fait.
+# The room is fine with me.
+# 
+# Elle me convient tout à fait.
+# She's fine with me.
+# 
+# La salle de bains me convient tout à fait.
+# The bathroom is fine with me.
+# 
+# Paris me convient tout à fait.
+# Paris is fine with me.
+# 
+# Elle me convient tout à fait.
+# She's fine with me.
+# 
+# C'est parfait.
+# It's perfect.
+# 
+# C'est bon.
+# It's okay.
+# 
+# C'est joli.
+# It's pretty.
+# 
+# C'est Paris.
+# It's Paris.
+# 
+# C'est la salle de bains.
+# This is the bathroom.
+# 
+# C'est moi.
+# It's me.
+# 
+# C'est pour demain.
+# It's for tomorrow.
+# 
+# C'est pour ce soir.
+# It's for tonight.
+# 
+# C'est pour plus tard.
+# It's for later.
+# 
+# C'est parfait.
+# It's perfect.
+# 
 # Je vais les remplir tout de suite.
 # I'll fill them out right away.
 # 
-# Est-ce que vous êtes seul?
-# Are you alone?
+# Nous allons les remplir tout de suite.
+# We will fill them out right away.
 # 
-# Est-ce que vous êtes heureux?
-# Are you happy? Are you happy?
+# Elle va les remplir tout de suite.
+# She'll fill them up right away.
 # 
-# Est-ce que vous êtes libre?
-# Are you free to go?
+# Je voudrais les remplir tout de suite.
+# I would like to fill them out right now.
 # 
-# Est-ce que vous êtes satisfait?
-# Are you satisfied?
+# J'espère les remplir tout de suite.
+# I hope to fill them out right away.
 # 
-Je ne sais pas.
-I don't know.
-
-S'il vous plaît.
-Please. (formal)
-
-S'il te plaît.
-Please. (informal)
-
-De rien.
-You're welcome.
-
-Salut!                 
-Hello/Goodbye!                  <<<-- lingoni
-
-Est-ce que vous êtes près d'ici?
-Are you close to here?
-
-Est-ce que vous êtes à Paris?
-Are you in Paris?
-
-Le café me convient tout à fait.
-Coffee is fine with me.
-
-Il me convient tout à fait.
-It suits me perfectly.
-
-Le restaurant me convient tout à fait.
-The restaurant is fine with me.
-
-L'hôtel me convient tout à fait.
-The hotel is fine with me.
-
-La chambre me convient tout à fait.
-The room is fine with me.
-
-Elle me convient tout à fait.
-She's fine with me.
-
-La salle de bains me convient tout à fait.
-The bathroom is fine with me.
-
-Paris me convient tout à fait.
-Paris is fine with me.
-
-Elle me convient tout à fait.
-She's fine with me.
-
-C'est parfait.
-It's perfect.
-
-C'est bon.
-It's okay.
-
-C'est joli.
-It's pretty.
-
-C'est Paris.
-It's Paris.
-
-C'est la salle de bains.
-This is the bathroom.
-
-C'est moi.
-It's me.
-
-C'est pour demain.
-It's for tomorrow.
-
-C'est pour ce soir.
-It's for tonight.
-
-C'est pour plus tard.
-It's for later.
-
-C'est parfait.
-It's perfect.
-
-Je vais les remplir tout de suite.
-I'll fill them out right away.
-
-Nous allons les remplir tout de suite.
-We will fill them out right away.
-
-Elle va les remplir tout de suite.
-She'll fill them up right away.
-
-Je voudrais les remplir tout de suite.
-I would like to fill them out right now.
-
-J'espère les remplir tout de suite.
-I hope to fill them out right away.
-
-Ils vont les remplir tout de suite.
-They'll fill them up right away.
-
-Je vais les remplir tout de suite.
-I'll fill them out right away.
-
-Il va les remplir tout de suite.
-He'll fill them up right away.
-
-Elle va les remplir tout de suite.
-She'll fill them up right away.
-
-Vous allez les remplir tout de suite.
-You will fill them out right away.
-
-Je vais les remplir tout de suite.
-I'll fill them out right away.
-
-Voulez-vous me la montrer?
-Would you like to show it to me?
-
-Veut-il me la montrer?
-Does he want to show it to me?
-
-Allez-vous me la montrer?
-Are you going to show it to me?
-
-Va-t-il me la montrer?
-Will he show it to me?
-
-Va-t-elle me la montrer?
-Will she show it to me?
-
-Veut-elle me la montrer?
-Does she want to show it to me?
-
-Va-t-on me la montrer?
-Will they show it to me?
-
-Voulez-vous me la montrer?
-Would you like to show it to me?
-
-Que désirez-vous, Monsieur?
-What would you like, sir?
-
-Que voulez-vous, Monsieur?
-What do you want, sir?
-
-Que voulez-vous, Mademoiselle?
-What do you want, Miss?
-
-Que dites-vous, Mademoiselle?
-What are you saying, Miss?
-
-Que dites-vous, Madame?
-What are you saying, Madam?
-
-Où allez-vous, Madame?
-Where are you going, ma'am?
-
-Où allez-vous, Monsieur?
-Where are you going, sir?
-
-Que désirez-vous, Monsieur?
-What would you like, sir?
-
-Le pompier les a éteint.
-The fireman put them out.
-
-Tu vas commander quelque chose ? Fait chier, j'ai pas assez d'argent
-Are you going to order something? Damn, I don't have enough money
-
-oh non, fait chier ! Je vais devoir attendre le prochain 
-Oh no, damn! I'll have to wait the next one
-
-Tu travailles tard ce soir ? Oui, ça me fait chier mais je suis obligé, j'ai un truc urgent à finir pour demain.
-Are you working late tonight? Yes, that's a pain in the ass, but I have to, I have something urgent to finish for tomorrow.
-
-Tu n'as pas fait la vaisselle ! Tu ne fais jamais rien ! Oh me fais pas chier, je la ferai plus tard!
-You haven't washed the dishes! You never do anything! Oh, don't piss me off, I'll do it later!
-
-On s'en va ? Oui, allons-y, c'est vraiment chiant ce spectacle ...
-Let's go? Yes, let's go, this show is really boring
-
-Alors c'était bien le spectacle hier ? Non pas du tout, on s'est fait chier toute la soirée.
-Well, was the show any good yesterday? No, not at all, we got bored all night
-
-Tu as réussi à faire démarrer la voiture ? Oui, j'ai reussi, mais j'en ai chié !
-Did you get the car to start? Yes, I did, but it was a pain
-
-C'est pas bon ? Oh non, c'est vraiment à chier ...
-Is it not good? No, it's very bad
-
-Tu as vu cette grande maison ? Ouais, ça c'est de la belle baraque, ya pas à chier !
-Have you seen this big house? Yep, it'a great house, for sure!
-
-Elle a beaucoup d'enfants hein! Oui, elle en a une chiée !
-She has a lot of kids hein? Yes, a lot!
-
-Ça va chier !
-You are going to have troubles for that...
-
-Vous êtes seul.
-You are alone.
-
-Ils sont seuls.
-They are alone.
-
-Elles sont seules.
-They are alone.
-
-Je voudrais une chambre avec salle de bains.
-I would like a room with a bathroom.
-
-Je voudrais deux chambres communicantes.
-I would like two communicating rooms.
-
-Nous avons deux chambres communicantes.
-We have two communicating rooms.
-
-Nous avons la monnaie pour vingt euros.
-We have change for twenty euros.
-
-Il a les bagages.
-He has the luggage.
-
-Je voudrais les bagages.
-I'd like the luggage.
-
-Je voudrais une chambre avec salle de bains.
-I would like a room with a bathroom.
-
-Il veut le livre.
-He wants the book.
-
-Est-ce qu'elle est toujours en retard?
-Is she always late?
-
-Est-qu'elles sont toujours en retard?
-Are they always late?
-
-Est-ce qu'elles sont toujours ensemble?
-Are they still together?
-
-Est-ce qu'ils sont toujours avec eux?
-Are they still with them?
-
-Est-ce qu'il est toujours avec eux?
-Is he still with them?
-
-Allez-vous me la présenter?
-Are you going to introduce me to her?
-
-Désirez-vous me la présenter?
-Would you like to present it to me?
-
-Désirez-vous me le répéter?
-Would you like to repeat it to me?
-
-Voulez-vous me le répéter?
-Would you like to tell me again?
-
-Voulez-vous me le dire?
-Do you want to tell me?
-
-Allez-vous me le dire?
-Are you going to tell me?
-
-Vous voulez changer de chambre?
-Do you want to change rooms?
-
-Vous allez changer de chambre?
-Are you going to change rooms?
-
-Vous allez remplir les fiches?
-Are you going to fill out the forms?
-
-Nous allons remplir les fiches?
-We're going to fill out the forms?
-
-Nous allons apporter les bagages?
-We're going to bring the luggage?
-
-Il va apporter les bagages?
-Is he going to bring the luggage?
-
-Il va déjeuner plus tard?
-Is he going to lunch later?
-
-Vous désirez déjeuner plus tard?
-Would you like to have lunch later?
-
-Vous désirez changer de chambre?
-Would you like to change rooms?
-
-Je voudrais changer de chambre.
-I would like to change rooms.
-
-Nous allons changer de chambre.
-We're going to change rooms.
-
-Nous allons changer d'hôtel.
-We're going to change hotels.
-
-Elle voudrait changer d'hôtel.
-She would like to change hotels.
-
+# Ils vont les remplir tout de suite.
+# They'll fill them up right away.
+# 
+# Je vais les remplir tout de suite.
+# I'll fill them out right away.
+# 
+# Il va les remplir tout de suite.
+# He'll fill them up right away.
+# 
+# Elle va les remplir tout de suite.
+# She'll fill them up right away.
+# 
+# Vous allez les remplir tout de suite.
+# You will fill them out right away.
+# 
+# Je vais les remplir tout de suite.
+# I'll fill them out right away.
+# 
+# Voulez-vous me la montrer?
+# Would you like to show it to me?
+# 
+# Veut-il me la montrer?
+# Does he want to show it to me?
+# 
+# Allez-vous me la montrer?
+# Are you going to show it to me?
+# 
+# Va-t-il me la montrer?
+# Will he show it to me?
+# 
+# Va-t-elle me la montrer?
+# Will she show it to me?
+# 
+# Veut-elle me la montrer?
+# Does she want to show it to me?
+# 
+# Va-t-on me la montrer?
+# Will they show it to me?
+# 
+# Voulez-vous me la montrer?
+# Would you like to show it to me?
+# 
+# Que désirez-vous, Monsieur?
+# What would you like, sir?
+# 
+# Que voulez-vous, Monsieur?
+# What do you want, sir?
+# 
+# Que voulez-vous, Mademoiselle?
+# What do you want, Miss?
+# 
+# Que dites-vous, Mademoiselle?
+# What are you saying, Miss?
+# 
+# Que dites-vous, Madame?
+# What are you saying, Madam?
+# 
+# Où allez-vous, Madame?
+# Where are you going, ma'am?
+# 
+# Où allez-vous, Monsieur?
+# Where are you going, sir?
+# 
+# Que désirez-vous, Monsieur?
+# What would you like, sir?
+# 
+# Le pompier les a éteint.
+# The fireman put them out.
+# 
+# Tu vas commander quelque chose ? Fait chier, j'ai pas assez d'argent
+# Are you going to order something? Damn, I don't have enough money
+# 
+# oh non, fait chier ! Je vais devoir attendre le prochain 
+# Oh no, damn! I'll have to wait the next one
+# 
+# Tu travailles tard ce soir ? Oui, ça me fait chier mais je suis obligé, j'ai un truc urgent à finir pour demain.
+# Are you working late tonight? Yes, that's a pain in the ass, but I have to, I have something urgent to finish for tomorrow.
+# 
+# Tu n'as pas fait la vaisselle ! Tu ne fais jamais rien ! Oh me fais pas chier, je la ferai plus tard!
+# You haven't washed the dishes! You never do anything! Oh, don't piss me off, I'll do it later!
+# 
+# On s'en va ? Oui, allons-y, c'est vraiment chiant ce spectacle ...
+# Let's go? Yes, let's go, this show is really boring
+# 
+# Alors c'était bien le spectacle hier ? Non pas du tout, on s'est fait chier toute la soirée.
+# Well, was the show any good yesterday? No, not at all, we got bored all night
+# 
+# Tu as réussi à faire démarrer la voiture ? Oui, j'ai reussi, mais j'en ai chié !
+# Did you get the car to start? Yes, I did, but it was a pain
+# 
+# C'est pas bon ? Oh non, c'est vraiment à chier ...
+# Is it not good? No, it's very bad
+# 
+# Tu as vu cette grande maison ? Ouais, ça c'est de la belle baraque, ya pas à chier !
+# Have you seen this big house? Yep, it'a great house, for sure!
+# 
+# Elle a beaucoup d'enfants hein! Oui, elle en a une chiée !
+# She has a lot of kids hein? Yes, a lot!
+# 
+# Ça va chier !
+# You are going to have troubles for that...
+# 
+# Vous êtes seul.
+# You are alone.
+# 
+# Ils sont seuls.
+# They are alone.
+# 
+# Elles sont seules.
+# They are alone.
+# 
+# Je voudrais une chambre avec salle de bains.
+# I would like a room with a bathroom.
+# 
+# Je voudrais deux chambres communicantes.
+# I would like two communicating rooms.
+# 
+# Nous avons deux chambres communicantes.
+# We have two communicating rooms.
+# 
+# Nous avons la monnaie pour vingt euros.
+# We have change for twenty euros.
+# 
+# Il a les bagages.
+# He has the luggage.
+# 
+# Je voudrais les bagages.
+# I'd like the luggage.
+# 
+# Je voudrais une chambre avec salle de bains.
+# I would like a room with a bathroom.
+# 
+# Il veut le livre.
+# He wants the book.
+# 
+# Est-ce qu'elle est toujours en retard?
+# Is she always late?
+# 
+# Est-qu'elles sont toujours en retard?
+# Are they always late?
+# 
+# Est-ce qu'elles sont toujours ensemble?
+# Are they still together?
+# 
+# Est-ce qu'ils sont toujours avec eux?
+# Are they still with them?
+# 
+# Est-ce qu'il est toujours avec eux?
+# Is he still with them?
+# 
+# Allez-vous me la présenter?
+# Are you going to introduce me to her?
+# 
+# Désirez-vous me la présenter?
+# Would you like to present it to me?
+# 
+# Désirez-vous me le répéter?
+# Would you like to repeat it to me?
+# 
+# Voulez-vous me le répéter?
+# Would you like to tell me again?
+# 
+# Voulez-vous me le dire?
+# Do you want to tell me?
+# 
+# Allez-vous me le dire?
+# Are you going to tell me?
+# 
+# Vous voulez changer de chambre?
+# Do you want to change rooms?
+# 
+# Vous allez changer de chambre?
+# Are you going to change rooms?
+# 
+# Vous allez remplir les fiches?
+# Are you going to fill out the forms?
+# 
+# Nous allons remplir les fiches?
+# We're going to fill out the forms?
+# 
+# Nous allons apporter les bagages?
+# We're going to bring the luggage?
+# 
+# Il va apporter les bagages?
+# Is he going to bring the luggage?
+# 
+# Il va déjeuner plus tard?
+# Is he going to lunch later?
+# 
+# Vous désirez déjeuner plus tard?
+# Would you like to have lunch later?
+# 
+# Vous désirez changer de chambre?
+# Would you like to change rooms?
+# 
+# Je voudrais changer de chambre.
+# I would like to change rooms.
+# 
+# Nous allons changer de chambre.
+# We're going to change rooms.
+# 
+# Nous allons changer d'hôtel.
+# We're going to change hotels.
+# 
+# Elle voudrait changer d'hôtel.
+# She would like to change hotels.
+# 
 Elle voudrait changer d'étage.
 She would like to change floors.
 
