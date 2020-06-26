@@ -5496,13 +5496,330 @@
 # 
 # Elle voudrait changer d'hôtel.
 # She would like to change hotels.
-# 
 
 Je m'appele Alicia et je parle français avec vous.
 My name is Alicia and I speak french with you.
 
 Je parle français avec toi.
-I speak french with you - tu                    <<<------ lingoni
+I speak french with you - tu
+
+Le chien de la fille est dans la maison.
+The girl's dog is in the house.
+
+L'orange est sur l'ordinateur.
+The orange is on the computer.
+
+Je suis avec le garçon qui a les livres.
+I am with the boy who has got the books.
+
+Tu as le téléphone de Marc?
+Do you have Marc's phone?
+
+J'ai la voiture de Jenny.
+I've got Jenny's car.
+
+Bonne journée!
+Have a nice day.
+
+Bonne soirée!
+Have a nice evening!
+
+Salut! Ça va?
+Hello! How are you?
+
+Salut! Tu vas bien?
+Hi! Are you doing well?
+
+Ça va, merci!
+I'm fine, thank you!
+
+Ça va bien, merci!
+I'm fine, thanks.
+
+Comment ça va?
+How are you doing?
+
+Enchanté!
+Nice to meet you!
+
+Quel âge as-tu?
+How old are you?
+
+Comment allez-vou?
+How are you doing? - formal
+
+Je vais bien, merci.
+I'm fine, thanks.
+
+Où habitez-vous?
+Where do you live?
+
+Il est vraiment sympa.
+He is really nice.
+
+François parle vraiment très bien français.
+François speaks frech very well.
+
+Pour apprendre, il regarde ses films français préférés en version originale.
+In order to learn, he watches his favorite french movies in the original version.
+
+Le lundi, je vais au cinéma.
+On mondays, I go to the cinema.
+
+Le mardi, tu vas à la salle de sport.
+On tuesdays, you go to the gym.
+
+Le mercredi, il va en classe de français.
+On wednesdays, he goes to french class.
+
+Le jeudi, elle va au restaurant.
+On thursdays, she goes to the restaurant.
+
+Le vendredi, nous allons à la banque.
+On fridays, we to to the bank.
+
+Le samedi, vous allez en classe de yoga.
+On saturdays, you go to yoga class.
+
+Et le dimanche elles vont à la piscine.
+And on sundays they go to the swimming pool. - f
+
+Je m'appelle Alicia et je parle français.
+My name is Alicia and I speak french.
+
+Tu regardes un film.
+You watch/are watching a movie.
+
+Il marche lentement.
+He walks slowly.
+
+Elle parle beaucoup.
+She speaks slowly.
+
+Nous jouons aux échecs.
+We play chess.
+
+Vous travaillez avec Jenny.
+You work with Jenny.
+
+Ils aiment le football.
+They like football.
+
+Ils jouent au football.
+They play football.
+
+Elles acètent les cadeaux de Noël.
+They buy the Christmas presents.
+
+J'aime bien le cinéma français.
+I quite like frech cinema.
+
+J'aime voyager.
+I really like travelling.
+
+J'aime beacoup ce chanteur.
+I really like this singer.
+
+Je n'aime pas beacoup le jazz.
+I don't like jazz very much.
+
+Je n'aime pas trop son attitude.
+I don't like his/her attitude very much.
+
+Je n'aime pas du tout cette couleur.
+I don't like this colour at all.
+
+Je déteste étudier un samedi soir.
+I hate studying on a saturday night.
+
+Je ne supporte pas ce bruit.
+I can't stand this noise.
+
+Je ne suis pas fan.
+I am not a big fan.
+
+J'adore la lecture.
+I love reading.
+
+Porquoi tu parles français?
+Why do you speak french?
+
+Parce que je voyage beaucoup en France.
+Because I travel a lot to France.
+
+Pour voyager en France.
+In order to travel to France.
+
+Porquoi il marche lentement?
+Why does he walk slowly?
+
+Parce qu'il est fatigué.
+Because he is tired.
+
+Pour profiter du paysage.
+In order to enjoy the landscape.
+
+Pourquoi elle étudie beaucoup?
+Why does she study a lot?
+
+Parce qu'elle a un examen.
+Because she has got an exam.
+
+Pour réussir son examen.
+To pass her exam.
+
+Porquoi ils achètent des cadeaux?
+Why are they buying presents?
+
+Parce que c'est Noël.
+Because it is Christmas.
+
+Pour fêter Noël.
+To celebrate Christmas.
+
+Est-ce que tu aimes bien le cinéma français?
+Do you like french cinema? - tu
+
+Non, je n'aime pas le cinéma français.
+No, I don't like the french cinema.
+
+Est-ce que tu aimes voyager?
+Do you like to travel?  - informal
+
+Est-ce que vous parlez français?
+Do you guys speak french?
+
+Non, nous ne parlons pas français.
+No, we don't speak french.
+
+Est-ce que vous aimez étudier le samedi?
+Do you guys like to study in a saturday?
+
+Non, nous n'étudions pas le samedi.
+No, we don't study on saturday.
+
+Nous ne voyageons pas.
+We don't travel.
+
+Je suis en train de parler maintenant.
+I am talking right now.
+
+Est-ce que tu es en train de parler maintenant?
+Are you talking right now? - informal
+
+Tu es en train de travailler.
+You are working right now.
+
+Est-ce que tu es en train d'étudier?
+Are you studying?  - informal
+
+Je ne suis pas en train de parler.
+I am not talking.
+
+Je suis en train d'écouter le professeur.
+I am listening to the teacher.
+
+Nous sommes en train de regarder la télévision.
+We are watching tv.
+
+Est-ce que vous êtes en train de travailler?
+Are you working? - formal
+
+Je ne suis pas en train de dormir.
+I am not sleeping.
+
+Je parle souvent français.
+I often speak french.
+
+Je regarde un film.
+I am watching a movie.
+
+Je regarde toujours un film le lundi.
+I always watch a movie on mondays.
+
+Je vais souvent au cinéma.
+I often go to the movies.
+
+Vous travaillez parfois avec Jenny.
+You sometimes work with Jenny.
+
+Une fois par semaine, je vais à la salle de sport.
+Once a week, I go to the gym.
+
+Tous le jours, je me réveille à huit heures du matin.
+Every day, I wake up at 8 a.m.
+
+Vous finissez la journée.
+You finish your day.
+
+Je rentre chez moi.
+I am going back home.
+
+Je suis chez moi.
+I am at home.
+
+Je me lève et je me douche.
+I wake up and I take a shower.
+
+Je prépare mon petit déjeuner et je mange un croissant.
+I prepare my breakfast and I eat a croissant.
+
+Je bois un café au lait et je vais au travail.
+I drink coffee with milk and go to work afterwards.
+
+J'envoie des messages.
+I send messages.
+
+Je parle avec mes collègues.
+I speak to my collegues.
+
+Je téléphone aux clients.
+I call the customers.
+
+Je finis à dix-huit heures.
+I finish at 6 o'clock.
+
+Je prépare le dîner.
+I prepare dinner.
+
+Je me relaxe.
+I relax.
+
+Je lis le journal et je me couche.
+I read the newspaper and I go to bed.
+
+Avez-vous l'heure?
+What time is it? - avoir
+
+Il est quelle heure?
+What time is it? - informal
+
+Tu as l'heure?
+What time is it?  - informal, avoir
+
+Il est une heure.
+It's one o'clock.
+
+Il est huit heure cinq.
+It's five past eight.
+
+Il est huit heures dix.
+It's ten past eight.
+
+Il est huit heures et quart.
+It's a quarter past eight.
+
+Il est huit heure et demi.
+It's eight thirty.
+
+Il est neuf heures moins vingt-cinq.
+It's eight thirty five.
+
+Il est neuf heures moins le quart.
+It's a quarter to nine.
+
+Il est trois heures de l'après-midi.
+It's 3 p.m.
 
 Elle voudrait changer d'étage.
 She would like to change floors.
