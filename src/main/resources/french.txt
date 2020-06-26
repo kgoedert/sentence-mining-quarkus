@@ -5210,7 +5210,7 @@
 # You're welcome.
 # 
 # Salut!                 
-# Hello/Goodbye!                  <<<-- lingoni
+# Hello/Goodbye!                
 # 
 # Est-ce que vous êtes près d'ici?
 # Are you close to here?
@@ -5497,6 +5497,13 @@
 # Elle voudrait changer d'hôtel.
 # She would like to change hotels.
 # 
+
+Je m'appele Alicia et je parle français avec vous.
+My name is Alicia and I speak french with you.
+
+Je parle français avec toi.
+I speak french with you - tu                    <<<------ lingoni
+
 Elle voudrait changer d'étage.
 She would like to change floors.
 
