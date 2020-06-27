@@ -5915,13 +5915,106 @@ Je vais à l'école pour étudier.
 I go to school to study.
 
 Je vais à la poste pour envoyer une lettre.
-I go to to the postal office to send a letter.     <<<-- lingoni
+I go to to the postal office to send a letter.    
+
+Le supermarché est derrière la boucherie.
+The supermaket is behind the butcher's shop.
+
+Où est le supermarché?
+Where is the supermaket?
+
+Où est la librairie?
+Where is the book shop?
+
+La librairie est à côté de la boucherie.
+The book shop is next to the butcher shop.
+
+Où est la pharmacie?
+Where is the pharmacy?
+
+La pharmacie est devant la boucherie et à droite de la boulangerie.
+The pharmacy is in front of the butcher's shop and to the right of the bakery.
+
+La boulangerie est à gauche de la pharmacie.
+The bakery is to the left of the pharmacy.
+
+La poste est proche de la boucherie.
+The postal office is close to the butcher's shop.
+
+Le fast-food est entre la boucherie et la librairie.
+The fast-food joint is between the butcher's shop and the book shop.
+
+Le cinéma est en face de salle de sport.
+The cinema is across from the gym.
+
+L'hôpital est loin de la pharmacie.
+The hospital is far from the pharmacy.
+
+Vous tournez à gauche, vouz continuez et en face de la librairie, vous trouverez.
+You turn left and continue walking and across from the book shop you will find.
+
+Tu as les yeux plus gros que la ventre.
+You've got eyes bigger than your stomach.
+
+Attention! Les murs ont des oreilles.
+Careful! The walls have ears.
+
+Avoir la tête sur les épaules.
+Ter a cabeça no lugar.
+
+Il a la tête dans les nuages.
+He has his head on the clouds.
+
+Tu me casses les pieds.
+Tu estais me dando nos nervos. (expressao)
+
+Ça marche grâce au bouche-à-oreille.
+Funciona graças ao boca a boca.
+
+Il est petit.
+He is short.
+
+Il est de taille moyenne.
+He is of average height.
+
+Elle est petite.
+She is short.
+
+Il est grand.
+He is tall.
+
+Elle est grande.
+She is tall.
+
+Il est maigre.
+He is skinny.
+
+Elle est mince.
+She is slim.
+
+Il est gros.
+He is fat.
+
+Elle est grosse.
+She is fat.
+
+Il a les yeux vert.
+He has green eyes.
+
+Elle a les cheveux bruns.
+She has dark hair.
+
+Il est brun.
+He is dark haired.
+
+Elle est brune.
+She is dark haired.         <<-- lingoni
 
 Elle voudrait changer d'étage.
 She would like to change floors.
 
 On va changer d'étage.
-We're going to change floors.
+We're going to change floors.       
 
 On va changer de classe.
 We're going to change classes.
@@ -8901,3 +8994,7 @@ May I have another look?
 
 Le petit déjeuner est inclus dans le prix de la chambre? Oui, le petit déjeuner est inlcus dans le prix de la chambre.
 Is breakfast included in the price of the room? Yes, breakfast is included in the price of the room.
+
+Est-ce qu'elles sont toujours en retard?
+Are they always late? - F
+
