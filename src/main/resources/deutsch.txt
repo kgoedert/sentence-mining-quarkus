@@ -4232,7 +4232,25 @@ Niemand kann dich ersetzen.
 No one can replace you.
 
 Wer kann sie ersetzen?
-Who can replace her?
+Who can replace her?          
+
+Ich verscheuche die Spatzen.
+I am scaring the sparrows away.
+
+Wir piepsen wie Spatzen.
+We are cheeping like sparrows.
+
+Tom isst wie ein Spatz.
+Tom eats like a bird.
+
+Wie aufregend!
+How exciting!
+
+Das klingt aufregend.
+That sounds exciting.
+
+Es ist aufregend.
+That sounds exciting.               <<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.

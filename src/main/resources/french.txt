@@ -6008,7 +6008,115 @@ Il est brun.
 He is dark haired.
 
 Elle est brune.
-She is dark haired.         <<-- lingoni
+She is dark haired.      
+
+Il est blond.
+He is blond.
+
+Elle est blonde.
+She is blond.
+
+Il est châtain.
+He is brown haired.
+
+Il est roux.
+He is ginger haired.
+
+Elle est rousse.
+She is ginger haired.
+
+Il a les cheveux courts.
+He has short hair.
+
+Il a les cheveux longs.
+He has long hair.
+
+Elle a les cheveux bouclés.
+She has curly hair.
+
+Elle a les cheveux lisses.
+She has straight hair.
+
+Elle a le teint pâle.
+She has pale skin.
+
+Il a le teint mat.
+He has dark skin.
+
+Il a le visage fin.
+He has a thin face.
+
+Il a le visage rond.
+He has a round face.
+
+Il a le nez fin.
+He has a thin nose.
+
+Il a le nez long.
+He has a long nose.
+
+Il est jeune.
+He is young.
+
+Il est âgé.
+He is old.
+
+Il a une barbe.
+He has a beard.
+
+Il a une moustache.
+He has a mustache.
+
+Il porte une barbe.
+He wears a beard.
+
+Dans l'année, il y a quatre saisons.
+There are four seasons in a year.
+
+L'hiver commence le vingt-et-un décembre et inclus les de janvier, février et mars.
+Winter begins on december 21st and includes the months of january, february and march.
+
+En mars commence le printemps, et le printemps continue en avril, mai e juin.
+Spring starts in march, and spring continues in april, may and june.
+
+Le vingt-et-un juin, c'est l'été qui commence, et l'été continue juillet, août et septembre.
+On june 21st, summer starts, and summer continues in july, august and september.
+
+Et le vingt-deux commence l'automne, qui inclus les mois d'octobre, novembre et décembre.
+And on september 22nd, autumn starts, which includes the months of october, november and december.
+
+En hiver, il fait froid.
+In winter, it's cold.
+
+Souvent, il neige, il pleut.
+Often, it snows, it rains.
+
+Le ciel est gris, nuageux.
+The sky is grey, cloudy.
+
+Il y a des nuages.
+There are clouds.
+
+Nous fêtons Noël et le réveillon du Nouvel An.
+We celebrate Christmas and New Year's eve.
+
+D'accord? Donc quand on pense "hiver", les fêtes de Nöel, avec Nöel et le Jour de l'An.
+All right? So when we think "winter", the Christmas celebrations, with Christmas and New Year's Day.
+
+Au printemps, le temps est variable.
+In spring, the weather is changeable.
+
+Il fait beau, mais quelques fois il pleut, il y a du vent, le ciel est clair, les arbres deviennent verts.
+The weather is good, but sometimes it rains, it's windy, the sky is clear, the trees become green.
+
+Il y des fleurs dans les parcs et les jardins qui bourgeonnent.
+There are flowers in parks and gardens that sprout.
+
+En été il fait beau, il fait chaud, le ciel est bleu, les journées sont longues.
+In summer the weather is good, it's hot, the sky is blue, the days are long.
+
+Les journées sont longues.
+The days are long.              <<-- lingoni
 
 Elle voudrait changer d'étage.
 She would like to change floors.
@@ -8997,4 +9105,3 @@ Is breakfast included in the price of the room? Yes, breakfast is included in th
 
 Est-ce qu'elles sont toujours en retard?
 Are they always late? - F
-
