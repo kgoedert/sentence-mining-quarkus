@@ -3889,314 +3889,314 @@
 # Das schmeckt scheußlich.
 # That tastes terrible.
 # 
-# Tom riecht scheußlich.
-# Tom smells awful.
+# # Tom riecht scheußlich.
+# # Tom smells awful.
+# # 
+# # Diese Frucht schmeckt scheußlich.        
+# # This fruit tastes bad.
+# # 
+# # Die Zukunft sah sehr düster aus.
+# # The future looked very gloomy.
+# # 
+# Es ist ein sehr düsterer Tag.       
+# It's a very gloomy day.
 # 
-# Diese Frucht schmeckt scheußlich.        
-# This fruit tastes bad.
+# Weit entfernte Dinge sehen verschwommen aus.
+# Distant things look blurred.
 # 
-# Die Zukunft sah sehr düster aus.
-# The future looked very gloomy.
+# Ohne ihre Kontaktlinsen sieht sie alles verschwommen.
+# Without her contact lenses, she can't see clearly.
 # 
-Es ist ein sehr düsterer Tag.       
-It's a very gloomy day.
-
-Weit entfernte Dinge sehen verschwommen aus.
-Distant things look blurred.
-
-Ohne ihre Kontaktlinsen sieht sie alles verschwommen.
-Without her contact lenses, she can't see clearly.
-
-Sami blutete am ganzen Leib.         
-Sami was bleeding everywhere.
-
-Japan ist von Meer umgeben.
-Japan is surrounded by sea.
-
-Wir sind von Feinden umgeben.
-We're surrounded by enemies.
-
-Florenz war von Mauern umgeben.
-Florence was surrounded by walls.
-
-Er erhob Anspruch auf das Land.       
-He laid claim to the land.
-
-Ich begreife es nicht.
-I don't get it.
-
-Niemand kann ihn begreifen.
-Nobody can understand him.
-
-Tom versuchte zu begreifen.          
-Tom tried to understand.
-
-Tom wird alles abstreiten.
-Tom will deny everything.
-
-Das kannst du nicht abstreiten.
-You can't deny that.
-
-Das könnt ihr nicht abstreiten.       
-You can't deny that.
-
-Wie überaus sonderbar!
-How very curious!
-
-Sie ist überaus beschäftigt.
-She is very busy.
-
-Das war überaus einfach.
-That was very easy!
-
-Soll ich Ihnen das Bier einschenken?
-Shall I pour some beer for you?
-
-Könntest du mir noch etwas Tee einschenken?
-Would you please give me some more tea?
-
-Kannst du mir bitte noch etwas Wein einschenken?     
-Can you please pour me some more wine?
-
-Sie nahm einen tiefen Atemzug.
-She took a deep breath.
-
-Ich las das Buch in einem Atemzug durch.         
-I've read the book in one go.
-
-Sie versteckte ihr Gesicht hinter einem Schleier.
-She hid her face behind a veil.
-
-Die Jungs bauten ein Floß.
-The boys built a raft.
-
-Tom stieß das Floß ins Wasser.
-Tom pushed the raft into the water.
-
-Der Junge fuhr auf einem Floß den Fluss entlang.       
-The boy went down the river on a raft.
-
-Vater, ich will beichten.
-Father, I wish to confess.
-
-Musst du mir etwas beichten?
-Do you have anything to tell me?
-
-Sollte ich ihr meine Vergangenheit beichten?       
-Should I make a confession of my past to her?
-
-Tom machte die Tür sachte zu.
-Tom gently closed the door.
-
-Folter ist Unrecht.    
-Torture is wrong.
-
-Die Polizei will Tom vernehmen.      
-The police want to interrogate Tom.
-
-Sie spritzen die Obstbäume.
-They are spraying the fruit trees.
-
-Sie werden bald aus Hongkong eintreffen.
-They are arriving here soon from Hong Kong.
-
-Die Polizei wird bald vor Ort eintreffen.
-The police will soon arrive on the scene.
-
-Der Zug wird in Bälde hier eintreffen.         
-The train will arrive here before long.
-
-Dir wird schon etwas einfallen.       
-You'll think of something.
-
-Ich habe ein ernstzunehmendes Hautproblem.
-I have a serious skin problem.
-
-Das ist eine ernstzunehmende Situation.     
-This is a serious situation.
-
-Ich kann ihn nicht erreichen.
-I can't reach him.
-
-So erreichst du nichts.
-You won't achieve anything like that.
-
-Konntest du Tom erreichen?
-Have you been able to contact Tom?
-
-Das ist ein Eiswürfel.
-This is an ice cube.
-
-Diese Eiswürfel werden gleich schmelzen.
-These ice cubes will melt soon.
-
-Hole mir einmal ein paar Eiswürfel!        
-Get me some ice cubes.
-
-Tom hat übertrieben.
-Tom exaggerated.
-
-Sie übertrieb ihre Leiden.
-She magnified her sufferings.
-
-Sie ist übertrieben selbstbewusst.
-She's overconfident.
-
-Er wurde im Gedränge bestohlen.           
-He had his pocket picked in the crowd.
-
-Es schmerzt ihm der Rücken, er kann sich nicht bücken.
-He has back pain, he can't bend over.
-
-Die Zahlen ergeben 230.
-The figures add up to 230.
-
-Seine Witze ergeben keinen Sinn.     
-His jokes make no sense.
-
-Werden Sie einen Termin mit Herrn Ito abmachen?     
-Will you make an appointment with Mr Ito?
-
-Der Dieb zwang sie dazu, das Geld zu überreichen. 
-The thief forced her to hand over the money.
-
-Beleidige mich nicht!
-Don't insult me.
-
-Beleidige meine Intelligenz nicht.
-Don't insult my intelligence.
-
-Tom wollte niemanden beleidigen.   
-Tom didn't want to offend anyone.
-
-Wir konnten die Schwierigkeit überwinden.     
-We could get over the difficulty.
-
-Lass uns zur Abwechslung mal essen gehen.
-Let's dine out for a change.
-
-Beschwer dich nicht.
-Don't complain.
-
-Sie beschweren sich immer.
-They are always complaining.
-
-Ich beschwere mich nicht.      
-I'm not complaining.
-
-Tom und Maria sagten Johannes, sie seien ungehalten.   
-Tom and Mary told John that they were displeased.
-
-Er ist unser unmittelbarer Nachbar.
-He lives immediately next to us.
-
-Du brauchst nicht unmittelbar fortzugehen.
-You don't need to leave right now.
-
-Tom stand unmittelbar hinter Maria.
-Tom stood right behind Mary.
-
-Wir müssen feststellen, ob Tom Französisch spricht.
-We need to find out if Tom can speak French.
-
-Die Ärzte konnten die Todesursache nicht feststellen.
-The doctors couldn't determine the cause of death.
-
-Das ist keine Beleidigung, sondern eine Feststellung.     
-It's not an insult. It's an observation.
-
-Es ist Schimmel im Duschraum.
-There's some mould in the showers.
-
-Wir pflanzen Samen ein.
-We're planting seeds.
-
-Die Samen haben schon gekeimt.
-The seeds have germinated.
-
-Gibt es Wassermelonen ohne Samen?      
-Do seedless watermelons exist?
-
-Lösch das Feuer!
-Put out the fire.
-
-Lösche das Bild.
-Delete that picture.
-
-Lösch diesen Kommentar.     
-Delete this comment.
-
-Er hat es anschließend bereut.
-He regretted it afterwards.
-
-Ich werde es dir anschließend sagen.
-I'll tell you afterwards.
-
-Anschließend möchte ich ins Hotel gehen.      
-Afterwards I want to go to the hotel.
-
-Der Druck war gewaltig.
-The pressure was tremendous.
-
-Das Publikum war gewaltig.
-The audience was very large.
-
-Das Gewehr klemmt.
-The gun is jammed.
-
-Wem gehört das Gewehr?
-Who does the gun belong to?
-
-Gib mir das Gewehr!
-Give me the gun.                   
-
-Vielleicht begegnest du Tom.
-You might meet Tom.
-
-Wir werden uns morgen begegnen.
-See you tomorrow.
-
-Seelen begegnen sich einander nie zufällig.
-Souls never meet each other by chance.             
-
-Du kannst bleiben, vorausgesetzt, du bist leise.
-You may stay here as long as you keep quiet.
-
-Ich werde gehen, vorausgesetzt, dass sie kommt.
-I will go provided that she comes.
-
-Jedes Buch ist recht, vorausgesetzt, es ist interessant.
-Any book will do provided it is interesting.
-
-Wollen Sie bitte Ihren Namen hier eintragen.
-Please write down your name here.         
-
-Wir werden jeden Planeten erkunden, der die Sonne umkreist.
-We will explore every planet that goes around the sun.
-
-Ich möchte, dass Sie sich über Tom erkundigen.
-I want you to find out about Tom.
-
-Alle Figuren dieser Handlung sind fiktiv.
-All the characters in this drama are fictitious.
-
-Ich verstehe die Handlung dieses Romans nicht.
-I don't understand this novel's plot.          
-
-Ich schätze, es stimmt.
-I guess it's true.
-
-Ich schätze, wir könnten.
-I guess we could.           
-
-Sie beging ein Verbrechen.
-She committed a crime.
-
-Verbrechen lohnt sich nicht.
-Crime doesn't pay.
-
-Liebe ist kein Verbrechen.
-Love is not a crime.              
+# Sami blutete am ganzen Leib.         
+# Sami was bleeding everywhere.
+# 
+# Japan ist von Meer umgeben.
+# Japan is surrounded by sea.
+# 
+# Wir sind von Feinden umgeben.
+# We're surrounded by enemies.
+# 
+# Florenz war von Mauern umgeben.
+# Florence was surrounded by walls.
+# 
+# Er erhob Anspruch auf das Land.       
+# He laid claim to the land.
+# 
+# Ich begreife es nicht.
+# I don't get it.
+# 
+# Niemand kann ihn begreifen.
+# Nobody can understand him.
+# 
+# Tom versuchte zu begreifen.          
+# Tom tried to understand.
+# 
+# Tom wird alles abstreiten.
+# Tom will deny everything.
+# 
+# Das kannst du nicht abstreiten.
+# You can't deny that.
+# 
+# Das könnt ihr nicht abstreiten.       
+# You can't deny that.
+# 
+# Wie überaus sonderbar!
+# How very curious!
+# 
+# Sie ist überaus beschäftigt.
+# She is very busy.
+# 
+# Das war überaus einfach.
+# That was very easy!
+# 
+# Soll ich Ihnen das Bier einschenken?
+# Shall I pour some beer for you?
+# 
+# Könntest du mir noch etwas Tee einschenken?
+# Would you please give me some more tea?
+# 
+# Kannst du mir bitte noch etwas Wein einschenken?     
+# Can you please pour me some more wine?
+# 
+# Sie nahm einen tiefen Atemzug.
+# She took a deep breath.
+# 
+# Ich las das Buch in einem Atemzug durch.         
+# I've read the book in one go.
+# 
+# Sie versteckte ihr Gesicht hinter einem Schleier.
+# She hid her face behind a veil.
+# 
+# Die Jungs bauten ein Floß.
+# The boys built a raft.
+# 
+# Tom stieß das Floß ins Wasser.
+# Tom pushed the raft into the water.
+# 
+# Der Junge fuhr auf einem Floß den Fluss entlang.       
+# The boy went down the river on a raft.
+# 
+# Vater, ich will beichten.
+# Father, I wish to confess.
+# 
+# Musst du mir etwas beichten?
+# Do you have anything to tell me?
+# 
+# Sollte ich ihr meine Vergangenheit beichten?       
+# Should I make a confession of my past to her?
+# 
+# Tom machte die Tür sachte zu.
+# Tom gently closed the door.
+# 
+# Folter ist Unrecht.    
+# Torture is wrong.
+# 
+# Die Polizei will Tom vernehmen.      
+# The police want to interrogate Tom.
+# 
+# Sie spritzen die Obstbäume.
+# They are spraying the fruit trees.
+# 
+# Sie werden bald aus Hongkong eintreffen.
+# They are arriving here soon from Hong Kong.
+# 
+# Die Polizei wird bald vor Ort eintreffen.
+# The police will soon arrive on the scene.
+# 
+# Der Zug wird in Bälde hier eintreffen.         
+# The train will arrive here before long.
+# 
+# Dir wird schon etwas einfallen.       
+# You'll think of something.
+# 
+# Ich habe ein ernstzunehmendes Hautproblem.
+# I have a serious skin problem.
+# 
+# Das ist eine ernstzunehmende Situation.     
+# This is a serious situation.
+# 
+# Ich kann ihn nicht erreichen.
+# I can't reach him.
+# 
+# So erreichst du nichts.
+# You won't achieve anything like that.
+# 
+# Konntest du Tom erreichen?
+# Have you been able to contact Tom?
+# 
+# Das ist ein Eiswürfel.
+# This is an ice cube.
+# 
+# Diese Eiswürfel werden gleich schmelzen.
+# These ice cubes will melt soon.
+# 
+# Hole mir einmal ein paar Eiswürfel!        
+# Get me some ice cubes.
+# 
+# Tom hat übertrieben.
+# Tom exaggerated.
+# 
+# Sie übertrieb ihre Leiden.
+# She magnified her sufferings.
+# 
+# Sie ist übertrieben selbstbewusst.
+# She's overconfident.
+# 
+# Er wurde im Gedränge bestohlen.           
+# He had his pocket picked in the crowd.
+# 
+# Es schmerzt ihm der Rücken, er kann sich nicht bücken.
+# He has back pain, he can't bend over.
+# 
+# Die Zahlen ergeben 230.
+# The figures add up to 230.
+# 
+# Seine Witze ergeben keinen Sinn.     
+# His jokes make no sense.
+# 
+# Werden Sie einen Termin mit Herrn Ito abmachen?     
+# Will you make an appointment with Mr Ito?
+# 
+# Der Dieb zwang sie dazu, das Geld zu überreichen. 
+# The thief forced her to hand over the money.
+# 
+# Beleidige mich nicht!
+# Don't insult me.
+# 
+# Beleidige meine Intelligenz nicht.
+# Don't insult my intelligence.
+# 
+# Tom wollte niemanden beleidigen.   
+# Tom didn't want to offend anyone.
+# 
+# Wir konnten die Schwierigkeit überwinden.     
+# We could get over the difficulty.
+# 
+# Lass uns zur Abwechslung mal essen gehen.
+# Let's dine out for a change.
+# 
+# Beschwer dich nicht.
+# Don't complain.
+# 
+# Sie beschweren sich immer.
+# They are always complaining.
+# 
+# Ich beschwere mich nicht.      
+# I'm not complaining.
+# 
+# Tom und Maria sagten Johannes, sie seien ungehalten.   
+# Tom and Mary told John that they were displeased.
+# 
+# Er ist unser unmittelbarer Nachbar.
+# He lives immediately next to us.
+# 
+# Du brauchst nicht unmittelbar fortzugehen.
+# You don't need to leave right now.
+# 
+# Tom stand unmittelbar hinter Maria.
+# Tom stood right behind Mary.
+# 
+# Wir müssen feststellen, ob Tom Französisch spricht.
+# We need to find out if Tom can speak French.
+# 
+# Die Ärzte konnten die Todesursache nicht feststellen.
+# The doctors couldn't determine the cause of death.
+# 
+# Das ist keine Beleidigung, sondern eine Feststellung.     
+# It's not an insult. It's an observation.
+# 
+# Es ist Schimmel im Duschraum.
+# There's some mould in the showers.
+# 
+# Wir pflanzen Samen ein.
+# We're planting seeds.
+# 
+# Die Samen haben schon gekeimt.
+# The seeds have germinated.
+# 
+# Gibt es Wassermelonen ohne Samen?      
+# Do seedless watermelons exist?
+# 
+# Lösch das Feuer!
+# Put out the fire.
+# 
+# Lösche das Bild.
+# Delete that picture.
+# 
+# Lösch diesen Kommentar.     
+# Delete this comment.
+# 
+# Er hat es anschließend bereut.
+# He regretted it afterwards.
+# 
+# Ich werde es dir anschließend sagen.
+# I'll tell you afterwards.
+# 
+# Anschließend möchte ich ins Hotel gehen.      
+# Afterwards I want to go to the hotel.
+# 
+# Der Druck war gewaltig.
+# The pressure was tremendous.
+# 
+# Das Publikum war gewaltig.
+# The audience was very large.
+# 
+# Das Gewehr klemmt.
+# The gun is jammed.
+# 
+# Wem gehört das Gewehr?
+# Who does the gun belong to?
+# 
+# Gib mir das Gewehr!
+# Give me the gun.                   
+# 
+# Vielleicht begegnest du Tom.
+# You might meet Tom.
+# 
+# Wir werden uns morgen begegnen.
+# See you tomorrow.
+# 
+# Seelen begegnen sich einander nie zufällig.
+# Souls never meet each other by chance.             
+# 
+# Du kannst bleiben, vorausgesetzt, du bist leise.
+# You may stay here as long as you keep quiet.
+# 
+# Ich werde gehen, vorausgesetzt, dass sie kommt.
+# I will go provided that she comes.
+# 
+# Jedes Buch ist recht, vorausgesetzt, es ist interessant.
+# Any book will do provided it is interesting.
+# 
+# Wollen Sie bitte Ihren Namen hier eintragen.
+# Please write down your name here.         
+# 
+# Wir werden jeden Planeten erkunden, der die Sonne umkreist.
+# We will explore every planet that goes around the sun.
+# 
+# Ich möchte, dass Sie sich über Tom erkundigen.
+# I want you to find out about Tom.
+# 
+# Alle Figuren dieser Handlung sind fiktiv.
+# All the characters in this drama are fictitious.
+# 
+# Ich verstehe die Handlung dieses Romans nicht.
+# I don't understand this novel's plot.          
+# 
+# Ich schätze, es stimmt.
+# I guess it's true.
+# 
+# Ich schätze, wir könnten.
+# I guess we could.           
+# 
+# Sie beging ein Verbrechen.
+# She committed a crime.
+# 
+# Verbrechen lohnt sich nicht.
+# Crime doesn't pay.
+# 
+# Liebe ist kein Verbrechen.
+# Love is not a crime.              
 
 Tom und ich leben im selben Wohnhaus.
 Tom and I live in the same apartment building.
@@ -6610,8 +6610,41 @@ Do you want to do something this weekend?
 Hast du dieses Wochenende etwas vor?
 Are you planning on doing anything this weekend?
 
-Ich habe am Wochenende noch nichts vor.         <<<-- jenny
+Ich habe am Wochenende noch nichts vor.       
 I haven't planned anything this weekend.
+
+Ich bin schon zu Hause.
+I'm already home.
+
+Bist du schon zu Hause?
+Are you already home?
+
+Ich bin shon im Büro.
+I'm already at the office.
+
+Seid ihr schon am Flughafen?
+Are you guys already at the airport?
+
+Seid ihr schon mal in London gewesen?
+Have you guys already been to London?
+
+Wart ihr schon mal in London?
+Have you guys already been to London?
+
+Ich war schon mal in Rom.
+I have already been to Rome.
+
+Das Haus ist schön.
+The house is nice.
+
+Ich finde deine Wohnung schön.
+I find your apartment nice.
+
+Du hast eine schöne Jeans an.
+You are wearing a nice pair of jeans.
+
+Das ist ein schönes Sofa.
+This is a nice couch.           <<-- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
