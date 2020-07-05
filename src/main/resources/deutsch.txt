@@ -4259,7 +4259,19 @@ Tom hat nie eine Auszeichnung bekommen.
 Tom never got an award.
 
 Sie schloss ihr Studium mit Auszeichnung ab.
-She graduated with honors.                      <<-- leech
+She graduated with honors.                      
+
+Unfälle sind unvermeidlich.
+Accidents are inevitable.
+
+Das war unvermeidlich.
+It was inevitable.
+
+Fehler sind unvermeidlich.
+Mistakes are inevitable.
+
+Man muss die Wörter umstellen.
+The words need rearranging.             <<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
@@ -6875,7 +6887,82 @@ Ich bin heute um sechs Uhr aufgestanden. Ich bin so müde.
 I got up at six o'clock today. I'm so tired.
 
 Wann bist du heute aufgestanden?
-When did you get up today?                  <<<--- jenny
+When did you get up today?    
+
+Muss du heute arbeiten?
+Do you have to work today?
+
+Ich muss morgen arbeiten.
+I have to work tomorrow.
+
+Ich fahre mit der U-Bahn.
+I'm taking the subway.
+
+Er fährt mit dem Taxi.
+He's taking the taxi.
+
+Wir fahren mit dem Auto.
+We are going by car.
+
+Er fährt mit der Bahn.
+He's taking the train.
+
+Ich fahre mit dem Zug.
+I'm taking the train.
+
+Wir mussen unbedingt einkaufen. Es ist nichts mehr im Kühlschrank.
+We absolutely have to buy groceries. There is nothing left in the fridge.
+
+Hast du schon dein Bett gemacht?
+Have you already made your bed?
+
+Ich muss noch das Bett gemacht.
+I still have to make the bed.
+
+Wir mussen einen Installateur rufen. Die Waschmaschine ist kaputt.
+We have to call a plumber. The washing maschine is broken.
+
+Du muss noch mit dem Hund spazieren gehen.
+You still have to walk the dog.
+
+Warst du schon mit dem Hund draußen?
+Have you already been outside with the dog?
+
+Mein Akku ist leer und ich kann mein Ladekabel nicht finden.
+My battery is empty and I can't find my charging cable.
+
+Könntest du mich morgen vor der Arbeit abholen?
+Could you pick me up from work tomorrow?
+
+Er hat uns vom Flughafen abgeholt.
+He picked us up from the airport.
+
+Kannst du mir einen Gefallen tun?
+Can you do me a favor?
+
+Kannst du mir einen Gefallen tun und mir helfen, den Tisch nach oben zu tragen?
+Can you do me a favor and help me carry the table upstairs?
+
+Einen Moment, bitte.
+One moment, please.
+
+Könnte ich bitte mit Herrn Schmidt sprechen?
+Could I please speak with mr. Schmidt?
+
+Natürlich. Einen moment, bitte.
+Of course. One moment, please.
+
+Hast du Lust, was essen zu gehen?
+Do you feel like eating out?
+
+Hast du Lust, was trinken zu gehen?
+Do you feel like going out for a drink?
+
+Sollen wir heute Abend was essen zu gehen?
+Should we go to a restaurant tonight?
+
+Ich hätte gerne die Lasagne.
+I'd like to have the lasagna.           <<-- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
