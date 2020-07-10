@@ -4271,7 +4271,16 @@ Fehler sind unvermeidlich.
 Mistakes are inevitable.
 
 Man muss die Wörter umstellen.
-The words need rearranging.             <<-- leech
+The words need rearranging.           
+
+Viel Gerede für Nichts.
+A lot of talk, no action.
+
+Sein langes Gerede langweilte mich.
+I got bored with his long talk.
+
+Das Gerede des Mädchens war endlos.
+The girl's chitchat never came to an end.       <<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
