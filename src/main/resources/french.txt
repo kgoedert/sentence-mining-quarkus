@@ -6116,7 +6116,481 @@ En été il fait beau, il fait chaud, le ciel est bleu, les journées sont longu
 In summer the weather is good, it's hot, the sky is blue, the days are long.
 
 Les journées sont longues.
-The days are long.              <<-- lingoni
+The days are long.             
+
+En été, nous allons à la mer, à la plage, dans une destination de vacances chaudes.
+In summer, we go to the seaside, to the beach, to a hot holiday destination.
+
+En automne, it fait frais, il pleut parfois, il y a du vent, les feuilles tombent.
+In autumn, it's fresh, it rains sometimes, it's windy, the leaves fall.
+
+En septembre, c'est la rentrée de classes.
+In september, school begins.
+
+Dans beacoup de pays maintenant c'est fêté, et en France aussi.
+It's celebrated in a lot of countries nowadays, and in France also.
+
+Les enfants se déguisent et ils vont chercher des bonbons chez les voisins.
+The children wear costumes and ask for sweets at their neighbours' houses.
+
+En mars, nous fêtons le Carnaval.
+In March we celebrate carnival.
+
+Le matin, je prends le petit-déjeuner.
+In the morning, I have breakfast.
+
+Le midi, je mange le déjeuner.
+At noon, I eat lunch.
+
+Le matin pour le petit-déjeuner, je mange des céréales avec du lait.
+In the morning, I eat cereals with milk for breakfast.
+
+Parfois, je mange des fruits.
+Sometimes, I eat fruits.
+
+Je mange un pain au chocolat.
+I eat a pain au chocolat.
+
+Je fais un jus de fruits frais.
+I make fresh fruit juice.
+
+Je bois un café.
+I drink a coffee.
+
+Je mange une tartine avec du beurre et de la confiture.
+I eat toast with butter and jam.
+
+Le midi, je mange le déjeuner.
+At noon, I eat lunch.
+
+Au déjeuner, je mange de la viande ou du poisson avec des légumes.
+At lunch, I eat meat or fish with vegetables.
+
+de la viande avec des pâtes.
+meat with pasta.
+
+Dans la maison on commence avec la cuisine.
+In the house we are going to start with the kitchen.
+
+Dans la cuisine, vous cuisiniez.
+In the kitchen, you cook.
+
+Dans la cuisine, je prépare les repas.
+In the kitchen, I prepare the meals.
+
+Dans le salon, je regarde la télévision.
+I watch tv in the living room.
+
+Je lis le journal.
+I read the newspaper.
+
+Je me repose.
+I am resting.
+
+Je parle avec ma famille.
+I talk to my family.
+
+J'appelle quelqu'un.
+I call someone.
+
+Je place la table.
+I set the table.
+
+Je débarrasse la table.
+Eu tiro a mesa. - (tirar os pratos da mesa)
+
+Dans la chambre, je dors.
+I sleep in the bedroom.
+
+Je m'habille.
+I get dressed.
+
+Dans la chambre, je fais mon lit.
+In the bedroom, I make my bed.
+
+Je fais mon lit chaque matin.
+I make my bed every morning.
+
+Je me douche.
+I take a shower.
+
+Je me brosse les dents.
+I brush my teeth.
+
+Je ma coiffe.
+I comb my hair.
+
+Je me maquille.
+I do my make-up.
+
+Je met du parfum.
+I put perfume on.
+
+Je me peigne.
+I comb my hair.
+
+Je prends un bain.
+I take a bath.
+
+Vous montez et vous descendez les escaliers.
+You go up and down the stairs.
+
+Le bureau c'est pour jouer aux jeux vidéo.
+The office is for playing video games.
+
+Vous garez la voiture.
+You park the car.
+
+Dans le garage, je gare ma voiture.
+I park my car in the garage.
+
+Je fais du jardinage.
+I garden.
+
+Je peux manger aussi dans le jardin.
+I can eat in the garden as well.
+
+Je vais au cinéma chaque lundi.
+I go to the cinema every monday.
+
+Il va à l'école.
+He is going to school.
+
+Elles vont chez le dentiste.
+They go to the dentist.        
+
+Qu'est-ce que vous dites?
+What are you saying?
+
+Qu'est-ce que vous faites?
+What are you doing?
+
+Je fais la vaissele.
+I do the dishes.
+
+Je fais un gâteau.
+I make a cake.
+
+Je fais du sport.
+I do sports.
+
+Je fais ce que je veux.
+I do what I want.
+
+I fais de l'anglais.
+I learn/practice english.
+
+Je fais des erreurs.
+I make mistakes.
+
+Je prends un café.
+I have a coffee.
+
+Tu prends une douche.
+You take a shower.
+
+Il prend un livre.
+He is taking a book.
+
+Je prends mon temps.
+I take my time.
+
+Je prends une décision.
+I make a decision.
+
+Je viens avec vous.
+I come with you.
+
+Il vient à la fête.
+He is coming to the party.
+
+Ils veulent partir en vacances.
+The want to go on holidays.
+
+Je veux changer de voiture.
+I want to change my car.
+
+Il veut parler avec toi.
+He wants to speak with you.            
+
+Calme-toi.
+Calm down.
+
+Prends ton temps.
+Take your time.
+
+Cassex deux œufs.
+Break two eggs.
+
+Assieds-toi.
+Sit down.
+
+Chantons!
+Let's sing!
+
+Tais-toi!
+Be quiet!
+
+Découvrons la fin de l'histoire.
+Let's find out the end of the story.
+
+Étudie sinon demain l'examen sera difficile.
+Study otherwise tomorrow the exam will be difficult.
+
+Arrêtez de fumer. C'est mauvais pour votre santé.
+Stop smoking. It is bad for your health.
+
+Parle avec lui, il peut t'aider.
+Talk to him, he can help you.
+
+Ouvre la porte.
+Open the door.
+
+Ferme la porte.
+Close the door.
+
+Chantons pour son anniversaire.
+Let's sing for his birthday.
+
+Rentre immédiatment!
+Come back immediately!
+
+Oublie-le.
+Forget about him.
+
+Continuez tout droit.
+Keep going straight ahead.
+
+Tournez à gauche.
+Turn left.
+
+Tournez à droite.
+Turn right.
+
+Montez.
+Go up.
+
+Descendez.
+Go down.
+
+Il vient avec moi.
+He is coming with me.
+
+Vous parlez de lui.
+You are talking about him.
+
+Vous parlez d'elle.
+You are talking about her.
+
+Je vais chez eux.
+I am going to their house.
+
+Moi, je joue du piano.
+Me, I play the piano.
+
+Lui, il préfère le football.
+Him, he prefers soccer.
+
+Qui va à l'anniversaire de Jenny? Moi.
+Who is going to Jenny's birthday? Me.
+
+Qui est parti en vacances? Lui.
+Who went on holidays? Him.
+
+Je déteste le poisson. Moi aussi.
+I hate fish. Me too.
+
+Je ne bois pas de café. Lui non plus.
+I don't drink coffee. Neither does he.
+
+Je voudrais un café s'il vous plaît.
+I would like a coffee please.
+
+Vous pourriez rappeler plus tard?
+Could you call back later?
+
+Je voudrais savoir si vous avez reçu mon email.
+I would like to know if you received my email.
+
+J'aimerais savoir si vous avez reçu mon email.
+I would like to know if you got my email.
+
+Pourriez-vous me donner l'heure, s'il vous plaît?
+Could you give me the time please?
+
+Je voudrais une baguette s'il vous plaît.
+I would like a baguette please.
+
+Pourrions-nous voir le menu?
+Could we see the menu?
+
+Pourrais-je voir le menu s'il vous plaît?
+Could I see the menu please?
+
+Tu pourrais me téléphoner demain?
+Could you call me tomorrow?
+
+Maman, ce soir je voudrais dîner au restaurant.
+Mom, tonight I would like to have dinner at a restaurant.
+
+Je voudrais savoir les horaires de bus.
+I would like to know the bus schedule.
+
+Je bois de l'eau.
+I drink water.
+
+Je bois de la bière.
+I drink beer.
+
+Tu as de la patience.
+You have patience.
+
+Ils ont du temps.
+They have time.
+
+J'ai de l'argent.
+I have money.
+
+J'ai du temps.
+He has money.
+
+Tu as de la motivation.
+You have motivation.
+
+Tu as de l'empathie.
+You have empathy.
+
+J'écoute de la musique.
+I listen to music.
+
+Je fais du yoga.
+I do yoga.
+
+Il boit du café le matin.
+He drinks coffee in the morning.
+
+Il boit une tasse de café le matin.
+He drinks a cup of coffee in the morning.
+
+Je bois un peu de café le matin.
+I drink a bit of coffee in the morning.
+
+Il y a de la bière dans le frigo.
+There is beer in the fridge.
+
+Il écoute de la musique quand il a du temps.
+He listens to music when he has time.
+
+Marie est avocate.
+Marie is a lawyer.
+
+Je suis professeur dans une école de langue.
+I am a teacher in a language school.
+
+Il est vendeur dans un magazin.
+He is a salesman in a shop.
+
+Paul est médecin.
+Paul is a doctor.
+
+Elle est une très bonne vendeuse.
+She is a very good salewoman.
+
+Quelle est sa profession?
+What is her profession?
+
+Marc est un excellent professeur.
+Marc is an excellent teacher.
+
+Vous êtes un très mauvais avocat.
+You are a very bad lawyer.
+
+Jacques est le dentiste de ma mère.
+Jacques is my mother's dentist.
+
+Jacques est dentiste.
+Jacques is a dentist.
+
+C'est un très bon dentiste.
+He is a very good dentist.
+
+Que fait Marc?
+What does Marc do for a living?
+
+Il est acteur.
+He is an actor.
+
+C'est un excellent acteur.
+He is an excellent actor.
+
+C'est l'acteur qui joue dans ce film.
+He is the actor who acts in that movie.
+
+Il fait quoi Marc?
+What does Marc do for a living?
+
+Quelle est la profession de Marc?
+What is Marc's profession.
+
+Quel est le métier de Marc?
+What's Marc job?
+
+Qui est Marc? C'est mon voisin.
+Who is Marc? He's my neighbour.
+
+Que fais-tu ce soir? Je vais au cinéma.
+What are you doing tonight? I am going to the cinema.
+
+Quoi, qu'est-ce que tu as dis?
+What, what did you say?
+
+Combien de frères et sœurs tu as?
+How many brothers and sisters have you got?
+
+Combien ça coûte?
+How much does it cost?
+
+Combien de temps tu as étudié l'anglais?
+How long did you study english?
+
+Combien de livres tu as dans ta bibliothèque?
+How many books have you got in your library?
+
+Comment elle va au travail? Elle va au travail en voiture.
+How does she go to work? She goes to work by car.
+
+Porquoi vous n'allez pas à son anniversaire? Parce que nous ne la connaissons pas.
+Why are you not going to her birthday? Because we do not know her.
+
+Quand pars-tu en vacances? La semaine prochaine.
+When are you going on holiday? Next week.
+
+Quand se termine la classe? Dans dix minutes.
+When does the class end? In ten minutes.
+
+Quel est ton sport préféré?
+What is your favorite sport?
+
+Où est la pharmacie?
+Where is the pharmacy.
+
+Où habites-tu?
+Where do you live?
+
+Elle a l'air triste.
+She seems sad.
+
+On se voit la semaine prochaine.
+See you next week.
+
+C'est un gentil garçon.
+He is a nice boy.
+
+Le premier livre qu'il a écrit.
+The first book he wrote.
+
+Il habite au deuxième étage.
+He lives on the second floor.           <<<-- lingoni
 
 Elle voudrait changer d'étage.
 She would like to change floors.

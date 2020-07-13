@@ -4280,7 +4280,16 @@ Sein langes Gerede langweilte mich.
 I got bored with his long talk.
 
 Das Gerede des Mädchens war endlos.
-The girl's chitchat never came to an end.       <<-- leech
+The girl's chitchat never came to an end.      
+
+Er hat sich schlecht verhalten.
+He behaved badly.
+
+Ein Engländer würde sich anders verhalten.
+An Englishman would act in a different way.
+
+Das Auto hat sich eigenartig verhalten.
+The car has been acting strangely.          <<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
