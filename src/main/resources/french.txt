@@ -6698,7 +6698,34 @@ Une raquette de tennis.
 A tennis racket.
 
 L'opinion de ta sœeur.
-Your sister's opinion.          <<<-- lingoni
+Your sister's opinion.        
+
+Mon téléphone est sur la table.
+My phone is on the table.
+
+Ton verre est vide.
+Your glass is empty.
+
+Son t-shirt est vert.
+His/her t-shirt is green.
+
+Le t-shirt peut être d'un garçon ou d'une fille.
+The t-shirt can be for a boy or a girl.
+
+Notre ami est argentin.
+Our friend is argentinian.
+
+Votre frère habite à Paris.
+Your brother lives in Paris.
+
+Leur voisin n'est pas aimable.
+Their neighbour is not friendly.
+
+Ma mère est très patiente.
+My mother is very patient.
+
+Ta maison est magnifique.
+Your house is beautiful.            <<-- lingoni
 
 Elle voudrait changer d'étage.
 She would like to change floors.
