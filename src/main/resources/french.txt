@@ -6590,7 +6590,115 @@ Le premier livre qu'il a écrit.
 The first book he wrote.
 
 Il habite au deuxième étage.
-He lives on the second floor.           <<<-- lingoni
+He lives on the second floor.         
+
+J'habite quinze, rue de cerisiers.
+I live at number 15, cerisiers street.
+
+Il habite a 75, rue de cerisiers, 75001 Paris.
+He lives at number 75, cerisiers street, Paris. 75001 (zip code)
+
+Mon numéro de téléphone est 01-25-15-18-30.
+My telephone number is 01-25-15-18-30.
+
+Mon adresse email est alicia point français arobase gmail point com.
+My email address is alicia.français@gmail.com
+
+Vous pouvez m'épeler cerisiers?
+Can you spell cerisier?
+
+Vous pouvez m'épeler votre prénom?
+Can you spell your first name?
+
+Je suis célibataire.
+I am single.
+
+Je suis en couple.
+I am in a relationship.
+
+Je suis marié.
+I am married.
+
+Je suis séparé.
+I am separated.
+
+Je suis divorcé.
+I am divorced.
+
+J'ai des enfants.
+I have children.
+
+Le professeur est en train de parler.
+The teacher is speaking.
+
+Le chien est le meilleur ami de l'homme.
+Dogs are man's best friend.
+
+L'alcool est mauvais pour la santé.
+Alcohol is bad for your health.
+
+Une femme est entrée.
+A woman entered.
+
+J'ai lu un bon livre.
+I read a good book.
+
+J'ai vu un bon film.
+I saw a good movie.
+
+J'ai des animaux.
+I have animals.
+
+Elle n'a pas d'animaux.
+She hasn't got animals.
+
+La voiture de mon mari.
+My husband's car.
+
+Le livre de la bibliothèque.
+The book from the library.
+
+L'opinion de Jenny.
+Jenny's opinion.
+
+La voiture des voisins.
+The neighbour's car.
+
+Le téléphone d'Adam.
+Adam's telephone.
+
+Un tableau de Pablo Picasso.
+A painting by Pablo Picasso.
+
+Un poème de Prévert.
+A poem by Prévert.
+
+Le café de Colombie.
+Coffee from Colombia.
+
+Une tasse de lait.
+A cup of milk.
+
+Un pot de chocolat.
+A pot of chocolate.
+
+Un sac de bonbons.
+A bag of sweets.
+
+Un entraîneur de football.
+A football coach.
+
+Un livre de français.
+A french book.
+
+Une classe de grammaire.
+A grammar's class.
+
+Une raquette de tennis.
+A tennis racket.
+
+L'opinion de ta sœeur.
+Your sister's opinion.          <<<-- lingoni
 
 Elle voudrait changer d'étage.
 She would like to change floors.
