@@ -6725,7 +6725,169 @@ Ma mère est très patiente.
 My mother is very patient.
 
 Ta maison est magnifique.
-Your house is beautiful.            <<-- lingoni
+Your house is beautiful.        
+
+Sa voiture est rouge.
+His/her car is red.
+
+Notre table est occupée.
+Our table is taken.
+
+Votre boisson est prête.
+Your drink is ready.
+
+Leur fille est timide.
+Their daughter is shy.
+
+Tes livres sont dans la bibliothèque.
+Your books are in the library.
+
+Ses amis mangent au restaurant.
+His friends are eating at a restaurant.
+
+Nos vêtements sont dans l'armoire.
+Our clothes are in the wardrobe.
+
+Vos idées sont très intéressants.
+Your ideas are very interesting.
+
+Leurs professeurs sont français.
+Their teachers are french.
+
+Leurs amis sont français.
+Their friends are french.
+
+Ce téléphone est sur la table.
+This telephone is on the table.
+
+Ce verre est vide.
+This glass is empty.
+
+Ce t-shirt est vert.
+This t-shirt is green.
+
+Cet ami est argentin.
+This friend is argentinian.
+
+Ce voisin n'est pas aimable.
+This neighbour is not friendly.
+
+Cette maison est magnifique.
+This house is beautiful.
+
+Cette voiture est rouge.
+This car is red.
+
+Cette table est occupée.
+This table is taken.
+
+Cette boison est prête.
+This drink is ready.
+
+Ces lunettes sont très chères.
+These glasses are very expensive.
+
+Ces livres sont dans la bibliothèque.
+These books are in the library.
+
+Ces vêtements sont dans l'armoire.
+These clothes are in the wardrobe.
+
+Ces idées sont très intéressant.
+These ideas are very interesting.
+
+Ces professeurs sont français.
+These teachers are french.
+
+Il y a un homme dans la maison.
+There is a man in the house.
+
+Il y a une souris dans le jardin.
+There is a mouse in the garden.
+
+Il y a des enfants dans la cours.
+There are children on the playground.
+
+Il y a trois solutions à ce problème.
+There are three solutions to this problem.
+
+Il y a quelqu'un chez toi.
+There is someone at your house.
+
+Il y a un peut de bruit.
+There is a bit of noise.
+
+Il y a beacoup de lumière.
+There is a lot of light.
+
+Est-ce qu'il y a quelqu'un chez toi?
+Is there someone at your house?
+
+Est-ce qu'il y a une souris dans le jardin?
+Is there a mouse in the garden?
+
+Est-ce qu'il y a des enfants à l'école?
+Are there children at school?
+
+Y a-t-il un problème?
+Is there a problem?
+
+Il y a un chat.
+There is a cat.
+
+Il y a une dame.
+There is a lady.
+
+Il y a des enfants.
+There are children.
+
+Il y a dix personnes dans la salle.
+There are ten people in the room.
+
+Il n'y a pas de chat.
+There isn't a cat.
+
+Il n'y a pas de problème.
+There aren't any problems.
+
+Il n'y a pas de personnes.
+There aren't any people.
+
+J'ai commencé ce projet il y a six mois.
+I started this project six months ago.
+
+J'ai recontré Matthias il y dix ans.
+I met Matthias ten years ago.
+
+Il fait chaud.
+Está calor.
+
+Il fait froid.
+Está frio.
+
+Il fait nuageux.
+It is cloudy.
+
+Il fait venteux.
+It is windy.
+
+Il pleut.
+It rains.
+
+Il neige.
+It is snowing.
+
+Il gèle.
+It is freezing.
+
+Il tombe de la neige.
+There is snow falling.
+
+Elle est professeur de français et d'anglais.
+She is a french and english teacher.
+
+Je mange de céréales et des fruits chaque matin.
+I eat cereal and fruit every morning.               <<<-- lingoni
 
 Elle voudrait changer d'étage.
 She would like to change floors.
