@@ -7241,7 +7241,79 @@ Ils se marieront l'année prochaine.
 They will get married next year.
 
 Ils vont se marier l'année prochaine.
-They are going to get married next year.    <<<--- lingoni
+They are going to get married next year.   
+
+Je viens de finir mes devoirs.
+I've just finished my homework.
+
+Je viens de finir mon exercice.
+I've just finished my exercise.
+
+Maintenant, je vais commencer un autre exercice.
+Now, I am going to start a new exercise.
+
+Tu viens de faire la vaisselle.
+You've just done the dishes.
+
+Maintenant, tu vas sortir avec tes amis.
+Now, you are going to go out with your friends.
+
+Il vient de prendre un café.
+He's just drunk a cup of coffee.
+
+Maintenant, il va payer la addition.
+Now, he is going to pay the bill.
+
+Nous venos d'aller au cinéma.
+We've just been to the cinema.
+
+Maintenant, nous allons parler du film.
+Now, we are going to talk about the movie.
+
+Vous venez de vous réveiller.
+You've just woken up.
+
+Maintenant, vous allez vous doucher.
+Now, you are going to take a shower.
+
+Vous venez de descendre du bus.
+You've just gotten off the bus.
+
+Maintenant, vous allez monter dans le train.
+Now, you are going to hop on the train.
+
+Ils viennent d'acheter un nouveau téléphone.
+They've just bought a new phone.
+
+Maintenant, ils vont l'utiliser.
+Now, they are going to use it.
+
+Je viens de voir un ami à toi dans la rue.
+I've just seen a friend of yours on the street.
+
+Je viens de finir le travail.
+I've just finished work.
+
+Je viens de sortir du bus.
+I've just gotten off the bus.
+
+À demain.
+See you tomorrow.
+
+À bientôt.
+See you soon.
+
+À plus tard.
+See you later.
+
+À Lundi.
+See you monday.
+
+Ça ne vas pas super.
+I am not doing great.
+
+Tout va bien, merci.
+Everything is going well, thanks.           <<<-- lingoni
 
 Elle voudrait changer d'étage.
 She would like to change floors.
