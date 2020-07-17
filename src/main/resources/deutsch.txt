@@ -4289,7 +4289,19 @@ Ein Engländer würde sich anders verhalten.
 An Englishman would act in a different way.
 
 Das Auto hat sich eigenartig verhalten.
-The car has been acting strangely.          <<-- leech
+The car has been acting strangely.         
+
+Tom war nachsichtig.
+Tom was lenient.
+
+Sei etwas nachsichtiger!
+Be a little more indulgent!
+
+Haben Sie sich verlaufen?
+Are you lost?
+
+Sie werden sich verlaufen.
+You'll get lost.                    <<<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
