@@ -7313,7 +7313,52 @@ See you monday.
 I am not doing great.
 
 Tout va bien, merci.
-Everything is going well, thanks.           <<<-- lingoni
+Everything is going well, thanks.         
+
+Je porte souvent des jeans.
+I often wear jeans.
+
+Je n'achète jamais de shorts.
+I never buy shorts.
+
+Tu dois laver la laine à 30 degrés.
+You must wash wool at 30 degrees.
+
+Je m'habille.
+I get dressed.
+
+Tu t'habilles chaque matin avec un costume ou avec une cravate.
+Every morning you put on a suit or a tie.
+
+Tu t'habilles chaque matin avec la cravate pour aller travailler.
+Every morning you put on a tie to go to work.
+
+Tu te déshabilles pour mettre ton pyjama.
+You get undressed to put on your pyjamas.
+
+Je suis artiste.
+I am an artist.
+
+Nous sommes citoyens français.
+We are french citizens.
+
+J'ai beaucoup d'amis.
+I have a lot of friends.
+
+Ils ont des devoirs à terminer.
+They have homework to finish.
+
+Je ne dis que la vérité.
+I only tell the truth.
+
+Tes parents disent toujours oui à tout.
+Your parents always say yes to everything.
+
+Je fais de la danse classique.
+I do ballet.
+
+Vous faites beacoup de bruit.
+You are making a lot of noise.          <<<-- lingoni
 
 Elle voudrait changer d'étage.
 She would like to change floors.
