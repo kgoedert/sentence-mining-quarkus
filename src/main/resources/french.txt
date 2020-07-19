@@ -7358,7 +7358,40 @@ Je fais de la danse classique.
 I do ballet.
 
 Vous faites beacoup de bruit.
-You are making a lot of noise.          <<<-- lingoni
+You are making a lot of noise.       
+
+Il vont au cinéma.
+They are going to the movies.
+
+Nous allons au supermarché.
+We are going to the supermarket.
+
+Sans mes lunettes, je ne vois rien.
+Without my glasses, I don't see anything.
+
+Nous voyons l'église d'ici.
+We see the church from here.
+
+Je ne sais pas où tu habites.
+I don't know where you live.
+
+Savez-vous quand le bus arrive?
+Do you know when the bus arrives?
+
+Vous ne pouvez pas partir maintenant.
+You can't leave now.
+
+Les chats peuvent voir dans le noir.
+Cats can see in the dark.
+
+Viens voir ma nouvelle peinture!
+Come see my new painting!
+
+D'où venez-vous?
+Where do you come from?
+
+Je prends le bus tous les matins.
+I take the bus every morning.
 
 Elle voudrait changer d'étage.
 She would like to change floors.
@@ -10347,3 +10380,39 @@ Is breakfast included in the price of the room? Yes, breakfast is included in th
 
 Est-ce qu'elles sont toujours en retard?
 Are they always late? - F
+
+Je parle français.
+I speak french.
+
+Tu aimes les langues étrangères.
+You like foreign languages.
+
+Il mange beaucoup.
+He eats a lot.
+
+Elle étudie tous les soirs.
+She studies every night.
+
+Nous regardons les beaux paysages.
+We are looking at the nice landscape.
+
+Vous voyager en train.
+You travel by train.
+
+Ils achètent un nouveau téléphone chaque année.
+They buy a new telephone every year.
+
+Elles s'appellent Julie et Jeanne.
+Their names are Julie and Jeanne.
+
+Je n'ai pas compris.
+I didn't understand.
+
+J'ai pris un café.
+I drank a coffee.
+
+J'appris ma leçon.
+I learned my lesson.
+
+J'ai compris le professeur.
+I understood the professor.

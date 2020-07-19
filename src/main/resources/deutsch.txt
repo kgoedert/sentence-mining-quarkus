@@ -4313,7 +4313,22 @@ Das ist ebenfalls Gift.
 That is poison as well.
 
 Tom wurde ebenfalls festgenommen.
-Tom was also arrested.                  <<<-- leech
+Tom was also arrested.                 
+
+Wir haben diese Angaben nicht.
+We don't have that information.
+
+Ich bat um genauere Angaben.
+I asked for more details.
+
+Bitte anschnallen!
+Fasten your seatbelts.
+
+Fahrer müssen sich anschnallen.
+Drivers should fasten their seat belts.
+
+Sie müssen sich vor dem Abflug anschnallen.
+You must fasten your seat belts during take-off.        <<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
