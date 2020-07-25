@@ -64,3 +64,55 @@ Possessive Dativ - OI
 Post sobre akk and Dativ
 
 https://germantakeaways.com/verbs-accusative-dative-case-german/
+
+Preposições
+
+Akkusative:
+----------
+
+bis (until, up to, as far as)
+durch (through, by means of)
+für (for)
+ohne (without)
+gegen (against)
+um (around, at [a certain] time, for)
+entlang (along)
+
+Dativ
+-----
+aus (out of)
+außer (except for)
+gegenüber (opposite of, toward someone, across from)
+bei (at)
+mit (with)
+nach (after, to, according to someone/something)
+seit (since, for—only used for statements related to time or amounts of time)
+zu (to)
+von (from)
+
+Genitiv
+-------
+anstatt (instead [of]) ← sometimes also simply “statt”
+während (during)
+trotz (despite)
+wegen (because of)
+außerhalb (outside of)
+innerhalb (inside of)
+oberhalb (above)
+unterhalb (below)
+diesseits (on this side)
+jenseits (on the other side)
+beiderseits (on both sides)
+
+Dativ/Akkusative - motion (akk), no motion (dativ)
+----------------
+an	at, on, to
+auf	at, to, on, upon
+hinter	behind
+in	in, into
+neben	beside, near, next to
+über	about, above, across, over
+unter	under, among
+vor	in front of, before,
+ago (time)
+zwischen	between

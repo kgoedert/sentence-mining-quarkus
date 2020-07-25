@@ -4328,7 +4328,16 @@ Fahrer müssen sich anschnallen.
 Drivers should fasten their seat belts.
 
 Sie müssen sich vor dem Abflug anschnallen.
-You must fasten your seat belts during take-off.        <<-- leech
+You must fasten your seat belts during take-off.      
+
+Es muss trotz allem weitergehen!
+It must keep going despite everything!
+
+Trotz des Regens kamen sie.
+They came in spite of the rain.
+
+Er war trotz allem gekommen.
+In spite of everything, he came.        <<<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
@@ -7019,7 +7028,175 @@ Sollen wir heute Abend was essen zu gehen?
 Should we go to a restaurant tonight?
 
 Ich hätte gerne die Lasagne.
-I'd like to have the lasagna.           <<-- jenny
+I'd like to have the lasagna.          
+
+Ich nehme den Sauerbraten.
+I'm having the marinated beef.
+
+Für mich eine Cola, bitte.
+For me a coke, please.
+
+Die Rechnung, bitte.
+The bill, please.
+
+Zahlen, bitte.
+The bill, please.
+
+Kann ich mit Kreditkarte zahlen?
+Can I pay with credit card?
+
+Tausend Dank für deine Hilfe.
+Thanks a million for your help.
+
+Vielen Dank für das Geschenk.
+Thank you very much for the present.
+
+Danke, dass du an mich gedacht hast.
+Thank you for thinking of me - inf
+
+Hast du die Rechnungen bezahlt?
+Have you already paid the bills?
+
+Was machst du heute Abend?
+What are you doing tonight?
+
+Was machst du am Wochenende?
+What are you doing on the weekend?
+
+Was hast du am Wochenende gemacht?
+What did you do on the weekend?           
+
+Brauchen Sie hilfe?
+Do you need help? - formal
+
+Soll ich Ihnen helfen?
+Should I help you?
+
+Schaffen Sie das alleine?
+Can you manage that on your own?
+
+Sollen wir das Wohnzimmer streichen?
+Should we paint the living room?
+
+Ich weiß es nicht. Ich muss mir das erst überlegen.
+I don't know. I have to think about that first.
+
+Wohin fahrt ihr in Urlaub?
+Where are you guys going on vacation?
+
+Das ist eine gute Frage. Das müssen wir uns noch überlegen.
+That's a good question. We still have to think about that.
+
+Was machst du beruflich?
+What do you do professionally?
+
+Ich bin Software-Entwickler.
+I'm software developer.
+
+Ich arbeite als Software-Entwickler.
+I work as a software developer.
+
+Was hat er dir gesagt?
+What did he say to you?
+
+Er hat mir das Gegenteil gesagt.
+He told me the opposite.
+
+Er hat mir gar nichts gesagt.
+He didn't tell me anything.
+
+Sie hat mir alles gesagt.
+She told me everything.
+
+Jonas ist bei mir.
+Jonas is at my place.
+
+Der Hund ist bei uns.
+The dog is at our place.
+
+Der Sclüssel ist bei Florian.
+The key is at Florian's place.
+
+Ich bin by meinen Eltern.
+I am at my parent's place.
+
+Seid ihr bei Stephan?
+Are you guys at Stephan's place?
+
+Stephan hat sein Handy immer bei sich.
+Stephan always has his cell phone on him.
+
+Stephan hat sein Handy immer dabei.
+Stephan always has his cell phone on him.
+
+Hast du deine Tasche bei dir?
+Do you have your bag with you?
+
+Ich bin beim Arzt.
+I'm at the doctor.
+
+Ich bin bei der Polizei.
+I'm at the police station.
+
+Er ist bei der Arbeit.
+He is at work.
+
+Er arbeitete bei einer Bank.
+He works at a bank.
+
+Ich arbeite bei einem mittleständischen Unternehmen.
+I work at a medium-sized company.
+
+Mein Vater hat zwei Jahre bei der Bundeswehr.
+My father was with the military for two years.
+
+Ich arbeite in einem Krankenhaus.
+I work at a hospital.
+
+Ich habe bei Amazon ein Busch bestellt.
+I ordered a book at amazon.
+
+Die Apotheke ist beim Rathaus.
+The pharmacy is by the town hall.
+
+Ich habe beim Kino geparkt.
+I parked by the movie theater.
+
+Er sitzt bei seinen Freunden.
+He is sitting with his friends.
+
+Beim Festival habe ich viele nette Leute kennengelernt.
+At the festival, I met a lot of nice people.
+
+Bei der Weinprobe habe ich leckeren Wein getrunken.
+At the wine tasting I drank delicious wine.
+
+Beim Konzert ist sie in Ohnmacht gafallen, als Justin ihren Arm berührt hat.
+At the concert she fainted, when Justin touched her arm.
+
+Beim Essen hat er uns von seinem Urlaub erzählt.
+While we were eating, he told us about his vacation.
+
+Beim Telefonieren habe ich das Glas umgekippt.
+While I was talking on the telephone, i knocked over the glass.
+
+Beim Duschen singt sie immer.
+When taking a shower, she always sings.
+
+Wasser kocht bei 100° Celsius.
+Water boils at 100° Celsius.
+
+Wir mussen bei Null anfangen.
+We have to start from scratch.
+
+Bei 25° C fühle ich mich wohl.
+At 25° C, I feel good.
+
+Ich bleibe bei meiner Meinung.
+I'm sticking to my opinion.
+
+Ich kann dir beim Kochen helfen, wenn du willst.
+I can help you cook, if you want.                   <<<-- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
@@ -13899,3 +14076,6 @@ We are walking along the sidewalk.
 
 Das Schiff fährt den Fluss entlang. 
 The ship is sailing along the river.
+
+Vergewissere dich bitte.
+Please make sure.

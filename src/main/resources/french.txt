@@ -5797,6 +5797,9 @@
 # Tu as l'heure?
 # What time is it?  - informal, avoir
 # 
+Je m'appelle Alicia et je parle français avec vous.
+My name is Alicia and I speak french with you.
+
 Il est une heure.
 It's one o'clock.
 
@@ -10416,3 +10419,4 @@ I learned my lesson.
 
 J'ai compris le professeur.
 I understood the professor.
+
