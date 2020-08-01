@@ -4346,7 +4346,16 @@ Nutze die Gelegenheit!
 Take a chance.
 
 Gib mir eine Gelegenheit!
-Give me a chance!               <<<-- leech
+Give me a chance!             
+
+Aber man kann es nicht steuern, es passiert manchmal ganz unvermutet.
+But you can't predict this, it happens sometimes completely unexpectedly.
+
+Ich muss mir Klarheit verschaffen.
+I ought to get me some clarity.
+
+Das könnte uns etwas Zeit verschaffen.
+This could buy us some time.                <<<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.

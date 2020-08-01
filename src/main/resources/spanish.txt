@@ -5091,313 +5091,313 @@
 # 
 # No te preocupes. Ya se arreglará todo.
 # Don't worry. Everything will be alright.
+# # 
+# # ¡Ya me acuerdo! Tú eres Armando.
+# # I remember now. You are Armando.
+# # 
+# # Ya no llueve. Ya podemos salir.
+# # It's not raining anymore. We can go out now.
+# # 
+# En mi casa comemos pescado de vez en cuando.
+# At home we eat seafood once in a while.
 # 
-# ¡Ya me acuerdo! Tú eres Armando.
-# I remember now. You are Armando.
+# Luis siempre estudia por la noche.
+# Luis always studies at night.
 # 
-# Ya no llueve. Ya podemos salir.
-# It's not raining anymore. We can go out now.
+# Trabajo a veces por la tarde.
+# Sometimes I work in the afternoon.
 # 
-En mi casa comemos pescado de vez en cuando.
-At home we eat seafood once in a while.
-
-Luis siempre estudia por la noche.
-Luis always studies at night.
-
-Trabajo a veces por la tarde.
-Sometimes I work in the afternoon.
-
-Silvia me envía un correo electrónico de vez en cuando.
-Silvia sends me an e-mail every once in a while.
-
-Normalmente, los sábados salgo con mis amigos.
-Usually, on saturdays I go out with my friends.
-
-Nunca voy a la ópera.
-I never go to the opera.
-
-No voy nunca a la ópera.
-I never go to the opera.
-
-Me levanto temprano todos los días.
-I wake up early everyday.
-
-Todas las noches antes de acostarme leo un rato.
-Every night before going to bed I read a bit.
-
-Voy a clase de guitarra los martes.
-I go to guitar classes on tuesdays.
-
-Nos reunimos una vez al mes.
-We get together once a month.
-
-Limpiamos la casa dos veces a la semana.
-We clean the house twice a week.
-
-Como en casa de mis padres un día a la semana.
-I eat at my parent's one day a week.
-
-Una vez a la semana nos reunimos todos los amigos.
-Once a week we all get together as friends.
-
-Nos reunimos todos los amigos una vez a la semana.
-We get together as friends once a week.
-
-¿Viaja mucho a México? Dos o tres veces al año.
-You travel to Mexico a lot? Two or three times a year.
-
-Nuria trabaja mucho.
-Nuria works a lot.
-
-Julia y su hermano son bastante diferentes.
-Julia and her brother are very different.
-
-Es demasiado tarde. El avión ya ha despegado.
-It's too late. The plane has already taken off.
-
-Fidel cocina muy bien.
-Fidel cooks very well.
-
-Es algo tarde.
-It's a bit late.
-
-Este ejercicio es un poco difícil.
-This exercise is a little bit difficult.
-
-Susana es poco cariñosa.
-Susana is not very affectionate.
-
-Este hotel es demasiado caro.
-This hotel is too expensive.
-
-Gema no es nada egoísta.
-Gema is not selfish at all.
-
-Soy algo tímida.
-I am a little bit shy.
-
-Soy un poco tímida.
-I am a little bit shy.
-
-Soy poco tímida.
-I am not very shy.
-
-Beatriz trabaja mucho.
-Beatriz works a lot.
-
-Ernesto piensa bastante.
-Ernesto thinks a lot.
-
-Nati estudia algo, pero poco.
-Nati studies a bit, but not much.
-
-Este tren corre poco.
-This train doesn't run much.
-
-Felipe duerme demasiado.
-Felipe sleeps a lot.
-
-Juan no come nada.
-Juan doesn't eat anything.
-
-Luisa es muy inteligente.
-Luisa is very intelligent.
-
-Alberto cocina bastante bien.
-Alberto cooks very well.
-
-Jorge es poco estudioso.
-Jorge's doesn't study much.
-
-Habéis llegado demasiado tarde.
-You arrived very late.
-
-Consuelo sale bastante.
-Consuelo goes out a lot.
-
-Ignacio come poco.
-Ignacio doesn't eat much.
-
-Rodri habla demasiado.
-Rodri speaks too much.
-
-Clara trabaja muchas horas.
-Clara works a lot of hours.
-
-Tiene bastantes amigos.
-He has a lot of friends.
-
-Ignacio come poca carne.
-Ignacio doesn't eat a lot of meat.
-
-Bebes demasiada leche.
-You drink a lot of milk.
-
-Juan es muy trabajador.
-Juan is very hardworking.
-
-¡Este examen es facilísimo!
-This test is very easy!
-
-Estas chicas son listísimas.
-These girls are very smart.
-
-El examen fue dificilísimo.
-The test was very hard.
-
-Dunia tiene muchísimos amigos.
-Dunia has a lot of friends.
-
-Es tardísimo.
-It's very late.
-
-Sebastián trabaja muchísimo.
-Sebastián works a lot.
-
-Samuel conduce lentísimamente.
-Samuel drives very slowly.
-
-Esta ventana se abre facilísimamente.
-This window opens very easily.
-
-Gema conduce prudentemente.
-Gema drives prudently.
-
-Serafín toca el piano muy bien.
-Serafín plays the piano very well.
-
-Hans habla español perfectamente.
-Hans speaks spanish perfectly.
-
-Habla alto, por favor.
-Speak loudly, please.
-
-Mis profesores explican claro.
-My teachers explain clearly.
-
-Julia conduce muy rápido.
-Julia drives very fast.
-
-!Venga, empuja fuerte!
-Come, push hard!
-
-Se veía claramente la torre de la iglesia.
-The church tower was seen clearly.
-
-Hazlo así; es más fácil.
-Do it like this; it is easier.
-
-Alba vive alegremente.
-Alba lives happily.
-
-No vayas deprisa.
-Don't go fast.
-
-Lo hizo rápida e eficazmente.
-I did it fast and efficiently.
-
-No hay duda. Camila es la que mejor canta.
-There is no doubt. Camila is the one that sings the best.
-
-No te oigo. Habla más alto, por favor.
-I can't hear you. Speak louder please.
-
-Susana dibuja mejor que yo.
-Susana draws better than me.
-
-El agua avanza más rápido que el fuego.
-The water advances faster than the fire.
-
-Hoy hemos llegado menos tarde que ayer.
-Today we arrived earlier than yesterday.
-
-Hans habla español mejor que yo.
-Hans speaks spanish better than me.
-
-José Luis está trabajando más que nunca.
-José Luis is working more than ever.
-
-Hablas mucho en clase. No hables tanto.
-You talk to much in class. Don't speak so much.
-
-Esteban corre menos que yo.
-Estaban runs less than me.
-
-Ustedes hablan más que yo.
-You speak more than me.
-
-Anita es la que se porta menos mal.
-Anita is the one that behaves less badly.
-
-Nacho es el que peor baila en el grupo.
-Nacho is the one that dances the worst in the group.
-
-Gabriel es el que más estudia de toda la clase.
-Gabriel is the one that studies the most in the class.
-
-Manuel y Alfonso son los que menos corren del equipo.
-Manuel y Alfonso are the ones that run the less in the team.
-
-Rodolfo es el menos estudia.
-Rodolfo is the one that studies the less.
-
-¿Quién ha sido el que ha llegado más tarde?
-Who is the one that arrived the latest?
-
-No, gracias. No tomo café.
-No, thanks. I don't drink coffee.
-
-Josefina nunca tiene tiempo para nada.
-Josefina never has time for anything.
-
-Jamás he montado a caballo.
-I never have ridden a horse.
-
-¿Vas a venir mañana?
-Are you coming tomorrow?
-
-No, no puedo. Lo siento.
-No, I can't. I'm sorry.
-
-¿Estás cansado? No.
-Are you tired? No.
-
-No tengo hambre.
-I am not hungry.
-
-A Felipe no le gustaría verte así.
-Felipe wouldn't like to see you like that.
-
-Todavía no he leído el periódico.
-I haven't read the newspaper yet.
-
-Preferiría no hacerlo.
-I would rather not do it.
-
-Ayer no hice nada.
-I haven't done anything yesterday.
-
-¿Has visto mis gafas? 
-Have you seen my glasses?
-
-No las encuentro por ninguna parte.
-I can't find them anywhere.
-
-Nadie me quiere.
-No one wants me.
-
-En ninguna parte hay tranquilidad en esta ciudad.
-There is no peace anywhere in this city.
-
-Nada es imposible.
-Nothing is impossible.
-
-Nadie quiere hacerlo.
-No one wants to do it.
-
-No quiere hacerlo nadie.
-Nobody wants to do it.
-
+# Silvia me envía un correo electrónico de vez en cuando.
+# Silvia sends me an e-mail every once in a while.
+# 
+# Normalmente, los sábados salgo con mis amigos.
+# Usually, on saturdays I go out with my friends.
+# 
+# Nunca voy a la ópera.
+# I never go to the opera.
+# 
+# No voy nunca a la ópera.
+# I never go to the opera.
+# 
+# Me levanto temprano todos los días.
+# I wake up early everyday.
+# 
+# Todas las noches antes de acostarme leo un rato.
+# Every night before going to bed I read a bit.
+# 
+# Voy a clase de guitarra los martes.
+# I go to guitar classes on tuesdays.
+# 
+# Nos reunimos una vez al mes.
+# We get together once a month.
+# 
+# Limpiamos la casa dos veces a la semana.
+# We clean the house twice a week.
+# 
+# Como en casa de mis padres un día a la semana.
+# I eat at my parent's one day a week.
+# 
+# Una vez a la semana nos reunimos todos los amigos.
+# Once a week we all get together as friends.
+# 
+# Nos reunimos todos los amigos una vez a la semana.
+# We get together as friends once a week.
+# 
+# ¿Viaja mucho a México? Dos o tres veces al año.
+# You travel to Mexico a lot? Two or three times a year.
+# 
+# Nuria trabaja mucho.
+# Nuria works a lot.
+# 
+# Julia y su hermano son bastante diferentes.
+# Julia and her brother are very different.
+# 
+# Es demasiado tarde. El avión ya ha despegado.
+# It's too late. The plane has already taken off.
+# 
+# Fidel cocina muy bien.
+# Fidel cooks very well.
+# 
+# Es algo tarde.
+# It's a bit late.
+# 
+# Este ejercicio es un poco difícil.
+# This exercise is a little bit difficult.
+# 
+# Susana es poco cariñosa.
+# Susana is not very affectionate.
+# 
+# Este hotel es demasiado caro.
+# This hotel is too expensive.
+# 
+# Gema no es nada egoísta.
+# Gema is not selfish at all.
+# 
+# Soy algo tímida.
+# I am a little bit shy.
+# 
+# Soy un poco tímida.
+# I am a little bit shy.
+# 
+# Soy poco tímida.
+# I am not very shy.
+# 
+# Beatriz trabaja mucho.
+# Beatriz works a lot.
+# 
+# Ernesto piensa bastante.
+# Ernesto thinks a lot.
+# 
+# Nati estudia algo, pero poco.
+# Nati studies a bit, but not much.
+# 
+# Este tren corre poco.
+# This train doesn't run much.
+# 
+# Felipe duerme demasiado.
+# Felipe sleeps a lot.
+# 
+# Juan no come nada.
+# Juan doesn't eat anything.
+# 
+# Luisa es muy inteligente.
+# Luisa is very intelligent.
+# 
+# Alberto cocina bastante bien.
+# Alberto cooks very well.
+# 
+# Jorge es poco estudioso.
+# Jorge's doesn't study much.
+# 
+# Habéis llegado demasiado tarde.
+# You arrived very late.
+# 
+# Consuelo sale bastante.
+# Consuelo goes out a lot.
+# 
+# Ignacio come poco.
+# Ignacio doesn't eat much.
+# 
+# Rodri habla demasiado.
+# Rodri speaks too much.
+# 
+# Clara trabaja muchas horas.
+# Clara works a lot of hours.
+# 
+# Tiene bastantes amigos.
+# He has a lot of friends.
+# 
+# Ignacio come poca carne.
+# Ignacio doesn't eat a lot of meat.
+# 
+# Bebes demasiada leche.
+# You drink a lot of milk.
+# 
+# Juan es muy trabajador.
+# Juan is very hardworking.
+# 
+# ¡Este examen es facilísimo!
+# This test is very easy!
+# 
+# Estas chicas son listísimas.
+# These girls are very smart.
+# 
+# El examen fue dificilísimo.
+# The test was very hard.
+# 
+# Dunia tiene muchísimos amigos.
+# Dunia has a lot of friends.
+# 
+# Es tardísimo.
+# It's very late.
+# 
+# Sebastián trabaja muchísimo.
+# Sebastián works a lot.
+# 
+# Samuel conduce lentísimamente.
+# Samuel drives very slowly.
+# 
+# Esta ventana se abre facilísimamente.
+# This window opens very easily.
+# 
+# Gema conduce prudentemente.
+# Gema drives prudently.
+# 
+# Serafín toca el piano muy bien.
+# Serafín plays the piano very well.
+# 
+# Hans habla español perfectamente.
+# Hans speaks spanish perfectly.
+# 
+# Habla alto, por favor.
+# Speak loudly, please.
+# 
+# Mis profesores explican claro.
+# My teachers explain clearly.
+# 
+# Julia conduce muy rápido.
+# Julia drives very fast.
+# 
+# !Venga, empuja fuerte!
+# Come, push hard!
+# 
+# Se veía claramente la torre de la iglesia.
+# The church tower was seen clearly.
+# 
+# Hazlo así; es más fácil.
+# Do it like this; it is easier.
+# 
+# Alba vive alegremente.
+# Alba lives happily.
+# 
+# No vayas deprisa.
+# Don't go fast.
+# 
+# Lo hizo rápida e eficazmente.
+# I did it fast and efficiently.
+# 
+# No hay duda. Camila es la que mejor canta.
+# There is no doubt. Camila is the one that sings the best.
+# 
+# No te oigo. Habla más alto, por favor.
+# I can't hear you. Speak louder please.
+# 
+# Susana dibuja mejor que yo.
+# Susana draws better than me.
+# 
+# El agua avanza más rápido que el fuego.
+# The water advances faster than the fire.
+# 
+# Hoy hemos llegado menos tarde que ayer.
+# Today we arrived earlier than yesterday.
+# 
+# Hans habla español mejor que yo.
+# Hans speaks spanish better than me.
+# 
+# José Luis está trabajando más que nunca.
+# José Luis is working more than ever.
+# 
+# Hablas mucho en clase. No hables tanto.
+# You talk to much in class. Don't speak so much.
+# 
+# Esteban corre menos que yo.
+# Estaban runs less than me.
+# 
+# Ustedes hablan más que yo.
+# You speak more than me.
+# 
+# Anita es la que se porta menos mal.
+# Anita is the one that behaves less badly.
+# 
+# Nacho es el que peor baila en el grupo.
+# Nacho is the one that dances the worst in the group.
+# 
+# Gabriel es el que más estudia de toda la clase.
+# Gabriel is the one that studies the most in the class.
+# 
+# Manuel y Alfonso son los que menos corren del equipo.
+# Manuel y Alfonso are the ones that run the less in the team.
+# 
+# Rodolfo es el menos estudia.
+# Rodolfo is the one that studies the less.
+# 
+# ¿Quién ha sido el que ha llegado más tarde?
+# Who is the one that arrived the latest?
+# 
+# No, gracias. No tomo café.
+# No, thanks. I don't drink coffee.
+# 
+# Josefina nunca tiene tiempo para nada.
+# Josefina never has time for anything.
+# 
+# Jamás he montado a caballo.
+# I never have ridden a horse.
+# 
+# ¿Vas a venir mañana?
+# Are you coming tomorrow?
+# 
+# No, no puedo. Lo siento.
+# No, I can't. I'm sorry.
+# 
+# ¿Estás cansado? No.
+# Are you tired? No.
+# 
+# No tengo hambre.
+# I am not hungry.
+# 
+# A Felipe no le gustaría verte así.
+# Felipe wouldn't like to see you like that.
+# 
+# Todavía no he leído el periódico.
+# I haven't read the newspaper yet.
+# 
+# Preferiría no hacerlo.
+# I would rather not do it.
+# 
+# Ayer no hice nada.
+# I haven't done anything yesterday.
+# 
+# ¿Has visto mis gafas? 
+# Have you seen my glasses?
+# 
+# No las encuentro por ninguna parte.
+# I can't find them anywhere.
+# 
+# Nadie me quiere.
+# No one wants me.
+# 
+# En ninguna parte hay tranquilidad en esta ciudad.
+# There is no peace anywhere in this city.
+# 
+# Nada es imposible.
+# Nothing is impossible.
+# 
+# Nadie quiere hacerlo.
+# No one wants to do it.
+# 
+# No quiere hacerlo nadie.
+# Nobody wants to do it.
+# 
 Jamás como carne.
 I never eat meat.
 
@@ -12534,6 +12534,10 @@ As you get to know people, you realize what they're like.
 Ahora te parece difícil, pero según vayas aprendiendo, verás que no lo es tanto.
 Now you find it difficult, but as you learn, you'll see that it's not so difficult.
 
+Un niño está llorando.
+A boy is crying.
+
 ¿Dónde dejo el coche? Donde no haya una señal de prohibición.
 ¿De dónde venís? De donde hemos dejado el coche.
 Ve par donde te indique el GPS.
+
