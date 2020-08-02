@@ -4355,7 +4355,16 @@ Ich muss mir Klarheit verschaffen.
 I ought to get me some clarity.
 
 Das könnte uns etwas Zeit verschaffen.
-This could buy us some time.                <<<-- leech
+This could buy us some time.                
+
+Mein Urin ist trübe.
+My urine is cloudy.
+
+Die See ist trübe.
+The water in the lake is murky.
+
+Maria wollte nicht, dass ihre Kinder ohne Vater aufwachsen.
+Mary didn't want her children to grow up without a father.          <<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
