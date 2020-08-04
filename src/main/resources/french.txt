@@ -10426,3 +10426,422 @@ I learned my lesson.
 J'ai compris le professeur.
 I understood the professor.
 
+Nous allons au restaurant chaque mardi.
+We go to the restaurant every tuesday.
+
+On va au restaurant chaque mardi.
+We go to the restaurant every tuesday. (a gente)
+
+On est fatigués.
+A gente está cansado.
+
+On est allés au ciné.
+A gente foi ao cinema.
+
+On adore le jazz.
+A gente adora jazz.
+
+En France, on mange beaucoup de fromage.
+Na frança, se come muito queijo.
+
+Dans cette famille, on ne regarde jamais la télévision.
+Nesta família, não se assiste nunca à tv.
+
+On ne peut pas dire quelque chose comme ça.
+Não se pode dizer algo assim.
+
+On ne sait pas s'il est gentil ou méchant.
+Não se sabe se ele é gentil ou malvado.
+
+On ne sais jamais.
+Nunca se sabe.
+
+On a trouvé le trésor.
+Encontraram o tesouro. (alguém encontrou o tesouro)
+
+On a volé la voiture du voisin.
+Roubaram o carro do vizinho (por alguém nao especificado)
+
+On m'a appelé, mais je ne sais pas qui c'était.
+Me ligaram, mas eu não sei quem era.
+
+Je vais à Nice pendant les vacances d'été.
+I'm going to Nice for the summer holidays.
+
+Aujourd'hui, nous allons à la plage.
+Today, we are going to the beach.
+
+Ils vont au restaurant tous les jours pendant leurs vancances.
+They go to the restaurant every day during their vacation.
+
+Je voyage chaque été.
+I travel every summer.
+
+Aimez-vous voyager?
+Do you like travelling?
+
+Cette année, elle voyage à travers l'Asie.
+This year, she is travelling across Asia.
+
+Ma mère bronze très vite à la plage.
+My mom tans very fast at the beach.
+
+Est-ce que je suis assez bronzé?
+Am I tanned enough?
+
+Mes amis bronzent plus vite que moi.
+My friends tan faster than I do.
+
+Je me repose durant mes vacances.
+I am resting during my vacation.
+
+Mon petit frère se respose dans la chambre d'hôtel.
+My little brother is resting in the hotel room.
+
+Repose-toi avant d'aller à la plage.
+Get some rest before going to the beach.
+
+Mes cousing nagent mieux que l'année dernière.
+My cousins swim better than last year.
+
+En vacances, ma sœur nage toute la journée.
+When she's on vacation, my sister swims all day.
+
+Si vous nagez dans l'océan, vous allez avoir froid.
+If you swim in the ocean, you will be cold.
+
+Ils visitent le musée d'Arts.
+They are visiting the arts museum.
+
+Aujourd'hui, je visite la Maison Blanche.
+Today, I am visiting the White House.
+
+Nous visitons New York ensemble.
+We are visiting New Youk together.
+
+Nous logeons dans un hôtel cette année.
+We are staying in a hotel this year.
+
+Mon ami loge dans un camping cet été.
+My friend is staying at a campsite this summer.
+
+Loges-tu avec des habitants de la ville?
+Are you staying with local residents?
+
+Je découvre les spécialités culinaires du Maroc au fil de mon voyage.
+I am discovering Morocco's culinary specialties along my trip.
+
+Ils découvrent la culture Maya à travers les monuments.
+They are discovering the Mayan culture through the monuments.
+
+Mon petit frère découvre les différents poissons de l'océan lorsqu'il nage.
+My little brother is discovering the ocean's fish while he swims.
+
+Ma mère achète une robe japonais traditionnelle.
+My mom is buying a traditional japanese dress.
+
+Mes amis achète des bouées pour se détendre dans la piscine.
+My friends are buying floats to relax in the pool.
+
+J'achète une nouvelle valise parce que mon ancienne est cassée.
+I am buying a new suitcase because my old one is broken.
+
+Je m'amuse avec mes amis dans la piscine.
+I am having fun with my friends in the pool.
+
+Ils s'amusent toute la journée à la plage et toute la nuit au camping.
+They are having fun all day at the beach and all night at the campsite.
+
+Je m'habille dans ma chambre.
+I'm getting dressed in my room.
+
+Elle se lève à huit heures chaque matin.
+She gets up at eight o'clock every morning.
+
+Nous nous brossons les dents.
+We are brushing our teeth.
+
+Tu te promènes dans le parc.
+You are walking in the park.
+
+Je me douche pour me réveiller.
+I shower to wake up.
+
+Ils se regardent dans les yeux.
+The look into each other's eyes.
+
+Ils se saluent.
+They are greeting each other.
+
+Ils se saluent chaque matin dans l'ascenseur.
+They greet each other in the elevator every morning.
+
+Ils se battent.
+They are fighting.
+
+Il salue la voisine.
+He greets the neighbour (female)
+
+Vous vous aimez.
+You love each other.
+
+Ils se rencontrent.
+They meet each other.
+
+Je me rends compte.
+I realize.
+
+Je me rends compte que je parle très bien chinois.
+I realize that I speak chinese very well.
+
+Elle ne se souvient jamais de son prénom.
+She can never remember his/her first name.
+
+Il se moque de son professeur.
+He is laughing at his teacher.
+
+C'est lui qui se moque de son professeur.
+He is the one who is laughing at his teacher.
+
+Ils se disputent.
+Eles estão brigando (uma discussão verbal)
+
+Ils se battent dans la rue.
+They are fighting in the street.
+
+J'ai horreur de me lever tôt le matin.
+I hate to get up early in the morning.
+
+Je ne supporte pas le grincement.
+I can't stand the squeaking.
+
+Je déteste les gens qui parlent fort au téléphone.
+I hate people who talk loud on the phone.
+
+J'ai horreur des gens qui mangent la bouche ouverte.
+I hate people who eat with their mouths open.
+
+Je ne supporte pas quand tu mens.
+I can't stand when you lie.
+
+Je n'aime pas du tout le poisson.
+I don't like fish at all.
+
+Je ne suis vraiment pas fan de cette musique.
+I really hate this music.
+
+J'aime bien le cinéma.
+I like the movies.
+
+J'aime mieux la pop musique que le hard rock.
+I like pop music more than hard rock.
+
+Je préfère du thé.
+I prefer some tea.
+
+Je suis plutôt théâtre que cinéma.
+I'm more into theater than movies.
+
+Je ne suis pas trop café.
+I'm not too much into coffee.
+
+Je suis plutôt thé.
+I'm more into tea.
+
+Je craque complètement pour la tarte de chocolat.
+That chocolate cake is absolutely irresistible.
+
+Elle raffole des pains au chocolat quand elle va en France.
+She loves chocolate croissants when she goes to France.
+
+Elle raffole de la musique classique.
+She loves classical music.
+
+Elle raffole de l'opéra.
+She loves the opera.
+
+Je kiffe ce pays.
+I like this country a lot. (colloq)
+
+Je le trouve sympa.
+I find it nice.
+
+Je les trouve gentils.
+I find them kind.
+
+Je veux te raconter toute l'histoire.
+I want to tell you the whole story.
+
+Je veux savoir toute la verité.
+I want to know the whole truth.
+
+Je ne te crois pas! Il a mangé tout le gâteau?
+I don't believe you! He ate the whole cake?
+
+J'ai regardé tout le film avec ma sœur.
+I watched the whole movie with my sister.
+
+Tous les enfants jouent dans la cour.
+All the children are playing in the yard.
+
+Tous les gens sont venus à son anniversaire.
+All the people came to his/her birthday.
+
+Toutes les fêtes qu'elle fait sont géniale.
+All the parties she has are amazing.
+
+Tout le monde est là.
+Everyone is there.
+
+Dis-moi toute la verité.
+Tell me the whole truth.
+
+Tous les gens sont très contents.
+All the people are very happy.
+
+Merci à tous!
+Thanks to all of you!
+
+J'apprends le français.
+I am learning french.
+
+Nous apprenons les verbs irréguliers.
+We are learning the irregular verbs.
+
+J'étudie à l'université de Paris.
+I am studying at the Paris university.
+
+Il étudie la biologie depuis cinq ans.
+He's been studying biology for five years.
+
+Ils passent leurs examens dans deux jours.
+They are taking their exams in two days.
+
+Vous passez vos examens en même temps.
+You are taking your exams at the same time.
+
+J'écris une rédaction sur la Seconde Guerre mondiale.
+I am writing an essay on the world war II.
+
+Tu écris très bien lorsque tu prends ton temps.
+You write really well when you take your time.
+
+Ma sœeur a quatre ans et elle lit déjà très bien.
+My sister is four years old and she already reads very well.
+
+Est-ce que vous lisez Shakespeare?
+Are you reading Shakespeare?
+
+En maternelle, nous colorions tous les jours.
+In kindergarden, we color every day.
+
+Mon petit frère colorie très rapidement.
+My little brother colors really fast.
+
+Il découpe du papier journal pour son projet d'art.
+He's cutting out newspaper for his art project.
+
+Ils découpent leurs dessins pour les coller sur le mur.
+They're cutting out their drawings to stick on the wall.
+
+Ma fille travaille beaucoup car elle veut avoir de bonnes notes à l'école.
+My daughter works a lot because she wants to have good grades at school.
+
+Est-ce que tu travaille sur ton projet?
+Are you working on your project?
+
+Le professeur corrige nos examens cette semaine.
+The teacher is correcting our exams this week.
+
+Avez-vous corrigé nos devoirs de français?
+Did you correct our french homework?
+
+Si tu écoutes en classe, tu retiens mieux la leçon.
+If you listen in class, you remember the lesson better.
+
+Elle n'écoute pas souvent et elle parle avec ses camarades.
+She often doesn't listen and she talks with her classmates.
+
+Je t'invite au cinéma.
+I invite you to the movies.
+
+Elle invite des personnes différentes chaque semaine.
+She invites different people each week.
+
+Il réserve une table au restaurant pour samedi soir.
+He reserves a table at the restaurant for saturday night.
+
+Puis-je réserver une table pour ce soir, s'il vous plaît?
+Can I reserve a table for tonight please?
+
+Cet homme sait séduire une femme.
+This man knows how to seduce a woman.
+
+Séduisez-vous beaucoup de femmes?
+Do you seduce a lot of women?
+
+Martin et Paul flirtent avec toutes les filles du lycée.
+Martin and Paul flirt with all the highschool girls.
+
+Elle flirt mieux le soir.
+She flirts better in the evening.
+
+Nous discutons de nos projets futurs.
+We are talking about our future projects.
+
+J'aime discuter avec toi.
+I like talking to you.
+
+Nous rions toujours beaucoup ensemble.
+We always laugh a lot together.
+
+Tu ris à chacune de mes blagues.
+You laugh at each of my jokes.
+
+Il lui offre un collier de perles.
+He is giving her a pearl necklace.
+
+Elle aime offrir des cadeaux.
+She likes to give presents.
+
+Vous vous taquinez tout le temps.
+You tease each other all the time.
+
+Il me taquine pour me faire rire.
+He's teasing me to make me laugh.
+
+Je me prépare avant mon rendez-vous galant.
+I am getting ready before my date.
+
+Il est en retard car il met beaucoup de temps à se préparer.
+He's late because he takes a lot of time to get ready.
+
+Il m'embrasse à chaque fois qu'on se voit.
+He kisses me everytime we see each other.
+
+Elle m'embrasse toujours par surprise.
+She always kisses me by surprise.
+
+Tu vas à l'anniversaire de Sophie? Oui, j'y vais.
+Are you going to Sophie's birthday? Yes, I'm going.
+
+Tu vas souvent à Paris? Oui, j'y vais tous les deux mois.
+Do you go frequently to Paris? Yes, I go there every two months.
+
+Dans la salle de bains, J'y prends ma douche tous les matins.
+In the bathroom, I shower there every morning.
+
+À la bibliothèque, nous y lisons des livres.
+At the library, we read books.
+
+À la boulangerie, nous y achetons des croissants pour le petit-déjeuner.
+At bakery, we buy croissants for breakfast.
+
+Dans les magasins, j'y fais du shopping.
+In the stores, I shop.
+
+Dans un café, j'y prends un verre avec mes amis.
+At a coffee shop, I have something to drink there with my friends.
+
+Tu connais Paris? Oui, j'y suis allé l'année dernière.
+Do you know Paris? Yes, I went there last year.
