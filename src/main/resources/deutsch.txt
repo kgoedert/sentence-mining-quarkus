@@ -4364,7 +4364,25 @@ Die See ist trübe.
 The water in the lake is murky.
 
 Maria wollte nicht, dass ihre Kinder ohne Vater aufwachsen.
-Mary didn't want her children to grow up without a father.          <<-- leech
+Mary didn't want her children to grow up without a father.        
+
+Es war verlockend.
+It was enticing.
+
+Das ist ein verlockender Gedanke.
+It's a seductive idea.
+
+Ich muss zugeben, dass das sehr verlockend ist.
+I have to admit it's very tempting.
+
+Er war verlegen.
+He was embarrassed.
+
+Du machst sie verlegen.
+You're embarrassing them.
+
+Tom war sehr verlegen.
+Tom was deeply embarrassed.     <<<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
