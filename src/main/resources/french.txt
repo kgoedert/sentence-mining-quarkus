@@ -5791,203 +5791,212 @@
 # Avez-vous l'heure?
 # What time is it? - avoir
 # 
-# Il est quelle heure?
-# What time is it? - informal
+# # Il est quelle heure?
+# # What time is it? - informal
+# # 
+# # Tu as l'heure?
+# # What time is it?  - informal, avoir
+# # 
+# Pourquoi il marche lentement?
+# Why does he walk slowly? 
 # 
-# Tu as l'heure?
-# What time is it?  - informal, avoir
+# Je n'aime pas beaucoup le jazz.
+# I don't like jazz very much.
 # 
-J'aime beaucoup ce chanteur.
-I really like this singer.
-
-Elles achètent les cadeaux de Noël.
-They buy the Christmas presents.
-
-Je m'appelle Alicia et je parle français avec vous.
-My name is Alicia and I speak french with you.
-
-Il est une heure.
-It's one o'clock.
-
-Il est huit heure cinq.
-It's five past eight.
-
-Il est huit heures dix.
-It's ten past eight.
-
-Il est huit heures et quart.
-It's a quarter past eight.
-
-Il est huit heure et demi.
-It's eight thirty.
-
-Il est neuf heures moins vingt-cinq.
-It's eight thirty five.
-
-Il est neuf heures moins le quart.
-It's a quarter to nine.
-
-Il est trois heures de l'après-midi.
-It's 3 p.m.                               
-
-Je finis le travail à dix-huit heures.
-I finish work at six pm.
-
-Tu choisis un cadeau pour son anninversaire.
-You choose a present for his/her birthday.
-
-Il réfléchi à son avenir.
-He is thinking about his future.
-
-Nous remplissons le formulaire.
-We are filling in the form.
-
-Vous grandissez rapidement.
-You grow up quickly.
-
-Je ne me souviens pas.
-I can't remember.
-
-Désolé, je ne comprends pas.
-Sorry, I don't understand.
-
-Tu peux répéter s'il te plaît?
-Can you repeat, please? - tu
-
-Vous pouvez répéter s'il vous plaît?
-Can you repeat please?
-
-Excusez-moi, je ne comprends pas.
-Excuse me, I don't understand.  - formal
-
-Est-ce que tu peux parler plus lentement?
-Can you speak more slowly? - informal
-
-Comment on dit "have fun" en français""
-How do we say to have fun in french?
-
-Ça veut dire quoi "s'amuser" en français?
-What does "s'amuser" mean in french?
-
-Que veut dire "s'amuser" en français?
-What does "s'amuser" mean in french?
-
-Ma mère s'appelle Marie et mon père s'appelle François.
-My mother's name is Marie and my father's name is François.
-
-J'ai un frère et une sœur.
-I've got one brother and one sister.
-
-La sœeur de mon père est ma tante.
-My father's sister is my aunt.
-
-Le frère de mon père est mon oncle.
-My father's brother is my uncle.
-
-Les enfants de mon oncle et de ma tante sont mes cousins.
-My aunt and uncle's children are my cousins.
-
-Mon père a un fils qui est mon frère.
-My father has a son who is my brother.
-
-Ma mère a une fille.
-My mother has got a daughter.
-
-La fille de mon frère est ma nièce.
-My brother's daughter is my niece.
-
-Le fils de mon frère est mon neveu.
-My brother's son is my nephew.
-
-Les grands-parents ont des petits-enfants.
-The grandparents have grandchildren.
-
-À la boulangerie, j'achète une baguette.
-I buy a baguette at the bakery.
-
-À la boucherie j'achéte la viande.
-I buy meat at the butcher.
-
-Au supermarché, je fais les courses.
-I buy groceries at the supermaket.
-
-À la pharmacie, j'achète des médicaments.
-I buy medicine from the pharmacy.
-
-Si je suis malade, je vais à l'hôpital.
-If I am ill, I go to the hospital.
-
-Je vais à la piscine pour nager.
-I go to the swimming pool to swim.
-
-Je vais à l'école pour étudier.
-I go to school to study.
-
-Je vais à la poste pour envoyer une lettre.
-I go to to the postal office to send a letter.    
-
-Le supermarché est derrière la boucherie.
-The supermaket is behind the butcher's shop.
-
-Où est le supermarché?
-Where is the supermaket?
-
-Où est la librairie?
-Where is the book shop?
-
-La librairie est à côté de la boucherie.
-The book shop is next to the butcher shop.
-
-Où est la pharmacie?
-Where is the pharmacy?
-
-La pharmacie est devant la boucherie et à droite de la boulangerie.
-The pharmacy is in front of the butcher's shop and to the right of the bakery.
-
-La boulangerie est à gauche de la pharmacie.
-The bakery is to the left of the pharmacy.
-
-La poste est proche de la boucherie.
-The postal office is close to the butcher's shop.
-
-Le fast-food est entre la boucherie et la librairie.
-The fast-food joint is between the butcher's shop and the book shop.
-
-Le cinéma est en face de salle de sport.
-The cinema is across from the gym.
-
-L'hôpital est loin de la pharmacie.
-The hospital is far from the pharmacy.
-
-Vous tournez à gauche, vouz continuez et en face de la librairie, vous trouverez.
-You turn left and continue walking and across from the book shop you will find.
-
-Tu as les yeux plus gros que la ventre.
-You've got eyes bigger than your stomach.
-
-Attention! Les murs ont des oreilles.
-Careful! The walls have ears.
-
-Avoir la tête sur les épaules.
-Ter a cabeça no lugar.
-
-Il a la tête dans les nuages.
-He has his head on the clouds.
-
-Tu me casses les pieds.
-Tu estais me dando nos nervos. (expressao)
-
-Ça marche grâce au bouche-à-oreille.
-Funciona graças ao boca a boca.
-
-Il est petit.
-He is short.
-
-Il est de taille moyenne.
-He is of average height.
-
-Elle est petite.
-She is short.
+# Pourquoi ils achètent des cadeaux?
+# Why are they buying presents?
+# 
+# J'aime beaucoup ce chanteur.
+# I really like this singer.
+# 
+# Elles achètent les cadeaux de Noël.
+# They buy the Christmas presents.
+# 
+# Je m'appelle Alicia et je parle français avec vous.
+# My name is Alicia and I speak french with you.
+# 
+# Il est une heure.
+# It's one o'clock.
+# 
+# Il est huit heure cinq.
+# It's five past eight.
+# 
+# Il est huit heures dix.
+# It's ten past eight.
+# 
+# Il est huit heures et quart.
+# It's a quarter past eight.
+# 
+# Il est huit heure et demi.
+# It's eight thirty.
+# 
+# Il est neuf heures moins vingt-cinq.
+# It's eight thirty five.
+# 
+# Il est neuf heures moins le quart.
+# It's a quarter to nine.
+# 
+# Il est trois heures de l'après-midi.
+# It's 3 p.m.                               
+# 
+# Je finis le travail à dix-huit heures.
+# I finish work at six pm.
+# 
+# Tu choisis un cadeau pour son anninversaire.
+# You choose a present for his/her birthday.
+# 
+# Il réfléchi à son avenir.
+# He is thinking about his future.
+# 
+# Nous remplissons le formulaire.
+# We are filling in the form.
+# 
+# Vous grandissez rapidement.
+# You grow up quickly.
+# 
+# Je ne me souviens pas.
+# I can't remember.
+# 
+# Désolé, je ne comprends pas.
+# Sorry, I don't understand.
+# 
+# Tu peux répéter s'il te plaît?
+# Can you repeat, please? - tu
+# 
+# Vous pouvez répéter s'il vous plaît?
+# Can you repeat please?
+# 
+# Excusez-moi, je ne comprends pas.
+# Excuse me, I don't understand.  - formal
+# 
+# Est-ce que tu peux parler plus lentement?
+# Can you speak more slowly? - informal
+# 
+# Comment on dit "have fun" en français""
+# How do we say to have fun in french?
+# 
+# Ça veut dire quoi "s'amuser" en français?
+# What does "s'amuser" mean in french?
+# 
+# Que veut dire "s'amuser" en français?
+# What does "s'amuser" mean in french?
+# 
+# Ma mère s'appelle Marie et mon père s'appelle François.
+# My mother's name is Marie and my father's name is François.
+# 
+# J'ai un frère et une sœur.
+# I've got one brother and one sister.
+# 
+# La sœeur de mon père est ma tante.
+# My father's sister is my aunt.
+# 
+# Le frère de mon père est mon oncle.
+# My father's brother is my uncle.
+# 
+# Les enfants de mon oncle et de ma tante sont mes cousins.
+# My aunt and uncle's children are my cousins.
+# 
+# Mon père a un fils qui est mon frère.
+# My father has a son who is my brother.
+# 
+# Ma mère a une fille.
+# My mother has got a daughter.
+# 
+# La fille de mon frère est ma nièce.
+# My brother's daughter is my niece.
+# 
+# Le fils de mon frère est mon neveu.
+# My brother's son is my nephew.
+# 
+# Les grands-parents ont des petits-enfants.
+# The grandparents have grandchildren.
+# 
+# À la boulangerie, j'achète une baguette.
+# I buy a baguette at the bakery.
+# 
+# À la boucherie j'achéte la viande.
+# I buy meat at the butcher.
+# 
+# Au supermarché, je fais les courses.
+# I buy groceries at the supermaket.
+# 
+# À la pharmacie, j'achète des médicaments.
+# I buy medicine from the pharmacy.
+# 
+# Si je suis malade, je vais à l'hôpital.
+# If I am ill, I go to the hospital.
+# 
+# Je vais à la piscine pour nager.
+# I go to the swimming pool to swim.
+# 
+# Je vais à l'école pour étudier.
+# I go to school to study.
+# 
+# Je vais à la poste pour envoyer une lettre.
+# I go to to the postal office to send a letter.    
+# 
+# Le supermarché est derrière la boucherie.
+# The supermaket is behind the butcher's shop.
+# 
+# Où est le supermarché?
+# Where is the supermaket?
+# 
+# Où est la librairie?
+# Where is the book shop?
+# 
+# La librairie est à côté de la boucherie.
+# The book shop is next to the butcher shop.
+# 
+# Où est la pharmacie?
+# Where is the pharmacy?
+# 
+# La pharmacie est devant la boucherie et à droite de la boulangerie.
+# The pharmacy is in front of the butcher's shop and to the right of the bakery.
+# 
+# La boulangerie est à gauche de la pharmacie.
+# The bakery is to the left of the pharmacy.
+# 
+# La poste est proche de la boucherie.
+# The postal office is close to the butcher's shop.
+# 
+# Le fast-food est entre la boucherie et la librairie.
+# The fast-food joint is between the butcher's shop and the book shop.
+# 
+# Le cinéma est en face de salle de sport.
+# The cinema is across from the gym.
+# 
+# L'hôpital est loin de la pharmacie.
+# The hospital is far from the pharmacy.
+# 
+# Vous tournez à gauche, vouz continuez et en face de la librairie, vous trouverez.
+# You turn left and continue walking and across from the book shop you will find.
+# 
+# Tu as les yeux plus gros que la ventre.
+# You've got eyes bigger than your stomach.
+# 
+# Attention! Les murs ont des oreilles.
+# Careful! The walls have ears.
+# 
+# Avoir la tête sur les épaules.
+# Ter a cabeça no lugar.
+# 
+# Il a la tête dans les nuages.
+# He has his head on the clouds.
+# 
+# Tu me casses les pieds.
+# Tu estais me dando nos nervos. (expressao)
+# 
+# Ça marche grâce au bouche-à-oreille.
+# Funciona graças ao boca a boca.
+# 
+# Il est petit.
+# He is short.
+# 
+# Il est de taille moyenne.
+# He is of average height.
+# 
+# Elle est petite.
+# She is short.
 
 Il est grand.
 He is tall.
@@ -10845,3 +10854,4 @@ At a coffee shop, I have something to drink there with my friends.
 
 Tu connais Paris? Oui, j'y suis allé l'année dernière.
 Do you know Paris? Yes, I went there last year.
+

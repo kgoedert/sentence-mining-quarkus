@@ -4382,7 +4382,22 @@ Du machst sie verlegen.
 You're embarrassing them.
 
 Tom war sehr verlegen.
-Tom was deeply embarrassed.     <<<-- leech
+Tom was deeply embarrassed.     
+
+Sie lachte unvermittelt los.
+All of a sudden, she began to laugh.
+
+Die Geschichte endete unvermittelt.
+The story concluded abruptly.
+
+Sie gab mir unvermittelt einen Kuss.
+She suddenly kissed me.
+
+Wer hat sich das ausgedacht?
+Who thought this up?
+
+Er hat sich die Geschichte ausgedacht.
+He made up the story.                       <<<-- leech
 
 Sie können ihre Angst überwinden.
 They can overcome their fear.
