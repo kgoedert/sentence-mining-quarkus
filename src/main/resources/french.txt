@@ -5998,6 +5998,9 @@
 # Elle est petite.
 # She is short.
 
+Vous tournez à gauche, vous continuez et en face de la librairie, vous trouverez.
+You turn left and continue walking and across from the book shop you will find.
+
 Il est grand.
 He is tall.
 
@@ -10855,3 +10858,53 @@ At a coffee shop, I have something to drink there with my friends.
 Tu connais Paris? Oui, j'y suis allé l'année dernière.
 Do you know Paris? Yes, I went there last year.
 
+Je vais au cinéma ce soir.
+I'm going to the movies tonight.
+
+Ha oui? Tu y va avec qui?
+Oh yeah? Who are you going there with?
+
+Tu vas souvent à Paris? Oui, j'essaye d'y aller assez souvent.
+Do you go frequently to Paris? Yes, I try to go there quite often.
+
+Tu connais Barcelone? Oui, nous y sommes allés l'année dernière.
+Do you know Barcelona? Yes, we went there last year.
+
+Ok, j'y vais!
+Ok, I'm leaving!
+
+On y va?
+Shall we go?
+
+Allons-y!
+Let's go!
+
+Allez-y!
+Go ahead!
+
+Tu as des livres sur les États-Unis? Oui, j'en ai trois très intéressants.
+Do you have any books about the United States? Yes, I three very interesting ones.
+
+Vous voulez du gâteau? Oui, j'en voudrais un morceau.
+Would you like some cake? Yes, I'd like a piece of it.
+
+Il y a du pain? Oui, j'en ai acheté hier.
+Is there some bread? Yes, I bought some yesterday.
+
+Il y a une baguette de pain.
+There's a baguette of bread.
+
+Il y a de l'eau dans le frigo? Oui, j'en ai mis trois bouteilles.
+Is there some water in the fridge? Yes, I put three bottles in it.
+
+Tu te souviens de Marie? Oui, je m'en souviens très bien.
+Do you remember Marie? Yes, I remember her very well.
+
+Il s'en souvient? Il s'en souvient parfaitement.
+Does he remember her? He remembers her perfectly.
+
+Tu parles souvent de ton père. Oui, j'en parles très souvent. 
+You often talk about your father. Yes, I talk about him very often.
+
+Elle s'occupe de ses enfants le week-end? Bien sûr, elle s'en occupe tous les jours.
+Does she take care of her children on the weekend? Of course, she takes care of them every day.
