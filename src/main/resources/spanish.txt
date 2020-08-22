@@ -5397,307 +5397,307 @@
 # 
 # No quiere hacerlo nadie.
 # Nobody wants to do it.
+# # 
+# Jamás como carne.
+# I never eat meat.
 # 
-Jamás como carne.
-I never eat meat.
-
-Nunca se levantan antes de las nueve.
-They never wake up before nine.
-
-No he visitado nunca el museo de América.
-I have never visited the America museum.
-
-Alberto no quiere ir a la playa y tampoco quiere ir a la piscina.
-Alberto does not want to go to the beach and he doesn't want to go to the pool also.
-
-No ha venido Carlos y no ha vendio Lidia tampoco.
-Carlos has not come and much less Lidia.
-
-Me ha encantado la película. A mí también.
-I loved the movie. Me too.
-
-No sé bailar salsa. Yo tampoco.
-I don't know how to dance salsa. Me neither.
-
-Juegas muy bien. Tú también.
-You play very well. You too.
-
-No hablo ruso. Yo tampoco.
-I don't speak russian. Me neither.
-
-A Marcos no le gusta viajar. A Luisa tampoco.
-Marcos doesn't like to travel. Luisa neither.
-
-Me ha encantado la película. A mí no.
-I loved the movie. I didn't.
-
-No sé bailar salsa. Yo sí. Ven, te enseño.
-I don't know how to danse salsa. Come, I'll teach you.
-
-Tengo calor. Yo no.
-I am hot. I'm not.
-
-A Sergio le encanta viajar. Pues a Gema no.
-Sergio loves to travel. Well, Gema doesn't.
-
-No estoy cansada. Nosotros sí.
-I'm not tired. We are.
-
-A Esteban no le gusta el deporte. Pues a Alba sí. Mucho.
-Esteban doesn't like sports. Well, Alba does. A lot.
-
-¿Os ha gustado la película? A mí sí. A mí no.
-Did you like the movie? I did. I didn't.
-
-¿Queréis jugar las cartas? Yo sí. Yo también. Yo no.
-Do you want to play cards? I do. Me too. I don't.
-
-Te espero a las cinco.
-I wait for you at five.
-
-La fiesta acabó a medianoche.
-The party ended at midnight.
-
-He quedado con Amalia a mediodía.
-I met Amalia at noon.
-
-Margarita se suele levantar a las seis.
-Margarita usually gets up at six.
-
-Ahora estoy trabajando por las tardes.
-Now I am working the afternoons.
-
-Elisa y Armando se casan en enero.
-Elisa and Armando marry in january.
-
-Colón llegó a América en 1492.
-Colón arrived in America in 1492.
-
-Mi cumpleaños es en verano.
-My birthday is in the summer.
-
-Colón llegó en América el 12 de octubre de 1492.
-Colón arrived in America in october 12th 1492.
-
-En este momento no puedo atenderte.
-I can't help you right now.
-
-Nuria va a llegar en cualquier momento.
-Nuria arrives at any moment.
-
-Estaré en casa hasta las ocho.
-I'll be at home until 8.
-
-Teresa vivió en Cuba hasta 1987.
-Teresa lived in Cuba until 1987.
-
-Amanda no me llama desde Navidad.
-Amanda doesn't call me since Christmas.
-
-No me siento bien desde ayer.
-I am not felling well since yesterday.
-
-Lucía vivió en Panamá de 1999 a 2001.
-Lucía lived in Panama from 1999 to 2001.
-
-Natalia tiene clases desde las cinco hasta las siete.
-Natalia has classes from five until to seven.
-
-Trabajo solo de lunes a jueves.
-I work alone from monday to thursday.
-
-Este dentista tiene consulta los viernes de cinco a siete.
-This dentist consults on Fridays from five to seven.
-
-Estuvimos afónicos durante dos días.
-We were hoarse for two days.
-
-Te llamo dentro de dos días.
-I'll call you in two days.
-
-Vuelvo dentro de cinco minutos.
-I come back in five minutes.
-
-¿Adónde vas? Voy a la academia.
-Where are you going? I'm going to the academy.
-
-Voy al mercado. Necesitamos frutas.
-I'm going to the market. We need fruits.
-
-El pueblo está a seis kilómetros.
-The village is six kilometers away.
-
-Esta autopista va hacia el sur.
-This highway goes south.
-
-Corrimos hasta la parada del autobús. 
-We ran until the bus stop.
-
-Hicimos una marcha y llegamos a Aranjuez.
-We did a march and we got to Aranjuez.
-
-Han venido de la playa de bicicleta.
-They came from the beach by bike.
-
-¿De dónde vienes? De casa de Eva. Está mejor.
-Where are you coming from? From Eva's. She's better.
-
-Venimos del cine. Hemos visto una película fabulosa.
-We came from the movies. We saw a fabulous movie.
-
-Se ve el mar desde la terraza.
-You can see the sea from the terrace.
-
-Hay mucho camino desde la iglesia hasta el restaurante.
-It is a long way from the church to the restaurant.
-
-Tengo sellos en el cajón.
-I have stamps in the drawer.
-
-Teresa vive en el quinto piso.
-Teresa lives in the fifth floor.
-
-Se sentaron a la puerta de la casa.
-They sat at the door of the house.
-
-Hay muchos papeles sobre el televisor.
-There are a lot of papers over the tv.
-
-A veces pasan aviones sobre la ciudad.
-Sometimes planes pass over the city.
-
-La farmacia está entre el supermercado y el banco.
-The pharmacy is between the supermaket and the bank.
-
-¿Dónde están los documentos?
-Where are the documents?
-
-Encima de la mesa.
-On the table.
-
-Las llaves están dentro del cajón.
-The keys are in the drawer.
-
-No dejéis nada encima de las sillas.
-Don't leave anything on the chairs.
-
-Enrique guarda sus juguetes debajo de la cama.
-Enrique stores his toys under the table.
-
-El abrigo está dentro del armario.
-The coat is inside the wardrobe.
-
-Te has dejado la leche fuera de la nevera.
-You have left the milk out of the fridge.
-
-Rosa vive cerca del centro.
-Rosa lives close to downtown.
-
-El estadio está lejos de aquí.
-The stadium is far from here.
-
-Aurelio vive enfrente de un parque.
-Aurelio lives in front of a park.
-
-Hay una papelería junto a la academia.
-There is a stationary store next to the academy.
-
-No me dejas ver. Estás siempre delante del televisor.
-You don't let me see. You are always in front of the tv.
-
-¿Quién está detrás de mí?
-Who is behind me?
-
-Le he regalado mi portátil a Pedro.
-I gave my laptop to Pedro.
-
-Tienes que dar comida a los gatos.
-You have to feed the cats.
-
-Anoche vimos a Elena en el concierto.
-Last night we saw Elena at the concert.
-
-Tengo que lavar a Fifí. Está sucísimo.
-I have to wash Fifí. He is very dirty.
-
-Algunas personas quieren mucho a sus peros.
-Some people like their dogs very much.
-
-¿Has visto las vacas que hay en el establo?
-Have you seen the cows that there are in the stable?
-
-Hoy hay poca gente en el concierto.
-Today there is few people at the concert.
-
-Necesito un médico.
-I need a doctor.
-
-El fontanero ha venido arreglar el baño.
-The plumber came to fix the bathroom.
-
-Estas sandalias están hechas a mano.
-These sandals are handmade.
-
-Este es el despacho de Elvira.
-This is Elvira's office.
-
-Este jarrón es de porcelana.
-This vase is made of porcelain.
-
-Esos señores son de Costa Rica.
-Those gentlemen are from Costa Rica.
-
-Me encantam las tartas de chocolate.
-I love chocolate pies.
-
-Necesito una gramática de español.
-I need a spanish grammar book.
-
-Necesito gafas de sol.
-I need sunglasses.
-
-La chica de la falda amarilla es argentina.
-The girl in the yellow skirt is argentinian.
-
-Fernando tiene una niña de diez años.
-Fernando has a ten years old girl.
-
-El viaje al Machu Picchu se hace en tren y en autobús.
-The trip to Machu Picchu is made by train and bus.
-
-Voy a trabajar a pie. Vivo muy cerca de la oficina.
-I go to work on foot. I live very close to the office.
-
-Me gusta trabajar en silencio.
-I like to work in silence.
-
-No me hables en ruso. No te entiendo.
-Don't talk to me in russian. I can't understand you.
-
-El cartero suele llegar sobre las diez.
-The postman usually arrives close to ten.
-
-Mañana hay una conferencia sobre la globalización.
-Tomorrow there is a conference about globalization.
-
-Estoy escrebiendo un libro sobre Miguel Ángel Asturias.
-I'm writing a book about Miguel Ángel Asturias.
-
-Estas flores son para usted.
-These flowers are for you.
-
-Mañana salimos para Londres.
-Tomorrow we leave to London.
-
-Toma, un regalo para ti.
-Here, a present for you.
-
-He comprado unos altavoces para el ordenador.
-I bought some speakers for the computer.
-
-¿Tiene un cuchillo para pelar patatas?
-Do you have a knife to peal potatos?
-
+# Nunca se levantan antes de las nueve.
+# They never wake up before nine.
+# 
+# No he visitado nunca el museo de América.
+# I have never visited the America museum.
+# 
+# Alberto no quiere ir a la playa y tampoco quiere ir a la piscina.
+# Alberto does not want to go to the beach and he doesn't want to go to the pool also.
+# 
+# No ha venido Carlos y no ha vendio Lidia tampoco.
+# Carlos has not come and much less Lidia.
+# 
+# Me ha encantado la película. A mí también.
+# I loved the movie. Me too.
+# 
+# No sé bailar salsa. Yo tampoco.
+# I don't know how to dance salsa. Me neither.
+# 
+# Juegas muy bien. Tú también.
+# You play very well. You too.
+# 
+# No hablo ruso. Yo tampoco.
+# I don't speak russian. Me neither.
+# 
+# A Marcos no le gusta viajar. A Luisa tampoco.
+# Marcos doesn't like to travel. Luisa neither.
+# 
+# Me ha encantado la película. A mí no.
+# I loved the movie. I didn't.
+# 
+# No sé bailar salsa. Yo sí. Ven, te enseño.
+# I don't know how to danse salsa. Come, I'll teach you.
+# 
+# Tengo calor. Yo no.
+# I am hot. I'm not.
+# 
+# A Sergio le encanta viajar. Pues a Gema no.
+# Sergio loves to travel. Well, Gema doesn't.
+# 
+# No estoy cansada. Nosotros sí.
+# I'm not tired. We are.
+# 
+# A Esteban no le gusta el deporte. Pues a Alba sí. Mucho.
+# Esteban doesn't like sports. Well, Alba does. A lot.
+# 
+# ¿Os ha gustado la película? A mí sí. A mí no.
+# Did you like the movie? I did. I didn't.
+# 
+# ¿Queréis jugar las cartas? Yo sí. Yo también. Yo no.
+# Do you want to play cards? I do. Me too. I don't.
+# 
+# Te espero a las cinco.
+# I wait for you at five.
+# 
+# La fiesta acabó a medianoche.
+# The party ended at midnight.
+# 
+# He quedado con Amalia a mediodía.
+# I met Amalia at noon.
+# 
+# Margarita se suele levantar a las seis.
+# Margarita usually gets up at six.
+# 
+# Ahora estoy trabajando por las tardes.
+# Now I am working the afternoons.
+# 
+# Elisa y Armando se casan en enero.
+# Elisa and Armando marry in january.
+# 
+# Colón llegó a América en 1492.
+# Colón arrived in America in 1492.
+# 
+# Mi cumpleaños es en verano.
+# My birthday is in the summer.
+# 
+# Colón llegó en América el 12 de octubre de 1492.
+# Colón arrived in America in october 12th 1492.
+# 
+# En este momento no puedo atenderte.
+# I can't help you right now.
+# 
+# Nuria va a llegar en cualquier momento.
+# Nuria arrives at any moment.
+# 
+# Estaré en casa hasta las ocho.
+# I'll be at home until 8.
+# 
+# Teresa vivió en Cuba hasta 1987.
+# Teresa lived in Cuba until 1987.
+# 
+# Amanda no me llama desde Navidad.
+# Amanda doesn't call me since Christmas.
+# 
+# No me siento bien desde ayer.
+# I am not felling well since yesterday.
+# 
+# Lucía vivió en Panamá de 1999 a 2001.
+# Lucía lived in Panama from 1999 to 2001.
+# 
+# Natalia tiene clases desde las cinco hasta las siete.
+# Natalia has classes from five until to seven.
+# 
+# Trabajo solo de lunes a jueves.
+# I work alone from monday to thursday.
+# 
+# Este dentista tiene consulta los viernes de cinco a siete.
+# This dentist consults on Fridays from five to seven.
+# 
+# Estuvimos afónicos durante dos días.
+# We were hoarse for two days.
+# 
+# Te llamo dentro de dos días.
+# I'll call you in two days.
+# 
+# Vuelvo dentro de cinco minutos.
+# I come back in five minutes.
+# 
+# ¿Adónde vas? Voy a la academia.
+# Where are you going? I'm going to the academy.
+# 
+# Voy al mercado. Necesitamos frutas.
+# I'm going to the market. We need fruits.
+# 
+# El pueblo está a seis kilómetros.
+# The village is six kilometers away.
+# 
+# Esta autopista va hacia el sur.
+# This highway goes south.
+# 
+# Corrimos hasta la parada del autobús. 
+# We ran until the bus stop.
+# 
+# Hicimos una marcha y llegamos a Aranjuez.
+# We did a march and we got to Aranjuez.
+# 
+# Han venido de la playa de bicicleta.
+# They came from the beach by bike.
+# 
+# ¿De dónde vienes? De casa de Eva. Está mejor.
+# Where are you coming from? From Eva's. She's better.
+# 
+# Venimos del cine. Hemos visto una película fabulosa.
+# We came from the movies. We saw a fabulous movie.
+# 
+# Se ve el mar desde la terraza.
+# You can see the sea from the terrace.
+# 
+# Hay mucho camino desde la iglesia hasta el restaurante.
+# It is a long way from the church to the restaurant.
+# 
+# Tengo sellos en el cajón.
+# I have stamps in the drawer.
+# 
+# Teresa vive en el quinto piso.
+# Teresa lives in the fifth floor.
+# 
+# Se sentaron a la puerta de la casa.
+# They sat at the door of the house.
+# 
+# Hay muchos papeles sobre el televisor.
+# There are a lot of papers over the tv.
+# 
+# A veces pasan aviones sobre la ciudad.
+# Sometimes planes pass over the city.
+# 
+# La farmacia está entre el supermercado y el banco.
+# The pharmacy is between the supermaket and the bank.
+# 
+# ¿Dónde están los documentos?
+# Where are the documents?
+# 
+# Encima de la mesa.
+# On the table.
+# 
+# Las llaves están dentro del cajón.
+# The keys are in the drawer.
+# 
+# No dejéis nada encima de las sillas.
+# Don't leave anything on the chairs.
+# 
+# Enrique guarda sus juguetes debajo de la cama.
+# Enrique stores his toys under the table.
+# 
+# El abrigo está dentro del armario.
+# The coat is inside the wardrobe.
+# 
+# Te has dejado la leche fuera de la nevera.
+# You have left the milk out of the fridge.
+# 
+# Rosa vive cerca del centro.
+# Rosa lives close to downtown.
+# 
+# El estadio está lejos de aquí.
+# The stadium is far from here.
+# 
+# Aurelio vive enfrente de un parque.
+# Aurelio lives in front of a park.
+# 
+# Hay una papelería junto a la academia.
+# There is a stationary store next to the academy.
+# 
+# No me dejas ver. Estás siempre delante del televisor.
+# You don't let me see. You are always in front of the tv.
+# 
+# ¿Quién está detrás de mí?
+# Who is behind me?
+# 
+# Le he regalado mi portátil a Pedro.
+# I gave my laptop to Pedro.
+# 
+# Tienes que dar comida a los gatos.
+# You have to feed the cats.
+# 
+# Anoche vimos a Elena en el concierto.
+# Last night we saw Elena at the concert.
+# 
+# Tengo que lavar a Fifí. Está sucísimo.
+# I have to wash Fifí. He is very dirty.
+# 
+# Algunas personas quieren mucho a sus peros.
+# Some people like their dogs very much.
+# 
+# ¿Has visto las vacas que hay en el establo?
+# Have you seen the cows that there are in the stable?
+# 
+# Hoy hay poca gente en el concierto.
+# Today there is few people at the concert.
+# 
+# Necesito un médico.
+# I need a doctor.
+# 
+# El fontanero ha venido arreglar el baño.
+# The plumber came to fix the bathroom.
+# 
+# Estas sandalias están hechas a mano.
+# These sandals are handmade.
+# 
+# Este es el despacho de Elvira.
+# This is Elvira's office.
+# 
+# Este jarrón es de porcelana.
+# This vase is made of porcelain.
+# 
+# Esos señores son de Costa Rica.
+# Those gentlemen are from Costa Rica.
+# 
+# Me encantam las tartas de chocolate.
+# I love chocolate pies.
+# 
+# Necesito una gramática de español.
+# I need a spanish grammar book.
+# 
+# Necesito gafas de sol.
+# I need sunglasses.
+# 
+# La chica de la falda amarilla es argentina.
+# The girl in the yellow skirt is argentinian.
+# 
+# Fernando tiene una niña de diez años.
+# Fernando has a ten years old girl.
+# 
+# El viaje al Machu Picchu se hace en tren y en autobús.
+# The trip to Machu Picchu is made by train and bus.
+# 
+# Voy a trabajar a pie. Vivo muy cerca de la oficina.
+# I go to work on foot. I live very close to the office.
+# 
+# Me gusta trabajar en silencio.
+# I like to work in silence.
+# 
+# No me hables en ruso. No te entiendo.
+# Don't talk to me in russian. I can't understand you.
+# 
+# El cartero suele llegar sobre las diez.
+# The postman usually arrives close to ten.
+# 
+# Mañana hay una conferencia sobre la globalización.
+# Tomorrow there is a conference about globalization.
+# 
+# Estoy escrebiendo un libro sobre Miguel Ángel Asturias.
+# I'm writing a book about Miguel Ángel Asturias.
+# 
+# Estas flores son para usted.
+# These flowers are for you.
+# 
+# Mañana salimos para Londres.
+# Tomorrow we leave to London.
+# 
+# Toma, un regalo para ti.
+# Here, a present for you.
+# 
+# He comprado unos altavoces para el ordenador.
+# I bought some speakers for the computer.
+# 
+# ¿Tiene un cuchillo para pelar patatas?
+# Do you have a knife to peal potatos?
+# 
 He comprado unos pollos para el domingo.
 I bought some chickens for sunday.
 
