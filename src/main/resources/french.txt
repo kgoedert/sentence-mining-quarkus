@@ -5996,308 +5996,308 @@
 # He is of average height.
 # 
 # Elle est petite.
-# She is short.
-
-Vous tournez à gauche, vous continuez et en face de la librairie, vous trouverez.
-You turn left and continue walking and across from the book shop you will find.
-
-Il est grand.
-He is tall.
-
-Elle est grande.
-She is tall.
-
-Il est maigre.
-He is skinny.
-
-Elle est mince.
-She is slim.
-
-Il est gros.
-He is fat.
-
-Elle est grosse.
-She is fat.
-
-Il a les yeux vert.
-He has green eyes.
-
-Elle a les cheveux bruns.
-She has dark hair.
-
-Il est brun.
-He is dark haired.
-
-Elle est brune.
-She is dark haired.      
-
-Il est blond.
-He is blond.
-
-Elle est blonde.
-She is blond.
-
-Il est châtain.
-He is brown haired.
-
-Il est roux.
-He is ginger haired.
-
-Elle est rousse.
-She is ginger haired.
-
-Il a les cheveux courts.
-He has short hair.
-
-Il a les cheveux longs.
-He has long hair.
-
-Elle a les cheveux bouclés.
-She has curly hair.
-
-Elle a les cheveux lisses.
-She has straight hair.
-
-Elle a le teint pâle.
-She has pale skin.
-
-Il a le teint mat.
-He has dark skin.
-
-Il a le visage fin.
-He has a thin face.
-
-Il a le visage rond.
-He has a round face.
-
-Il a le nez fin.
-He has a thin nose.
-
-Il a le nez long.
-He has a long nose.
-
-Il est jeune.
-He is young.
-
-Il est âgé.
-He is old.
-
-Il a une barbe.
-He has a beard.
-
-Il a une moustache.
-He has a mustache.
-
-Il porte une barbe.
-He wears a beard.
-
-Dans l'année, il y a quatre saisons.
-There are four seasons in a year.
-
-L'hiver commence le vingt-et-un décembre et inclus les de janvier, février et mars.
-Winter begins on december 21st and includes the months of january, february and march.
-
-En mars commence le printemps, et le printemps continue en avril, mai e juin.
-Spring starts in march, and spring continues in april, may and june.
-
-Le vingt-et-un juin, c'est l'été qui commence, et l'été continue juillet, août et septembre.
-On june 21st, summer starts, and summer continues in july, august and september.
-
-Et le vingt-deux commence l'automne, qui inclus les mois d'octobre, novembre et décembre.
-And on september 22nd, autumn starts, which includes the months of october, november and december.
-
-En hiver, il fait froid.
-In winter, it's cold.
-
-Souvent, il neige, il pleut.
-Often, it snows, it rains.
-
-Le ciel est gris, nuageux.
-The sky is grey, cloudy.
-
-Il y a des nuages.
-There are clouds.
-
-Nous fêtons Noël et le réveillon du Nouvel An.
-We celebrate Christmas and New Year's eve.
-
-D'accord? Donc quand on pense "hiver", les fêtes de Nöel, avec Nöel et le Jour de l'An.
-All right? So when we think "winter", the Christmas celebrations, with Christmas and New Year's Day.
-
-Au printemps, le temps est variable.
-In spring, the weather is changeable.
-
-Il fait beau, mais quelques fois il pleut, il y a du vent, le ciel est clair, les arbres deviennent verts.
-The weather is good, but sometimes it rains, it's windy, the sky is clear, the trees become green.
-
-Il y des fleurs dans les parcs et les jardins qui bourgeonnent.
-There are flowers in parks and gardens that sprout.
-
-En été il fait beau, il fait chaud, le ciel est bleu, les journées sont longues.
-In summer the weather is good, it's hot, the sky is blue, the days are long.
-
-Les journées sont longues.
-The days are long.             
-
-En été, nous allons à la mer, à la plage, dans une destination de vacances chaudes.
-In summer, we go to the seaside, to the beach, to a hot holiday destination.
-
-En automne, it fait frais, il pleut parfois, il y a du vent, les feuilles tombent.
-In autumn, it's fresh, it rains sometimes, it's windy, the leaves fall.
-
-En septembre, c'est la rentrée de classes.
-In september, school begins.
-
-Dans beacoup de pays maintenant c'est fêté, et en France aussi.
-It's celebrated in a lot of countries nowadays, and in France also.
-
-Les enfants se déguisent et ils vont chercher des bonbons chez les voisins.
-The children wear costumes and ask for sweets at their neighbours' houses.
-
-En mars, nous fêtons le Carnaval.
-In March we celebrate carnival.
-
-Le matin, je prends le petit-déjeuner.
-In the morning, I have breakfast.
-
-Le midi, je mange le déjeuner.
-At noon, I eat lunch.
-
-Le matin pour le petit-déjeuner, je mange des céréales avec du lait.
-In the morning, I eat cereals with milk for breakfast.
-
-Parfois, je mange des fruits.
-Sometimes, I eat fruits.
-
-Je mange un pain au chocolat.
-I eat a pain au chocolat.
-
-Je fais un jus de fruits frais.
-I make fresh fruit juice.
-
-Je bois un café.
-I drink a coffee.
-
-Je mange une tartine avec du beurre et de la confiture.
-I eat toast with butter and jam.
-
-Le midi, je mange le déjeuner.
-At noon, I eat lunch.
-
-Au déjeuner, je mange de la viande ou du poisson avec des légumes.
-At lunch, I eat meat or fish with vegetables.
-
-de la viande avec des pâtes.
-meat with pasta.
-
-Dans la maison on commence avec la cuisine.
-In the house we are going to start with the kitchen.
-
-Dans la cuisine, vous cuisiniez.
-In the kitchen, you cook.
-
-Dans la cuisine, je prépare les repas.
-In the kitchen, I prepare the meals.
-
-Dans le salon, je regarde la télévision.
-I watch tv in the living room.
-
-Je lis le journal.
-I read the newspaper.
-
-Je me repose.
-I am resting.
-
-Je parle avec ma famille.
-I talk to my family.
-
-J'appelle quelqu'un.
-I call someone.
-
-Je place la table.
-I set the table.
-
-Je débarrasse la table.
-Eu tiro a mesa. - (tirar os pratos da mesa)
-
-Dans la chambre, je dors.
-I sleep in the bedroom.
-
-Je m'habille.
-I get dressed.
-
-Dans la chambre, je fais mon lit.
-In the bedroom, I make my bed.
-
-Je fais mon lit chaque matin.
-I make my bed every morning.
-
-Je me douche.
-I take a shower.
-
-Je me brosse les dents.
-I brush my teeth.
-
-Je ma coiffe.
-I comb my hair.
-
-Je me maquille.
-I do my make-up.
-
-Je met du parfum.
-I put perfume on.
-
-Je me peigne.
-I comb my hair.
-
-Je prends un bain.
-I take a bath.
-
-Vous montez et vous descendez les escaliers.
-You go up and down the stairs.
-
-Le bureau c'est pour jouer aux jeux vidéo.
-The office is for playing video games.
-
-Vous garez la voiture.
-You park the car.
-
-Dans le garage, je gare ma voiture.
-I park my car in the garage.
-
-Je fais du jardinage.
-I garden.
-
-Je peux manger aussi dans le jardin.
-I can eat in the garden as well.
-
-Je vais au cinéma chaque lundi.
-I go to the cinema every monday.
-
-Il va à l'école.
-He is going to school.
-
-Elles vont chez le dentiste.
-They go to the dentist.        
-
-Qu'est-ce que vous dites?
-What are you saying?
-
-Qu'est-ce que vous faites?
-What are you doing?
-
-Je fais la vaissele.
-I do the dishes.
-
-Je fais un gâteau.
-I make a cake.
-
-Je fais du sport.
-I do sports.
-
-Je fais ce que je veux.
-I do what I want.
-
+# # She is short.
+# 
+# Vous tournez à gauche, vous continuez et en face de la librairie, vous trouverez.
+# You turn left and continue walking and across from the book shop you will find.
+# 
+# Il est grand.
+# He is tall.
+# 
+# Elle est grande.
+# She is tall.
+# 
+# Il est maigre.
+# He is skinny.
+# 
+# Elle est mince.
+# She is slim.
+# 
+# Il est gros.
+# He is fat.
+# 
+# Elle est grosse.
+# She is fat.
+# 
+# Il a les yeux vert.
+# He has green eyes.
+# 
+# Elle a les cheveux bruns.
+# She has dark hair.
+# 
+# Il est brun.
+# He is dark haired.
+# 
+# Elle est brune.
+# She is dark haired.      
+# 
+# Il est blond.
+# He is blond.
+# 
+# Elle est blonde.
+# She is blond.
+# 
+# Il est châtain.
+# He is brown haired.
+# 
+# Il est roux.
+# He is ginger haired.
+# 
+# Elle est rousse.
+# She is ginger haired.
+# 
+# Il a les cheveux courts.
+# He has short hair.
+# 
+# Il a les cheveux longs.
+# He has long hair.
+# 
+# Elle a les cheveux bouclés.
+# She has curly hair.
+# 
+# Elle a les cheveux lisses.
+# She has straight hair.
+# 
+# Elle a le teint pâle.
+# She has pale skin.
+# 
+# Il a le teint mat.
+# He has dark skin.
+# 
+# Il a le visage fin.
+# He has a thin face.
+# 
+# Il a le visage rond.
+# He has a round face.
+# 
+# Il a le nez fin.
+# He has a thin nose.
+# 
+# Il a le nez long.
+# He has a long nose.
+# 
+# Il est jeune.
+# He is young.
+# 
+# Il est âgé.
+# He is old.
+# 
+# Il a une barbe.
+# He has a beard.
+# 
+# Il a une moustache.
+# He has a mustache.
+# 
+# Il porte une barbe.
+# He wears a beard.
+# 
+# Dans l'année, il y a quatre saisons.
+# There are four seasons in a year.
+# 
+# L'hiver commence le vingt-et-un décembre et inclus les de janvier, février et mars.
+# Winter begins on december 21st and includes the months of january, february and march.
+# 
+# En mars commence le printemps, et le printemps continue en avril, mai e juin.
+# Spring starts in march, and spring continues in april, may and june.
+# 
+# Le vingt-et-un juin, c'est l'été qui commence, et l'été continue juillet, août et septembre.
+# On june 21st, summer starts, and summer continues in july, august and september.
+# 
+# Et le vingt-deux commence l'automne, qui inclus les mois d'octobre, novembre et décembre.
+# And on september 22nd, autumn starts, which includes the months of october, november and december.
+# 
+# En hiver, il fait froid.
+# In winter, it's cold.
+# 
+# Souvent, il neige, il pleut.
+# Often, it snows, it rains.
+# 
+# Le ciel est gris, nuageux.
+# The sky is grey, cloudy.
+# 
+# Il y a des nuages.
+# There are clouds.
+# 
+# Nous fêtons Noël et le réveillon du Nouvel An.
+# We celebrate Christmas and New Year's eve.
+# 
+# D'accord? Donc quand on pense "hiver", les fêtes de Nöel, avec Nöel et le Jour de l'An.
+# All right? So when we think "winter", the Christmas celebrations, with Christmas and New Year's Day.
+# 
+# Au printemps, le temps est variable.
+# In spring, the weather is changeable.
+# 
+# Il fait beau, mais quelques fois il pleut, il y a du vent, le ciel est clair, les arbres deviennent verts.
+# The weather is good, but sometimes it rains, it's windy, the sky is clear, the trees become green.
+# 
+# Il y des fleurs dans les parcs et les jardins qui bourgeonnent.
+# There are flowers in parks and gardens that sprout.
+# 
+# En été il fait beau, il fait chaud, le ciel est bleu, les journées sont longues.
+# In summer the weather is good, it's hot, the sky is blue, the days are long.
+# 
+# Les journées sont longues.
+# The days are long.             
+# 
+# En été, nous allons à la mer, à la plage, dans une destination de vacances chaudes.
+# In summer, we go to the seaside, to the beach, to a hot holiday destination.
+# 
+# En automne, it fait frais, il pleut parfois, il y a du vent, les feuilles tombent.
+# In autumn, it's fresh, it rains sometimes, it's windy, the leaves fall.
+# 
+# En septembre, c'est la rentrée de classes.
+# In september, school begins.
+# 
+# Dans beacoup de pays maintenant c'est fêté, et en France aussi.
+# It's celebrated in a lot of countries nowadays, and in France also.
+# 
+# Les enfants se déguisent et ils vont chercher des bonbons chez les voisins.
+# The children wear costumes and ask for sweets at their neighbours' houses.
+# 
+# En mars, nous fêtons le Carnaval.
+# In March we celebrate carnival.
+# 
+# Le matin, je prends le petit-déjeuner.
+# In the morning, I have breakfast.
+# 
+# Le midi, je mange le déjeuner.
+# At noon, I eat lunch.
+# 
+# Le matin pour le petit-déjeuner, je mange des céréales avec du lait.
+# In the morning, I eat cereals with milk for breakfast.
+# 
+# Parfois, je mange des fruits.
+# Sometimes, I eat fruits.
+# 
+# Je mange un pain au chocolat.
+# I eat a pain au chocolat.
+# 
+# Je fais un jus de fruits frais.
+# I make fresh fruit juice.
+# 
+# Je bois un café.
+# I drink a coffee.
+# 
+# Je mange une tartine avec du beurre et de la confiture.
+# I eat toast with butter and jam.
+# 
+# Le midi, je mange le déjeuner.
+# At noon, I eat lunch.
+# 
+# Au déjeuner, je mange de la viande ou du poisson avec des légumes.
+# At lunch, I eat meat or fish with vegetables.
+# 
+# de la viande avec des pâtes.
+# meat with pasta.
+# 
+# Dans la maison on commence avec la cuisine.
+# In the house we are going to start with the kitchen.
+# 
+# Dans la cuisine, vous cuisiniez.
+# In the kitchen, you cook.
+# 
+# Dans la cuisine, je prépare les repas.
+# In the kitchen, I prepare the meals.
+# 
+# Dans le salon, je regarde la télévision.
+# I watch tv in the living room.
+# 
+# Je lis le journal.
+# I read the newspaper.
+# 
+# Je me repose.
+# I am resting.
+# 
+# Je parle avec ma famille.
+# I talk to my family.
+# 
+# J'appelle quelqu'un.
+# I call someone.
+# 
+# Je place la table.
+# I set the table.
+# 
+# Je débarrasse la table.
+# Eu tiro a mesa. - (tirar os pratos da mesa)
+# 
+# Dans la chambre, je dors.
+# I sleep in the bedroom.
+# 
+# Je m'habille.
+# I get dressed.
+# 
+# Dans la chambre, je fais mon lit.
+# In the bedroom, I make my bed.
+# 
+# Je fais mon lit chaque matin.
+# I make my bed every morning.
+# 
+# Je me douche.
+# I take a shower.
+# 
+# Je me brosse les dents.
+# I brush my teeth.
+# 
+# Je ma coiffe.
+# I comb my hair.
+# 
+# Je me maquille.
+# I do my make-up.
+# 
+# Je met du parfum.
+# I put perfume on.
+# 
+# Je me peigne.
+# I comb my hair.
+# 
+# Je prends un bain.
+# I take a bath.
+# 
+# Vous montez et vous descendez les escaliers.
+# You go up and down the stairs.
+# 
+# Le bureau c'est pour jouer aux jeux vidéo.
+# The office is for playing video games.
+# 
+# Vous garez la voiture.
+# You park the car.
+# 
+# Dans le garage, je gare ma voiture.
+# I park my car in the garage.
+# 
+# Je fais du jardinage.
+# I garden.
+# 
+# Je peux manger aussi dans le jardin.
+# I can eat in the garden as well.
+# 
+# Je vais au cinéma chaque lundi.
+# I go to the cinema every monday.
+# 
+# Il va à l'école.
+# He is going to school.
+# 
+# Elles vont chez le dentiste.
+# They go to the dentist.        
+# 
+# Qu'est-ce que vous dites?
+# What are you saying?
+# 
+# Qu'est-ce que vous faites?
+# What are you doing?
+# 
+# Je fais la vaissele.
+# I do the dishes.
+# 
+# Je fais un gâteau.
+# I make a cake.
+# 
+# Je fais du sport.
+# I do sports.
+# 
+# Je fais ce que je veux.
+# I do what I want.
+# 
 I fais de l'anglais.
 I learn/practice english.
 
