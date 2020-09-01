@@ -6298,6 +6298,9 @@
 # Je fais ce que je veux.
 # I do what I want.
 # 
+Il a les yeux verts.
+He has green eyes. 
+
 L'hiver commence le vingt-et-un décembre et inclus les mois de janvier, février et mars.
 Winter begins on december 21st and includes the months of january, february and march.
 
