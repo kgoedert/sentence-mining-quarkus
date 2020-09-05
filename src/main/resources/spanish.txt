@@ -5698,6 +5698,9 @@
 # ¿Tiene un cuchillo para pelar patatas?
 # Do you have a knife to peal potatos?
 # 
+No ha venido Carlos y no ha venido Lidia tampoco.
+Carlos has not come and much less Lidia.
+
 He comprado unos pollos para el domingo.
 I bought some chickens for sunday.
 
