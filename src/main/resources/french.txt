@@ -6598,6 +6598,9 @@
 # Combien de livres tu as dans ta bibliothèque?
 # How many books have you got in your library?
 # 
+Tu choisis un cadeau pour son anniversaire.
+You choose a present for his/her birthday. - tu
+
 Comment elle va au travail? Elle va au travail en voiture.
 How does she go to work? She goes to work by car.
 
