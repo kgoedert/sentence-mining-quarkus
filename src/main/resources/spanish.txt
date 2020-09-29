@@ -5668,336 +5668,336 @@
 # Voy a trabajar a pie. Vivo muy cerca de la oficina.
 # I go to work on foot. I live very close to the office.
 # 
-# Me gusta trabajar en silencio.
-# I like to work in silence.
+# # Me gusta trabajar en silencio.
+# # I like to work in silence.
+# # 
+# # No me hables en ruso. No te entiendo.
+# # Don't talk to me in russian. I can't understand you.
+# # 
+# # El cartero suele llegar sobre las diez.
+# # The postman usually arrives close to ten.
+# # 
+# # Mañana hay una conferencia sobre la globalización.
+# # Tomorrow there is a conference about globalization.
+# # 
+# # Estoy escrebiendo un libro sobre Miguel Ángel Asturias.
+# # I'm writing a book about Miguel Ángel Asturias.
+# # 
+# # Estas flores son para usted.
+# # These flowers are for you.
+# # 
+# # Mañana salimos para Londres.
+# # Tomorrow we leave to London.
+# # 
+# # Toma, un regalo para ti.
+# # Here, a present for you.
+# # 
+# # He comprado unos altavoces para el ordenador.
+# # I bought some speakers for the computer.
+# # 
+# # ¿Tiene un cuchillo para pelar patatas?
+# # Do you have a knife to peal potatos?
+# # 
+# No ha venido Carlos y no ha venido Lidia tampoco.
+# Carlos has not come and much less Lidia.
 # 
-# No me hables en ruso. No te entiendo.
-# Don't talk to me in russian. I can't understand you.
+# He comprado unos pollos para el domingo.
+# I bought some chickens for sunday.
 # 
-# El cartero suele llegar sobre las diez.
-# The postman usually arrives close to ten.
+# Necesitamos un apartamento para este verano.
+# We need an appartment for this summer.
 # 
-# Mañana hay una conferencia sobre la globalización.
-# Tomorrow there is a conference about globalization.
+# Para Julio, su hermana es perfecta.
+# To Julio, his sister is perfect.
 # 
-# Estoy escrebiendo un libro sobre Miguel Ángel Asturias.
-# I'm writing a book about Miguel Ángel Asturias.
+# Lo he hecho por amor.
+# I did it for love.
 # 
-# Estas flores son para usted.
-# These flowers are for you.
+# Gracias por el reloj.
+# Thank you for the watch.
 # 
-# Mañana salimos para Londres.
-# Tomorrow we leave to London.
+# Llámame por teléfono esta noche.
+# Call me tonight.
 # 
-# Toma, un regalo para ti.
-# Here, a present for you.
+# Envíale la factura por fax.
+# Send him the invoice by fax.
 # 
-# He comprado unos altavoces para el ordenador.
-# I bought some speakers for the computer.
+# Tiene que haber un banco por aquí.
+# There's got to be a bank around here.
 # 
-# ¿Tiene un cuchillo para pelar patatas?
-# Do you have a knife to peal potatos?
+# Fuimos a Sevilla por la autopista.
+# We went to Sevilla on the highway.
 # 
-No ha venido Carlos y no ha venido Lidia tampoco.
-Carlos has not come and much less Lidia.
-
-He comprado unos pollos para el domingo.
-I bought some chickens for sunday.
-
-Necesitamos un apartamento para este verano.
-We need an appartment for this summer.
-
-Para Julio, su hermana es perfecta.
-To Julio, his sister is perfect.
-
-Lo he hecho por amor.
-I did it for love.
-
-Gracias por el reloj.
-Thank you for the watch.
-
-Llámame por teléfono esta noche.
-Call me tonight.
-
-Envíale la factura por fax.
-Send him the invoice by fax.
-
-Tiene que haber un banco por aquí.
-There's got to be a bank around here.
-
-Fuimos a Sevilla por la autopista.
-We went to Sevilla on the highway.
-
-Hemos comprado un apartamento por cien mil euros.
-We bought an apartment for a hundred thousand euros.
-
-José sale con Tina los fines de semana.
-José goes out with Tina on the weekends.
-
-¿Has probado el chili con carne?
-Have you tried the chili con carne?
-
-Pagó las entradas con la tarjeta de crédito.
-He paid for the tickets with the credit card.
-
-Me he acostumbrado a beber cerveza sin alcohol.
-I've gotten used to drinking non-alcoholic beer.
-
-Este domingo juega el Real Madrid contra el River Plate.
-This sunday Real Madrid plays against River Plate.
-
-Según tú, ¿quién tiene razón?
-According to you, who is right? 
-
-¿Me ayudas a recoger?
-Can you help me pick up?
-
-Pienso en ti todos los días.
-I think about you everyday.
-
-¿Me ayudas a limpiar la casa?
-Can you help me clean the house?
-
-Estamos ayudando al padre de Andrea.
-We are helping Andrea's father.
-
-¿Quién me ayuda a mí?
-Who helps me?
-
-Tengo que acabar de pasar esto a máquina esta noche.
-I have to finish typing this tonight.
-
-Se parece a ti.
-Looks like you.
-
-No me puedo comparar contigo.
-I can't compare to you.
-
-Nos hemos acostumbrado a las comidas de Toni.
-We got used to Toni's food.
-
-Tu hijo mayor se parece a ti.
-You oldest son looks like you.
-
-Tenéis que venir a ver nuestro piso.
-You have to come see our appartment.
-
-¿Te acuerdas de Constantino?
-Do you remember Constantino?
-
-¿Desconfías de nosotros?
-Don't you trust us?
-
-Javier siempre trata de ser amable.
-Javier is always nice.
-
-Dionisio murió de un ataque al corazón.
-Dionisio died of a heart attack.
-
-Me contento con ser feliz.
-I'm content to be happy.
-
-Iván se va a casar con una boliviana.
-Iván is going to marry a bolivian girl.
-
-Confío en no equivocarme mucho.
-I hope I'm not too wrong.
-
-Tengo dos hijas y un hijo.
-I have two daughters and a son.
-
-No me gusta la carne, pero me encanta el pescado.
-I don't like meat, but I love fish.
-
-Trabajo en un banco y estudio Económicas.
-I work at a bank and study economics.
-
-Tengo dos hermanas y un hermano.
-I have two sisters and a brother.
-
-Me gustan la carne y el pescado.
-I like meat and fish.
-
-Gloria y Rosario son mexicanas.
-Gloria and Rosario are mexican.
-
-Sara e Isabel son madre e hija.
-Sara and Isabel are mother and daughter.
-
-Fernando, Paco y María son españoles.
-Fernando, Paco and María are spanish.
-
-No me gusta el té ni el café.
-I don't like neither tea or coffee.
-
-Alberto no habla inglés ni francés.
-Alberto doesn't speak english or french.
-
-Ni Diana ni Tere hablan inglés.
-Neither Diana or Tere speak english.
-
-Ni Ana, ni Laura ni Agustín quieren ver esta película.
-Neither Ana, or Laura or Agustín want to see this movie.
-
-¿Quieres fruta o un dulce?
-Do you want fruit or a sweet?
-
-Había nueve o diez personas en la sala.
-There were nine or ten people in the room.
-
-No sé si siento amor u odio.
-I don't know if I feel love or hate.
-
-Había siete u ocho platos sobre la mesa.
-There were seven of eight plates on the table.
-
-Enrique es inteligente, pero perezoso.
-Enrique is intelligent, but lazy.
-
-Enrique no estudia mucho, pero aprueba.
-Enrique doesn't study much, but he passes.
-
-Adriana no es argentina, sino peruana.
-Adriana is not argentinian, but peruvian.
-
-No solo no vino, sino que tampoco llamó.
-Not only did he not come, but he didn't call either.
-
-Necesito tiempo para estudiar.
-I need time to study.
-
-He traído una foto de mi hijo para que los conozcáis.
-I brought a photo of my son so you can meet him.
-
-Tengo que verte para contarte algo.
-I have to see you to tell you something.
-
-Se vistió deprisa para no llegar tarde.
-She dressed quickly so she wouldn't be late.
-
-Anoche me llamó Juan para quedar el domingo.
-Juan called me last night to meet him on Sunday.
-
-Me gustaría ver a Dolores para que me cuente la fiesta.
-I would like to see Dolores for her to tell me about the party.
-
-Llamé a Antonio para invitarle a la fiesta.
-I called Antonio to invite him to the party.
-
-Sonia, Hans y yo nos reunimos todos los viernes para practicar español.
-Sonia, Hans and me get together every friday to practice spanish.
-
-Fito ha cerrado la puerta para no molestar a sus padres.
-Fito closed the door to not disturb his parents.
-
-Juan ha escondido el chocolate para que no le veas.
-Juan hid the chocolate so you won't see it.
-
-He traído un CD nuevo para que lo escuchéis.
-I brought a new CD so you can listen to it.
-
-Elvira ha cerrado la puerta para que no les molesten los niños.
-Elvira has closed the door, to not disturb the kids.
-
-Estoy esperando a Lupe para que me explique este problema.
-I'm waiting for Lupe so he can explain this problem to me.
-
-Vamos a ir a León este verano para que Martita conozca a sus tíos.
-We are going to León this summer so that Martita can meet her uncles.
-
-Ayer quedé con Jesús para que me enseñara las fotos de las vacaciones.
-Yesterday I met Jesús so he could show me his holidays photos.
-
-El domingo fuimos al Museo de la Ciencia para que los conocieran los niños.
-Sunday we went to the Museo de la Ciencia so the children could know it.
-
-¿Dónde está Lola? Ha salido un momento a comprar leche.
-Where is Lola? She went out for a moment to buy milk.
-
-Uschi viene a casa todos los lunes a que le ayude con el español.
-Uschi comes to my house every monday so I can help him with spanish.
-
-Cuando era joven, hacía mucho desporte.
-When I was young, I used to do a lot of sports.
-
-Tengo que recoger la cocina antes que lleguen todos.
-I have to clean up the kitchen before everyone arrives.
-
-Daniel se pasó bien en cuanto tomó la medicina.
-Daniel felt fine as soon as he took the medicine.
-
-Quiero irme antes que llegue Andrés.
-I want to go before Andrés arrives.
-
-Podemos ir al cine después de cenar.
-We can go to the movies after having diner.
-
-Cuando veas a Silvia, dale recuerdos.
-When you see Silvia, give her my best.
-
-La conozco desde que era pequeña.
-I know her since she was little.
-
-Se quedaron hasta que acabó la fiesta.
-They stayed until the party was over.
-
-Mis hijas meriendan en cuanto llegan a casa.
-My daughters have a snack as soon as they get home.
-
-Javi se enfada siempre que llego tarde.
-Javi always gets angry when I get home late.
-
-No pienso en salir mientras esté enfermo.
-I don't think about going out while I am sick.
-
-Cuando era joven, comía mucho.
-When I was young, I ate a lot.
-
-Me fui en cuanto empezó a llover.
-I went as soon as it started raining.
-
-Insistió hasta que su padre le perdonó.
-He insisted until his father forgave him.
-
-Suelo escuchar música mientras leo.
-I usually listen to music while I read.
-
-Cuando cobre mi primero sueldo, te invitaré a cenar.
-When I get my first paycheck, I'll buy you dinner.
-
-Voy a ducharme mientras haces la cena.
-I will take a shower while you make diner.
-
-Normalmente me despierto antes de que suene el despertador.
-I usually wake up before the alarm sounds.
-
-Te llamaré antes de salir.
-I'll call you before I leave.
-
-Te llamaré antes de que salgan.
-I'll call you before they leave.
-
-Hoy no salimos porque hace mucho frío.
-We didn't go out today because it's too cold.
-
-Como es alta, a Marta se le da bien el baloncesto.
-Since she is tall, Marta does well on basketball.
-
-Nos quedamos en casa porque estábamos cansados.
-We stayed at home, because we were tired.
-
-Ya que te levantas, enciende el televisor.
-Since you are getting up, turn on the tv.
-
-Puesto que me lo pides tú, lo haré.
-Since you are the one asking, I'll do it.
-
-Como tenían hambre, se compraron unos bocadillos.
-Since they were hungry, they bought some sandwiches.
-
-Le regañaron por llegar tarde.
-They scolded him for being late.
-
+# Hemos comprado un apartamento por cien mil euros.
+# We bought an apartment for a hundred thousand euros.
+# 
+# José sale con Tina los fines de semana.
+# José goes out with Tina on the weekends.
+# 
+# ¿Has probado el chili con carne?
+# Have you tried the chili con carne?
+# 
+# Pagó las entradas con la tarjeta de crédito.
+# He paid for the tickets with the credit card.
+# 
+# Me he acostumbrado a beber cerveza sin alcohol.
+# I've gotten used to drinking non-alcoholic beer.
+# 
+# Este domingo juega el Real Madrid contra el River Plate.
+# This sunday Real Madrid plays against River Plate.
+# 
+# Según tú, ¿quién tiene razón?
+# According to you, who is right? 
+# 
+# ¿Me ayudas a recoger?
+# Can you help me pick up?
+# 
+# Pienso en ti todos los días.
+# I think about you everyday.
+# 
+# ¿Me ayudas a limpiar la casa?
+# Can you help me clean the house?
+# 
+# Estamos ayudando al padre de Andrea.
+# We are helping Andrea's father.
+# 
+# ¿Quién me ayuda a mí?
+# Who helps me?
+# 
+# Tengo que acabar de pasar esto a máquina esta noche.
+# I have to finish typing this tonight.
+# 
+# Se parece a ti.
+# Looks like you.
+# 
+# No me puedo comparar contigo.
+# I can't compare to you.
+# 
+# Nos hemos acostumbrado a las comidas de Toni.
+# We got used to Toni's food.
+# 
+# Tu hijo mayor se parece a ti.
+# You oldest son looks like you.
+# 
+# Tenéis que venir a ver nuestro piso.
+# You have to come see our appartment.
+# 
+# ¿Te acuerdas de Constantino?
+# Do you remember Constantino?
+# 
+# ¿Desconfías de nosotros?
+# Don't you trust us?
+# 
+# Javier siempre trata de ser amable.
+# Javier is always nice.
+# 
+# Dionisio murió de un ataque al corazón.
+# Dionisio died of a heart attack.
+# 
+# Me contento con ser feliz.
+# I'm content to be happy.
+# 
+# Iván se va a casar con una boliviana.
+# Iván is going to marry a bolivian girl.
+# 
+# Confío en no equivocarme mucho.
+# I hope I'm not too wrong.
+# 
+# Tengo dos hijas y un hijo.
+# I have two daughters and a son.
+# 
+# No me gusta la carne, pero me encanta el pescado.
+# I don't like meat, but I love fish.
+# 
+# Trabajo en un banco y estudio Económicas.
+# I work at a bank and study economics.
+# 
+# Tengo dos hermanas y un hermano.
+# I have two sisters and a brother.
+# 
+# Me gustan la carne y el pescado.
+# I like meat and fish.
+# 
+# Gloria y Rosario son mexicanas.
+# Gloria and Rosario are mexican.
+# 
+# Sara e Isabel son madre e hija.
+# Sara and Isabel are mother and daughter.
+# 
+# Fernando, Paco y María son españoles.
+# Fernando, Paco and María are spanish.
+# 
+# No me gusta el té ni el café.
+# I don't like neither tea or coffee.
+# 
+# Alberto no habla inglés ni francés.
+# Alberto doesn't speak english or french.
+# 
+# Ni Diana ni Tere hablan inglés.
+# Neither Diana or Tere speak english.
+# 
+# Ni Ana, ni Laura ni Agustín quieren ver esta película.
+# Neither Ana, or Laura or Agustín want to see this movie.
+# 
+# ¿Quieres fruta o un dulce?
+# Do you want fruit or a sweet?
+# 
+# Había nueve o diez personas en la sala.
+# There were nine or ten people in the room.
+# 
+# No sé si siento amor u odio.
+# I don't know if I feel love or hate.
+# 
+# Había siete u ocho platos sobre la mesa.
+# There were seven of eight plates on the table.
+# 
+# Enrique es inteligente, pero perezoso.
+# Enrique is intelligent, but lazy.
+# 
+# Enrique no estudia mucho, pero aprueba.
+# Enrique doesn't study much, but he passes.
+# 
+# Adriana no es argentina, sino peruana.
+# Adriana is not argentinian, but peruvian.
+# 
+# No solo no vino, sino que tampoco llamó.
+# Not only did he not come, but he didn't call either.
+# 
+# Necesito tiempo para estudiar.
+# I need time to study.
+# 
+# He traído una foto de mi hijo para que los conozcáis.
+# I brought a photo of my son so you can meet him.
+# 
+# Tengo que verte para contarte algo.
+# I have to see you to tell you something.
+# 
+# Se vistió deprisa para no llegar tarde.
+# She dressed quickly so she wouldn't be late.
+# 
+# Anoche me llamó Juan para quedar el domingo.
+# Juan called me last night to meet him on Sunday.
+# 
+# Me gustaría ver a Dolores para que me cuente la fiesta.
+# I would like to see Dolores for her to tell me about the party.
+# 
+# Llamé a Antonio para invitarle a la fiesta.
+# I called Antonio to invite him to the party.
+# 
+# Sonia, Hans y yo nos reunimos todos los viernes para practicar español.
+# Sonia, Hans and me get together every friday to practice spanish.
+# 
+# Fito ha cerrado la puerta para no molestar a sus padres.
+# Fito closed the door to not disturb his parents.
+# 
+# Juan ha escondido el chocolate para que no le veas.
+# Juan hid the chocolate so you won't see it.
+# 
+# He traído un CD nuevo para que lo escuchéis.
+# I brought a new CD so you can listen to it.
+# 
+# Elvira ha cerrado la puerta para que no les molesten los niños.
+# Elvira has closed the door, to not disturb the kids.
+# 
+# Estoy esperando a Lupe para que me explique este problema.
+# I'm waiting for Lupe so he can explain this problem to me.
+# 
+# Vamos a ir a León este verano para que Martita conozca a sus tíos.
+# We are going to León this summer so that Martita can meet her uncles.
+# 
+# Ayer quedé con Jesús para que me enseñara las fotos de las vacaciones.
+# Yesterday I met Jesús so he could show me his holidays photos.
+# 
+# El domingo fuimos al Museo de la Ciencia para que los conocieran los niños.
+# Sunday we went to the Museo de la Ciencia so the children could know it.
+# 
+# ¿Dónde está Lola? Ha salido un momento a comprar leche.
+# Where is Lola? She went out for a moment to buy milk.
+# 
+# Uschi viene a casa todos los lunes a que le ayude con el español.
+# Uschi comes to my house every monday so I can help him with spanish.
+# 
+# Cuando era joven, hacía mucho desporte.
+# When I was young, I used to do a lot of sports.
+# 
+# Tengo que recoger la cocina antes que lleguen todos.
+# I have to clean up the kitchen before everyone arrives.
+# 
+# Daniel se pasó bien en cuanto tomó la medicina.
+# Daniel felt fine as soon as he took the medicine.
+# 
+# Quiero irme antes que llegue Andrés.
+# I want to go before Andrés arrives.
+# 
+# Podemos ir al cine después de cenar.
+# We can go to the movies after having diner.
+# 
+# Cuando veas a Silvia, dale recuerdos.
+# When you see Silvia, give her my best.
+# 
+# La conozco desde que era pequeña.
+# I know her since she was little.
+# 
+# Se quedaron hasta que acabó la fiesta.
+# They stayed until the party was over.
+# 
+# Mis hijas meriendan en cuanto llegan a casa.
+# My daughters have a snack as soon as they get home.
+# 
+# Javi se enfada siempre que llego tarde.
+# Javi always gets angry when I get home late.
+# 
+# No pienso en salir mientras esté enfermo.
+# I don't think about going out while I am sick.
+# 
+# Cuando era joven, comía mucho.
+# When I was young, I ate a lot.
+# 
+# Me fui en cuanto empezó a llover.
+# I went as soon as it started raining.
+# 
+# Insistió hasta que su padre le perdonó.
+# He insisted until his father forgave him.
+# 
+# Suelo escuchar música mientras leo.
+# I usually listen to music while I read.
+# 
+# Cuando cobre mi primero sueldo, te invitaré a cenar.
+# When I get my first paycheck, I'll buy you dinner.
+# 
+# Voy a ducharme mientras haces la cena.
+# I will take a shower while you make diner.
+# 
+# Normalmente me despierto antes de que suene el despertador.
+# I usually wake up before the alarm sounds.
+# 
+# Te llamaré antes de salir.
+# I'll call you before I leave.
+# 
+# Te llamaré antes de que salgan.
+# I'll call you before they leave.
+# 
+# Hoy no salimos porque hace mucho frío.
+# We didn't go out today because it's too cold.
+# 
+# Como es alta, a Marta se le da bien el baloncesto.
+# Since she is tall, Marta does well on basketball.
+# 
+# Nos quedamos en casa porque estábamos cansados.
+# We stayed at home, because we were tired.
+# 
+# Ya que te levantas, enciende el televisor.
+# Since you are getting up, turn on the tv.
+# 
+# Puesto que me lo pides tú, lo haré.
+# Since you are the one asking, I'll do it.
+# 
+# Como tenían hambre, se compraron unos bocadillos.
+# Since they were hungry, they bought some sandwiches.
+# 
+# Le regañaron por llegar tarde.
+# They scolded him for being late.
+# 
 Los aeropuertos están cerrados por la niebla.
 The airports are closed because of the fog.
 
