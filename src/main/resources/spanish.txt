@@ -5998,6 +5998,15 @@
 # Le regañaron por llegar tarde.
 # They scolded him for being late.
 # 
+Algunas personas quieren mucho a sus perros.
+Some people like their dogs very much.
+
+Estoy harto de que no colabores.
+I am fed up that you don't colaborate.
+
+Recuerdo que el año pasado visitamos al desierto de Atacama.
+I remember that last year we visited the Atacama desert. 
+
 Los aeropuertos están cerrados por la niebla.
 The airports are closed because of the fog.
 
