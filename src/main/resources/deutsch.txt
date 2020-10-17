@@ -4497,301 +4497,307 @@
 # 
 # Redest du mit Lisa?
 # Are you talking to Lisa?
+# # 
+# Sie mag schwarzen Klamotten.
+# She likes black clothes.
 # 
-Sie redet nicht so viel.
-She doesn't talk that much.
-
-Morgen heiratet er.
-Tomorrow he is getting married.
-
-Sie heiratet in Berlin.
-She is getting married in Berlin.
-
-Er flirtet mit der Kellnerin.
-He is flirting with the waitress.
-
-Flirtest du mit der Kellnerin?
-Are you flirting with the waitress?
-
-Warten Sie auf den Zug?
-Are you waiting for the train?
-
-Worauf wartet ihr?
-What are you guys waiting for?
-
-Worauf wartest du?
-What are you waiting for?
-
-Er faltet die Wäsche.
-He is folding the laundry.
-
-Sie started den Motor.
-She is starting the engine.
-
-Das Kind hustet.
-The child is coughing.
-
-Ich gebe dem Mädchen den Apfel.
-I am giving the apple to the girl.
-
-Ich zeige dem Mädchen das Buch.
-I am showing the book to the girl.
-
-Ich erzähle den Kindern die Geschichte.
-I am telling the kids the story.
-
-Wir zeigen den Mitarbeitern das neue Büro.
-We are showing the new office to the employees.
-
-Er gibt der Frau das Geld.
-He gives the money to the woman.
-
-Ich gebe der Frau das Portemonnaie.
-I give the wallet to the woman.
-
-Er gibt dem Kind den Schlüssel.
-He gives the key to the child.
-
-Wir geben dem Mann das Geld.
-We give the money to the man.
-
-Ich gebe den Kindern das Buch.
-I give the book to the children.
-
-Sie zeigt einem Gast die Suite.
-She is showing the suite to a guest.
-
-Er zeigt einem Kunden das Produkt.
-He shows the product to a customer.
-
-Sie gibt einer Mitarbeiterin den USB-Stick.
-She gives the pen drive to an employee.
-
-Sie gibt einem Kind ein Stück Schokolade.
-She gives a piece of chocolate to a child.
-
-Ich gebe einem Passante einen Flyer.
-I am giving a flyer to a passer-by.
-
-Ich gebe dir den USB-Stick.
-I give you the pen drive.
-
-Er hat mir den Bericht gegeben
-He gave me the report.
-
-Er zeigt ihm das Büro.
-He is showing him the office.
-
-Er erzählt uns eine Geschichte.
-He is telling us a story.
-
-Ich habe Ihnen eine E-mail geschickt.
-I sent you an email.
-
-Ich leihe euch mein Auto.
-I am lending you guys my car.
-
-Uns geht es gut.
-We are doing fine.
-
-Wie geht es ihm?
-How is he doing?
-
-Wie geht es ihr?
-How is she doing?
-
-Wie geht es ihnen?
-How are they doing?
-
-Mir ist langweilig.
-I am bored.
-
-Ist dir langweilig?
-Are you bored?
-
-Mir ist kalt.
-I am cold.
-
-Mir ist heiß.
-I am hot.
-
-Ist Ihnen heiß?
-Are you hot? (com calor)
-
-Mir ist schlecht.
-I am nauseous.
-
-Mir ist übel.
-I am nauseous.
-
-Ich gebe meinem Chef den Bericht.
-I give my boss the report.
-
-Hast du deinem Mann eine Krawatte geschenckt?
-Did you give your husband a tie? (as a present)
-
-Möhren sind orange.
-Carrots are orange.
-
-Er erklärt seinen Kindern die Matheaufgabe.
-He explains the math problem to his kids.       
-
-Wir bieten unseren Kunden eine gute Qualität.
-We are offering our clients a good quality.
-
-Habt ihr euren Gästen das Gästezimmer gezeigt?
-Did you guys show your guests the guest room?
-
-Haben sie ihren Kindern die Wahrheit gesagt?
-Did they tell their kids the truth?
-
-Haben Sie Ihrer Frau eine E-mail geschickt?
-Did you send your wife an email?
-
-Ich komme aus der Schweiz.
-I come from Switzerland.
-
-Sie geht mit ihrem Mann ins Kino.
-She's going to the movie theater with her husband.
-
-Ab dem 1 Juli sind wir in unserem neuen Büro.
-From July 1st onwards we are going to be in our new office.
-
-Ab morgen mache ich Diät.
-From tomorrow onwards I'll be on a diet.
-
-Ich trinke aus der Flasche.
-I am drinking from the bottle.
-
-Er kommt aus den USA.
-He comes from the USA.
-
-Ich bin beim Arzt.
-I'm at the doctor.
-
-Er ist bei mir.
-He is at my place.
-
-Ich komme mit dir.
-I am coming with you.
-
-Ich gehe mit den Kindern zum Spielplatz.
-I am going to the playground with the kids.
-
-Nach der Besprechung gehe ich nach Hause.
-After the meeting I am going home.
-
-Nach der Vorspeise kommt die Hauptspeise.
-After the appetizer comes the main dish.
-
-Seit dem Unfall hat sie Knieschmerzen.
-Since the accident she has pain in her knee.
-
-Seit gestern fühle ich mich nicht gut.
-Since yesterday I don't feel good.
-
-Ich habe viel von ihm gelernt.
-I learned a lot from him.
-
-Das ist das Büro vom Chef.
-This is the boss' office.
-
-Bis zum Wochenende müssen wir viel schaffen.
-Until the weekend we need to have a lot of things done.
-
-Bis zu dir fahre ich 20 Minuten.
-It get's me 20 minutes for me to get to your place.  
-
-Die Schuhe gefallen mir.
-I like the shoes.
-
-Der Ring gefällt mir.
-I like the ring.
-
-Der Anzug gefällt ihm.
-He likes the suit.
-
-Die Wohnung gefällt uns.
-We like the apartment.
-
-Gefallen dir die Möbel?
-Do you like the furniture?
-
-Gefällt euch meine neue Küche?
-Do you guys like my new kitchen?
-
-Gefällt Ihnen die Krawatte?
-Do you like the tie?
-
-Die Hose passt mir.
-The pants fit me.
-
-Passen dir die Schuhe?
-Do the shoes fit you?
-
-Das Hemd pass ihm nicht.
-The shirt doesn't fit him.
-
-Das Auto gehört mir.
-The car belongs to me.
-
-Gehört dir der Hund?
-Does the dog belong to you?
-
-Die Schneestiefel gehören Susanne.
-The snow boots belong to Susanne.
-
-Er hat mir nicht geantwortet.
-He didn't answer me.
-
-Ich danke dir.
-I thank you.
-
-Du fehlst mir.
-I miss you.
-
-Die Suppe schmeckt mir.
-I like the soup.
-
-Schmeckt euch die Lasagne?
-Do you guys like the lasagna?
-
-Schmecken die die Kartoffeln?
-Do you like the potatoes?
-
-Der Auflauf schmeckt uns gut.
-We like the casserole.
-
-Glaubst du mir?
-Do you believe me?
-
-Das tut mir leid.
-I'm sorry about that.
-
-Tut mir leid.
-I'm sorry.
-
-Ist dir was passiert?
-Did something happen to you?
-
-Uns ist nichts passiert.
-Nothing happened to us.
-
-Der Fuẞ tut mir weh.
-My foot hurts.
-
-Ich verzeihe dir.
-I forgive you.
-
-Ich helfe dir.
-I am helping you.
-
-Ich habe ihm geholfen.
-I helped him.
-
-Wo bist du?
-Where are you?
-
+# Ich miete eine Wohnung.
+# I am renting an apartment.
+# 
+# Sie redet nicht so viel.
+# She doesn't talk that much.
+# 
+# Morgen heiratet er.
+# Tomorrow he is getting married.
+# 
+# Sie heiratet in Berlin.
+# She is getting married in Berlin.
+# 
+# Er flirtet mit der Kellnerin.
+# He is flirting with the waitress.
+# 
+# Flirtest du mit der Kellnerin?
+# Are you flirting with the waitress?
+# 
+# Warten Sie auf den Zug?
+# Are you waiting for the train?
+# 
+# Worauf wartet ihr?
+# What are you guys waiting for?
+# 
+# Worauf wartest du?
+# What are you waiting for?
+# 
+# Er faltet die Wäsche.
+# He is folding the laundry.
+# 
+# Sie started den Motor.
+# She is starting the engine.
+# 
+# Das Kind hustet.
+# The child is coughing.
+# 
+# Ich gebe dem Mädchen den Apfel.
+# I am giving the apple to the girl.
+# 
+# Ich zeige dem Mädchen das Buch.
+# I am showing the book to the girl.
+# 
+# Ich erzähle den Kindern die Geschichte.
+# I am telling the kids the story.
+# 
+# Wir zeigen den Mitarbeitern das neue Büro.
+# We are showing the new office to the employees.
+# 
+# Er gibt der Frau das Geld.
+# He gives the money to the woman.
+# 
+# Ich gebe der Frau das Portemonnaie.
+# I give the wallet to the woman.
+# 
+# Er gibt dem Kind den Schlüssel.
+# He gives the key to the child.
+# 
+# Wir geben dem Mann das Geld.
+# We give the money to the man.
+# 
+# Ich gebe den Kindern das Buch.
+# I give the book to the children.
+# 
+# Sie zeigt einem Gast die Suite.
+# She is showing the suite to a guest.
+# 
+# Er zeigt einem Kunden das Produkt.
+# He shows the product to a customer.
+# 
+# Sie gibt einer Mitarbeiterin den USB-Stick.
+# She gives the pen drive to an employee.
+# 
+# Sie gibt einem Kind ein Stück Schokolade.
+# She gives a piece of chocolate to a child.
+# 
+# Ich gebe einem Passante einen Flyer.
+# I am giving a flyer to a passer-by.
+# 
+# Ich gebe dir den USB-Stick.
+# I give you the pen drive.
+# 
+# Er hat mir den Bericht gegeben
+# He gave me the report.
+# 
+# Er zeigt ihm das Büro.
+# He is showing him the office.
+# 
+# Er erzählt uns eine Geschichte.
+# He is telling us a story.
+# 
+# Ich habe Ihnen eine E-mail geschickt.
+# I sent you an email.
+# 
+# Ich leihe euch mein Auto.
+# I am lending you guys my car.
+# 
+# Uns geht es gut.
+# We are doing fine.
+# 
+# Wie geht es ihm?
+# How is he doing?
+# 
+# Wie geht es ihr?
+# How is she doing?
+# 
+# Wie geht es ihnen?
+# How are they doing?
+# 
+# Mir ist langweilig.
+# I am bored.
+# 
+# Ist dir langweilig?
+# Are you bored?
+# 
+# Mir ist kalt.
+# I am cold.
+# 
+# Mir ist heiß.
+# I am hot.
+# 
+# Ist Ihnen heiß?
+# Are you hot? (com calor)
+# 
+# Mir ist schlecht.
+# I am nauseous.
+# 
+# Mir ist übel.
+# I am nauseous.
+# 
+# Ich gebe meinem Chef den Bericht.
+# I give my boss the report.
+# 
+# Hast du deinem Mann eine Krawatte geschenckt?
+# Did you give your husband a tie? (as a present)
+# 
+# Möhren sind orange.
+# Carrots are orange.
+# 
+# Er erklärt seinen Kindern die Matheaufgabe.
+# He explains the math problem to his kids.       
+# 
+# Wir bieten unseren Kunden eine gute Qualität.
+# We are offering our clients a good quality.
+# 
+# Habt ihr euren Gästen das Gästezimmer gezeigt?
+# Did you guys show your guests the guest room?
+# 
+# Haben sie ihren Kindern die Wahrheit gesagt?
+# Did they tell their kids the truth?
+# 
+# Haben Sie Ihrer Frau eine E-mail geschickt?
+# Did you send your wife an email?
+# 
+# Ich komme aus der Schweiz.
+# I come from Switzerland.
+# 
+# Sie geht mit ihrem Mann ins Kino.
+# She's going to the movie theater with her husband.
+# 
+# Ab dem 1 Juli sind wir in unserem neuen Büro.
+# From July 1st onwards we are going to be in our new office.
+# 
+# Ab morgen mache ich Diät.
+# From tomorrow onwards I'll be on a diet.
+# 
+# Ich trinke aus der Flasche.
+# I am drinking from the bottle.
+# 
+# Er kommt aus den USA.
+# He comes from the USA.
+# 
+# Ich bin beim Arzt.
+# I'm at the doctor.
+# 
+# Er ist bei mir.
+# He is at my place.
+# 
+# Ich komme mit dir.
+# I am coming with you.
+# 
+# Ich gehe mit den Kindern zum Spielplatz.
+# I am going to the playground with the kids.
+# 
+# Nach der Besprechung gehe ich nach Hause.
+# After the meeting I am going home.
+# 
+# Nach der Vorspeise kommt die Hauptspeise.
+# After the appetizer comes the main dish.
+# 
+# Seit dem Unfall hat sie Knieschmerzen.
+# Since the accident she has pain in her knee.
+# 
+# Seit gestern fühle ich mich nicht gut.
+# Since yesterday I don't feel good.
+# 
+# Ich habe viel von ihm gelernt.
+# I learned a lot from him.
+# 
+# Das ist das Büro vom Chef.
+# This is the boss' office.
+# 
+# Bis zum Wochenende müssen wir viel schaffen.
+# Until the weekend we need to have a lot of things done.
+# 
+# Bis zu dir fahre ich 20 Minuten.
+# It get's me 20 minutes for me to get to your place.  
+# 
+# Die Schuhe gefallen mir.
+# I like the shoes.
+# 
+# Der Ring gefällt mir.
+# I like the ring.
+# 
+# Der Anzug gefällt ihm.
+# He likes the suit.
+# 
+# Die Wohnung gefällt uns.
+# We like the apartment.
+# 
+# Gefallen dir die Möbel?
+# Do you like the furniture?
+# 
+# Gefällt euch meine neue Küche?
+# Do you guys like my new kitchen?
+# 
+# Gefällt Ihnen die Krawatte?
+# Do you like the tie?
+# 
+# Die Hose passt mir.
+# The pants fit me.
+# 
+# Passen dir die Schuhe?
+# Do the shoes fit you?
+# 
+# Das Hemd pass ihm nicht.
+# The shirt doesn't fit him.
+# 
+# Das Auto gehört mir.
+# The car belongs to me.
+# 
+# Gehört dir der Hund?
+# Does the dog belong to you?
+# 
+# Die Schneestiefel gehören Susanne.
+# The snow boots belong to Susanne.
+# 
+# Er hat mir nicht geantwortet.
+# He didn't answer me.
+# 
+# Ich danke dir.
+# I thank you.
+# 
+# Du fehlst mir.
+# I miss you.
+# 
+# Die Suppe schmeckt mir.
+# I like the soup.
+# 
+# Schmeckt euch die Lasagne?
+# Do you guys like the lasagna?
+# 
+# Schmecken die die Kartoffeln?
+# Do you like the potatoes?
+# 
+# Der Auflauf schmeckt uns gut.
+# We like the casserole.
+# 
+# Glaubst du mir?
+# Do you believe me?
+# 
+# Das tut mir leid.
+# I'm sorry about that.
+# 
+# Tut mir leid.
+# I'm sorry.
+# 
+# Ist dir was passiert?
+# Did something happen to you?
+# 
+# Uns ist nichts passiert.
+# Nothing happened to us.
+# 
+# Der Fuẞ tut mir weh.
+# My foot hurts.
+# 
+# Ich verzeihe dir.
+# I forgive you.
+# 
+# Ich helfe dir.
+# I am helping you.
+# 
+# Ich habe ihm geholfen.
+# I helped him.
+# 
+# Wo bist du?
+# Where are you?
+# 
 Wo sind Sie?
 Where are you?
 
