@@ -6559,345 +6559,345 @@
 # Que fait Marc?
 # What does Marc do for a living?
 # 
-# Il est acteur.
-# He is an actor.
+# # Il est acteur.
+# # He is an actor.
+# # 
+# # C'est un excellent acteur.
+# # He is an excellent actor.
+# # 
+# # C'est l'acteur qui joue dans ce film.
+# # He is the actor who acts in that movie.
+# # 
+# # Il fait quoi Marc?
+# # What does Marc do for a living?
+# # 
+# # Quelle est la profession de Marc?
+# # What is Marc's profession.
+# # 
+# # Quel est le métier de Marc?
+# # What's Marc job?
+# # 
+# # Qui est Marc? C'est mon voisin.
+# # Who is Marc? He's my neighbour.
+# # 
+# # Que fais-tu ce soir? Je vais au cinéma.
+# # What are you doing tonight? I am going to the cinema.
+# # 
+# # Quoi, qu'est-ce que tu as dis?
+# # What, what did you say?
+# # 
+# # Combien de frères et sœurs tu as?
+# # How many brothers and sisters have you got?
+# # 
+# # Combien ça coûte?
+# # How much does it cost?
+# # 
+# # Combien de temps tu as étudié l'anglais?
+# # How long did you study english?
+# # 
+# # Combien de livres tu as dans ta bibliothèque?
+# # How many books have you got in your library?
+# # 
+# Je fais de l'anglais.
+# I learn/practice english.
 # 
-# C'est un excellent acteur.
-# He is an excellent actor.
+# Tu choisis un cadeau pour son anniversaire.
+# You choose a present for his/her birthday. - tu
 # 
-# C'est l'acteur qui joue dans ce film.
-# He is the actor who acts in that movie.
+# Comment elle va au travail? Elle va au travail en voiture.
+# How does she go to work? She goes to work by car.
 # 
-# Il fait quoi Marc?
-# What does Marc do for a living?
+# Porquoi vous n'allez pas à son anniversaire? Parce que nous ne la connaissons pas.
+# Why are you not going to her birthday? Because we do not know her.
 # 
-# Quelle est la profession de Marc?
-# What is Marc's profession.
+# Quand pars-tu en vacances? La semaine prochaine.
+# When are you going on holiday? Next week.
 # 
-# Quel est le métier de Marc?
-# What's Marc job?
+# Quand se termine la classe? Dans dix minutes.
+# When does the class end? In ten minutes.
 # 
-# Qui est Marc? C'est mon voisin.
-# Who is Marc? He's my neighbour.
+# Quel est ton sport préféré?
+# What is your favorite sport?
 # 
-# Que fais-tu ce soir? Je vais au cinéma.
-# What are you doing tonight? I am going to the cinema.
+# Où est la pharmacie?
+# Where is the pharmacy.
 # 
-# Quoi, qu'est-ce que tu as dis?
-# What, what did you say?
+# Où habites-tu?
+# Where do you live?
 # 
-# Combien de frères et sœurs tu as?
-# How many brothers and sisters have you got?
+# Elle a l'air triste.
+# She seems sad.
 # 
-# Combien ça coûte?
-# How much does it cost?
+# On se voit la semaine prochaine.
+# See you next week.
 # 
-# Combien de temps tu as étudié l'anglais?
-# How long did you study english?
+# C'est un gentil garçon.
+# He is a nice boy.
 # 
-# Combien de livres tu as dans ta bibliothèque?
-# How many books have you got in your library?
+# Le premier livre qu'il a écrit.
+# The first book he wrote.
 # 
-Je fais de l'anglais.
-I learn/practice english.
-
-Tu choisis un cadeau pour son anniversaire.
-You choose a present for his/her birthday. - tu
-
-Comment elle va au travail? Elle va au travail en voiture.
-How does she go to work? She goes to work by car.
-
-Porquoi vous n'allez pas à son anniversaire? Parce que nous ne la connaissons pas.
-Why are you not going to her birthday? Because we do not know her.
-
-Quand pars-tu en vacances? La semaine prochaine.
-When are you going on holiday? Next week.
-
-Quand se termine la classe? Dans dix minutes.
-When does the class end? In ten minutes.
-
-Quel est ton sport préféré?
-What is your favorite sport?
-
-Où est la pharmacie?
-Where is the pharmacy.
-
-Où habites-tu?
-Where do you live?
-
-Elle a l'air triste.
-She seems sad.
-
-On se voit la semaine prochaine.
-See you next week.
-
-C'est un gentil garçon.
-He is a nice boy.
-
-Le premier livre qu'il a écrit.
-The first book he wrote.
-
-Il habite au deuxième étage.
-He lives on the second floor.         
-
-J'habite quinze, rue de cerisiers.
-I live at number 15, cerisiers street.
-
-Il habite a 75, rue de cerisiers, 75001 Paris.
-He lives at number 75, cerisiers street, Paris. 75001 (zip code)
-
-Mon numéro de téléphone est 01-25-15-18-30.
-My telephone number is 01-25-15-18-30.
-
-Mon adresse email est alicia point français arobase gmail point com.
-My email address is alicia.français@gmail.com
-
-Vous pouvez m'épeler cerisiers?
-Can you spell cerisier?
-
-Vous pouvez m'épeler votre prénom?
-Can you spell your first name?
-
-Je suis célibataire.
-I am single.
-
-Je suis en couple.
-I am in a relationship.
-
-Je suis marié.
-I am married.
-
-Je suis séparé.
-I am separated.
-
-Je suis divorcé.
-I am divorced.
-
-J'ai des enfants.
-I have children.
-
-Le professeur est en train de parler.
-The teacher is speaking.
-
-Le chien est le meilleur ami de l'homme.
-Dogs are man's best friend.
-
-L'alcool est mauvais pour la santé.
-Alcohol is bad for your health.
-
-Une femme est entrée.
-A woman entered.
-
-J'ai lu un bon livre.
-I read a good book.
-
-J'ai vu un bon film.
-I saw a good movie.
-
-J'ai des animaux.
-I have animals.
-
-Elle n'a pas d'animaux.
-She hasn't got animals.
-
-La voiture de mon mari.
-My husband's car.
-
-Le livre de la bibliothèque.
-The book from the library.
-
-L'opinion de Jenny.
-Jenny's opinion.
-
-La voiture des voisins.
-The neighbour's car.
-
-Le téléphone d'Adam.
-Adam's telephone.
-
-Un tableau de Pablo Picasso.
-A painting by Pablo Picasso.
-
-Un poème de Prévert.
-A poem by Prévert.
-
-Le café de Colombie.
-Coffee from Colombia.
-
-Une tasse de lait.
-A cup of milk.
-
-Un pot de chocolat.
-A pot of chocolate.
-
-Un sac de bonbons.
-A bag of sweets.
-
-Un entraîneur de football.
-A football coach.
-
-Un livre de français.
-A french book.
-
-Une classe de grammaire.
-A grammar's class.
-
-Une raquette de tennis.
-A tennis racket.
-
-L'opinion de ta sœeur.
-Your sister's opinion.        
-
-Mon téléphone est sur la table.
-My phone is on the table.
-
-Ton verre est vide.
-Your glass is empty.
-
-Son t-shirt est vert.
-His/her t-shirt is green.
-
-Le t-shirt peut être d'un garçon ou d'une fille.
-The t-shirt can be for a boy or a girl.
-
-Notre ami est argentin.
-Our friend is argentinian.
-
-Votre frère habite à Paris.
-Your brother lives in Paris.
-
-Leur voisin n'est pas aimable.
-Their neighbour is not friendly.
-
-Ma mère est très patiente.
-My mother is very patient.
-
-Ta maison est magnifique.
-Your house is beautiful.        
-
-Sa voiture est rouge.
-His/her car is red.
-
-Notre table est occupée.
-Our table is taken.
-
-Votre boisson est prête.
-Your drink is ready.
-
-Leur fille est timide.
-Their daughter is shy.
-
-Tes livres sont dans la bibliothèque.
-Your books are in the library.
-
-Ses amis mangent au restaurant.
-His friends are eating at a restaurant.
-
-Nos vêtements sont dans l'armoire.
-Our clothes are in the wardrobe.
-
-Vos idées sont très intéressants.
-Your ideas are very interesting.
-
-Leurs professeurs sont français.
-Their teachers are french.
-
-Leurs amis sont français.
-Their friends are french.
-
-Ce téléphone est sur la table.
-This telephone is on the table.
-
-Ce verre est vide.
-This glass is empty.
-
-Ce t-shirt est vert.
-This t-shirt is green.
-
-Cet ami est argentin.
-This friend is argentinian.
-
-Ce voisin n'est pas aimable.
-This neighbour is not friendly.
-
-Cette maison est magnifique.
-This house is beautiful.
-
-Cette voiture est rouge.
-This car is red.
-
-Cette table est occupée.
-This table is taken.
-
-Cette boison est prête.
-This drink is ready.
-
-Ces lunettes sont très chères.
-These glasses are very expensive.
-
-Ces livres sont dans la bibliothèque.
-These books are in the library.
-
-Ces vêtements sont dans l'armoire.
-These clothes are in the wardrobe.
-
-Ces idées sont très intéressant.
-These ideas are very interesting.
-
-Ces professeurs sont français.
-These teachers are french.
-
-Il y a un homme dans la maison.
-There is a man in the house.
-
-Il y a une souris dans le jardin.
-There is a mouse in the garden.
-
-Il y a des enfants dans la cours.
-There are children on the playground.
-
-Il y a trois solutions à ce problème.
-There are three solutions to this problem.
-
-Il y a quelqu'un chez toi.
-There is someone at your house.
-
-Il y a un peut de bruit.
-There is a bit of noise.
-
-Il y a beacoup de lumière.
-There is a lot of light.
-
-Est-ce qu'il y a quelqu'un chez toi?
-Is there someone at your house?
-
-Est-ce qu'il y a une souris dans le jardin?
-Is there a mouse in the garden?
-
-Est-ce qu'il y a des enfants à l'école?
-Are there children at school?
-
-Y a-t-il un problème?
-Is there a problem?
-
-Il y a un chat.
-There is a cat.
-
-Il y a une dame.
-There is a lady.
-
-Il y a des enfants.
-There are children.
-
-Il y a dix personnes dans la salle.
-There are ten people in the room.
-
-Il n'y a pas de chat.
-There isn't a cat.
-
-Il n'y a pas de problème.
-There aren't any problems.
-
+# Il habite au deuxième étage.
+# He lives on the second floor.         
+# 
+# J'habite quinze, rue de cerisiers.
+# I live at number 15, cerisiers street.
+# 
+# Il habite a 75, rue de cerisiers, 75001 Paris.
+# He lives at number 75, cerisiers street, Paris. 75001 (zip code)
+# 
+# Mon numéro de téléphone est 01-25-15-18-30.
+# My telephone number is 01-25-15-18-30.
+# 
+# Mon adresse email est alicia point français arobase gmail point com.
+# My email address is alicia.français@gmail.com
+# 
+# Vous pouvez m'épeler cerisiers?
+# Can you spell cerisier?
+# 
+# Vous pouvez m'épeler votre prénom?
+# Can you spell your first name?
+# 
+# Je suis célibataire.
+# I am single.
+# 
+# Je suis en couple.
+# I am in a relationship.
+# 
+# Je suis marié.
+# I am married.
+# 
+# Je suis séparé.
+# I am separated.
+# 
+# Je suis divorcé.
+# I am divorced.
+# 
+# J'ai des enfants.
+# I have children.
+# 
+# Le professeur est en train de parler.
+# The teacher is speaking.
+# 
+# Le chien est le meilleur ami de l'homme.
+# Dogs are man's best friend.
+# 
+# L'alcool est mauvais pour la santé.
+# Alcohol is bad for your health.
+# 
+# Une femme est entrée.
+# A woman entered.
+# 
+# J'ai lu un bon livre.
+# I read a good book.
+# 
+# J'ai vu un bon film.
+# I saw a good movie.
+# 
+# J'ai des animaux.
+# I have animals.
+# 
+# Elle n'a pas d'animaux.
+# She hasn't got animals.
+# 
+# La voiture de mon mari.
+# My husband's car.
+# 
+# Le livre de la bibliothèque.
+# The book from the library.
+# 
+# L'opinion de Jenny.
+# Jenny's opinion.
+# 
+# La voiture des voisins.
+# The neighbour's car.
+# 
+# Le téléphone d'Adam.
+# Adam's telephone.
+# 
+# Un tableau de Pablo Picasso.
+# A painting by Pablo Picasso.
+# 
+# Un poème de Prévert.
+# A poem by Prévert.
+# 
+# Le café de Colombie.
+# Coffee from Colombia.
+# 
+# Une tasse de lait.
+# A cup of milk.
+# 
+# Un pot de chocolat.
+# A pot of chocolate.
+# 
+# Un sac de bonbons.
+# A bag of sweets.
+# 
+# Un entraîneur de football.
+# A football coach.
+# 
+# Un livre de français.
+# A french book.
+# 
+# Une classe de grammaire.
+# A grammar's class.
+# 
+# Une raquette de tennis.
+# A tennis racket.
+# 
+# L'opinion de ta sœeur.
+# Your sister's opinion.        
+# 
+# Mon téléphone est sur la table.
+# My phone is on the table.
+# 
+# Ton verre est vide.
+# Your glass is empty.
+# 
+# Son t-shirt est vert.
+# His/her t-shirt is green.
+# 
+# Le t-shirt peut être d'un garçon ou d'une fille.
+# The t-shirt can be for a boy or a girl.
+# 
+# Notre ami est argentin.
+# Our friend is argentinian.
+# 
+# Votre frère habite à Paris.
+# Your brother lives in Paris.
+# 
+# Leur voisin n'est pas aimable.
+# Their neighbour is not friendly.
+# 
+# Ma mère est très patiente.
+# My mother is very patient.
+# 
+# Ta maison est magnifique.
+# Your house is beautiful.        
+# 
+# Sa voiture est rouge.
+# His/her car is red.
+# 
+# Notre table est occupée.
+# Our table is taken.
+# 
+# Votre boisson est prête.
+# Your drink is ready.
+# 
+# Leur fille est timide.
+# Their daughter is shy.
+# 
+# Tes livres sont dans la bibliothèque.
+# Your books are in the library.
+# 
+# Ses amis mangent au restaurant.
+# His friends are eating at a restaurant.
+# 
+# Nos vêtements sont dans l'armoire.
+# Our clothes are in the wardrobe.
+# 
+# Vos idées sont très intéressants.
+# Your ideas are very interesting.
+# 
+# Leurs professeurs sont français.
+# Their teachers are french.
+# 
+# Leurs amis sont français.
+# Their friends are french.
+# 
+# Ce téléphone est sur la table.
+# This telephone is on the table.
+# 
+# Ce verre est vide.
+# This glass is empty.
+# 
+# Ce t-shirt est vert.
+# This t-shirt is green.
+# 
+# Cet ami est argentin.
+# This friend is argentinian.
+# 
+# Ce voisin n'est pas aimable.
+# This neighbour is not friendly.
+# 
+# Cette maison est magnifique.
+# This house is beautiful.
+# 
+# Cette voiture est rouge.
+# This car is red.
+# 
+# Cette table est occupée.
+# This table is taken.
+# 
+# Cette boison est prête.
+# This drink is ready.
+# 
+# Ces lunettes sont très chères.
+# These glasses are very expensive.
+# 
+# Ces livres sont dans la bibliothèque.
+# These books are in the library.
+# 
+# Ces vêtements sont dans l'armoire.
+# These clothes are in the wardrobe.
+# 
+# Ces idées sont très intéressant.
+# These ideas are very interesting.
+# 
+# Ces professeurs sont français.
+# These teachers are french.
+# 
+# Il y a un homme dans la maison.
+# There is a man in the house.
+# 
+# Il y a une souris dans le jardin.
+# There is a mouse in the garden.
+# 
+# Il y a des enfants dans la cours.
+# There are children on the playground.
+# 
+# Il y a trois solutions à ce problème.
+# There are three solutions to this problem.
+# 
+# Il y a quelqu'un chez toi.
+# There is someone at your house.
+# 
+# Il y a un peut de bruit.
+# There is a bit of noise.
+# 
+# Il y a beacoup de lumière.
+# There is a lot of light.
+# 
+# Est-ce qu'il y a quelqu'un chez toi?
+# Is there someone at your house?
+# 
+# Est-ce qu'il y a une souris dans le jardin?
+# Is there a mouse in the garden?
+# 
+# Est-ce qu'il y a des enfants à l'école?
+# Are there children at school?
+# 
+# Y a-t-il un problème?
+# Is there a problem?
+# 
+# Il y a un chat.
+# There is a cat.
+# 
+# Il y a une dame.
+# There is a lady.
+# 
+# Il y a des enfants.
+# There are children.
+# 
+# Il y a dix personnes dans la salle.
+# There are ten people in the room.
+# 
+# Il n'y a pas de chat.
+# There isn't a cat.
+# 
+# Il n'y a pas de problème.
+# There aren't any problems.
+# 
 Il n'y a pas de personnes.
 There aren't any people.
 
