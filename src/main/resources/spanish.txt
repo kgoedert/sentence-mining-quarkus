@@ -5998,6 +5998,9 @@
 # Le regañaron por llegar tarde.
 # They scolded him for being late.
 # 
+Quiero irme antes que llegue Andrés.
+I want to go before Andrés arrives. 
+
 He traído una foto de mi hijo para que lo conozcáis.
 I brought a photo of my son so you can meet him. 
 
