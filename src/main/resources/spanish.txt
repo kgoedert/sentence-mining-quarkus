@@ -5991,313 +5991,313 @@
 # 
 # Puesto que me lo pides tú, lo haré.
 # Since you are the one asking, I'll do it.
+# # 
+# # Como tenían hambre, se compraron unos bocadillos.
+# # Since they were hungry, they bought some sandwiches.
+# # 
+# # Le regañaron por llegar tarde.
+# # They scolded him for being late.
+# # 
+# Quiero irme antes que llegue Andrés.
+# I want to go before Andrés arrives. 
 # 
-# Como tenían hambre, se compraron unos bocadillos.
-# Since they were hungry, they bought some sandwiches.
+# He traído una foto de mi hijo para que lo conozcáis.
+# I brought a photo of my son so you can meet him. 
 # 
-# Le regañaron por llegar tarde.
-# They scolded him for being late.
+# Tengo miedo de que me echen del trabajo.
+# I am afraid of being fired. 
 # 
-Quiero irme antes que llegue Andrés.
-I want to go before Andrés arrives. 
-
-He traído una foto de mi hijo para que lo conozcáis.
-I brought a photo of my son so you can meet him. 
-
-Tengo miedo de que me echen del trabajo.
-I am afraid of being fired. 
-
-Algunas personas quieren mucho a sus perros.
-Some people like their dogs very much.
-
-Estoy harto de que no colabores.
-I am fed up that you don't colaborate.
-
-Recuerdo que el año pasado visitamos al desierto de Atacama.
-I remember that last year we visited the Atacama desert. 
-
-Los aeropuertos están cerrados por la niebla.
-The airports are closed because of the fog.
-
-Han suspendido el partido a causa de la lluvia.
-They suspend the match, because of the rain.
-
-Como la película es buena, no quedan entradas.
-Since the film is good, there are no tickets left.
-
-Lo hice porque me lo había pedido Aurora.
-I did it because Aurora had asked.
-
-Ya que estás aquí, ¿por qué no me ayudas?
-Since you are here, why don't you help me?
-
-¿Por qué no viniste ayer? Es que tuve mucho trabajo.
-Why didn't you come yesterday? Because I had a lot of work.
-
-¿Por qué no me llevas a dar una vuelta en la moto? Es que no tienes casco.
-Why don't you take me for a ride on the bike? Because you don't have a helmet.
-
-Aunque llueva mañana, yo voy a la playa.
-Even if it rains tomorrow, I'll go to the beach.
-
-¡Qué suerte tiene Ronaldo! A pesar de que estudia, aprueba!
-How lucky Ronaldo is! Even though he doesn't study, he passes!
-
-Aunque Clara es muy simpática, no tiene muchos amigos.
-Even though Clara is very nice, she doesn't have many friends.
-
-A pesar de que trabajes mucho, no te subirán el sueldo.
-Even though you work a lot, they won't give you a raise.
-
-Por más que busca, no encuentra trabajo.
-Even though he searches, he doesn't find a job.
-
-Por mucho que corran, no me alcanzarán.
-Even though they run a lot, they won't reach me.
-
-¡Pobre Ronaldo! Por más que estudia, no aprueba.
-Poor Ronaldo! Even though he studies, he doesn't pass.
-
-Aunque trabajó mucho, nunca se hizo rico.
-Even though he worked a lot, he never got rich.
-
-Aunque Alicia no me quiere, yo la quiero a ella.
-Even though Alicia doesn't like me, I like her.
-
-Aunque corras mucho, no me ganarás.
-Even if you run a lot, you won't beat me.
-
-No sé si comiste mucho o poco, aunque comieras poco, te sentó mal.
-I don't know if you ate too much or too little, even if you ate too little, it made you sick.
-
-Aunque no te guste la sopa, tienes que comértela.
-Even though you don't like the soup, you have to eat it.
-
-A pesar de estar agotados, tuvimos que levantarmos temprano.
-Even though we were tired, we had to get up early.
-
-Luis hace mucho ejercicio, por eso está en forma.
-Luis does a lot of exercises, that is why he is in good shape.
-
-Había tanta gente que no pudimos entrar en el museo.
-There were so many people that we could not get in the museum.
-
-La semana pasada estuve muy ocupado, por eso no te llamé.
-Last week I was very busy, that's why I did not call you.
-
-No vi a nadie conocido en el club, así que me volví a casa.
-I didn't see anyone I knew at the club, so I went home.
-
-Empecé a trabajar en junio, por tanto no he tenido vacaciones este año.
-I started to work in june, so I didn't have vacations this year.
-
-No había plazas en el vuelo, de modo que tuvimos que ir en tren.
-There were no seats in the flight, so we had to go by train.
-
-Hay mucha gente, de manera que será mejor que te des prisa.
-There is a lot of people, so you better hurry.
-
-Corre tanto que gana todas las carreras.
-He runs so much that he wins all the races.
-
-Maite tiene tantos amigos que nunca está en casa.
-Maite has so many friends that she is never home.
-
-Come tan poco que va a enfermar.
-He eats so little that he is going to get sick.
-
-El río tenía tan poca agua que no pudimos bañarnos.
-The river had so little water that we could not bathe.
-
-Lourdes es tan culta que entiende de todo.
-Lourdes is so educated that she knows about everything.
-
-Me siento tan mal que me voy a acostar.
-I am feeling so bad, that I am going to lay down.
-
-Hay tanta gente en la fiesta que prefiro irme.
-There is so many people at the party, that I'd rather go.
-
-Había tan pocos espectadores que suspedieron la función.
-There were so few spectators that they called off the show.
-
-Aquí se trabaja mucho.
-We work a lot here.
-
-Es importante saber idiomas.
-It is important to know languages.
-
-Aquí se vive muy bien.
-We live very well here.
-
-Aquí la gente se acuesta muy tarde.
-People go to bed very late here.
-
-Aquí se acuesta uno muy tarde.
-People go to bed very late here.
-
-En España se suele cenar muy tarde.
-In Spanish they usually dine very late.
-
-Desde mi casa se puede ver el mar.
-From my house you can see the sea.
-
-No se debe hablar con la boca llena.
-One should not speak with their mouth full.
-
-Se dice que Arlindo está enfermo.
-It is said that Arlindo is ill.
-
-Se espera que ganen sin problemas.
-It is hoped that they win without any problems.
-
-Se sospecha que el ladrón estaba escondido allí.
-It is suspected that the thief was hidden there.
-
-Se supone que el Presidente lo sabe.
-The president's supposed to know.
-
-Se esperaba que llegasen todos juntos.
-They were all expected to arrive together.
-
-Era inútil explicárselo. No lo entendían.
-It was useless to explain it to them. They didn't understand.
-
-Sería injusto castigar a todos.
-It would be unfair to punish everyone.
-
-Hoy hay niebla.
-There's fog today.
-
-Ayer había mucha gente.
-There was a lot of people yesterday.
-
-Hay que preparar la comida.
-The food has to be prepared.
-
-Ayer hizo mucho frío.
-Yesterday it was very cold.
-
-Hace dos semanas que no veo a Pili.
-It has been two weeks seen I've seen Pili.
-
-Es tarde. Vámonos a casa.
-It is late. Let's go home.
-
-En verano amanece pronto.
-In summer it dawns early.
-
-El hermano de Ángel es médico.
-Ángel's brother is a doctor.
-
-Hans y Uta son alemanes. Él es de Hamburgo.
-Hans and Uta are german. He's from Hamburg.
-
-El coche de Andrés está mal aparcado.
-Andrés' car is not well parked.
-
-Sí, quiero.
-Yes, I want.
-
-Si quieres, cómpratelo.
-If you want it, buy it.
-
-¿Es para mí?
-Is it for me?
-
-Es mi padre.
-It's my father.
-
-Y tú, ¿dónde vives?
-And you, where do you live?
-
-¿Quién es tu profesor?
-Who is your teacher?
-
-Dile que te dé las llaves.
-Tell him to give you the keys.
-
-Es el padre de mi novia.
-It's my girlfriend's father.
-
-Sé hablar español.
-I can speak spanish.
-
-Se levanta muy temprano.
-He wakes up very early.
-
-No me gusta el té.
-I don't like tea.
-
-¿Te gusta el café?
-Do you like coffee?
-
-¿Dónde vives?
-Where do you live?
-
-Esta es la casa donde nací.
-This is the house where I was born.
-
-Ese es el coche que quiero.
-That is the car that I want.
-
-El secretario del Presidente es abogado.
-The President's secretary is a lawyer.
-
-¿Habéis reservado ya el hotel?
-Have already reserved the hotel?
-
-Me encanta la miel.
-I love honey.
-
-La naranja es el fruto del naranjo.
-The orange is the fruit of the orange tree.
-
-Pásame un leño, por favor?
-Pass me a log, please?
-
-¿Dónde guardáis la leña?
-Where do you keep the fire wood?
-
-El fruto del nogal es la nuez.
-The walnut fruit is the walnut.
-
-Este año hay poca fruta.
-There's few fruit this year.
-
-Me encanta la música, pero no tengo dotes para ser músico.
-I love music, but a don't have the skills to be a musician.
-
-¿Qué estudia Jaime? Física. Quiere ser físico nuclear.
-What does Jaime studies? Physics. He wants to be a nuclear physicist.
-
-El capital de esta empresa es de 20 millones.
-This company's capital is of 20 millions.
-
-Lima es la capital de Perú.
-Lima is Peru's capital.
-
-Tenho mis libros en orden alfabético.
-I have my books in alphabetical order.
-
-La policía entró en el piso con una orden de registro.
-The police went into the appartment with a search warrant.
-
-Fredi es el batería de nuesto grupo.
-Fredi is our group's drummer.
-
-Toca la batería desde muy joven.
-He plays the drums since he was very young.
-
-El cura de mi barrio es un hombre muy joven.
-My neighborhood's priest is very young.
-
-La cura de esa herida será muy dolorosa.
-The healing of that wound will be very painful.
-
-¿Has leído el editorial de hoy de El Sol?
-Have you read today's editorial of El Sol?
-
+# Algunas personas quieren mucho a sus perros.
+# Some people like their dogs very much.
+# 
+# Estoy harto de que no colabores.
+# I am fed up that you don't colaborate.
+# 
+# Recuerdo que el año pasado visitamos al desierto de Atacama.
+# I remember that last year we visited the Atacama desert. 
+# 
+# Los aeropuertos están cerrados por la niebla.
+# The airports are closed because of the fog.
+# 
+# Han suspendido el partido a causa de la lluvia.
+# They suspend the match, because of the rain.
+# 
+# Como la película es buena, no quedan entradas.
+# Since the film is good, there are no tickets left.
+# 
+# Lo hice porque me lo había pedido Aurora.
+# I did it because Aurora had asked.
+# 
+# Ya que estás aquí, ¿por qué no me ayudas?
+# Since you are here, why don't you help me?
+# 
+# ¿Por qué no viniste ayer? Es que tuve mucho trabajo.
+# Why didn't you come yesterday? Because I had a lot of work.
+# 
+# ¿Por qué no me llevas a dar una vuelta en la moto? Es que no tienes casco.
+# Why don't you take me for a ride on the bike? Because you don't have a helmet.
+# 
+# Aunque llueva mañana, yo voy a la playa.
+# Even if it rains tomorrow, I'll go to the beach.
+# 
+# ¡Qué suerte tiene Ronaldo! A pesar de que estudia, aprueba!
+# How lucky Ronaldo is! Even though he doesn't study, he passes!
+# 
+# Aunque Clara es muy simpática, no tiene muchos amigos.
+# Even though Clara is very nice, she doesn't have many friends.
+# 
+# A pesar de que trabajes mucho, no te subirán el sueldo.
+# Even though you work a lot, they won't give you a raise.
+# 
+# Por más que busca, no encuentra trabajo.
+# Even though he searches, he doesn't find a job.
+# 
+# Por mucho que corran, no me alcanzarán.
+# Even though they run a lot, they won't reach me.
+# 
+# ¡Pobre Ronaldo! Por más que estudia, no aprueba.
+# Poor Ronaldo! Even though he studies, he doesn't pass.
+# 
+# Aunque trabajó mucho, nunca se hizo rico.
+# Even though he worked a lot, he never got rich.
+# 
+# Aunque Alicia no me quiere, yo la quiero a ella.
+# Even though Alicia doesn't like me, I like her.
+# 
+# Aunque corras mucho, no me ganarás.
+# Even if you run a lot, you won't beat me.
+# 
+# No sé si comiste mucho o poco, aunque comieras poco, te sentó mal.
+# I don't know if you ate too much or too little, even if you ate too little, it made you sick.
+# 
+# Aunque no te guste la sopa, tienes que comértela.
+# Even though you don't like the soup, you have to eat it.
+# 
+# A pesar de estar agotados, tuvimos que levantarmos temprano.
+# Even though we were tired, we had to get up early.
+# 
+# Luis hace mucho ejercicio, por eso está en forma.
+# Luis does a lot of exercises, that is why he is in good shape.
+# 
+# Había tanta gente que no pudimos entrar en el museo.
+# There were so many people that we could not get in the museum.
+# 
+# La semana pasada estuve muy ocupado, por eso no te llamé.
+# Last week I was very busy, that's why I did not call you.
+# 
+# No vi a nadie conocido en el club, así que me volví a casa.
+# I didn't see anyone I knew at the club, so I went home.
+# 
+# Empecé a trabajar en junio, por tanto no he tenido vacaciones este año.
+# I started to work in june, so I didn't have vacations this year.
+# 
+# No había plazas en el vuelo, de modo que tuvimos que ir en tren.
+# There were no seats in the flight, so we had to go by train.
+# 
+# Hay mucha gente, de manera que será mejor que te des prisa.
+# There is a lot of people, so you better hurry.
+# 
+# Corre tanto que gana todas las carreras.
+# He runs so much that he wins all the races.
+# 
+# Maite tiene tantos amigos que nunca está en casa.
+# Maite has so many friends that she is never home.
+# 
+# Come tan poco que va a enfermar.
+# He eats so little that he is going to get sick.
+# 
+# El río tenía tan poca agua que no pudimos bañarnos.
+# The river had so little water that we could not bathe.
+# 
+# Lourdes es tan culta que entiende de todo.
+# Lourdes is so educated that she knows about everything.
+# 
+# Me siento tan mal que me voy a acostar.
+# I am feeling so bad, that I am going to lay down.
+# 
+# Hay tanta gente en la fiesta que prefiro irme.
+# There is so many people at the party, that I'd rather go.
+# 
+# Había tan pocos espectadores que suspedieron la función.
+# There were so few spectators that they called off the show.
+# 
+# Aquí se trabaja mucho.
+# We work a lot here.
+# 
+# Es importante saber idiomas.
+# It is important to know languages.
+# 
+# Aquí se vive muy bien.
+# We live very well here.
+# 
+# Aquí la gente se acuesta muy tarde.
+# People go to bed very late here.
+# 
+# Aquí se acuesta uno muy tarde.
+# People go to bed very late here.
+# 
+# En España se suele cenar muy tarde.
+# In Spanish they usually dine very late.
+# 
+# Desde mi casa se puede ver el mar.
+# From my house you can see the sea.
+# 
+# No se debe hablar con la boca llena.
+# One should not speak with their mouth full.
+# 
+# Se dice que Arlindo está enfermo.
+# It is said that Arlindo is ill.
+# 
+# Se espera que ganen sin problemas.
+# It is hoped that they win without any problems.
+# 
+# Se sospecha que el ladrón estaba escondido allí.
+# It is suspected that the thief was hidden there.
+# 
+# Se supone que el Presidente lo sabe.
+# The president's supposed to know.
+# 
+# Se esperaba que llegasen todos juntos.
+# They were all expected to arrive together.
+# 
+# Era inútil explicárselo. No lo entendían.
+# It was useless to explain it to them. They didn't understand.
+# 
+# Sería injusto castigar a todos.
+# It would be unfair to punish everyone.
+# 
+# Hoy hay niebla.
+# There's fog today.
+# 
+# Ayer había mucha gente.
+# There was a lot of people yesterday.
+# 
+# Hay que preparar la comida.
+# The food has to be prepared.
+# 
+# Ayer hizo mucho frío.
+# Yesterday it was very cold.
+# 
+# Hace dos semanas que no veo a Pili.
+# It has been two weeks seen I've seen Pili.
+# 
+# Es tarde. Vámonos a casa.
+# It is late. Let's go home.
+# 
+# En verano amanece pronto.
+# In summer it dawns early.
+# 
+# El hermano de Ángel es médico.
+# Ángel's brother is a doctor.
+# 
+# Hans y Uta son alemanes. Él es de Hamburgo.
+# Hans and Uta are german. He's from Hamburg.
+# 
+# El coche de Andrés está mal aparcado.
+# Andrés' car is not well parked.
+# 
+# Sí, quiero.
+# Yes, I want.
+# 
+# Si quieres, cómpratelo.
+# If you want it, buy it.
+# 
+# ¿Es para mí?
+# Is it for me?
+# 
+# Es mi padre.
+# It's my father.
+# 
+# Y tú, ¿dónde vives?
+# And you, where do you live?
+# 
+# ¿Quién es tu profesor?
+# Who is your teacher?
+# 
+# Dile que te dé las llaves.
+# Tell him to give you the keys.
+# 
+# Es el padre de mi novia.
+# It's my girlfriend's father.
+# 
+# Sé hablar español.
+# I can speak spanish.
+# 
+# Se levanta muy temprano.
+# He wakes up very early.
+# 
+# No me gusta el té.
+# I don't like tea.
+# 
+# ¿Te gusta el café?
+# Do you like coffee?
+# 
+# ¿Dónde vives?
+# Where do you live?
+# 
+# Esta es la casa donde nací.
+# This is the house where I was born.
+# 
+# Ese es el coche que quiero.
+# That is the car that I want.
+# 
+# El secretario del Presidente es abogado.
+# The President's secretary is a lawyer.
+# 
+# ¿Habéis reservado ya el hotel?
+# Have already reserved the hotel?
+# 
+# Me encanta la miel.
+# I love honey.
+# 
+# La naranja es el fruto del naranjo.
+# The orange is the fruit of the orange tree.
+# 
+# Pásame un leño, por favor?
+# Pass me a log, please?
+# 
+# ¿Dónde guardáis la leña?
+# Where do you keep the fire wood?
+# 
+# El fruto del nogal es la nuez.
+# The walnut fruit is the walnut.
+# 
+# Este año hay poca fruta.
+# There's few fruit this year.
+# 
+# Me encanta la música, pero no tengo dotes para ser músico.
+# I love music, but a don't have the skills to be a musician.
+# 
+# ¿Qué estudia Jaime? Física. Quiere ser físico nuclear.
+# What does Jaime studies? Physics. He wants to be a nuclear physicist.
+# 
+# El capital de esta empresa es de 20 millones.
+# This company's capital is of 20 millions.
+# 
+# Lima es la capital de Perú.
+# Lima is Peru's capital.
+# 
+# Tenho mis libros en orden alfabético.
+# I have my books in alphabetical order.
+# 
+# La policía entró en el piso con una orden de registro.
+# The police went into the appartment with a search warrant.
+# 
+# Fredi es el batería de nuesto grupo.
+# Fredi is our group's drummer.
+# 
+# Toca la batería desde muy joven.
+# He plays the drums since he was very young.
+# 
+# El cura de mi barrio es un hombre muy joven.
+# My neighborhood's priest is very young.
+# 
+# La cura de esa herida será muy dolorosa.
+# The healing of that wound will be very painful.
+# 
+# ¿Has leído el editorial de hoy de El Sol?
+# Have you read today's editorial of El Sol?
+# 
 Ana trabaja en una editorial china.
 Ana works in a chinese publishing house.
 
