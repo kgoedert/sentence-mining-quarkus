@@ -6298,6 +6298,12 @@
 # ¿Has leído el editorial de hoy de El Sol?
 # Have you read today's editorial of El Sol?
 # 
+A pesar de estar agotados, tuvimos que levantarnos temprano.
+Even though we were tired, we had to get up early.
+
+Tengo mis libros en orden alfabético.
+I have my books in alphabetical order.
+
 Ana trabaja en una editorial china.
 Ana works in a chinese publishing house.
 

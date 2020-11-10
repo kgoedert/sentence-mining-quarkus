@@ -4798,6 +4798,15 @@
 # Wo bist du?
 # Where are you?
 # 
+der Stiefel, die Stiefel
+a bota, as botas
+
+die Blume, die Blumen
+a flor, as flores
+
+Sie startet den Motor.
+She is starting the engine.
+
 Wo sind Sie?
 Where are you?
 
@@ -4811,7 +4820,7 @@ Wo liegt mein Handy?
 Where is my cell phone?
 
 Wohin gehst du?
-Where are you going?
+Where are you going to?
 
 Wohin fährst du?
 Where are you driving to?

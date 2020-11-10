@@ -6892,297 +6892,312 @@
 # Il y a dix personnes dans la salle.
 # There are ten people in the room.
 # 
-# Il n'y a pas de chat.
-# There isn't a cat.
+# # Il n'y a pas de chat.
+# # There isn't a cat.
+# # 
+# # Il n'y a pas de problème.
+# # There aren't any problems.
+# # 
+# Il y a beaucoup de lumière.
+# There is a lot of light.
 # 
-# Il n'y a pas de problème.
-# There aren't any problems.
+# Pourquoi vous n'allez pas à son anniversaire? Parce que nous ne la connaissons pas.
+# Why are you not going to her birthday? Because we do not know her.
 # 
-Il n'y a pas de personnes.
-There aren't any people.
-
-J'ai commencé ce projet il y a six mois.
-I started this project six months ago.
-
-J'ai recontré Matthias il y dix ans.
-I met Matthias ten years ago.
-
-Il fait chaud.
-Está calor.
-
-Il fait froid.
-Está frio.
-
-Il fait nuageux.
-It is cloudy.
-
-Il fait venteux.
-It is windy.
-
-Il pleut.
-It rains.
-
-Il neige.
-It is snowing.
-
-Il gèle.
-It is freezing.
-
-Il tombe de la neige.
-There is snow falling.
-
-Elle est professeur de français et d'anglais.
-She is a french and english teacher.
-
-Je mange de céréales et des fruits chaque matin.
-I eat cereal and fruit every morning.              
-
-J'ai mal au ventre quand je mannge du chocolat alors j'ai arrêté.
-I have a stomach ache everytime I eat chocolate so I stopped.
-
-J'ai besoin d'exercice physique donc je fais du sport trois fois par semaine.
-I need physical exercise so I do sports three times a week.
-
-Je n'ai plus de batterie sur mon téléphone alors je l'ai changé.
-My phone's batterie is dead so I charged it.
-
-Thé ou café?
-Tee or coffee?
-
-Tu préfères aller à la piscine ou à la plage?
-Do you prefer to go to the pool or the beach?
-
-Nous pouvons aller ou théâtre ou au cinéma.
-We can go to the theater or the cinema.
-
-J'aimerais sortir ce soir mais dois étudier.
-I would like to go out tonight, but I have to study.
-
-Elle est gentile mais capricieuse.
-She is friendly but temperamental.
-
-J'aime beacoup la montagne mais j'aime moins la mer.
-I like the mountain a lot, but I like the sea much less.
-
-La jupe peut être longue ou courte.
-The skirt can be long or short.
-
-Un t-shirt à manches longues ou à manches courtes.
-A long-sleeve t-shirt or short-sleeve t-shirt.
-
-Je meurs de soif.
-I am dying of thirst.
-
-J'ai soif.
-I am thirsty.
-
-J'ai peur.
-I am scared.
-
-J'ai peur du noir.
-I am scared of the dark.
-
-J'ai besoin de lunettes pour lire.
-I need glasses to read.
-
-Je suis d'accord avec toi.
-I agree with you.
-
-Je ne suis pas d'accord avec toi.
-I do not agree with you.
-
-Je suis toujours en retard chez le docteur.
-I am always late to go to the doctor.
-
-Il est déçu.
-He is disappointed.
-
-Vous faites les courses deux fois par semaine.
-You shop for groceries twice a week.
-
-Nous faison le ménage chaque week-end.
-We clean the house every weekend.
-
-Tu ne fais pas souvent la vaisselle.
-You do not do the dishes very often.
-
-Je prends le vélo pour aller à l'école.
-I take the bike to go to school.
-
-Je prends le bus.
-I take the bus.
-
-Je prends le métro.
-I take the subway.
-
-Je prends l'avion pour voyager à Paris.
-I take the plane to travel to Paris.
-
-Jenny prends le train pour voyager à Barcelone.
-Jenny takes the train to travel to Barcelona.
-
-Je prends la voiture.
-I take the car.
-
-On est quel jour?
-What day is it?
-
-C'est quoi la date d'aujourd'hui?
-What is date today?
-
-Quel jour sommes-nous?
-What day is it?
-
-Quelle est la date d'aujourd'hui?
-What is the date today?
-
-On est le premier mars.
-It is march 1st.
-
-C'est le premier juillet.
-It is july 1st.
-
-On est le premier décembre 2019.
-It is december 1st, 2019.
-
-Tu as l'heure, s'it te plaît?
-Do you have the time, please?
-
-Quelle heure est t-il, s'il vous plaît?
-Do you have the time, please?
-
-Vous avez l'heure, s'il vous plaît?
-Do you have the time, please?
-
-Il est huit heures dix.
-It is ten past eight.
-
-Il est neuf heures et demie.
-It is half past nine.
-
-Il est trois heures et quart.
-It is quarter past three.
-
-Il est sept heures moins le quart.
-It is quarter to seven.
-
-Il est midi.
-It is noon.
-
-Il est minuit pile.
-It is midnight sharp.
-
-C'est combien?
-How much is it?
-
-Combien ça coûte?
-How much does it cost?
-
-C'est quarante euros.
-It is forty euros.
-
-Le téléphone, il coûte deux-cents euros.
-The téléphone, it costs 200 euros.
-
-Le stylo, ça coûte cinq euros.
-The pen, that costs 5 euros.
-
-C'est dix-huit euros quarante.
-It's 18.40 euros.
-
-C'est dix-sept euros vingt.
-It's 17.20 euros.
-
-C'est vingt euros trente.
-It's 20.30 euros.
-
-J'habite au 15, boulevard Léon Blum.
-I live at 15, boulevard Léon Blum.
-
-Quel étage?
-Which floor?
-
-Quatrième étage.
-4th floor.
-
-Sixième étage.
-Sixth floor.
-
-J'ai vingt ans.
-I am twenty.
-
-Voici mon ami.
-This is my friend.
-
-Voilà ma sœeur.
-There is my sister.
-
-C'est mon ami.
-This is my friend.
-
-C'est un garçon très gentil.
-He is a very nice boy.
-
-Il est docteur.
-He is a doctor.
-
-Il est Allemand.
-He is german.
-
-Il est intelligent.
-He is intelligent.
-
-Il est mathématicien.
-He is a mathematician.
-
-C'est sympa.
-It is cool.
-
-Salut, voici Marie. Elle est Allemande et elle est professeur.
-Hello, this is Marie. She is german and she is a teacher.
-
-C'est une professeur d'allemand.
-She is a german teacher.
-
-Et voilà Jacques.
-And there is Jacques.
-
-C'est un ami de Jenny.
-He is Jenny's friend.
-
-J'habite en Espagne.
-I live in Spain.
-
-Je travaille en France.
-I work in France.
-
-Je voyage en Italie.
-I travel to Italy.
-
-Je pars en Russie.
-I go to Russia.
-
-Je pars au Canada.
-I go to Canada.
-
-J'habite au Mexique.
-I live in Mexico.
-
-Je vis au Brésil.
-I live in Brazil.
-
-Je voyage au Japon.
-I travel to Japan.
-
-La tour Eiffel est à Paris, en France.
-The Eiffel tower is in Paris, in France.
-
-La statue de la liberté est à New York, aux États-Uni.
-The statue of liberty is in New York, in the United States.
-
-Big Ben est à Londres, en Anglaterre.
-Big Ben is in London, in England.
-
+# Ces idées sont très intéressantes.
+# These ideas are very interesting. 
+# 
+# Cette boisson est prête.
+# This drink is ready. 
+# 
+# Vos idées sont très intéressantes.
+# Your ideas are very interesting.
+# 
+# Il n'y a pas de personnes.
+# There aren't any people.
+# 
+# J'ai commencé ce projet il y a six mois.
+# I started this project six months ago.
+# 
+# J'ai recontré Matthias il y dix ans.
+# I met Matthias ten years ago.
+# 
+# Il fait chaud.
+# Está calor.
+# 
+# Il fait froid.
+# Está frio.
+# 
+# Il fait nuageux.
+# It is cloudy.
+# 
+# Il fait venteux.
+# It is windy.
+# 
+# Il pleut.
+# It rains.
+# 
+# Il neige.
+# It is snowing.
+# 
+# Il gèle.
+# It is freezing.
+# 
+# Il tombe de la neige.
+# There is snow falling.
+# 
+# Elle est professeur de français et d'anglais.
+# She is a french and english teacher.
+# 
+# Je mange de céréales et des fruits chaque matin.
+# I eat cereal and fruit every morning.              
+# 
+# J'ai mal au ventre quand je mannge du chocolat alors j'ai arrêté.
+# I have a stomach ache everytime I eat chocolate so I stopped.
+# 
+# J'ai besoin d'exercice physique donc je fais du sport trois fois par semaine.
+# I need physical exercise so I do sports three times a week.
+# 
+# Je n'ai plus de batterie sur mon téléphone alors je l'ai changé.
+# My phone's batterie is dead so I charged it.
+# 
+# Thé ou café?
+# Tee or coffee?
+# 
+# Tu préfères aller à la piscine ou à la plage?
+# Do you prefer to go to the pool or the beach?
+# 
+# Nous pouvons aller ou théâtre ou au cinéma.
+# We can go to the theater or the cinema.
+# 
+# J'aimerais sortir ce soir mais dois étudier.
+# I would like to go out tonight, but I have to study.
+# 
+# Elle est gentile mais capricieuse.
+# She is friendly but temperamental.
+# 
+# J'aime beacoup la montagne mais j'aime moins la mer.
+# I like the mountain a lot, but I like the sea much less.
+# 
+# La jupe peut être longue ou courte.
+# The skirt can be long or short.
+# 
+# Un t-shirt à manches longues ou à manches courtes.
+# A long-sleeve t-shirt or short-sleeve t-shirt.
+# 
+# Je meurs de soif.
+# I am dying of thirst.
+# 
+# J'ai soif.
+# I am thirsty.
+# 
+# J'ai peur.
+# I am scared.
+# 
+# J'ai peur du noir.
+# I am scared of the dark.
+# 
+# J'ai besoin de lunettes pour lire.
+# I need glasses to read.
+# 
+# Je suis d'accord avec toi.
+# I agree with you.
+# 
+# Je ne suis pas d'accord avec toi.
+# I do not agree with you.
+# 
+# Je suis toujours en retard chez le docteur.
+# I am always late to go to the doctor.
+# 
+# Il est déçu.
+# He is disappointed.
+# 
+# Vous faites les courses deux fois par semaine.
+# You shop for groceries twice a week.
+# 
+# Nous faison le ménage chaque week-end.
+# We clean the house every weekend.
+# 
+# Tu ne fais pas souvent la vaisselle.
+# You do not do the dishes very often.
+# 
+# Je prends le vélo pour aller à l'école.
+# I take the bike to go to school.
+# 
+# Je prends le bus.
+# I take the bus.
+# 
+# Je prends le métro.
+# I take the subway.
+# 
+# Je prends l'avion pour voyager à Paris.
+# I take the plane to travel to Paris.
+# 
+# Jenny prends le train pour voyager à Barcelone.
+# Jenny takes the train to travel to Barcelona.
+# 
+# Je prends la voiture.
+# I take the car.
+# 
+# On est quel jour?
+# What day is it?
+# 
+# C'est quoi la date d'aujourd'hui?
+# What is date today?
+# 
+# Quel jour sommes-nous?
+# What day is it?
+# 
+# Quelle est la date d'aujourd'hui?
+# What is the date today?
+# 
+# On est le premier mars.
+# It is march 1st.
+# 
+# C'est le premier juillet.
+# It is july 1st.
+# 
+# On est le premier décembre 2019.
+# It is december 1st, 2019.
+# 
+# Tu as l'heure, s'it te plaît?
+# Do you have the time, please?
+# 
+# Quelle heure est t-il, s'il vous plaît?
+# Do you have the time, please?
+# 
+# Vous avez l'heure, s'il vous plaît?
+# Do you have the time, please?
+# 
+# Il est huit heures dix.
+# It is ten past eight.
+# 
+# Il est neuf heures et demie.
+# It is half past nine.
+# 
+# Il est trois heures et quart.
+# It is quarter past three.
+# 
+# Il est sept heures moins le quart.
+# It is quarter to seven.
+# 
+# Il est midi.
+# It is noon.
+# 
+# Il est minuit pile.
+# It is midnight sharp.
+# 
+# C'est combien?
+# How much is it?
+# 
+# Combien ça coûte?
+# How much does it cost?
+# 
+# C'est quarante euros.
+# It is forty euros.
+# 
+# Le téléphone, il coûte deux-cents euros.
+# The téléphone, it costs 200 euros.
+# 
+# Le stylo, ça coûte cinq euros.
+# The pen, that costs 5 euros.
+# 
+# C'est dix-huit euros quarante.
+# It's 18.40 euros.
+# 
+# C'est dix-sept euros vingt.
+# It's 17.20 euros.
+# 
+# C'est vingt euros trente.
+# It's 20.30 euros.
+# 
+# J'habite au 15, boulevard Léon Blum.
+# I live at 15, boulevard Léon Blum.
+# 
+# Quel étage?
+# Which floor?
+# 
+# Quatrième étage.
+# 4th floor.
+# 
+# Sixième étage.
+# Sixth floor.
+# 
+# J'ai vingt ans.
+# I am twenty.
+# 
+# Voici mon ami.
+# This is my friend.
+# 
+# Voilà ma sœeur.
+# There is my sister.
+# 
+# C'est mon ami.
+# This is my friend.
+# 
+# C'est un garçon très gentil.
+# He is a very nice boy.
+# 
+# Il est docteur.
+# He is a doctor.
+# 
+# Il est Allemand.
+# He is german.
+# 
+# Il est intelligent.
+# He is intelligent.
+# 
+# Il est mathématicien.
+# He is a mathematician.
+# 
+# C'est sympa.
+# It is cool.
+# 
+# Salut, voici Marie. Elle est Allemande et elle est professeur.
+# Hello, this is Marie. She is german and she is a teacher.
+# 
+# C'est une professeur d'allemand.
+# She is a german teacher.
+# 
+# Et voilà Jacques.
+# And there is Jacques.
+# 
+# C'est un ami de Jenny.
+# He is Jenny's friend.
+# 
+# J'habite en Espagne.
+# I live in Spain.
+# 
+# Je travaille en France.
+# I work in France.
+# 
+# Je voyage en Italie.
+# I travel to Italy.
+# 
+# Je pars en Russie.
+# I go to Russia.
+# 
+# Je pars au Canada.
+# I go to Canada.
+# 
+# J'habite au Mexique.
+# I live in Mexico.
+# 
+# Je vis au Brésil.
+# I live in Brazil.
+# 
+# Je voyage au Japon.
+# I travel to Japan.
+# 
+# La tour Eiffel est à Paris, en France.
+# The Eiffel tower is in Paris, in France.
+# 
+# La statue de la liberté est à New York, aux États-Uni.
+# The statue of liberty is in New York, in the United States.
+# 
+# Big Ben est à Londres, en Anglaterre.
+# Big Ben is in London, in England.
+# 
 Il habite à Toronto, au Canada.
 He lives in Toronto, in Canada.
 
