@@ -6298,6 +6298,9 @@
 # ¿Has leído el editorial de hoy de El Sol?
 # Have you read today's editorial of El Sol?
 # 
+¿Alguno de vosotros habla árabe?
+Does any of you speak arabic? vosotros
+
 A pesar de estar agotados, tuvimos que levantarnos temprano.
 Even though we were tired, we had to get up early.
 

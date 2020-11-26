@@ -4795,300 +4795,309 @@
 # Ich habe ihm geholfen.
 # I helped him.
 # 
-# Wo bist du?
+# # Wo bist du?
+# # Where are you?
+# # 
+# der Stiefel, die Stiefel
+# a bota, as botas
+# 
+# die Blume, die Blumen
+# a flor, as flores
+# 
+# der Baum, die Bäume
+# a árvore, as árvoress
+# 
+# die Same, die Samen
+# a semente, as sementes
+# 
+# die Möhre, die Möhren
+# a cenoura, as cenouras
+# 
+# Sie startet den Motor.
+# She is starting the engine.
+# 
+# Wo sind Sie?
 # Where are you?
 # 
-der Stiefel, die Stiefel
-a bota, as botas
-
-die Blume, die Blumen
-a flor, as flores
-
-Sie startet den Motor.
-She is starting the engine.
-
-Wo sind Sie?
-Where are you?
-
-Wo sitzt er?
-Where is he sitting?
-
-Wo hängt das Bild?
-Where is the picture hanging?
-
-Wo liegt mein Handy?
-Where is my cell phone?
-
-Wohin gehst du?
-Where are you going to?
-
-Wohin fährst du?
-Where are you driving to?
-
-Wohin fahren Sie?
-Where is she driving to?
-
-Wohin hast du das Bild gehängt?
-Where did you hang the picture?
-
-Wohin stellst du die Vase?
-Where are you putting the vase?
-
-Wohin hast du meinen Taschenrechner gelegt?
-Where did you put my calculator?
-
-Wohin hat er sich gesetzt?
-Where did he sit down?
-
-Woher kommst du?
-Where do you come from?
-
-Woher hast du das?
-Where do you have that from?
-
-Woher hat sie die Schuhe?
-Where does she have the shoes from?
-
-Woher wissen Sie das?
-How do you know that?
-
-Ich brauche deinen Rat.
-I need your advice.
-
-Ich brauche Ihren Rat.
-I need your advice.
-
-Brauchst du meine Hilfe?
-Do you need my help?
-
-Wer braucht Hilfe?
-Who needs help?
-
-Ich brauche einen neuen Bürostuhl.
-I need a new office chair.
-
-Ich brauche nichts.
-I don't need anything.
-
-Brauchst du etwas?
-Do you need anything?
-
-Sonja braucht ein Lineal.
-Sonja needs a ruler.
-
-Peter braucht ein Maẞband.
-Peter needs a measuring tape.
-
-Luisa braucht ein Mikroskop.
-Luisa needs a microscope.
-
-Karl braucht einen Hammer.
-Karl needs a hammer.
-
-Wir brauchen einen blaue Tischdecke.
-We need a blue table cloth.
-
-Ich brauche ein groẞes Handtuch.
-I need a big towel.
-
-Die Kinder brauchen Regenjacke.
-The children need raincoats.
-
-Der Chef braucht Ihre Hilfe.
-The boss needs your help.
-
-Was brauchen Sie?
-What do you need?
-
-Brauchen Sie meine Unterstützung?
-Do you need my support?
-
-Brauchen Sie einen Stift?
-Do you need a pen?
-
-Ich brauche einen Espresso.
-I need an espresso.
-
-Ich brauche einen Kaffee.
-I need coffee.
-
-Ich brauche meinen Laptop.
-I need my laptop.
-
-Sie braucht eure Hilfe.
-She needs your (voces) help.
-
-Braucht ihr unsere Hilfe?
-Do you guys need our help?
-
-Ich suche meine Brille.
-I am looking for my glasses.
-
-Ich suche einen Deutschelehrer.
-I am looking for a german teacher.
-
-Suchst du jemanden?
-Are you looking for someone?
-
-Wen suchst du?
-Who are you looking for?
-
-Wen suchen Sie?
-Who are you looking for?
-
-Sucht ihr etwas?
-Are you guys looking for anything?
-
-Ich suche einen neuen Mitbewohner.
-I am looking for a new roommate.
-
-Er sucht eine Wohnung.
-He is looking for an apartment.
-
-Wir suchen den Raum 320.
-We are looking for room 320.
-
-Wir suchen ein schönes Café.
-We are looking for a nice café.
-
-Was suchst du?
-What are you looking for?
-
-Suchst du diesen Ring?
-Are you looking for this ring?
-
-Suchen Sie Herrn Schlömer?
-Are you looking for Mr. Schlömer?
-
-Ich suche Herrn Schwichtenberg.
-I'm looking for mr. Schwichtenberg.
-
-Wir suchen Frau Keller.
-We are looking for mrs. Keller.
-
-Ich suche niemanden.
-I'm not looking for anyone.
-
-Ich suche nichts.
-I'm not looking for anything.
-
-Suchst du etwas Bestimmtes?
-Are you looking for something specific?
-
-Ich suche etwas Wichtiges.
-I'm looking for something important.
-
-Ich kenne den Mann.
-I know the man.
-
-Ich sehe die Frau.
-I see the woman.
-
-Er verkauft das Motorrad.
-He sells the motorcycle.
-
-Ich bestelle das Buch.
-I am ordering the book.
-
-Ich verstehe den Satz.
-I understand the sentence.
-
-Ich kaufe das Ticket.
-I am buying the ticket.
-
-Ich suche das Formular.
-I am looking for the form.
-
-Ich räume das Wohnzimmer auf.
-I am cleaning up the living room.
-
-Sie haben den Stuhl.
-They have the chair.
-
-Ich trinke den Kaffee.
-I am drinking the coffee.
-
-Ich brauche einen Tisch.
-I need a table.
-
-Ich suche eine Wohnung.
-I am looking for an apartment.
-
-Ich esse einen Apfel.
-I am eating an apple.
-
-Möchten Sie eine Tasse Kaffee?
-Would you like a cup of coffee?
-
-Ich kaufe ein Auto.
-I am buying a car.
-
-Er backt einen Kuchen.
-He is baking a cake.
-
-Ich habe einen Bruder.
-I have a brother.
-
-Er trägt einen Schal.
-She is wearing a scarf.
-
-Ich nehme einen Salat.
-I am taking a salad.
-
-Hannah liest ein Buch.
-Hannah is reading a book.
-
-Ich mag deine Schuhe.
-I like your shoes.
-
-Ich mag deinen Rucksack.
-I like your backpack.
-
-Ich kenne deine Schwester.
-I know your sister.
-
-Sie kennt meinen Mann.
-She knows my husband.
-
-Ich kenne euren Lehrer.
-I know your (plural) teacher.
-
-Sie mag ihre Lehrerin.
-She likes her teacher.
-
-Wir buchen unser Hotel.
-We are booking our hotel.
-
-Du siehst deinen Fehler.
-You see your mistake.
-
-Ich verstehe sein Problem.
-I understand his problem.
-
-Ich brauche ihren Bericht.
-I need your report.
-
-Ich suche meinen Schlüssel.
-I am looking for my keys.
-
-Ich kenne sie.
-I know them.
-
-Ich sehe ihn.
-I see him.
-
-Das Auto ist schnell. Ich mag es.
-The car is fast. I like it.
-
-Der Koffer ist schwer. Er trägt ihn.
-The suitcase is heavy. He is carrying it.
-
-Die Tür ist zu. Ich mache sie auf.
-The door is closed. I am opening it.
-
-Die Tür ist geschlossen. Ich öffne sie.
-The door is closed. I am opening it.
-
+# Wo sitzt er?
+# Where is he sitting?
+# 
+# Wo hängt das Bild?
+# Where is the picture hanging?
+# 
+# Wo liegt mein Handy?
+# Where is my cell phone?
+# 
+# Wohin gehst du?
+# Where are you going to?
+# 
+# Wohin fährst du?
+# Where are you driving to?
+# 
+# Wohin fahren Sie?
+# Where is she driving to?
+# 
+# Wohin hast du das Bild gehängt?
+# Where did you hang the picture?
+# 
+# Wohin stellst du die Vase?
+# Where are you putting the vase?
+# 
+# Wohin hast du meinen Taschenrechner gelegt?
+# Where did you put my calculator?
+# 
+# Wohin hat er sich gesetzt?
+# Where did he sit down?
+# 
+# Woher kommst du?
+# Where do you come from?
+# 
+# Woher hast du das?
+# Where do you have that from?
+# 
+# Woher hat sie die Schuhe?
+# Where does she have the shoes from?
+# 
+# Woher wissen Sie das?
+# How do you know that?
+# 
+# Ich brauche deinen Rat.
+# I need your advice.
+# 
+# Ich brauche Ihren Rat.
+# I need your advice.
+# 
+# Brauchst du meine Hilfe?
+# Do you need my help?
+# 
+# Wer braucht Hilfe?
+# Who needs help?
+# 
+# Ich brauche einen neuen Bürostuhl.
+# I need a new office chair.
+# 
+# Ich brauche nichts.
+# I don't need anything.
+# 
+# Brauchst du etwas?
+# Do you need anything?
+# 
+# Sonja braucht ein Lineal.
+# Sonja needs a ruler.
+# 
+# Peter braucht ein Maẞband.
+# Peter needs a measuring tape.
+# 
+# Luisa braucht ein Mikroskop.
+# Luisa needs a microscope.
+# 
+# Karl braucht einen Hammer.
+# Karl needs a hammer.
+# 
+# Wir brauchen einen blaue Tischdecke.
+# We need a blue table cloth.
+# 
+# Ich brauche ein groẞes Handtuch.
+# I need a big towel.
+# 
+# Die Kinder brauchen Regenjacke.
+# The children need raincoats.
+# 
+# Der Chef braucht Ihre Hilfe.
+# The boss needs your help.
+# 
+# Was brauchen Sie?
+# What do you need?
+# 
+# Brauchen Sie meine Unterstützung?
+# Do you need my support?
+# 
+# Brauchen Sie einen Stift?
+# Do you need a pen?
+# 
+# Ich brauche einen Espresso.
+# I need an espresso.
+# 
+# Ich brauche einen Kaffee.
+# I need coffee.
+# 
+# Ich brauche meinen Laptop.
+# I need my laptop.
+# 
+# Sie braucht eure Hilfe.
+# She needs your (voces) help.
+# 
+# Braucht ihr unsere Hilfe?
+# Do you guys need our help?
+# 
+# Ich suche meine Brille.
+# I am looking for my glasses.
+# 
+# Ich suche einen Deutschelehrer.
+# I am looking for a german teacher.
+# 
+# Suchst du jemanden?
+# Are you looking for someone?
+# 
+# Wen suchst du?
+# Who are you looking for?
+# 
+# Wen suchen Sie?
+# Who are you looking for?
+# 
+# Sucht ihr etwas?
+# Are you guys looking for anything?
+# 
+# Ich suche einen neuen Mitbewohner.
+# I am looking for a new roommate.
+# 
+# Er sucht eine Wohnung.
+# He is looking for an apartment.
+# 
+# Wir suchen den Raum 320.
+# We are looking for room 320.
+# 
+# Wir suchen ein schönes Café.
+# We are looking for a nice café.
+# 
+# Was suchst du?
+# What are you looking for?
+# 
+# Suchst du diesen Ring?
+# Are you looking for this ring?
+# 
+# Suchen Sie Herrn Schlömer?
+# Are you looking for Mr. Schlömer?
+# 
+# Ich suche Herrn Schwichtenberg.
+# I'm looking for mr. Schwichtenberg.
+# 
+# Wir suchen Frau Keller.
+# We are looking for mrs. Keller.
+# 
+# Ich suche niemanden.
+# I'm not looking for anyone.
+# 
+# Ich suche nichts.
+# I'm not looking for anything.
+# 
+# Suchst du etwas Bestimmtes?
+# Are you looking for something specific?
+# 
+# Ich suche etwas Wichtiges.
+# I'm looking for something important.
+# 
+# Ich kenne den Mann.
+# I know the man.
+# 
+# Ich sehe die Frau.
+# I see the woman.
+# 
+# Er verkauft das Motorrad.
+# He sells the motorcycle.
+# 
+# Ich bestelle das Buch.
+# I am ordering the book.
+# 
+# Ich verstehe den Satz.
+# I understand the sentence.
+# 
+# Ich kaufe das Ticket.
+# I am buying the ticket.
+# 
+# Ich suche das Formular.
+# I am looking for the form.
+# 
+# Ich räume das Wohnzimmer auf.
+# I am cleaning up the living room.
+# 
+# Sie haben den Stuhl.
+# They have the chair.
+# 
+# Ich trinke den Kaffee.
+# I am drinking the coffee.
+# 
+# Ich brauche einen Tisch.
+# I need a table.
+# 
+# Ich suche eine Wohnung.
+# I am looking for an apartment.
+# 
+# Ich esse einen Apfel.
+# I am eating an apple.
+# 
+# Möchten Sie eine Tasse Kaffee?
+# Would you like a cup of coffee?
+# 
+# Ich kaufe ein Auto.
+# I am buying a car.
+# 
+# Er backt einen Kuchen.
+# He is baking a cake.
+# 
+# Ich habe einen Bruder.
+# I have a brother.
+# 
+# Er trägt einen Schal.
+# She is wearing a scarf.
+# 
+# Ich nehme einen Salat.
+# I am taking a salad.
+# 
+# Hannah liest ein Buch.
+# Hannah is reading a book.
+# 
+# Ich mag deine Schuhe.
+# I like your shoes.
+# 
+# Ich mag deinen Rucksack.
+# I like your backpack.
+# 
+# Ich kenne deine Schwester.
+# I know your sister.
+# 
+# Sie kennt meinen Mann.
+# She knows my husband.
+# 
+# Ich kenne euren Lehrer.
+# I know your (plural) teacher.
+# 
+# Sie mag ihre Lehrerin.
+# She likes her teacher.
+# 
+# Wir buchen unser Hotel.
+# We are booking our hotel.
+# 
+# Du siehst deinen Fehler.
+# You see your mistake.
+# 
+# Ich verstehe sein Problem.
+# I understand his problem.
+# 
+# Ich brauche ihren Bericht.
+# I need your report.
+# 
+# Ich suche meinen Schlüssel.
+# I am looking for my keys.
+# 
+# Ich kenne sie.
+# I know them.
+# 
+# Ich sehe ihn.
+# I see him.
+# 
+# Das Auto ist schnell. Ich mag es.
+# The car is fast. I like it.
+# 
+# Der Koffer ist schwer. Er trägt ihn.
+# The suitcase is heavy. He is carrying it.
+# 
+# Die Tür ist zu. Ich mache sie auf.
+# The door is closed. I am opening it.
+# 
+# Die Tür ist geschlossen. Ich öffne sie.
+# The door is closed. I am opening it.
+# 
 Kennst du sie?
 Do you know her?
 
