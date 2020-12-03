@@ -7198,6 +7198,12 @@
 # Big Ben est à Londres, en Anglaterre.
 # Big Ben is in London, in England.
 # 
+J'ai recontré Matthias il y a dix ans.
+I met Matthias ten years ago.
+
+J'aimerais sortir ce soir mais je dois étudier.
+I would like to go out tonight, but I have to study.
+
 Il habite à Toronto, au Canada.
 He lives in Toronto, in Canada.
 

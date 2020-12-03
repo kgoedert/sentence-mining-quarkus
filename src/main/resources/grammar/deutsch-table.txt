@@ -34,6 +34,7 @@ Plural  |Keine      |Keine      |Keinen |Keiner
         |unser       |uns        |uns    |uns
         |euer        |euch       |euch   |euch
         |ihr         |sie        |ihnen  |ihre
+        |Ihr         |Sie        |Ihnen  |Ihre
 
 --------------------------------------------------------
 Possessive Akkusative - OD

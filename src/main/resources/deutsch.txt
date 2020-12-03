@@ -5098,6 +5098,9 @@
 # Die Tür ist geschlossen. Ich öffne sie.
 # The door is closed. I am opening it.
 # 
+der Spatz, die Spatzen
+o pardal, os pardais
+
 Kennst du sie?
 Do you know her?
 

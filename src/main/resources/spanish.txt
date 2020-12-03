@@ -6294,301 +6294,310 @@
 # 
 # La cura de esa herida será muy dolorosa.
 # The healing of that wound will be very painful.
+# # 
+# # ¿Has leído el editorial de hoy de El Sol?
+# # Have you read today's editorial of El Sol?
+# # 
+# Fredi es el batería de nuestro grupo.
+# Fredi is our group's drummer. 
 # 
-# ¿Has leído el editorial de hoy de El Sol?
-# Have you read today's editorial of El Sol?
+# Desde mi casa se puede ver el mar.
+# From my house you can see the sea.
 # 
-¿Alguno de vosotros habla árabe?
-Does any of you speak arabic? vosotros
-
-A pesar de estar agotados, tuvimos que levantarnos temprano.
-Even though we were tired, we had to get up early.
-
-Tengo mis libros en orden alfabético.
-I have my books in alphabetical order.
-
-Ana trabaja en una editorial china.
-Ana works in a chinese publishing house.
-
-¿Crees que Julia saldrá del coma?
-Do you think Julia is going to come out of the coma?
-
-No se entiende bien tu redacción, Valentín. Le faltan algunas comas.
-Your essay is not well understood, Valentin. It's missing some commas.
-
-El guía no explicó los cuadros.
-The tourist guide explained the paintings to us.
-
-He comprado una guía de Praga. Me la recomendó la guía de la agencia, Paula.
-I bought a guide to Prague. It was recommended by the agency's guide, Paula.
-
-El disco duro de este ordenador tiene mucha capacidad.
-The hard drive of this computer has a lot of capacity.
-
-¿Te vienes a la disco esta noche?
-Are you coming to the club tonight?
-
-Ese es el policía que me puso la multa.
-That is the cop that gave me the ticket.
-
-Carlos quiere ingresar el la policía.
-Carlos wants to join the police.
-
-¿Te ha visto ya el médico?
-Have you already seen the doctor?
-
-He visto a varios médicos y todos dicen que no tengo nada.
-I have seen several doctors and they all say I have nothing.
-
-Cuando estuvimos en Kenia vimos un león de cerca.
-When we were in Kenia we saw a lion up close.
-
-Si no tienen hambre, los leones no son peligrosos.
-If they are not hungry, lions are not dangerous.
-
-¿A qué hora llega el autobús?
-What time does the bus arrives?
-
-Rafa vive muy lejos. Para ir a su casa hay que coger dos autobuses.
-Rafa lives very far. To go to his house you have to take two buses.
-
-La calle Serrano está llena de boutiques.
-Serrano street is full of boutique stores.
-
-Yo me como dos kiwis todos los días.
-I eat two kiwis every day.
-
-A los niños les encantan los espaguetis.
-The kids love spaguetti.
-
-Hay que dejar los carnés en la recepción.
-You have to leave the cards at the reception.
-
-Ronaldo es muy bueno lanzando penaltis.
-Ronaldo is very good at taking penalties.
-
-Los siete samuráis es una película extraordinaria.
-The seven samurais is a great movie.
-
-Mis padres fueron hippies de jóvenes.
-My parents were hippies when they were young.
-
-Pónganos dos whiskies, por favor.
-Give us two whiskies, please.
-
-Necesito jerséis para este invierno.
-I need sweaters for this winter.
-
-Hay muchos tipos de espráis para rizar el pelo.
-There are many types of sprays to curl hair.
-
-He recebido varios faxes de clientes descontentos.
-I have received several faxes of unhappy clients.
-
-La mayoría de televisiones y videos suelen tener interfaces para programarlos.
-Most televisions and videos usually have interfaces to program them.
-
-Fuimos a dos mítines de cierre campaña.
-We went to two campaign closing rallies.
-
-Hay demasiados eslogans publicitarios.
-There are too many advertising slogans.
-
-Los líderes de los países europeos se reúnen mucho.
-The leaders of the European countries get together a lot.
-
-Los estándares de calidad de Japón son muy altos.
-Japanese quality standards are very high.
-
-Solo se sacaran tres córners en el partido.
-Only three corners were be taken out in the game.
-
-Ángel necesita dos chándals para el colegio.
-Angel needs two tracksuits for school.
-
-Ágata colecciona pósters de Julio Iglesias.
-Agate collects posters of Julio Iglesias.
-
-Julio tiene dos másters, uno en Derecho y otro en Economía.
-Julio has two masters degrees, one in Law and another in Economy.
-
-En el aeropuerto nos hicieron pasar las maletas por dos escáners.
-At the airport, they made us run our bags through two scanners.
-
-Gabriel García Márquez ha escrito varios best-sellers.
-Gabriel García Márquez has written several best sellers.
-
-Los diversos hábitats de China posibilitan la vida de una enorme variedad de fauna.
-China's diverse habitats make life possible for an enormous variety of wildlife.
-
-Tengo más de 100 cómics en mi collección.
-I have more than 100 comics in my collection.
-
-Ayer se celebraron varios referéndums en Europa.
-Yesterday several referendums were held in Europe.
-
-A Alfredo le tiembla la boca debido a sus tics nerviosos.
-Alfredo's mouth trembles because of his nervous tics.
-
-No hay muchos campings alrededor de Madrid.
-There are not many campsites around Madrid.
-
-Necesitamos al menos 50 sándwiches para la fiesta.
-We need at least 50 sandwiches for the party.
-
-En esta ciudad hay dos clubs de tenis.
-In this city there are two tennis clubs.
-
-He hecho varios test de inteligencia.
-I have taken several intelligence tests.
-
-Tengo una foto de mis bisabuelos en uno de mis álbums.
-I have a picture of my great-grandparents in one of my albums.
-
-Vivo en una urbanización.
-I live in an urban area.
-
-Los lémures son unos animales muy curiosos.
-Lemurs are very curious animals.
-
-El Presidente está preocupado por la crisis.
-The President is worried about the crisis.
-
-La cuenta, por favor. Ahora mismo, señor.
-The check, please. Right away, sir.
-
-¿Qué habéis comido? Paella.
-What have you eaten? Paella.
-
-Tengo entradas para la ópera.
-I have tickets to the opera.
-
-Necesitamos patatas y huevos.
-We need potatos and eggs.
-
-Esa máquina sirve para hacer llaves.
-That machine is used to make keys.
-
-¿Qué buscas? Las llaves del coche. No sé dónde las he dejado.
-What are you looking for? The car keys. I don't know where I left them.
-
-¿Quién tiene las entradas para el concierto de Lang Lang? Las tiene Silvia. No te preocupes.
-Who has the tickets to the Lang Lang concert? Silvia has them. Don't worry.
-
-Han elegido a Iliana delegada de curso.
-Iliana has been elected course delegate.
-
-Han declarado a Haití zona catastrófica.
-Haiti has been declared a disaster zone.
-
-A lo mejor me nombran embajador en Filipinas.
-Maybe they'll make me ambassador to the Philippines.
-
-A Marta la han hecho directora del departamento.
-Marta has been made director of the department.
-
-Pablo lleva tres días en cama. Está con gripe.
-Pablo is in bed for three days. He has the flu.
-
-No me gustan viajes largos en autobús.
-I don't like long bus rides.
-
-¿Cuántos alumnos hay en la clase?
-How many students there are in class?
-
-Deja la ropa en la cama.
-Leave the clothes on the bed.
-
-¿Cómo fuisteis a París? En tren.
-How did you go to Paris? By train.
-
-Ven en metro. No necesitas preocuparte de aparcar.
-Come by subway. You don't have to worry about parking.
-
-Los ladrones ya están en prisión.
-They thieves are already in jail.
-
-Vengo de clase de español.
-I am coming from the spanish class.
-
-¿Dónde comisteis? En el tren. Había un vagón restaurante.
-Where did you eat? On the train. There was a restaurant car.
-
-Ha habido un accidente en el metro.
-There was an accident on the subway.
-
-Vengo de la clase y no había nadie.
-I came from class and there was no one there.
-
-Los ladrones ya están en la cárcel.
-The thieves are already in jail.
-
-Elvira estudia en la universidad.
-Elvira studies at the university.
-
-Mi hija no va al colegio por la tarde.
-My daughter does not go to school in the afternoon.
-
-Ha habido un incendio en la cárcel.
-There was a fire at the jail.
-
-Mañana hay una manifestación en la universidad.
-Tomorrow there's a rally at the university.
-
-Me he dejado la cartera en el colegio.
-I left my wallet at the school.
-
-Luis no trabaja mucho.
-Luis does not work much.
-
-¿Quién es tu profesora? Lucía Moreno.
-Who's your teacher? Lucía Moreno.
-
-Hace mucho que no veo a Sarasola.
-I haven't seen Sarasola for a long time.
-
-El agente Serrano está enfermo. No va a venir hoy.
-Agent Serrano is sick. He is not coming today.
-
-Agente Serrano, tengo un trabajo para usted. Diga, teniente.
-Agent Serrano, I have a job for you. Say it, lieutenant.
-
-El Julián que llamó el otro día no es mi primo. Es un compañero de Ana.
-The Julian who called the other day is not my cousin. He is Ana's companion.
-
-La Aguirre que tú dices no es mi doctora.
-The Aguirre you are talking about is not my doctor.
-
-Los Javieres suelen ser muy pesados.
-The Javiers are usually very heavy.
-
-Los Garcías son muy numerosos en España.
-The Garcías are very numerous in Spain.
-
-Solo hay un Leonardo da Vinci. Es inimitable.
-There's only one Leonardo da Vinci. He's inimitable.
-
-En la entrevista se vio a un Felipe Alonso emocionado.
-In the interview, an emotional Felipe Alonso was seen.
-
-Te busca un tal Armando Guerra.
-A Armando Guerra is looking for you.
-
-Ha preguntado por ti una tal Celia.
-A Celia has asked about you.
-
-La Callas fue una cantante mítica.
-Callas was a mitical singer.
-
-En mi pueblo me llaman el Francés porque viví muchos años en Francia.
-In my village they call me the french because I lived many years in France.
-
-El Roto es un excelente humorista.
-Roto is an excellent comedian.
-
-Los Borbones reinan en España desde 1700.
-The Bourbons reign in Spain since 1700.
-
+# No vi a nadie conocido en el club, así que me volví a casa.
+# I didn't see anyone I knew at the club, so I went home.
+# 
+# ¿Alguno de vosotros habla árabe?
+# Does any of you speak arabic? vosotros
+# 
+# A pesar de estar agotados, tuvimos que levantarnos temprano.
+# Even though we were tired, we had to get up early.
+# 
+# Tengo mis libros en orden alfabético.
+# I have my books in alphabetical order.
+# 
+# Ana trabaja en una editorial china.
+# Ana works in a chinese publishing house.
+# 
+# ¿Crees que Julia saldrá del coma?
+# Do you think Julia is going to come out of the coma?
+# 
+# No se entiende bien tu redacción, Valentín. Le faltan algunas comas.
+# Your essay is not well understood, Valentin. It's missing some commas.
+# 
+# El guía no explicó los cuadros.
+# The tourist guide explained the paintings to us.
+# 
+# He comprado una guía de Praga. Me la recomendó la guía de la agencia, Paula.
+# I bought a guide to Prague. It was recommended by the agency's guide, Paula.
+# 
+# El disco duro de este ordenador tiene mucha capacidad.
+# The hard drive of this computer has a lot of capacity.
+# 
+# ¿Te vienes a la disco esta noche?
+# Are you coming to the club tonight?
+# 
+# Ese es el policía que me puso la multa.
+# That is the cop that gave me the ticket.
+# 
+# Carlos quiere ingresar el la policía.
+# Carlos wants to join the police.
+# 
+# ¿Te ha visto ya el médico?
+# Have you already seen the doctor?
+# 
+# He visto a varios médicos y todos dicen que no tengo nada.
+# I have seen several doctors and they all say I have nothing.
+# 
+# Cuando estuvimos en Kenia vimos un león de cerca.
+# When we were in Kenia we saw a lion up close.
+# 
+# Si no tienen hambre, los leones no son peligrosos.
+# If they are not hungry, lions are not dangerous.
+# 
+# ¿A qué hora llega el autobús?
+# What time does the bus arrives?
+# 
+# Rafa vive muy lejos. Para ir a su casa hay que coger dos autobuses.
+# Rafa lives very far. To go to his house you have to take two buses.
+# 
+# La calle Serrano está llena de boutiques.
+# Serrano street is full of boutique stores.
+# 
+# Yo me como dos kiwis todos los días.
+# I eat two kiwis every day.
+# 
+# A los niños les encantan los espaguetis.
+# The kids love spaguetti.
+# 
+# Hay que dejar los carnés en la recepción.
+# You have to leave the cards at the reception.
+# 
+# Ronaldo es muy bueno lanzando penaltis.
+# Ronaldo is very good at taking penalties.
+# 
+# Los siete samuráis es una película extraordinaria.
+# The seven samurais is a great movie.
+# 
+# Mis padres fueron hippies de jóvenes.
+# My parents were hippies when they were young.
+# 
+# Pónganos dos whiskies, por favor.
+# Give us two whiskies, please.
+# 
+# Necesito jerséis para este invierno.
+# I need sweaters for this winter.
+# 
+# Hay muchos tipos de espráis para rizar el pelo.
+# There are many types of sprays to curl hair.
+# 
+# He recebido varios faxes de clientes descontentos.
+# I have received several faxes of unhappy clients.
+# 
+# La mayoría de televisiones y videos suelen tener interfaces para programarlos.
+# Most televisions and videos usually have interfaces to program them.
+# 
+# Fuimos a dos mítines de cierre campaña.
+# We went to two campaign closing rallies.
+# 
+# Hay demasiados eslogans publicitarios.
+# There are too many advertising slogans.
+# 
+# Los líderes de los países europeos se reúnen mucho.
+# The leaders of the European countries get together a lot.
+# 
+# Los estándares de calidad de Japón son muy altos.
+# Japanese quality standards are very high.
+# 
+# Solo se sacaran tres córners en el partido.
+# Only three corners were be taken out in the game.
+# 
+# Ángel necesita dos chándals para el colegio.
+# Angel needs two tracksuits for school.
+# 
+# Ágata colecciona pósters de Julio Iglesias.
+# Agate collects posters of Julio Iglesias.
+# 
+# Julio tiene dos másters, uno en Derecho y otro en Economía.
+# Julio has two masters degrees, one in Law and another in Economy.
+# 
+# En el aeropuerto nos hicieron pasar las maletas por dos escáners.
+# At the airport, they made us run our bags through two scanners.
+# 
+# Gabriel García Márquez ha escrito varios best-sellers.
+# Gabriel García Márquez has written several best sellers.
+# 
+# Los diversos hábitats de China posibilitan la vida de una enorme variedad de fauna.
+# China's diverse habitats make life possible for an enormous variety of wildlife.
+# 
+# Tengo más de 100 cómics en mi collección.
+# I have more than 100 comics in my collection.
+# 
+# Ayer se celebraron varios referéndums en Europa.
+# Yesterday several referendums were held in Europe.
+# 
+# A Alfredo le tiembla la boca debido a sus tics nerviosos.
+# Alfredo's mouth trembles because of his nervous tics.
+# 
+# No hay muchos campings alrededor de Madrid.
+# There are not many campsites around Madrid.
+# 
+# Necesitamos al menos 50 sándwiches para la fiesta.
+# We need at least 50 sandwiches for the party.
+# 
+# En esta ciudad hay dos clubs de tenis.
+# In this city there are two tennis clubs.
+# 
+# He hecho varios test de inteligencia.
+# I have taken several intelligence tests.
+# 
+# Tengo una foto de mis bisabuelos en uno de mis álbums.
+# I have a picture of my great-grandparents in one of my albums.
+# 
+# Vivo en una urbanización.
+# I live in an urban area.
+# 
+# Los lémures son unos animales muy curiosos.
+# Lemurs are very curious animals.
+# 
+# El Presidente está preocupado por la crisis.
+# The President is worried about the crisis.
+# 
+# La cuenta, por favor. Ahora mismo, señor.
+# The check, please. Right away, sir.
+# 
+# ¿Qué habéis comido? Paella.
+# What have you eaten? Paella.
+# 
+# Tengo entradas para la ópera.
+# I have tickets to the opera.
+# 
+# Necesitamos patatas y huevos.
+# We need potatos and eggs.
+# 
+# Esa máquina sirve para hacer llaves.
+# That machine is used to make keys.
+# 
+# ¿Qué buscas? Las llaves del coche. No sé dónde las he dejado.
+# What are you looking for? The car keys. I don't know where I left them.
+# 
+# ¿Quién tiene las entradas para el concierto de Lang Lang? Las tiene Silvia. No te preocupes.
+# Who has the tickets to the Lang Lang concert? Silvia has them. Don't worry.
+# 
+# Han elegido a Iliana delegada de curso.
+# Iliana has been elected course delegate.
+# 
+# Han declarado a Haití zona catastrófica.
+# Haiti has been declared a disaster zone.
+# 
+# A lo mejor me nombran embajador en Filipinas.
+# Maybe they'll make me ambassador to the Philippines.
+# 
+# A Marta la han hecho directora del departamento.
+# Marta has been made director of the department.
+# 
+# Pablo lleva tres días en cama. Está con gripe.
+# Pablo is in bed for three days. He has the flu.
+# 
+# No me gustan viajes largos en autobús.
+# I don't like long bus rides.
+# 
+# ¿Cuántos alumnos hay en la clase?
+# How many students there are in class?
+# 
+# Deja la ropa en la cama.
+# Leave the clothes on the bed.
+# 
+# ¿Cómo fuisteis a París? En tren.
+# How did you go to Paris? By train.
+# 
+# Ven en metro. No necesitas preocuparte de aparcar.
+# Come by subway. You don't have to worry about parking.
+# 
+# Los ladrones ya están en prisión.
+# They thieves are already in jail.
+# 
+# Vengo de clase de español.
+# I am coming from the spanish class.
+# 
+# ¿Dónde comisteis? En el tren. Había un vagón restaurante.
+# Where did you eat? On the train. There was a restaurant car.
+# 
+# Ha habido un accidente en el metro.
+# There was an accident on the subway.
+# 
+# Vengo de la clase y no había nadie.
+# I came from class and there was no one there.
+# 
+# Los ladrones ya están en la cárcel.
+# The thieves are already in jail.
+# 
+# Elvira estudia en la universidad.
+# Elvira studies at the university.
+# 
+# Mi hija no va al colegio por la tarde.
+# My daughter does not go to school in the afternoon.
+# 
+# Ha habido un incendio en la cárcel.
+# There was a fire at the jail.
+# 
+# Mañana hay una manifestación en la universidad.
+# Tomorrow there's a rally at the university.
+# 
+# Me he dejado la cartera en el colegio.
+# I left my wallet at the school.
+# 
+# Luis no trabaja mucho.
+# Luis does not work much.
+# 
+# ¿Quién es tu profesora? Lucía Moreno.
+# Who's your teacher? Lucía Moreno.
+# 
+# Hace mucho que no veo a Sarasola.
+# I haven't seen Sarasola for a long time.
+# 
+# El agente Serrano está enfermo. No va a venir hoy.
+# Agent Serrano is sick. He is not coming today.
+# 
+# Agente Serrano, tengo un trabajo para usted. Diga, teniente.
+# Agent Serrano, I have a job for you. Say it, lieutenant.
+# 
+# El Julián que llamó el otro día no es mi primo. Es un compañero de Ana.
+# The Julian who called the other day is not my cousin. He is Ana's companion.
+# 
+# La Aguirre que tú dices no es mi doctora.
+# The Aguirre you are talking about is not my doctor.
+# 
+# Los Javieres suelen ser muy pesados.
+# The Javiers are usually very heavy.
+# 
+# Los Garcías son muy numerosos en España.
+# The Garcías are very numerous in Spain.
+# 
+# Solo hay un Leonardo da Vinci. Es inimitable.
+# There's only one Leonardo da Vinci. He's inimitable.
+# 
+# En la entrevista se vio a un Felipe Alonso emocionado.
+# In the interview, an emotional Felipe Alonso was seen.
+# 
+# Te busca un tal Armando Guerra.
+# A Armando Guerra is looking for you.
+# 
+# Ha preguntado por ti una tal Celia.
+# A Celia has asked about you.
+# 
+# La Callas fue una cantante mítica.
+# Callas was a mitical singer.
+# 
+# En mi pueblo me llaman el Francés porque viví muchos años en Francia.
+# In my village they call me the french because I lived many years in France.
+# 
+# El Roto es un excelente humorista.
+# Roto is an excellent comedian.
+# 
+# Los Borbones reinan en España desde 1700.
+# The Bourbons reign in Spain since 1700.
+# 
 Los Borgia fueran grandes mecenas.
 The Borgias were great patrons.
 
