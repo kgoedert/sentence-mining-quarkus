@@ -6598,6 +6598,18 @@
 # Los Borbones reinan en España desde 1700.
 # The Bourbons reign in Spain since 1700.
 # 
+Carlos quiere ingresar en la policía.
+Carlos wants to join the police. 
+
+No vi a nadie conocido en el club, así que me volví a casa.
+I didn't see anyone I knew at the club, so I went home.
+
+He hecho varias pruebas de inteligencia.
+I have taken several intelligence tests.
+
+Je n'ai plus de batterie sur mon téléphone alors je l'ai chargé.
+My phone's battery is dead so I charged it.
+
 Los Borgia fueran grandes mecenas.
 The Borgias were great patrons.
 

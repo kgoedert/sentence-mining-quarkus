@@ -7197,301 +7197,307 @@
 # 
 # Big Ben est à Londres, en Anglaterre.
 # Big Ben is in London, in England.
+# # 
+# J'aime beaucoup la montagne mais j'aime moins la mer.
+# I like the mountain a lot, but I like the sea much less.
 # 
-J'ai recontré Matthias il y a dix ans.
-I met Matthias ten years ago.
-
-J'aimerais sortir ce soir mais je dois étudier.
-I would like to go out tonight, but I have to study.
-
-Il habite à Toronto, au Canada.
-He lives in Toronto, in Canada.
-
-Le musée royal de l'Ontario est à Toronto, au Canada.
-The royal Ontario Museum is in Toronto, in Canada.
-
-Elle est grecque.
-She is greek.
-
-Il est grec.
-He is greek.
-
-Il est turc.
-He is turk.
-
-Elle est turcque.
-She is turk.
-
-Je me réfère à la langue.
-I am refering to the language.
-
-Je ne parle pas chinois.
-I don't speak chinese.
-
-Ma chanteuse préférée est une chanteuse italienne.
-My favorite singer is an italian singer.
-
-Les Français sont arrogants.
-French people are arrogant.
-
-Il y a un Italien dans l'entreprise.
-There is one italian in the company.
-
-Je vais aller dormir.
-I am going to go to bed.
-
-Je vais voyager à Paris la semaine prochaine.
-I'm going to travel to Paris next week.
-
-Je vais voyager en France.
-I am going to travel to France.
-
-Je vais voyager en France pour Pâques.
-I am going to travel to France for Easter.
-
-Je vais voyager en France dimanche prochain.
-I am going to travel to France next sunday.
-
-Je voyagerai en France.
-I will travel to France.
-
-Je voyagerai en France un jour.
-I will travel to France one day.
-
-Je voyagerai en France quand je serai à la retraite.
-I will travel to France when I will be retired.
-
-Je vais me coucher tôt ce soir.
-I am going to bed early tonight.
-
-Tu vas comprendre.
-You are going to understand.
-
-Tu comprendras.
-You will understand.
-
-Elle va s'énerver.
-She is going to get angry.
-
-Nous allons partir vivre ailleurs.
-We are going to leave to live elsewhere.
-
-Vous allez regretter de ne pas aller au concert.
-You are going to regret not going to the concert.
-
-Ah! Vous regretterez.
-Ah! You will regret it.
-
-Ils vont gagner.
-They are going to win.
-
-Ils gagneront.
-They will win.
-
-J'irai en Afrique en jour.
-I will go to Africa someday.
-
-Tu changeras d'avis.
-You will change your mind.
-
-Tu vas changer d'avis.
-You are going to change your mind.
-
-Nous chanterons une chanson pour son anniversaire.
-We will sing a song for her birthday.
-
-Nous allons chanter une chanson pour son anniversaire.
-We are going to sing a song for her birthday.
-
-Nous chanterons quelque chose.
-We will sing something.
-
-Ils se marieront l'année prochaine.
-They will get married next year.
-
-Ils vont se marier l'année prochaine.
-They are going to get married next year.   
-
-Je viens de finir mes devoirs.
-I've just finished my homework.
-
-Je viens de finir mon exercice.
-I've just finished my exercise.
-
-Maintenant, je vais commencer un autre exercice.
-Now, I am going to start a new exercise.
-
-Tu viens de faire la vaisselle.
-You've just done the dishes.
-
-Maintenant, tu vas sortir avec tes amis.
-Now, you are going to go out with your friends.
-
-Il vient de prendre un café.
-He's just drunk a cup of coffee.
-
-Maintenant, il va payer la addition.
-Now, he is going to pay the bill.
-
-Nous venos d'aller au cinéma.
-We've just been to the cinema.
-
-Maintenant, nous allons parler du film.
-Now, we are going to talk about the movie.
-
-Vous venez de vous réveiller.
-You've just woken up.
-
-Maintenant, vous allez vous doucher.
-Now, you are going to take a shower.
-
-Vous venez de descendre du bus.
-You've just gotten off the bus.
-
-Maintenant, vous allez monter dans le train.
-Now, you are going to hop on the train.
-
-Ils viennent d'acheter un nouveau téléphone.
-They've just bought a new phone.
-
-Maintenant, ils vont l'utiliser.
-Now, they are going to use it.
-
-Je viens de voir un ami à toi dans la rue.
-I've just seen a friend of yours on the street.
-
-Je viens de finir le travail.
-I've just finished work.
-
-Je viens de sortir du bus.
-I've just gotten off the bus.
-
-À demain.
-See you tomorrow.
-
-À bientôt.
-See you soon.
-
-À plus tard.
-See you later.
-
-À Lundi.
-See you monday.
-
-Ça ne vas pas super.
-I am not doing great.
-
-Tout va bien, merci.
-Everything is going well, thanks.         
-
-Je porte souvent des jeans.
-I often wear jeans.
-
-Je n'achète jamais de shorts.
-I never buy shorts.
-
-Tu dois laver la laine à 30 degrés.
-You must wash wool at 30 degrees.
-
-Je m'habille.
-I get dressed.
-
-Tu t'habilles chaque matin avec un costume ou avec une cravate.
-Every morning you put on a suit or a tie.
-
-Tu t'habilles chaque matin avec la cravate pour aller travailler.
-Every morning you put on a tie to go to work.
-
-Tu te déshabilles pour mettre ton pyjama.
-You get undressed to put on your pyjamas.
-
-Je suis artiste.
-I am an artist.
-
-Nous sommes citoyens français.
-We are french citizens.
-
-J'ai beaucoup d'amis.
-I have a lot of friends.
-
-Ils ont des devoirs à terminer.
-They have homework to finish.
-
-Je ne dis que la vérité.
-I only tell the truth.
-
-Tes parents disent toujours oui à tout.
-Your parents always say yes to everything.
-
-Je fais de la danse classique.
-I do ballet.
-
-Vous faites beacoup de bruit.
-You are making a lot of noise.       
-
-Il vont au cinéma.
-They are going to the movies.
-
-Nous allons au supermarché.
-We are going to the supermarket.
-
-Sans mes lunettes, je ne vois rien.
-Without my glasses, I don't see anything.
-
-Nous voyons l'église d'ici.
-We see the church from here.
-
-Je ne sais pas où tu habites.
-I don't know where you live.
-
-Savez-vous quand le bus arrive?
-Do you know when the bus arrives?
-
-Vous ne pouvez pas partir maintenant.
-You can't leave now.
-
-Les chats peuvent voir dans le noir.
-Cats can see in the dark.
-
-Viens voir ma nouvelle peinture!
-Come see my new painting!
-
-D'où venez-vous?
-Where do you come from?
-
-Je prends le bus tous les matins.
-I take the bus every morning.
-
-Elle voudrait changer d'étage.
-She would like to change floors.
-
-On va changer d'étage.
-We're going to change floors.       
-
-On va changer de classe.
-We're going to change classes.
-
-Vous allez changer de classe.
-You're going to change classes.
-
-Vous allez changer de livre.
-You're going to change the book.
-
-J'espère changer de livre.
-I hope to change the book.
-
-J'espère changer de chambre.
-I hope to change rooms.
-
-Je donne ce cadeau à Paul et Marie. Je leur donne ce cadeau.
-I give this gift to Paul and Mary. I give them this gift.
-
-Je donne ce cadeau à Marie. Je lui donne.
-I give this gift to Mary. I give it to him.
-
-Paul et Marie ont un chien qui s’appelle Pilou. Leur chien s’appelle Pilou.
-Paul and Mary have a dog called Pilou. Their dog's name is Pilou.
-
+# J'ai mal au ventre quand je mange du chocolat alors j'ai arrêté.
+# I have a stomach ache everytime I eat chocolate so I stopped.
+# 
+# J'ai recontré Matthias il y a dix ans.
+# I met Matthias ten years ago.
+# 
+# J'aimerais sortir ce soir mais je dois étudier.
+# I would like to go out tonight, but I have to study.
+# 
+# Il habite à Toronto, au Canada.
+# He lives in Toronto, in Canada.
+# 
+# Le musée royal de l'Ontario est à Toronto, au Canada.
+# The royal Ontario Museum is in Toronto, in Canada.
+# 
+# Elle est grecque.
+# She is greek.
+# 
+# Il est grec.
+# He is greek.
+# 
+# Il est turc.
+# He is turk.
+# 
+# Elle est turcque.
+# She is turk.
+# 
+# Je me réfère à la langue.
+# I am refering to the language.
+# 
+# Je ne parle pas chinois.
+# I don't speak chinese.
+# 
+# Ma chanteuse préférée est une chanteuse italienne.
+# My favorite singer is an italian singer.
+# 
+# Les Français sont arrogants.
+# French people are arrogant.
+# 
+# Il y a un Italien dans l'entreprise.
+# There is one italian in the company.
+# 
+# Je vais aller dormir.
+# I am going to go to bed.
+# 
+# Je vais voyager à Paris la semaine prochaine.
+# I'm going to travel to Paris next week.
+# 
+# Je vais voyager en France.
+# I am going to travel to France.
+# 
+# Je vais voyager en France pour Pâques.
+# I am going to travel to France for Easter.
+# 
+# Je vais voyager en France dimanche prochain.
+# I am going to travel to France next sunday.
+# 
+# Je voyagerai en France.
+# I will travel to France.
+# 
+# Je voyagerai en France un jour.
+# I will travel to France one day.
+# 
+# Je voyagerai en France quand je serai à la retraite.
+# I will travel to France when I will be retired.
+# 
+# Je vais me coucher tôt ce soir.
+# I am going to bed early tonight.
+# 
+# Tu vas comprendre.
+# You are going to understand.
+# 
+# Tu comprendras.
+# You will understand.
+# 
+# Elle va s'énerver.
+# She is going to get angry.
+# 
+# Nous allons partir vivre ailleurs.
+# We are going to leave to live elsewhere.
+# 
+# Vous allez regretter de ne pas aller au concert.
+# You are going to regret not going to the concert.
+# 
+# Ah! Vous regretterez.
+# Ah! You will regret it.
+# 
+# Ils vont gagner.
+# They are going to win.
+# 
+# Ils gagneront.
+# They will win.
+# 
+# J'irai en Afrique en jour.
+# I will go to Africa someday.
+# 
+# Tu changeras d'avis.
+# You will change your mind.
+# 
+# Tu vas changer d'avis.
+# You are going to change your mind.
+# 
+# Nous chanterons une chanson pour son anniversaire.
+# We will sing a song for her birthday.
+# 
+# Nous allons chanter une chanson pour son anniversaire.
+# We are going to sing a song for her birthday.
+# 
+# Nous chanterons quelque chose.
+# We will sing something.
+# 
+# Ils se marieront l'année prochaine.
+# They will get married next year.
+# 
+# Ils vont se marier l'année prochaine.
+# They are going to get married next year.   
+# 
+# Je viens de finir mes devoirs.
+# I've just finished my homework.
+# 
+# Je viens de finir mon exercice.
+# I've just finished my exercise.
+# 
+# Maintenant, je vais commencer un autre exercice.
+# Now, I am going to start a new exercise.
+# 
+# Tu viens de faire la vaisselle.
+# You've just done the dishes.
+# 
+# Maintenant, tu vas sortir avec tes amis.
+# Now, you are going to go out with your friends.
+# 
+# Il vient de prendre un café.
+# He's just drunk a cup of coffee.
+# 
+# Maintenant, il va payer la addition.
+# Now, he is going to pay the bill.
+# 
+# Nous venos d'aller au cinéma.
+# We've just been to the cinema.
+# 
+# Maintenant, nous allons parler du film.
+# Now, we are going to talk about the movie.
+# 
+# Vous venez de vous réveiller.
+# You've just woken up.
+# 
+# Maintenant, vous allez vous doucher.
+# Now, you are going to take a shower.
+# 
+# Vous venez de descendre du bus.
+# You've just gotten off the bus.
+# 
+# Maintenant, vous allez monter dans le train.
+# Now, you are going to hop on the train.
+# 
+# Ils viennent d'acheter un nouveau téléphone.
+# They've just bought a new phone.
+# 
+# Maintenant, ils vont l'utiliser.
+# Now, they are going to use it.
+# 
+# Je viens de voir un ami à toi dans la rue.
+# I've just seen a friend of yours on the street.
+# 
+# Je viens de finir le travail.
+# I've just finished work.
+# 
+# Je viens de sortir du bus.
+# I've just gotten off the bus.
+# 
+# À demain.
+# See you tomorrow.
+# 
+# À bientôt.
+# See you soon.
+# 
+# À plus tard.
+# See you later.
+# 
+# À Lundi.
+# See you monday.
+# 
+# Ça ne vas pas super.
+# I am not doing great.
+# 
+# Tout va bien, merci.
+# Everything is going well, thanks.         
+# 
+# Je porte souvent des jeans.
+# I often wear jeans.
+# 
+# Je n'achète jamais de shorts.
+# I never buy shorts.
+# 
+# Tu dois laver la laine à 30 degrés.
+# You must wash wool at 30 degrees.
+# 
+# Je m'habille.
+# I get dressed.
+# 
+# Tu t'habilles chaque matin avec un costume ou avec une cravate.
+# Every morning you put on a suit or a tie.
+# 
+# Tu t'habilles chaque matin avec la cravate pour aller travailler.
+# Every morning you put on a tie to go to work.
+# 
+# Tu te déshabilles pour mettre ton pyjama.
+# You get undressed to put on your pyjamas.
+# 
+# Je suis artiste.
+# I am an artist.
+# 
+# Nous sommes citoyens français.
+# We are french citizens.
+# 
+# J'ai beaucoup d'amis.
+# I have a lot of friends.
+# 
+# Ils ont des devoirs à terminer.
+# They have homework to finish.
+# 
+# Je ne dis que la vérité.
+# I only tell the truth.
+# 
+# Tes parents disent toujours oui à tout.
+# Your parents always say yes to everything.
+# 
+# Je fais de la danse classique.
+# I do ballet.
+# 
+# Vous faites beacoup de bruit.
+# You are making a lot of noise.       
+# 
+# Il vont au cinéma.
+# They are going to the movies.
+# 
+# Nous allons au supermarché.
+# We are going to the supermarket.
+# 
+# Sans mes lunettes, je ne vois rien.
+# Without my glasses, I don't see anything.
+# 
+# Nous voyons l'église d'ici.
+# We see the church from here.
+# 
+# Je ne sais pas où tu habites.
+# I don't know where you live.
+# 
+# Savez-vous quand le bus arrive?
+# Do you know when the bus arrives?
+# 
+# Vous ne pouvez pas partir maintenant.
+# You can't leave now.
+# 
+# Les chats peuvent voir dans le noir.
+# Cats can see in the dark.
+# 
+# Viens voir ma nouvelle peinture!
+# Come see my new painting!
+# 
+# D'où venez-vous?
+# Where do you come from?
+# 
+# Je prends le bus tous les matins.
+# I take the bus every morning.
+# 
+# Elle voudrait changer d'étage.
+# She would like to change floors.
+# 
+# On va changer d'étage.
+# We're going to change floors.       
+# 
+# On va changer de classe.
+# We're going to change classes.
+# 
+# Vous allez changer de classe.
+# You're going to change classes.
+# 
+# Vous allez changer de livre.
+# You're going to change the book.
+# 
+# J'espère changer de livre.
+# I hope to change the book.
+# 
+# J'espère changer de chambre.
+# I hope to change rooms.
+# 
+# Je donne ce cadeau à Paul et Marie. Je leur donne ce cadeau.
+# I give this gift to Paul and Mary. I give them this gift.
+# 
+# Je donne ce cadeau à Marie. Je lui donne.
+# I give this gift to Mary. I give it to him.
+# 
+# Paul et Marie ont un chien qui s’appelle Pilou. Leur chien s’appelle Pilou.
+# Paul and Mary have a dog called Pilou. Their dog's name is Pilou.
+# 
 Paul et Marie ont deux chiens qui s’appellent Pilou et Loupi. Leurs chiens s’appellent Pilou et Loupi.
 Paul and Mary have two dogs called Pilou and Loupi. Their dogs are called Pilou and Loupi.
 
