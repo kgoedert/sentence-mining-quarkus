@@ -53,14 +53,14 @@ Possessive Akkusative - OD
 Possessive Dativ - OI
                 
             |Neuter         |Feminine       |Masculine  |Plural      
-|ich        |meinem         |meiner         |meinem     |meiner
-|du         |deinem         |deiner         |deinem     |deiner
-|er/es      |seinem         |seiner         |seinem     |seiner
-|sie        |ihrem          |ihrer          |ihrem      |ihrer
-|wir        |unserem        |unserer        |unserem    |unserer
-|ihr        |euerem         |eurer          |eurem      |eurer
-|sie        |ihrem          |ihrer          |ihrem      |ihrer
-|Sie        |Ihrem          |Ihrer          |Ihrem      |Ihrer
+|ich        |meinem         |meiner         |meinem     |meinen
+|du         |deinem         |deiner         |deinem     |deinen
+|er/es      |seinem         |seiner         |seinem     |seinen
+|sie        |ihrem          |ihrer          |ihrem      |ihren
+|wir        |unserem        |unserer        |unserem    |unseren
+|ihr        |euerem         |eurer          |eurem      |euren
+|sie        |ihrem          |ihrer          |ihrem      |ihren
+|Sie        |Ihrem          |Ihrer          |Ihrem      |Ihren
 
 Post sobre akk and Dativ
 

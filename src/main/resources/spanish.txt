@@ -6594,302 +6594,308 @@
 # 
 # El Roto es un excelente humorista.
 # Roto is an excellent comedian.
+# # 
+# # Los Borbones reinan en España desde 1700.
+# # The Bourbons reign in Spain since 1700.
+# # 
+# Desde mi casa se puede ver el mar.
+# From my house you can see the sea.
 # 
-# Los Borbones reinan en España desde 1700.
-# The Bourbons reign in Spain since 1700.
+# ¡Qué suerte tiene Ronaldo! A pesar de que no estudia, aprueba!
+# How lucky Ronaldo is! Even though he doesn't study, he passes!
 # 
-Carlos quiere ingresar en la policía.
-Carlos wants to join the police. 
-
-No vi a nadie conocido en el club, así que me volví a casa.
-I didn't see anyone I knew at the club, so I went home.
-
-He hecho varias pruebas de inteligencia.
-I have taken several intelligence tests.
-
-Je n'ai plus de batterie sur mon téléphone alors je l'ai chargé.
-My phone's battery is dead so I charged it.
-
-Los Borgia fueran grandes mecenas.
-The Borgias were great patrons.
-
-Mañana vienen los Moreno a cenar.
-Tomorrow the Morenos are coming for dinner.
-
-Las Bronte fueron grandes escritoras.
-The Brontes were great writers.
-
-Tengo un Picasso en el salón.
-I have a Picasso in the living room.
-
-Los Picasso que me enseñaste son falsos.
-The Picassos you showed me are fake.
-
-Me gustaría tener un Mercedes.
-I would like to have a Mercedes.
-
-Ese es el Mercedes que me gusta.
-That is the Mercedes I like.
-
-Mercedes es una buena marca.
-Mercedes is a good brand.
-
-Picasso fue un pintor excepcional.
-Picasso was an exceptional paintor.
-
-Europa es un continente pequeño.
-Europe is a small continent.
-
-Madrid es la capital de España.
-Madrid is Spain's capital.
-
-La Europa del primer tercio del siglo XX fue muy violenta.
-Europe in the first third of the 20th century was very violent.
-
-Lo que se necesita es una Europa unida.
-What is needed is a united Europe.
-
-Trabajamos por un Madrid más limpio.
-We work for a cleaner Madrid.
-
-María tiene los ojos azules.
-María has blue eyes.
-
-Aurora es una santa. Cómo se sacrifica por su familia.
-Aurora is a saint. How she sacrifices herself for her family.
-
-¡Tengo un hambre!
-I'm very hungry!
-
-Miguel y Mario ya tienen 20 años. Están hechos unos hombres.
-Miguel and Mario are 20 years old. They are grown ass men.
-
-Ese tío es un chalado. Está siempre haciendo cosas raras.
-That guy is a nutcase. He's always doing strange things.
-
-Está hecho todo un hombre.
-He's a grown ass man.
-
-Lucía es una señora abogada.
-Lucía is a great lawyer.
-
-Gabriel vive en una señora casa.
-Gabriel lives in a great house.
-
-Los Gómez tienen un señor problema con la hipoteca.
-The Gomezes have a big mortgage problem.
-
-Hemos traído de La Mancha unos señores melones.
-We have brought some great melons from La Mancha.
-
-Jesús es todo un caballero.
-Jesus is a complete gentleman.
-
-Lucía es toda una señora abogada.
-Lucía is a great lawyer.
-
-¡Excelente! Es todo un señor cuadro.
-Excellent! It's a great painting.
-
-¿Has visto 'Las golondrinas'? Sí. Es un desastre de película.
-Have you seen 'Las golondrinas'? Yes. It's a terrible movie.
-
-Juan es un encanto de persona. ¡Qué amable es!
-Juan is a charming person. How kind he is!
-
-No te perdiste nada. Fue un aburrimiento de fiesta.
-You didn't miss a thing. It was a very boring party.
-
-Las Cicladas son una maravilla de islas.
-Las Cicladas are wonderful islands.
-
-¡Hace un viento!
-It's very windy!
-
-¡Tienen una suerte!
-You're very lucky!
-
-¡Tengo un sueño terrible!
-I'm very sleepy!
-
-¡Pasamos un hambre!
-We're starving!
-
-¡Tengo una de trabajo!
-I have a lot of work!
-
-Sonia está mal. Dice unas tonterías.
-Sonia is not well. She's talking nonsense.
-
-¡Tengo una de libros!
-I have a lot of books!
-
-¡La sed que tengo!
-What a thirst I have!
-
-!El frío que hacía ayer en la sierra!
-It was cold yesterday in the mountains!
-
-!Las calamidades que pasamos en la guerra!
-The calamities we went through in the war!
-
-!El grito que dio tu madre cuando vio la rata!
-The scream your mother gave when she saw the rat!
-
-No te imaginas los dolores que tengo.
-You can't imagine the pains I have.
-
-¿Te acuerdas del hambre que pasamos en la guerra?
-Do you remember the hunger we went through in the war?
-
-!La de libros que tiene Jaime en su casa!
-The amount of books that Jaime has at home!
-
-!La de chistes que contó Álvaro ayer!
-The jokes Alvaro told yesterday!
-
-La tontería que dice Carlos.
-The nonsense Carlos says.
-
-¿Te imaginas la de hambre que habrá pasado esa gente?
-Can you imagine how hungry those people must have been?
-
-Ten cuidado. No sabes lo mal que conduce Pedro.
-Be careful. You don't know how badly Pedro drives.
-
-!Lo lista que es esta niña!
-How smart this girl is!
-
-¡Lo bien que he comido hoy!
-How well I ate today!
-
-¿Has visto lo mal que canta Alfonso?
-Have you seen how badly Alfonso sings?
-
-No te imaginas lo bien que hemos comido en se restaurante.
-You can't imagine how well we've eaten in this restaurant.
-
-¡Lo contenta que se puso Aurora cuando nos vio!
-How happy Aurora was when she saw us!
-
-!Lo traviesos que son tus hijos, Carmen!
-How naughty your children are, Carmen!
-
-¡Lo que te quiere Luis!
-How Luis loves you!
-
-!Lo que comió Andrés ayer!
-The amount Andrés has eaten yesterday!
-
-¿Visteis lo que comió Andrés ayer?
-Did you see what Andres ate yesterday?
-
-¡Lo que habla tu prima!
-How your cousin talks!
-
-¿Ves esta flor que tengo en la mano? Es una rosa.
-See this flower in my hand? It's a rose.
-
-¿Has visto esa mancha que tienes en la camisa?
-Did you see that stain that you have on your shirt?
-
-Tenemos que llegar a esos árboles.
-We have to get to those trees.
-
-¿Ves aquellas casas que están en la cima de la montaña?
-Do you see those houses on top of the mountain?
-
-En este restaurante se come muy bien.
-In this restaurant one eats very well.
-
-En esa playa hay muy poca gente.
-In that beach there are very few people.
-
-Yo vivo en aquella casa alta. ¿En cuál? ¿En aquella verde?
-I live in that high house. Which one? That green one?
-
-¿Te gustan esos cuadros? Me gusta aquel abstracto.
-Do you like those paintings? I like that abstract one.
-
-¿Ves aquel edificio del fondo? Allí vivo yo.
-Do you see that building in the background? That's where I live.
-
-¿Ves el edificio aquel del fondo? Allí vivo yo.
-Do you see the building, that in the background? That's where I live.
-
-Estoy libre esta mañana.
-I'm free this morning.
-
-Nací en 1969. Ese año llegó el hombre a la luna.
-I was born in 1969. That year man reached the moon.
-
-Aquellos días en el campo fueron muy divertidos.
-Those days in the countryside were very fun.
-
-Cuando llegamos a casa de Alicia, nos recibió de esta manera: descalza, con una camisa larga y el pelo rapado.
-When we arrived at Alicia's house, she received us this way: barefoot, with a long shirt and shaven hair.
-
-¿Quién es esa chica de la que hablabas?
-Who is that girl you were talking about?
-
-En una plaza había hombres y mujeres. Estas estaban en la parte derecha y aquellos en la parte izquierda.
-In one square there were men and women. These were on the right and those on the left.
-
-¿Qué es eso que hay sobre el armario? No lo veo bien.
-What's that over the closet? I don't see it well.
-
-Coge esto y tíralo. No lo quiero aquí.
-Take this and throw it away. I don't want it here.
-
-Eso que me dijiste ayer me parece lógico, pero esto que me dices ahora, no.
-What you said to me yesterday seems logical to me, but what you are saying now, doesn't.
-
-Esto que os voy a contar no se lo digáis a nadie.
-What I'm going to tell you, don't tell anyone.
-
-He tenido carta de Andrea. De eso quiero hablarte.
-I had a letter from Andrea. That's what I want to talk to you about.
-
-
-¡Esa Ana! Siempre metiendo la pata.
-That Ana! Always screwing up.
-
-¡Estos niños! Siempre haciendo ruido.
-These children! Always making noise.
-
-¡Este coche! Ya no va bien. Es muy viejo.
-This car! It's not doing well anymore. It's very old.
-
-¡Este Arroyo es encantador! Ha traído regalos para todos.
-Arroyo is lovely! He's brought gifts for everyone.
-
-¡Este tío es tonto!
-This guy's a fool!
-
-Ese amigo tuyo no me gusta nada.
-I don't like that friend of yours at all.
-
-No vendrá ese, ¿verdad?
-He's not coming, is he?
-
-No quiero saber nada de esos. Son unos sinvergüenzas.
-I don't want to know anything about them. They're scoundrels.
-
-Este tío es tonto.
-This guy is a fool.
-
-El tío este es tonto.
-The guy, this one, is a fool.
-
-Esa niña no ni tiene idea de nada.
-That girl has no idea whatsoever.
-
-La niña esa no tiene ni idea de nada.
-That girl doesn't have a clue.
-
-¡Qué hombre este! ¡Siempre viendo fútbol.
-What a man! Always watching football.
-
+# Carlos quiere ingresar en la policía.
+# Carlos wants to join the police. 
+# 
+# No vi a nadie conocido en el club, así que me volví a casa.
+# I didn't see anyone I knew at the club, so I went home.
+# 
+# He hecho varias pruebas de inteligencia.
+# I have taken several intelligence tests.
+# 
+# Je n'ai plus de batterie sur mon téléphone alors je l'ai chargé.
+# My phone's battery is dead so I charged it.
+# 
+# Los Borgia fueran grandes mecenas.
+# The Borgias were great patrons.
+# 
+# Mañana vienen los Moreno a cenar.
+# Tomorrow the Morenos are coming for dinner.
+# 
+# Las Bronte fueron grandes escritoras.
+# The Brontes were great writers.
+# 
+# Tengo un Picasso en el salón.
+# I have a Picasso in the living room.
+# 
+# Los Picasso que me enseñaste son falsos.
+# The Picassos you showed me are fake.
+# 
+# Me gustaría tener un Mercedes.
+# I would like to have a Mercedes.
+# 
+# Ese es el Mercedes que me gusta.
+# That is the Mercedes I like.
+# 
+# Mercedes es una buena marca.
+# Mercedes is a good brand.
+# 
+# Picasso fue un pintor excepcional.
+# Picasso was an exceptional paintor.
+# 
+# Europa es un continente pequeño.
+# Europe is a small continent.
+# 
+# Madrid es la capital de España.
+# Madrid is Spain's capital.
+# 
+# La Europa del primer tercio del siglo XX fue muy violenta.
+# Europe in the first third of the 20th century was very violent.
+# 
+# Lo que se necesita es una Europa unida.
+# What is needed is a united Europe.
+# 
+# Trabajamos por un Madrid más limpio.
+# We work for a cleaner Madrid.
+# 
+# María tiene los ojos azules.
+# María has blue eyes.
+# 
+# Aurora es una santa. Cómo se sacrifica por su familia.
+# Aurora is a saint. How she sacrifices herself for her family.
+# 
+# ¡Tengo un hambre!
+# I'm very hungry!
+# 
+# Miguel y Mario ya tienen 20 años. Están hechos unos hombres.
+# Miguel and Mario are 20 years old. They are grown ass men.
+# 
+# Ese tío es un chalado. Está siempre haciendo cosas raras.
+# That guy is a nutcase. He's always doing strange things.
+# 
+# Está hecho todo un hombre.
+# He's a grown ass man.
+# 
+# Lucía es una señora abogada.
+# Lucía is a great lawyer.
+# 
+# Gabriel vive en una señora casa.
+# Gabriel lives in a great house.
+# 
+# Los Gómez tienen un señor problema con la hipoteca.
+# The Gomezes have a big mortgage problem.
+# 
+# Hemos traído de La Mancha unos señores melones.
+# We have brought some great melons from La Mancha.
+# 
+# Jesús es todo un caballero.
+# Jesus is a complete gentleman.
+# 
+# Lucía es toda una señora abogada.
+# Lucía is a great lawyer.
+# 
+# ¡Excelente! Es todo un señor cuadro.
+# Excellent! It's a great painting.
+# 
+# ¿Has visto 'Las golondrinas'? Sí. Es un desastre de película.
+# Have you seen 'Las golondrinas'? Yes. It's a terrible movie.
+# 
+# Juan es un encanto de persona. ¡Qué amable es!
+# Juan is a charming person. How kind he is!
+# 
+# No te perdiste nada. Fue un aburrimiento de fiesta.
+# You didn't miss a thing. It was a very boring party.
+# 
+# Las Cicladas son una maravilla de islas.
+# Las Cicladas are wonderful islands.
+# 
+# ¡Hace un viento!
+# It's very windy!
+# 
+# ¡Tienen una suerte!
+# You're very lucky!
+# 
+# ¡Tengo un sueño terrible!
+# I'm very sleepy!
+# 
+# ¡Pasamos un hambre!
+# We're starving!
+# 
+# ¡Tengo una de trabajo!
+# I have a lot of work!
+# 
+# Sonia está mal. Dice unas tonterías.
+# Sonia is not well. She's talking nonsense.
+# 
+# ¡Tengo una de libros!
+# I have a lot of books!
+# 
+# ¡La sed que tengo!
+# What a thirst I have!
+# 
+# !El frío que hacía ayer en la sierra!
+# It was cold yesterday in the mountains!
+# 
+# !Las calamidades que pasamos en la guerra!
+# The calamities we went through in the war!
+# 
+# !El grito que dio tu madre cuando vio la rata!
+# The scream your mother gave when she saw the rat!
+# 
+# No te imaginas los dolores que tengo.
+# You can't imagine the pains I have.
+# 
+# ¿Te acuerdas del hambre que pasamos en la guerra?
+# Do you remember the hunger we went through in the war?
+# 
+# !La de libros que tiene Jaime en su casa!
+# The amount of books that Jaime has at home!
+# 
+# !La de chistes que contó Álvaro ayer!
+# The jokes Alvaro told yesterday!
+# 
+# La tontería que dice Carlos.
+# The nonsense Carlos says.
+# 
+# ¿Te imaginas la de hambre que habrá pasado esa gente?
+# Can you imagine how hungry those people must have been?
+# 
+# Ten cuidado. No sabes lo mal que conduce Pedro.
+# Be careful. You don't know how badly Pedro drives.
+# 
+# !Lo lista que es esta niña!
+# How smart this girl is!
+# 
+# ¡Lo bien que he comido hoy!
+# How well I ate today!
+# 
+# ¿Has visto lo mal que canta Alfonso?
+# Have you seen how badly Alfonso sings?
+# 
+# No te imaginas lo bien que hemos comido en se restaurante.
+# You can't imagine how well we've eaten in this restaurant.
+# 
+# ¡Lo contenta que se puso Aurora cuando nos vio!
+# How happy Aurora was when she saw us!
+# 
+# !Lo traviesos que son tus hijos, Carmen!
+# How naughty your children are, Carmen!
+# 
+# ¡Lo que te quiere Luis!
+# How Luis loves you!
+# 
+# !Lo que comió Andrés ayer!
+# The amount Andrés has eaten yesterday!
+# 
+# ¿Visteis lo que comió Andrés ayer?
+# Did you see what Andres ate yesterday?
+# 
+# ¡Lo que habla tu prima!
+# How your cousin talks!
+# 
+# ¿Ves esta flor que tengo en la mano? Es una rosa.
+# See this flower in my hand? It's a rose.
+# 
+# ¿Has visto esa mancha que tienes en la camisa?
+# Did you see that stain that you have on your shirt?
+# 
+# Tenemos que llegar a esos árboles.
+# We have to get to those trees.
+# 
+# ¿Ves aquellas casas que están en la cima de la montaña?
+# Do you see those houses on top of the mountain?
+# 
+# En este restaurante se come muy bien.
+# In this restaurant one eats very well.
+# 
+# En esa playa hay muy poca gente.
+# In that beach there are very few people.
+# 
+# Yo vivo en aquella casa alta. ¿En cuál? ¿En aquella verde?
+# I live in that high house. Which one? That green one?
+# 
+# ¿Te gustan esos cuadros? Me gusta aquel abstracto.
+# Do you like those paintings? I like that abstract one.
+# 
+# ¿Ves aquel edificio del fondo? Allí vivo yo.
+# Do you see that building in the background? That's where I live.
+# 
+# ¿Ves el edificio aquel del fondo? Allí vivo yo.
+# Do you see the building, that in the background? That's where I live.
+# 
+# Estoy libre esta mañana.
+# I'm free this morning.
+# 
+# Nací en 1969. Ese año llegó el hombre a la luna.
+# I was born in 1969. That year man reached the moon.
+# 
+# Aquellos días en el campo fueron muy divertidos.
+# Those days in the countryside were very fun.
+# 
+# Cuando llegamos a casa de Alicia, nos recibió de esta manera: descalza, con una camisa larga y el pelo rapado.
+# When we arrived at Alicia's house, she received us this way: barefoot, with a long shirt and shaven hair.
+# 
+# ¿Quién es esa chica de la que hablabas?
+# Who is that girl you were talking about?
+# 
+# En una plaza había hombres y mujeres. Estas estaban en la parte derecha y aquellos en la parte izquierda.
+# In one square there were men and women. These were on the right and those on the left.
+# 
+# ¿Qué es eso que hay sobre el armario? No lo veo bien.
+# What's that over the closet? I don't see it well.
+# 
+# Coge esto y tíralo. No lo quiero aquí.
+# Take this and throw it away. I don't want it here.
+# 
+# Eso que me dijiste ayer me parece lógico, pero esto que me dices ahora, no.
+# What you said to me yesterday seems logical to me, but what you are saying now, doesn't.
+# 
+# Esto que os voy a contar no se lo digáis a nadie.
+# What I'm going to tell you, don't tell anyone.
+# 
+# He tenido carta de Andrea. De eso quiero hablarte.
+# I had a letter from Andrea. That's what I want to talk to you about.
+# 
+# 
+# ¡Esa Ana! Siempre metiendo la pata.
+# That Ana! Always screwing up.
+# 
+# ¡Estos niños! Siempre haciendo ruido.
+# These children! Always making noise.
+# 
+# ¡Este coche! Ya no va bien. Es muy viejo.
+# This car! It's not doing well anymore. It's very old.
+# 
+# ¡Este Arroyo es encantador! Ha traído regalos para todos.
+# Arroyo is lovely! He's brought gifts for everyone.
+# 
+# ¡Este tío es tonto!
+# This guy's a fool!
+# 
+# Ese amigo tuyo no me gusta nada.
+# I don't like that friend of yours at all.
+# 
+# No vendrá ese, ¿verdad?
+# He's not coming, is he?
+# 
+# No quiero saber nada de esos. Son unos sinvergüenzas.
+# I don't want to know anything about them. They're scoundrels.
+# 
+# Este tío es tonto.
+# This guy is a fool.
+# 
+# El tío este es tonto.
+# The guy, this one, is a fool.
+# 
+# Esa niña no ni tiene idea de nada.
+# That girl has no idea whatsoever.
+# 
+# La niña esa no tiene ni idea de nada.
+# That girl doesn't have a clue.
+# 
+# ¡Qué hombre este! ¡Siempre viendo fútbol.
+# What a man! Always watching football.
+# 
 ¿Te acuerdas de cuando éramos estudiantes? ¡Qué días aquellos!
 Do you remember when we were students? What days!
 

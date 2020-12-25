@@ -7498,6 +7498,15 @@
 # Paul et Marie ont un chien qui s’appelle Pilou. Leur chien s’appelle Pilou.
 # Paul and Mary have a dog called Pilou. Their dog's name is Pilou.
 # 
+Vous faites beaucoup de bruit.
+You are making a lot of noise.
+
+Maintenant, il va payer l'addition.
+Now, he is going to pay the bill.
+
+Nous venons d'aller au cinéma.
+We've just been to the cinema.
+
 Paul et Marie ont deux chiens qui s’appellent Pilou et Loupi. Leurs chiens s’appellent Pilou et Loupi.
 Paul and Mary have two dogs called Pilou and Loupi. Their dogs are called Pilou and Loupi.
 
