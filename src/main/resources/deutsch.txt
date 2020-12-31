@@ -5098,6 +5098,9 @@
 # Die Tür ist geschlossen. Ich öffne sie.
 # The door is closed. I am opening it.
 # 
+Wir brauchen eine blaue Tischdecke.
+We need a blue table cloth. 
+
 der Spatz, die Spatzen
 o pardal, os pardais
 

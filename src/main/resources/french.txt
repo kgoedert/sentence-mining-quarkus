@@ -7483,321 +7483,321 @@
 # Vous allez changer de livre.
 # You're going to change the book.
 # 
-# J'espère changer de livre.
-# I hope to change the book.
+# # J'espère changer de livre.
+# # I hope to change the book.
+# # 
+# # J'espère changer de chambre.
+# # I hope to change rooms.
+# # 
+# # Je donne ce cadeau à Paul et Marie. Je leur donne ce cadeau.
+# # I give this gift to Paul and Mary. I give them this gift.
+# # 
+# # Je donne ce cadeau à Marie. Je lui donne.
+# # I give this gift to Mary. I give it to him.
+# # 
+# # Paul et Marie ont un chien qui s’appelle Pilou. Leur chien s’appelle Pilou.
+# # Paul and Mary have a dog called Pilou. Their dog's name is Pilou.
+# # 
+# Vous faites beaucoup de bruit.
+# You are making a lot of noise.
 # 
-# J'espère changer de chambre.
-# I hope to change rooms.
+# Maintenant, il va payer l'addition.
+# Now, he is going to pay the bill.
 # 
-# Je donne ce cadeau à Paul et Marie. Je leur donne ce cadeau.
-# I give this gift to Paul and Mary. I give them this gift.
+# Nous venons d'aller au cinéma.
+# We've just been to the cinema.
 # 
-# Je donne ce cadeau à Marie. Je lui donne.
-# I give this gift to Mary. I give it to him.
+# Paul et Marie ont deux chiens qui s’appellent Pilou et Loupi. Leurs chiens s’appellent Pilou et Loupi.
+# Paul and Mary have two dogs called Pilou and Loupi. Their dogs are called Pilou and Loupi.
 # 
-# Paul et Marie ont un chien qui s’appelle Pilou. Leur chien s’appelle Pilou.
-# Paul and Mary have a dog called Pilou. Their dog's name is Pilou.
+# Paul et Marie ont un chien. C’est le leur. 
+# Paul and Mary have a dog. It's theirs. 
 # 
-Vous faites beaucoup de bruit.
-You are making a lot of noise.
-
-Maintenant, il va payer l'addition.
-Now, he is going to pay the bill.
-
-Nous venons d'aller au cinéma.
-We've just been to the cinema.
-
-Paul et Marie ont deux chiens qui s’appellent Pilou et Loupi. Leurs chiens s’appellent Pilou et Loupi.
-Paul and Mary have two dogs called Pilou and Loupi. Their dogs are called Pilou and Loupi.
-
-Paul et Marie ont un chien. C’est le leur. 
-Paul and Mary have a dog. It's theirs. 
-
-Paul et Marie ont une voiture. C’est la leur.
-Paul and Marie have a car. It's theirs.
-
-Paul et Marie ont deux chiens. Ce sont les leurs.
-Paul and Mary have two dogs. They are their own.
-
-Ma famille arrive ce soir.
-My family is coming tonight.
-
-Ma famille arrive demain.
-My family is coming tomorrow.
-
-Le gérant arrive demain.
-The manager arrives tomorrow.
-
-Le gérant arrive à midi.
-The manager arrives at noon.
-
-Janine arrive à midi.
-Janine arrives at noon.
-
-Janine arrive plus tard.
-Janine arrives later.
-
-Ma sœur arrive plus tard.
-My sister arrives later.
-
-Ma sœur arrive aujourd'hui.
-My sister is coming today.
-
-Les bagages arrivent aujourd'hui.
-The luggage arrives today.
-
-Les bagages arrivent ce soir.
-The luggage arrives tonight.
-
-Désirez-vous quelque chose?
-Can I get you anything?
-
-Voulez-vous quelque chose?
-Can I get you anything?
-
-Voulez-vous une chambre?
-Do you want a room?
-
-Avez-vous une chambre?
-Do you have a room?
-
-Avez-vous vos bagages?
-Do you have your luggage?
-
-Voulez-vous vos bagages?
-Do you want your luggage?
-
-Voulez-vous quelque chose?
-Can I get you anything?
-
-Désirez-vous quelque chose?
-Can I get you anything?
-
-Désirez-vous deux chambres?
-Would you like two rooms?
-
-Est-ce qu'il veut deux chambres?
-Does he want two rooms?
-
-Est-ce qu'il veut trois chambres?
-Does he want three rooms?
-
-Désirez-vous quelque chose, Monsieur?
-Can I get you anything, sir?
-
-Voulez-vous quelque chose, Monsieur?
-Can I get you anything, sir?
-
-Voulez-vous une chambre, Monsieur?
-Would you like a room, sir?
-
-Voulez-vous une chambre, Madame?
-Would you like a room, ma'am?
-
-Avez-vous une chambre, Madame?
-Do you have a room, ma'am?
-
-Avez-vous vos bagages, Madame?
-Do you have your luggage, ma'am?
-
-Avez-vous vos bagages, Mademoiselle?
-Do you have your luggage, Miss?
-
-Voulez-vous vos bagages, Mademoiselle?
-Would you like your luggage, Miss?
-
-Voulez-vous quelque chose, Mademoiselle?
-Can I get you anything, miss?
-
-Voulez-vous quelque chose, Monsieur?
-Can I get you anything, sir?
-
-Connaissez-vous l'identifiant?
-Do you know the ID?
-
-Connaissez-vous l'hôtel?
-Do you know the hotel?
-
-Connaissez-vous le mot de passe?
-Do you know the password?
-
-Connaissez-vous le café?
-Do you know coffee?
-
-Connaissez-vous le gérant?
-Do you know the manager?
-
-Connaissez-vous la chambre?
-Do you know the room?
-
-Connaissez-vous le restaurant?
-Do you know the restaurant?
-
-Connaissez-vous la direction?
-Do you know the direction?
-
-Avez-vous une fiche?
-Do you have a card?
-
-Avez-vous une chambre?
-Do you have a room?
-
-Avez-vous une sœur?
-Do you have a sister?
-
-Avez-vous une fille?
-Do you have a daughter?
-
-Avez-vous une salle de bains?
-Do you have a bathroom?
-
-Avez-vous une femme de chambre?
-Do you have a maid?
-
-Avez-vous une classe?
-Do you have a class?
-
-Ils ont une fiche.
-They have a card.
-
-Ils ont des fiches.
-They have cards.
-
-Ils ont une sœur.
-They have a sister.
-
-Ils ont des sœurs.
-They have sisters.
-
-Ils ont une nouvelle.
-They have news.
-
-Ils ont des nouvelles.
-They have some news.
-
-Ils ont une chambre.
-They have a room.
-
-Ils ont des chambres.
-They have rooms.
-
-Ils ont une salle de bains.
-They have a bathroom.
-
-Ils ont des salles de bains.
-They have bathrooms.
-
-Ils ont un café.
-They have a coffee.
-
-Ils ont un livre.
-They have a book.
-
-Ils ont un jour.
-They have a day.
-
-Ils ont un frère.
-They have a brother.
-
-Ils ont un fils.
-They have a son.
-
-Ils ont un restaurant.
-They have a restaurant.
-
-Ils ont un étage.
-They have a floor.
-
-Ils ont un hôtel.
-They have a hotel.
-
-Ils ont un ami.
-They have a friend.
-
-Ils ont un enfant.
-They have a child.
-
-Ils ont un restaurant.
-They have a restaurant.
-
-Ils ont des restaurants.
-They have restaurants.
-
-Ils ont un livre.
-They have a book.
-
-Ils ont des livres.
-They have books.
-
-Ils ont un café.
-They have a coffee.
-
-Ils ont des cafés.
-They have coffee.
-
-Ils ont un frère.
-They have a brother.
-
-Ils ont des frères.
-They have brothers.
-
-Ils ont un fils.
-They have a son.
-
-Ils ont des fils.
-They have sons.
-
-Voilà un hôtel.
-There's a hotel.
-
-Voilà des hôtels.
-These are hotels.
-
-Voilà un enfant.
-There's a child.
-
-Voilà des enfants.
-These are children.
-
-Voilà un ami.
-Here's a friend of mine.
-
-Voilà des amis.
-Here are some friends.
-
-Voilà une amie.
-This is a friend of mine.
-
-Voilà des amies.
-Here are some friends.
-
-Voilà un restaurant.
-There's a restaurant.
-
-Voilà des restaurants
-Here are some restaurants
-
-Avez-vous une fiche?
-Do you have a card?
-
-Avez-vous des fiches?
-Do you have any cards?
-
-Avez-vous un ami?
-Do you have a friend?
-
-Avez-vous des amis?
-Do you have any friends?
-
-Avez-vous un livre?
-Do you have a book?
-
-Avez-vous des livres?
-Do you have any books?
-
-Avez-vous une amie?
-Do you have a friend?
-
+# Paul et Marie ont une voiture. C’est la leur.
+# Paul and Marie have a car. It's theirs.
+# 
+# Paul et Marie ont deux chiens. Ce sont les leurs.
+# Paul and Mary have two dogs. They are their own.
+# 
+# Ma famille arrive ce soir.
+# My family is coming tonight.
+# 
+# Ma famille arrive demain.
+# My family is coming tomorrow.
+# 
+# Le gérant arrive demain.
+# The manager arrives tomorrow.
+# 
+# Le gérant arrive à midi.
+# The manager arrives at noon.
+# 
+# Janine arrive à midi.
+# Janine arrives at noon.
+# 
+# Janine arrive plus tard.
+# Janine arrives later.
+# 
+# Ma sœur arrive plus tard.
+# My sister arrives later.
+# 
+# Ma sœur arrive aujourd'hui.
+# My sister is coming today.
+# 
+# Les bagages arrivent aujourd'hui.
+# The luggage arrives today.
+# 
+# Les bagages arrivent ce soir.
+# The luggage arrives tonight.
+# 
+# Désirez-vous quelque chose?
+# Can I get you anything?
+# 
+# Voulez-vous quelque chose?
+# Can I get you anything?
+# 
+# Voulez-vous une chambre?
+# Do you want a room?
+# 
+# Avez-vous une chambre?
+# Do you have a room?
+# 
+# Avez-vous vos bagages?
+# Do you have your luggage?
+# 
+# Voulez-vous vos bagages?
+# Do you want your luggage?
+# 
+# Voulez-vous quelque chose?
+# Can I get you anything?
+# 
+# Désirez-vous quelque chose?
+# Can I get you anything?
+# 
+# Désirez-vous deux chambres?
+# Would you like two rooms?
+# 
+# Est-ce qu'il veut deux chambres?
+# Does he want two rooms?
+# 
+# Est-ce qu'il veut trois chambres?
+# Does he want three rooms?
+# 
+# Désirez-vous quelque chose, Monsieur?
+# Can I get you anything, sir?
+# 
+# Voulez-vous quelque chose, Monsieur?
+# Can I get you anything, sir?
+# 
+# Voulez-vous une chambre, Monsieur?
+# Would you like a room, sir?
+# 
+# Voulez-vous une chambre, Madame?
+# Would you like a room, ma'am?
+# 
+# Avez-vous une chambre, Madame?
+# Do you have a room, ma'am?
+# 
+# Avez-vous vos bagages, Madame?
+# Do you have your luggage, ma'am?
+# 
+# Avez-vous vos bagages, Mademoiselle?
+# Do you have your luggage, Miss?
+# 
+# Voulez-vous vos bagages, Mademoiselle?
+# Would you like your luggage, Miss?
+# 
+# Voulez-vous quelque chose, Mademoiselle?
+# Can I get you anything, miss?
+# 
+# Voulez-vous quelque chose, Monsieur?
+# Can I get you anything, sir?
+# 
+# Connaissez-vous l'identifiant?
+# Do you know the ID?
+# 
+# Connaissez-vous l'hôtel?
+# Do you know the hotel?
+# 
+# Connaissez-vous le mot de passe?
+# Do you know the password?
+# 
+# Connaissez-vous le café?
+# Do you know coffee?
+# 
+# Connaissez-vous le gérant?
+# Do you know the manager?
+# 
+# Connaissez-vous la chambre?
+# Do you know the room?
+# 
+# Connaissez-vous le restaurant?
+# Do you know the restaurant?
+# 
+# Connaissez-vous la direction?
+# Do you know the direction?
+# 
+# Avez-vous une fiche?
+# Do you have a card?
+# 
+# Avez-vous une chambre?
+# Do you have a room?
+# 
+# Avez-vous une sœur?
+# Do you have a sister?
+# 
+# Avez-vous une fille?
+# Do you have a daughter?
+# 
+# Avez-vous une salle de bains?
+# Do you have a bathroom?
+# 
+# Avez-vous une femme de chambre?
+# Do you have a maid?
+# 
+# Avez-vous une classe?
+# Do you have a class?
+# 
+# Ils ont une fiche.
+# They have a card.
+# 
+# Ils ont des fiches.
+# They have cards.
+# 
+# Ils ont une sœur.
+# They have a sister.
+# 
+# Ils ont des sœurs.
+# They have sisters.
+# 
+# Ils ont une nouvelle.
+# They have news.
+# 
+# Ils ont des nouvelles.
+# They have some news.
+# 
+# Ils ont une chambre.
+# They have a room.
+# 
+# Ils ont des chambres.
+# They have rooms.
+# 
+# Ils ont une salle de bains.
+# They have a bathroom.
+# 
+# Ils ont des salles de bains.
+# They have bathrooms.
+# 
+# Ils ont un café.
+# They have a coffee.
+# 
+# Ils ont un livre.
+# They have a book.
+# 
+# Ils ont un jour.
+# They have a day.
+# 
+# Ils ont un frère.
+# They have a brother.
+# 
+# Ils ont un fils.
+# They have a son.
+# 
+# Ils ont un restaurant.
+# They have a restaurant.
+# 
+# Ils ont un étage.
+# They have a floor.
+# 
+# Ils ont un hôtel.
+# They have a hotel.
+# 
+# Ils ont un ami.
+# They have a friend.
+# 
+# Ils ont un enfant.
+# They have a child.
+# 
+# Ils ont un restaurant.
+# They have a restaurant.
+# 
+# Ils ont des restaurants.
+# They have restaurants.
+# 
+# Ils ont un livre.
+# They have a book.
+# 
+# Ils ont des livres.
+# They have books.
+# 
+# Ils ont un café.
+# They have a coffee.
+# 
+# Ils ont des cafés.
+# They have coffee.
+# 
+# Ils ont un frère.
+# They have a brother.
+# 
+# Ils ont des frères.
+# They have brothers.
+# 
+# Ils ont un fils.
+# They have a son.
+# 
+# Ils ont des fils.
+# They have sons.
+# 
+# Voilà un hôtel.
+# There's a hotel.
+# 
+# Voilà des hôtels.
+# These are hotels.
+# 
+# Voilà un enfant.
+# There's a child.
+# 
+# Voilà des enfants.
+# These are children.
+# 
+# Voilà un ami.
+# Here's a friend of mine.
+# 
+# Voilà des amis.
+# Here are some friends.
+# 
+# Voilà une amie.
+# This is a friend of mine.
+# 
+# Voilà des amies.
+# Here are some friends.
+# 
+# Voilà un restaurant.
+# There's a restaurant.
+# 
+# Voilà des restaurants
+# Here are some restaurants
+# 
+# Avez-vous une fiche?
+# Do you have a card?
+# 
+# Avez-vous des fiches?
+# Do you have any cards?
+# 
+# Avez-vous un ami?
+# Do you have a friend?
+# 
+# Avez-vous des amis?
+# Do you have any friends?
+# 
+# Avez-vous un livre?
+# Do you have a book?
+# 
+# Avez-vous des livres?
+# Do you have any books?
+# 
+# Avez-vous une amie?
+# Do you have a friend?
+# 
 Avez-vous des amies?
 Do you have any friends?
 

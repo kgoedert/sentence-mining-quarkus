@@ -6896,6 +6896,9 @@
 # ¡Qué hombre este! ¡Siempre viendo fútbol.
 # What a man! Always watching football.
 # 
+No te imaginas lo bien que hemos comido en este restaurante.
+You can't imagine how well we've eaten in this restaurant.
+
 ¿Te acuerdas de cuando éramos estudiantes? ¡Qué días aquellos!
 Do you remember when we were students? What days!
 
