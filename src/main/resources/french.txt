@@ -7798,6 +7798,141 @@
 # Avez-vous une amie?
 # Do you have a friend?
 # 
+Non, c'est très bien!
+No, that's very good!
+
+C'est stupide ce qu'il a dit, non? Si, c'est completement stupide!
+That's a stupid thing to say, isn't it? Yes, it's completely stupid!
+
+Tu n'as pas fini? Si, j'ai fini il y a deux minutes!
+Haven't you finished yet? Yes, I finished two minutes ago!
+
+Elle ne vient pas avec nous au cinéma? Si, elle arrive tout de suite.
+Isn't she coming with us to the movies? Yes, she's coming right away.
+
+Elle ne parle pas anglais, n'est-ce pas? Si, elle parle parfaitement anglais!
+She doesn't speak english, does she? She does! She speaks english perfectly!
+
+Elle ne parle pas anglais, pas vrai?
+She doesn't speaks english, right?
+
+Elle ne m'apprécie pas, pas vrai?
+She doesn't like me very much, right?
+
+Elle ne parle pas anglais, pas vrai? Si, elle parle très bien!
+She doesn't speaks english, right? Yes, she speaks very well!
+
+Il ne m'apprécie pas beaucoup, pas vrai? Si, il t'aime beaucoup.
+He doesn't like me very much, right? Yes, he likes you very much.
+
+Ils ne veulent jamais écouter! Inutile d'insister. Si, nous écoutons, mais nous ne sommes pas d'accord.
+They never want to listen! It's useless to insist. Yes, we are listening, but we don't agree.
+
+Il est incapable de prendre une décision? Si, il est capable mais il n'ose pas.
+He is unable to make a decision? Yes, he is capable, but he doesn't dare.
+
+Il est incapable de prendre une décision? Non, je ne suis pas d'accord avec toi.
+He is unable to make a decision? No, I don't agree with you.
+
+Il est incapable de prendre une décision? Oui, c'est vrai.
+He is unable to make a decision? Yes, that's right.
+
+C'est impossible de résoudre ce problème? Oui, c'est vraiment trop complèxe.
+Is it impossible to solve this problem? Yes, it's really too complex.
+
+C'est impossible de résoudre ce problème? Non, c'est juste que tu ne fais pas d'efforts.
+Is it impossible to solve this problem? No, it's just that you're not trying.
+
+C'est impossible de résoudre ce problème? Si, c'est possible mais faut être bon en maths!
+Is it impossible to solve this problem? Yes, it's possible, but you have to be good at math!
+
+Je n'ai pas faim. Moi non plus.
+I'm not hungry. Me neither.
+
+Je n'ai pas faim. Moi si.
+I'm not hungry. I am.
+
+Il a froid. Moi aussi.
+He's cold. Me too.
+
+Elle ne parle pas anglais. Moi non plus.
+She doesn't speak english. Me neither.
+
+Ils ne veulent pas écouter. Moi non plus.
+They don't want to listen. Me neither.
+
+Ils ne veulent pas écouter. Moi si.
+They don't want to listen. Me too.
+
+Il est incapable de prendre une décision. Toi non plus.
+He's unable to make a decision. You neither.
+
+Nous écoutons mais nous ne sommes pas d'ccord. Nous aussi.
+We are listening but we do not agree. Us too.
+
+Le film était vraiment bien, pas vrai?
+The movie was really good, wasn't it?
+
+Je me réveille à six heures du matin tous les jours.
+I wake up at six am every day.
+
+Tu ne te reveille jamais à l'heure.
+You never wake up on time.
+
+Mes enfants se douchent avant de prendre leur petit-déjeuner.
+My children shower before eating their breakfast.
+
+Elle se douche toujours le matin.
+She always showers in the morning.
+
+Je me brosse les dents après le petit-déjeuner.
+I brush my teeth after breakfast.
+
+Brossez-vous les dents avant d'aller à l'école.
+Brush your teeth before going to school.
+
+Généralement, les femmes se maquillent le matin.
+Generally, women put makeup on in the morning.
+
+Je ne me maquille jamais.
+I never put on makeup.
+
+Il s'habille avant de se brosser les dents.
+He gets dressed before brushing his teeth.
+
+Je m'habille toujours en fonction du temps.
+I always get dressed according to the weather.
+
+Il se coife toujours devant le miroir.
+He always does his hair in front of the mirror.
+
+Mes enfants se coiffent rarement le matin.
+My children rarely do their hair in the morning.
+
+Elle se chausse avant d'aller au travail.
+She puts shoes on before going to work.
+
+N'oublie pas de te chausser.
+Don't forget to put shoes on.
+
+Mon père se rase tous les deux jours.
+My dad shaves every two days.
+
+Mes frères ne se rasent plus.
+My brothers don't shave anymore.
+
+Je ne prends jamais mon petit-déjeuner à la maison.
+I never have breakfast at home.
+
+Nous prenons toujours le petit-déjeuner ensemble.
+We always have breakfast together.
+
+Mon frère fait du sport tous les jours avant de se doucher.
+My brother exercises every day before showering.
+
+Fais-tu du sport le matin?
+Do you exercise in the morning?
+
 Avez-vous des amies?
 Do you have any friends?
 
