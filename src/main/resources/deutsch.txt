@@ -5090,314 +5090,314 @@
 # The car is fast. I like it.
 # 
 # Der Koffer ist schwer. Er trägt ihn.
-# The suitcase is heavy. He is carrying it.
+# # The suitcase is heavy. He is carrying it.
+# # 
+# # Die Tür ist zu. Ich mache sie auf.
+# # The door is closed. I am opening it.
+# # 
+# # Die Tür ist geschlossen. Ich öffne sie.
+# # The door is closed. I am opening it.
+# # 
+# Wir brauchen eine blaue Tischdecke.
+# We need a blue table cloth. 
 # 
-# Die Tür ist zu. Ich mache sie auf.
-# The door is closed. I am opening it.
+# der Spatz, die Spatzen
+# o pardal, os pardais
 # 
-# Die Tür ist geschlossen. Ich öffne sie.
-# The door is closed. I am opening it.
+# der Same, die Samen
+# a semente, as sementes
 # 
-Wir brauchen eine blaue Tischdecke.
-We need a blue table cloth. 
-
-der Spatz, die Spatzen
-o pardal, os pardais
-
-der Same, die Samen
-a semente, as sementes
-
-Kennst du sie?
-Do you know her?
-
-Sie magt mich nicht.
-She doesn't like me.
-
-Verhsteht ihr ihn?
-Do you understand him?
-
-Er kennt dich nicht.
-He doesn't know you.
-
-Die Leute hören Sie nicht.
-The people don't hear you.
-
-Ich gehe nicht ohne dich.
-I am not leaving without you.
-
-Die Blumen sind für Sie.
-The flowers are for you.
-
-Er wohnt um die Ecke.
-He lives around the corner.
-
-Er trinkt Kaffee ohne Zucker.
-He drinks coffee without sugar.
-
-Sie spielen gegen die deutsche Mannschaft.
-They are playing against the german team.
-
-Wir gehen den Fluss entlang.
-We are walking along the river.
-
-Wir fahren durch den Stadt.
-We are driving through the city.
-
-Er läuft um den See.
-He is running around the lake.
-
-Ich schreibe meinem Chef eine E-mail.
-I am writing my boss an email.
-
-Ich schenke meiner Schwester ein Buch.
-I am giving my sister a book.
-
-Ich leihe dem Mädchen mein Fahrrad.
-I am loaning my bike to a girl.
-
-Ich erzähle den Kindern eine Geschichte.
-I am telling the children a story.
-
-Ich zeige meinen Freunden die Stadt.
-I am showing my friends the city.
-
-Ich erkläre den Studenten die Grammatik.
-I am explaining teh grammar to the students.
-
-Er wünscht seiner Freundin eine schöne Reise.
-He is wishing his girlfriend a nice trip.
-
-Ich empfehle ihnen ein Hotel.
-I am recommending a hotel to them.
-
-Er trägt mir den Koffer.
-He is carrying the suitcase for me.
-
-Sie öffnet ihm die Tür.
-She is opening the door to him.
-
-Sie macht ihm die Tür auf.
-She is opening the door to him.
-
-Ich schicke euch ein Paket.
-I am sending you guys a package.
-
-Das Auto gefällt mir.
-The car is appealing to me.
-
-Ich helfe ihr.
-I am helping her.
-
-Ich vertraue euch.
-I trust you guys.
-
-Die Hose passt mir nicht.
-The pants don't fit me.
-
-Der Koffer gehört ihm.
-The suitcase belongs to him.
-
-Schmeckt ihm die Suppe?
-Does he like the soup?
-
-Mir passiert nichts.
-Nothing is going to happen to me.
-
-Mein Arm tut weh.
-My arm hurts.
-
-Ich folge dir.
-I am following you.
-
-Nach dem Film gehe ich nach Hause.
-After the movie, I am going home.
-
-Ich gehe mit ihr nach Hause.
-I going home with her.
-
-Er trinkt aus der Flasche.
-He is drinking from the bottle.
-
-Er ist beim Artzt.
-He is at the doctor's.
-
-He is standing across from me.
-Er steht mir gegenüber.
-
-Der Brief ist von meiner Tante.
-The letter is from my aunt.
-
-Alle kommen auẞer dir.
-Everyone is coming except for you.
-
-Ich fahre zu meinen Eltern.
-I am driving to my parents.
-
-Mir ist langweiling.
-I am bored.
-
-Mir ist kalt.
-I am cold.
-
-Mir ist heiẞ.
-I am hot.         
-
-Mir ist übel.
-I am nauseous.
-
-Es geht mir besser.
-I am doing better.
-
-Wie geht es euch?
-How are you guys?
-
-Den Kindern ist langweilig.
-The children are bored.
-
-Ich fahre mit dem Auto nach Berlin.
-I am driving to Berlin by car.
-
-Ich fahre mit dem Zug nach Hamburg.
-I am taking the train to Hamburg.
-
-Ich fahre mit der S-Bahn nach Köln.
-I am taking the tram to Cologne.
-
-Ich fahre mit der U-Bahn zum Neumarkt.
-I am taking the subway to Neumarkt.
-
-Ich fahre mit dem Fahrrad zum Supermarkt.
-I am going to the supermaket by bike.
-
-Ich gehe zu Fuẞ.
-I am going on foot.
-
-Ich fliege nach Brasilien.
-I am flying to Brazil.
-
-Ich fahre nach Bonn.
-I driving to Bonn.
-
-Wohin fliegst du?
-Where are you flying to?
-
-Gehst du zu Fuẞ oder fährst du mit dem Fahrrad?
-Are you going on foot or are you going by bike?
-
-Ich sage den Termin ab.
-I am canceling the appointment.
-
-Ich hole meine Tochter vom Schwimmunterricht ab.
-I am picking up my daughter from swimming class.
-
-Der Zug fährt ab.
-The train is departing.
-
-Der Zug fährt gleich ab.
-The train is about to depart.
-
-Er fasst immer meinen Arm an.
-He always touches my arm.
-
-Er kommt morgen Abend an.
-He arrives tomorrow night.
-
-Ich rufe meinen Vater an.
-I am calling my father.
-
-Wir fangen mit dem Unterricht an.
-We are starting with the class.
-
-Sie wacht gerade auf.
-She is waking up.
-
-Sie räumt das Wohnzimmer auf.
-She is cleaning up the living room.
-
-Wir hören jetzt auf.
-We are going to stop now.
-
-Ich mache das Licht aus.
-I am turning off the light.
-
-Er lacht mich aus.
-He is laughing at me.
-
-Sie steigt aus dem Auto aus.
-She is getting out of the car.
-
-Wir steigen aus dem Zug aus.
-We are getting off the train.
-
-Wir kaufen heute ein.
-We are going grocery shopping today.
-
-Ich schlafe immer nach Mitternacht ein.
-I always fall asleep after midnight.
-
-Ich lade Maria to meinem Geburstag ein.
-I am inviting Maria to my birthday.
-
-Er bring einen Salat mit.
-He is bringing a salad.
-
-Was bringst du mit?
-What are you bringing?
-
-Was bringt ihr mit?
-What are you guys bringing?
-
-Kommst du mit?
-Are you coming along?
-
-Ich nehme meinen Laptop mit.
-I am taking my laptop along.
-
-Ich denke über meine Zukunft nach.
-I am thinking about my future.
-
-Ich drehe mich um.
-I am turning around.
-
-Der Stuhl fällt um.
-The chair is falling over.
-
-Was hast du vor?
-What are you planing?
-
-Ich habe nichts vor.
-I am not planning anything.
-
-Ich stelle mich vor.
-I am introducing myself.
-
-Er kommt heute Nachmittag vorbei.
-He is coming over this afternoon.
-
-Er geht weg.
-He is going away.
-
-Er nimmt dem Kind das Messer weg.
-He is taking the knife away from the child.
-
-Hört ihr mir zu?
-Are you guys listening to me?
-
-Ich höre euch zu.
-I am listening to you.
-
-Sie hört nie zu.
-She never listens.
-
-Ich mache die Tür zu.
-I am closing the door.
-
-Ich gebe ihm das Fahrrad zurück.
-I am giving the bike back to him.
-
-Er kommt heute Abend zurück.
-He is coming back tonight.
-
+# Kennst du sie?
+# Do you know her?
+# 
+# Sie magt mich nicht.
+# She doesn't like me.
+# 
+# Verhsteht ihr ihn?
+# Do you understand him?
+# 
+# Er kennt dich nicht.
+# He doesn't know you.
+# 
+# Die Leute hören Sie nicht.
+# The people don't hear you.
+# 
+# Ich gehe nicht ohne dich.
+# I am not leaving without you.
+# 
+# Die Blumen sind für Sie.
+# The flowers are for you.
+# 
+# Er wohnt um die Ecke.
+# He lives around the corner.
+# 
+# Er trinkt Kaffee ohne Zucker.
+# He drinks coffee without sugar.
+# 
+# Sie spielen gegen die deutsche Mannschaft.
+# They are playing against the german team.
+# 
+# Wir gehen den Fluss entlang.
+# We are walking along the river.
+# 
+# Wir fahren durch den Stadt.
+# We are driving through the city.
+# 
+# Er läuft um den See.
+# He is running around the lake.
+# 
+# Ich schreibe meinem Chef eine E-mail.
+# I am writing my boss an email.
+# 
+# Ich schenke meiner Schwester ein Buch.
+# I am giving my sister a book.
+# 
+# Ich leihe dem Mädchen mein Fahrrad.
+# I am loaning my bike to a girl.
+# 
+# Ich erzähle den Kindern eine Geschichte.
+# I am telling the children a story.
+# 
+# Ich zeige meinen Freunden die Stadt.
+# I am showing my friends the city.
+# 
+# Ich erkläre den Studenten die Grammatik.
+# I am explaining teh grammar to the students.
+# 
+# Er wünscht seiner Freundin eine schöne Reise.
+# He is wishing his girlfriend a nice trip.
+# 
+# Ich empfehle ihnen ein Hotel.
+# I am recommending a hotel to them.
+# 
+# Er trägt mir den Koffer.
+# He is carrying the suitcase for me.
+# 
+# Sie öffnet ihm die Tür.
+# She is opening the door to him.
+# 
+# Sie macht ihm die Tür auf.
+# She is opening the door to him.
+# 
+# Ich schicke euch ein Paket.
+# I am sending you guys a package.
+# 
+# Das Auto gefällt mir.
+# The car is appealing to me.
+# 
+# Ich helfe ihr.
+# I am helping her.
+# 
+# Ich vertraue euch.
+# I trust you guys.
+# 
+# Die Hose passt mir nicht.
+# The pants don't fit me.
+# 
+# Der Koffer gehört ihm.
+# The suitcase belongs to him.
+# 
+# Schmeckt ihm die Suppe?
+# Does he like the soup?
+# 
+# Mir passiert nichts.
+# Nothing is going to happen to me.
+# 
+# Mein Arm tut weh.
+# My arm hurts.
+# 
+# Ich folge dir.
+# I am following you.
+# 
+# Nach dem Film gehe ich nach Hause.
+# After the movie, I am going home.
+# 
+# Ich gehe mit ihr nach Hause.
+# I going home with her.
+# 
+# Er trinkt aus der Flasche.
+# He is drinking from the bottle.
+# 
+# Er ist beim Artzt.
+# He is at the doctor's.
+# 
+# He is standing across from me.
+# Er steht mir gegenüber.
+# 
+# Der Brief ist von meiner Tante.
+# The letter is from my aunt.
+# 
+# Alle kommen auẞer dir.
+# Everyone is coming except for you.
+# 
+# Ich fahre zu meinen Eltern.
+# I am driving to my parents.
+# 
+# Mir ist langweiling.
+# I am bored.
+# 
+# Mir ist kalt.
+# I am cold.
+# 
+# Mir ist heiẞ.
+# I am hot.         
+# 
+# Mir ist übel.
+# I am nauseous.
+# 
+# Es geht mir besser.
+# I am doing better.
+# 
+# Wie geht es euch?
+# How are you guys?
+# 
+# Den Kindern ist langweilig.
+# The children are bored.
+# 
+# Ich fahre mit dem Auto nach Berlin.
+# I am driving to Berlin by car.
+# 
+# Ich fahre mit dem Zug nach Hamburg.
+# I am taking the train to Hamburg.
+# 
+# Ich fahre mit der S-Bahn nach Köln.
+# I am taking the tram to Cologne.
+# 
+# Ich fahre mit der U-Bahn zum Neumarkt.
+# I am taking the subway to Neumarkt.
+# 
+# Ich fahre mit dem Fahrrad zum Supermarkt.
+# I am going to the supermaket by bike.
+# 
+# Ich gehe zu Fuẞ.
+# I am going on foot.
+# 
+# Ich fliege nach Brasilien.
+# I am flying to Brazil.
+# 
+# Ich fahre nach Bonn.
+# I driving to Bonn.
+# 
+# Wohin fliegst du?
+# Where are you flying to?
+# 
+# Gehst du zu Fuẞ oder fährst du mit dem Fahrrad?
+# Are you going on foot or are you going by bike?
+# 
+# Ich sage den Termin ab.
+# I am canceling the appointment.
+# 
+# Ich hole meine Tochter vom Schwimmunterricht ab.
+# I am picking up my daughter from swimming class.
+# 
+# Der Zug fährt ab.
+# The train is departing.
+# 
+# Der Zug fährt gleich ab.
+# The train is about to depart.
+# 
+# Er fasst immer meinen Arm an.
+# He always touches my arm.
+# 
+# Er kommt morgen Abend an.
+# He arrives tomorrow night.
+# 
+# Ich rufe meinen Vater an.
+# I am calling my father.
+# 
+# Wir fangen mit dem Unterricht an.
+# We are starting with the class.
+# 
+# Sie wacht gerade auf.
+# She is waking up.
+# 
+# Sie räumt das Wohnzimmer auf.
+# She is cleaning up the living room.
+# 
+# Wir hören jetzt auf.
+# We are going to stop now.
+# 
+# Ich mache das Licht aus.
+# I am turning off the light.
+# 
+# Er lacht mich aus.
+# He is laughing at me.
+# 
+# Sie steigt aus dem Auto aus.
+# She is getting out of the car.
+# 
+# Wir steigen aus dem Zug aus.
+# We are getting off the train.
+# 
+# Wir kaufen heute ein.
+# We are going grocery shopping today.
+# 
+# Ich schlafe immer nach Mitternacht ein.
+# I always fall asleep after midnight.
+# 
+# Ich lade Maria to meinem Geburstag ein.
+# I am inviting Maria to my birthday.
+# 
+# Er bring einen Salat mit.
+# He is bringing a salad.
+# 
+# Was bringst du mit?
+# What are you bringing?
+# 
+# Was bringt ihr mit?
+# What are you guys bringing?
+# 
+# Kommst du mit?
+# Are you coming along?
+# 
+# Ich nehme meinen Laptop mit.
+# I am taking my laptop along.
+# 
+# Ich denke über meine Zukunft nach.
+# I am thinking about my future.
+# 
+# Ich drehe mich um.
+# I am turning around.
+# 
+# Der Stuhl fällt um.
+# The chair is falling over.
+# 
+# Was hast du vor?
+# What are you planing?
+# 
+# Ich habe nichts vor.
+# I am not planning anything.
+# 
+# Ich stelle mich vor.
+# I am introducing myself.
+# 
+# Er kommt heute Nachmittag vorbei.
+# He is coming over this afternoon.
+# 
+# Er geht weg.
+# He is going away.
+# 
+# Er nimmt dem Kind das Messer weg.
+# He is taking the knife away from the child.
+# 
+# Hört ihr mir zu?
+# Are you guys listening to me?
+# 
+# Ich höre euch zu.
+# I am listening to you.
+# 
+# Sie hört nie zu.
+# She never listens.
+# 
+# Ich mache die Tür zu.
+# I am closing the door.
+# 
+# Ich gebe ihm das Fahrrad zurück.
+# I am giving the bike back to him.
+# 
+# Er kommt heute Abend zurück.
+# He is coming back tonight.
+# 
 Ich bin müde.
 I am tired.
 

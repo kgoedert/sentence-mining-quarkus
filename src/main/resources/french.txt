@@ -7798,6 +7798,9 @@
 # Avez-vous une amie?
 # Do you have a friend?
 # 
+Je n'ai plus de batterie sur mon téléphone alors je l'ai chargé.
+My phone's battery is dead so I charged it.
+
 Non, c'est très bien!
 No, that's very good!
 
