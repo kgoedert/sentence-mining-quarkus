@@ -7790,314 +7790,314 @@
 # Do you have any friends?
 # 
 # Avez-vous un livre?
-# Do you have a book?
+# # Do you have a book?
+# # 
+# # Avez-vous des livres?
+# # Do you have any books?
+# # 
+# # Avez-vous une amie?
+# # Do you have a friend?
+# # 
+# Je n'ai plus de batterie sur mon téléphone alors je l'ai chargé.
+# My phone's battery is dead so I charged it.
 # 
-# Avez-vous des livres?
-# Do you have any books?
+# Non, c'est très bien!
+# No, that's very good!
 # 
-# Avez-vous une amie?
-# Do you have a friend?
+# C'est stupide ce qu'il a dit, non? Si, c'est completement stupide!
+# That's a stupid thing to say, isn't it? Yes, it's completely stupid!
 # 
-Je n'ai plus de batterie sur mon téléphone alors je l'ai chargé.
-My phone's battery is dead so I charged it.
-
-Non, c'est très bien!
-No, that's very good!
-
-C'est stupide ce qu'il a dit, non? Si, c'est completement stupide!
-That's a stupid thing to say, isn't it? Yes, it's completely stupid!
-
-Tu n'as pas fini? Si, j'ai fini il y a deux minutes!
-Haven't you finished yet? Yes, I finished two minutes ago!
-
-Elle ne vient pas avec nous au cinéma? Si, elle arrive tout de suite.
-Isn't she coming with us to the movies? Yes, she's coming right away.
-
-Elle ne parle pas anglais, n'est-ce pas? Si, elle parle parfaitement anglais!
-She doesn't speak english, does she? She does! She speaks english perfectly!
-
-Elle ne parle pas anglais, pas vrai?
-She doesn't speaks english, right?
-
-Elle ne m'apprécie pas, pas vrai?
-She doesn't like me very much, right?
-
-Elle ne parle pas anglais, pas vrai? Si, elle parle très bien!
-She doesn't speaks english, right? Yes, she speaks very well!
-
-Il ne m'apprécie pas beaucoup, pas vrai? Si, il t'aime beaucoup.
-He doesn't like me very much, right? Yes, he likes you very much.
-
-Ils ne veulent jamais écouter! Inutile d'insister. Si, nous écoutons, mais nous ne sommes pas d'accord.
-They never want to listen! It's useless to insist. Yes, we are listening, but we don't agree.
-
-Il est incapable de prendre une décision? Si, il est capable mais il n'ose pas.
-He is unable to make a decision? Yes, he is capable, but he doesn't dare.
-
-Il est incapable de prendre une décision? Non, je ne suis pas d'accord avec toi.
-He is unable to make a decision? No, I don't agree with you.
-
-Il est incapable de prendre une décision? Oui, c'est vrai.
-He is unable to make a decision? Yes, that's right.
-
-C'est impossible de résoudre ce problème? Oui, c'est vraiment trop complèxe.
-Is it impossible to solve this problem? Yes, it's really too complex.
-
-C'est impossible de résoudre ce problème? Non, c'est juste que tu ne fais pas d'efforts.
-Is it impossible to solve this problem? No, it's just that you're not trying.
-
-C'est impossible de résoudre ce problème? Si, c'est possible mais faut être bon en maths!
-Is it impossible to solve this problem? Yes, it's possible, but you have to be good at math!
-
-Je n'ai pas faim. Moi non plus.
-I'm not hungry. Me neither.
-
-Je n'ai pas faim. Moi si.
-I'm not hungry. I am.
-
-Il a froid. Moi aussi.
-He's cold. Me too.
-
-Elle ne parle pas anglais. Moi non plus.
-She doesn't speak english. Me neither.
-
-Ils ne veulent pas écouter. Moi non plus.
-They don't want to listen. Me neither.
-
-Ils ne veulent pas écouter. Moi si.
-They don't want to listen. Me too.
-
-Il est incapable de prendre une décision. Toi non plus.
-He's unable to make a decision. You neither.
-
-Nous écoutons mais nous ne sommes pas d'ccord. Nous aussi.
-We are listening but we do not agree. Us too.
-
-Le film était vraiment bien, pas vrai?
-The movie was really good, wasn't it?
-
-Je me réveille à six heures du matin tous les jours.
-I wake up at six am every day.
-
-Tu ne te reveille jamais à l'heure.
-You never wake up on time.
-
-Mes enfants se douchent avant de prendre leur petit-déjeuner.
-My children shower before eating their breakfast.
-
-Elle se douche toujours le matin.
-She always showers in the morning.
-
-Je me brosse les dents après le petit-déjeuner.
-I brush my teeth after breakfast.
-
-Brossez-vous les dents avant d'aller à l'école.
-Brush your teeth before going to school.
-
-Généralement, les femmes se maquillent le matin.
-Generally, women put makeup on in the morning.
-
-Je ne me maquille jamais.
-I never put on makeup.
-
-Il s'habille avant de se brosser les dents.
-He gets dressed before brushing his teeth.
-
-Je m'habille toujours en fonction du temps.
-I always get dressed according to the weather.
-
-Il se coife toujours devant le miroir.
-He always does his hair in front of the mirror.
-
-Mes enfants se coiffent rarement le matin.
-My children rarely do their hair in the morning.
-
-Elle se chausse avant d'aller au travail.
-She puts shoes on before going to work.
-
-N'oublie pas de te chausser.
-Don't forget to put shoes on.
-
-Mon père se rase tous les deux jours.
-My dad shaves every two days.
-
-Mes frères ne se rasent plus.
-My brothers don't shave anymore.
-
-Je ne prends jamais mon petit-déjeuner à la maison.
-I never have breakfast at home.
-
-Nous prenons toujours le petit-déjeuner ensemble.
-We always have breakfast together.
-
-Mon frère fait du sport tous les jours avant de se doucher.
-My brother exercises every day before showering.
-
-Fais-tu du sport le matin?
-Do you exercise in the morning?
-
-Avez-vous des amies?
-Do you have any friends?
-
-Avez-vous un enfant?
-Do you have a child?
-
-Avez-vous des enfants?
-Do you have children?
-
-Avez-vous une question?
-Do you have a question?
-
-Avez-vous des questions?
-Do you have any questions?
-
-Avez-vous une nouvelle?
-Do you have any news?
-
-Avez-vous des nouvelles?
-Do you have any news?
-
-Avez-vous des livres? Oui, nous avons un livre.
-Do you have any books? Yes, we have a book.
-
-Avez-vous des frères? Oui, nous avons un frère.
-Do you have any brothers? Yes, we have a brother.
-
-Avez-vous des fiches? Oui, nous avons une fiche.
-Do you have any cards? Yes, we have a card.
-
-Avez-vous des sœurs? Oui, nous avons une sœur.
-Do you have any sisters? Yes, we have a sister.
-
-Avez-vous des questions? Oui, nous avons une question.
-Do you have any questions? Yes, we have a question.
-
-Avez-vous des chambres? Oui, nous avons une chambre.
-Do you have rooms? Yes, we have a room.
-
-Avez-vous des enfants? Oui, nous avons un enfant.
-Do you have children? Yes, we have a child.
-
-Avez-vous plusieurs frères? Non, j'ai un frère.
-Do you have several brothers? No, I have a brother.
-
-Avez-vous plusieurs sœurs? Non, j'ai une sœur.
-Do you have several sisters? No, I have a sister.
-
-Avez-vous plusieurs fiches? Non, j'ai une fiche.
-Do you have several cards? No, I have a card.
-
-Avez-vous plusieurs restaurants? Non, j'ai un restaurant.
-Do you have several restaurants? No, I have a restaurant.
-
-Avez-vous plusieurs questions? Non, j'ai une question.
-Do you have several questions? No, I have a question.
-
-Avez-vous plusieurs chambres? Non, j'ai une chambre.
-Do you have several rooms? No, I have a room.
-
-Avez-vous plusieurs salles de bains? Non, j'ai une salle de bains.
-Do you have several bathrooms? No, I have a bathroom.
-
-Avez-vous plusieurs étages? Non, j'ai un étage.
-Do you have several floors? No, I have a floor.
-
-Ils ont un frère.
-They have a brother.
-
-Ils ont une sœur.
-They have a sister.
-
-Ils ont une fiche.
-They have a card.
-
-Ils ont des bagages.
-They have luggage.
-
-Ils ont une fille.
-They have a daughter.
-
-Ils ont un fils.
-They have a son.
-
-Ils ont une chambre.
-They have a room.
-
-Ils ont un café.
-They have a coffee.
-
-Ils ont un restaurant.
-They have a restaurant.
-
-Ils ont un livre.
-They have a book.
-
-Ils ont un hôtel.
-They have a hotel.
-
-Ils ont des livres.
-They have books.
-
-Voilà les bagages. Voilà des bagages.
-Here's the luggage. Here's some luggage.
-
-Voilà le café. Voilà un café.
-Here's the coffee. Here's a coffee.
-
-Voilà l'hôtel. Voilà un hôtel.
-There's the hotel. There's a hotel.
-
-Voilà le livre. Voilà un livre.
-Here's the book. Here's a book.
-
-Voilà les livres. Voilà des livres.
-Here are the books. Here are some books.
-
-Voilà la classe. Voilà une classe.
-That's the class. This is a class.
-
-Voilà la question. Voilà une question.
-That is the question. That's a question.
-
-Voilà la chambre. Voilà une chambre.
-This is the bedroom. This is a room.
-
-Voilà le café. Voilà un café.
-Here's the coffee. Here's a coffee.
-
-Voilà la fiche. Voilà une fiche.
-Here's the card. Here's a card.
-
-Voilà le restaurant. Voilà un restaurant
-There's the restaurant. This is a restaurant.
-
-Voilà votre salle de bains. Voilà une salle de bains.
-This is your bathroom. This is a bathroom.
-
-Voilà vos bagages. Voilà des bagages.
-Here's your luggage. Here's some luggage.
-
-Voilà votre chambre. Voilà une chambre.
-This is your room. This is a room.
-
-Voilà vos bagages. Voilà des bagages.
-Here's your luggage. Here's some luggage.
-
-Voilà votre café. Voilà un café.
-Here's your coffee. Here's a coffee.
-
-Voilà votre fiche. Voilà une fiche.
-Here's your card. Here's a card.
-
-Voilà vos livres. Voilà des livres.
-Here are your books. Here are some books.
-
-Voilà votre porte. Voilà une porte.
-Here's your door. There's a door.
-
-Voilà vos fiches. Voilà des fiches.
-Here are your cards. Here are some cards.
-
+# Tu n'as pas fini? Si, j'ai fini il y a deux minutes!
+# Haven't you finished yet? Yes, I finished two minutes ago!
+# 
+# Elle ne vient pas avec nous au cinéma? Si, elle arrive tout de suite.
+# Isn't she coming with us to the movies? Yes, she's coming right away.
+# 
+# Elle ne parle pas anglais, n'est-ce pas? Si, elle parle parfaitement anglais!
+# She doesn't speak english, does she? She does! She speaks english perfectly!
+# 
+# Elle ne parle pas anglais, pas vrai?
+# She doesn't speaks english, right?
+# 
+# Elle ne m'apprécie pas, pas vrai?
+# She doesn't like me very much, right?
+# 
+# Elle ne parle pas anglais, pas vrai? Si, elle parle très bien!
+# She doesn't speaks english, right? Yes, she speaks very well!
+# 
+# Il ne m'apprécie pas beaucoup, pas vrai? Si, il t'aime beaucoup.
+# He doesn't like me very much, right? Yes, he likes you very much.
+# 
+# Ils ne veulent jamais écouter! Inutile d'insister. Si, nous écoutons, mais nous ne sommes pas d'accord.
+# They never want to listen! It's useless to insist. Yes, we are listening, but we don't agree.
+# 
+# Il est incapable de prendre une décision? Si, il est capable mais il n'ose pas.
+# He is unable to make a decision? Yes, he is capable, but he doesn't dare.
+# 
+# Il est incapable de prendre une décision? Non, je ne suis pas d'accord avec toi.
+# He is unable to make a decision? No, I don't agree with you.
+# 
+# Il est incapable de prendre une décision? Oui, c'est vrai.
+# He is unable to make a decision? Yes, that's right.
+# 
+# C'est impossible de résoudre ce problème? Oui, c'est vraiment trop complèxe.
+# Is it impossible to solve this problem? Yes, it's really too complex.
+# 
+# C'est impossible de résoudre ce problème? Non, c'est juste que tu ne fais pas d'efforts.
+# Is it impossible to solve this problem? No, it's just that you're not trying.
+# 
+# C'est impossible de résoudre ce problème? Si, c'est possible mais faut être bon en maths!
+# Is it impossible to solve this problem? Yes, it's possible, but you have to be good at math!
+# 
+# Je n'ai pas faim. Moi non plus.
+# I'm not hungry. Me neither.
+# 
+# Je n'ai pas faim. Moi si.
+# I'm not hungry. I am.
+# 
+# Il a froid. Moi aussi.
+# He's cold. Me too.
+# 
+# Elle ne parle pas anglais. Moi non plus.
+# She doesn't speak english. Me neither.
+# 
+# Ils ne veulent pas écouter. Moi non plus.
+# They don't want to listen. Me neither.
+# 
+# Ils ne veulent pas écouter. Moi si.
+# They don't want to listen. Me too.
+# 
+# Il est incapable de prendre une décision. Toi non plus.
+# He's unable to make a decision. You neither.
+# 
+# Nous écoutons mais nous ne sommes pas d'ccord. Nous aussi.
+# We are listening but we do not agree. Us too.
+# 
+# Le film était vraiment bien, pas vrai?
+# The movie was really good, wasn't it?
+# 
+# Je me réveille à six heures du matin tous les jours.
+# I wake up at six am every day.
+# 
+# Tu ne te reveille jamais à l'heure.
+# You never wake up on time.
+# 
+# Mes enfants se douchent avant de prendre leur petit-déjeuner.
+# My children shower before eating their breakfast.
+# 
+# Elle se douche toujours le matin.
+# She always showers in the morning.
+# 
+# Je me brosse les dents après le petit-déjeuner.
+# I brush my teeth after breakfast.
+# 
+# Brossez-vous les dents avant d'aller à l'école.
+# Brush your teeth before going to school.
+# 
+# Généralement, les femmes se maquillent le matin.
+# Generally, women put makeup on in the morning.
+# 
+# Je ne me maquille jamais.
+# I never put on makeup.
+# 
+# Il s'habille avant de se brosser les dents.
+# He gets dressed before brushing his teeth.
+# 
+# Je m'habille toujours en fonction du temps.
+# I always get dressed according to the weather.
+# 
+# Il se coife toujours devant le miroir.
+# He always does his hair in front of the mirror.
+# 
+# Mes enfants se coiffent rarement le matin.
+# My children rarely do their hair in the morning.
+# 
+# Elle se chausse avant d'aller au travail.
+# She puts shoes on before going to work.
+# 
+# N'oublie pas de te chausser.
+# Don't forget to put shoes on.
+# 
+# Mon père se rase tous les deux jours.
+# My dad shaves every two days.
+# 
+# Mes frères ne se rasent plus.
+# My brothers don't shave anymore.
+# 
+# Je ne prends jamais mon petit-déjeuner à la maison.
+# I never have breakfast at home.
+# 
+# Nous prenons toujours le petit-déjeuner ensemble.
+# We always have breakfast together.
+# 
+# Mon frère fait du sport tous les jours avant de se doucher.
+# My brother exercises every day before showering.
+# 
+# Fais-tu du sport le matin?
+# Do you exercise in the morning?
+# 
+# Avez-vous des amies?
+# Do you have any friends?
+# 
+# Avez-vous un enfant?
+# Do you have a child?
+# 
+# Avez-vous des enfants?
+# Do you have children?
+# 
+# Avez-vous une question?
+# Do you have a question?
+# 
+# Avez-vous des questions?
+# Do you have any questions?
+# 
+# Avez-vous une nouvelle?
+# Do you have any news?
+# 
+# Avez-vous des nouvelles?
+# Do you have any news?
+# 
+# Avez-vous des livres? Oui, nous avons un livre.
+# Do you have any books? Yes, we have a book.
+# 
+# Avez-vous des frères? Oui, nous avons un frère.
+# Do you have any brothers? Yes, we have a brother.
+# 
+# Avez-vous des fiches? Oui, nous avons une fiche.
+# Do you have any cards? Yes, we have a card.
+# 
+# Avez-vous des sœurs? Oui, nous avons une sœur.
+# Do you have any sisters? Yes, we have a sister.
+# 
+# Avez-vous des questions? Oui, nous avons une question.
+# Do you have any questions? Yes, we have a question.
+# 
+# Avez-vous des chambres? Oui, nous avons une chambre.
+# Do you have rooms? Yes, we have a room.
+# 
+# Avez-vous des enfants? Oui, nous avons un enfant.
+# Do you have children? Yes, we have a child.
+# 
+# Avez-vous plusieurs frères? Non, j'ai un frère.
+# Do you have several brothers? No, I have a brother.
+# 
+# Avez-vous plusieurs sœurs? Non, j'ai une sœur.
+# Do you have several sisters? No, I have a sister.
+# 
+# Avez-vous plusieurs fiches? Non, j'ai une fiche.
+# Do you have several cards? No, I have a card.
+# 
+# Avez-vous plusieurs restaurants? Non, j'ai un restaurant.
+# Do you have several restaurants? No, I have a restaurant.
+# 
+# Avez-vous plusieurs questions? Non, j'ai une question.
+# Do you have several questions? No, I have a question.
+# 
+# Avez-vous plusieurs chambres? Non, j'ai une chambre.
+# Do you have several rooms? No, I have a room.
+# 
+# Avez-vous plusieurs salles de bains? Non, j'ai une salle de bains.
+# Do you have several bathrooms? No, I have a bathroom.
+# 
+# Avez-vous plusieurs étages? Non, j'ai un étage.
+# Do you have several floors? No, I have a floor.
+# 
+# Ils ont un frère.
+# They have a brother.
+# 
+# Ils ont une sœur.
+# They have a sister.
+# 
+# Ils ont une fiche.
+# They have a card.
+# 
+# Ils ont des bagages.
+# They have luggage.
+# 
+# Ils ont une fille.
+# They have a daughter.
+# 
+# Ils ont un fils.
+# They have a son.
+# 
+# Ils ont une chambre.
+# They have a room.
+# 
+# Ils ont un café.
+# They have a coffee.
+# 
+# Ils ont un restaurant.
+# They have a restaurant.
+# 
+# Ils ont un livre.
+# They have a book.
+# 
+# Ils ont un hôtel.
+# They have a hotel.
+# 
+# Ils ont des livres.
+# They have books.
+# 
+# Voilà les bagages. Voilà des bagages.
+# Here's the luggage. Here's some luggage.
+# 
+# Voilà le café. Voilà un café.
+# Here's the coffee. Here's a coffee.
+# 
+# Voilà l'hôtel. Voilà un hôtel.
+# There's the hotel. There's a hotel.
+# 
+# Voilà le livre. Voilà un livre.
+# Here's the book. Here's a book.
+# 
+# Voilà les livres. Voilà des livres.
+# Here are the books. Here are some books.
+# 
+# Voilà la classe. Voilà une classe.
+# That's the class. This is a class.
+# 
+# Voilà la question. Voilà une question.
+# That is the question. That's a question.
+# 
+# Voilà la chambre. Voilà une chambre.
+# This is the bedroom. This is a room.
+# 
+# Voilà le café. Voilà un café.
+# Here's the coffee. Here's a coffee.
+# 
+# Voilà la fiche. Voilà une fiche.
+# Here's the card. Here's a card.
+# 
+# Voilà le restaurant. Voilà un restaurant
+# There's the restaurant. This is a restaurant.
+# 
+# Voilà votre salle de bains. Voilà une salle de bains.
+# This is your bathroom. This is a bathroom.
+# 
+# Voilà vos bagages. Voilà des bagages.
+# Here's your luggage. Here's some luggage.
+# 
+# Voilà votre chambre. Voilà une chambre.
+# This is your room. This is a room.
+# 
+# Voilà vos bagages. Voilà des bagages.
+# Here's your luggage. Here's some luggage.
+# 
+# Voilà votre café. Voilà un café.
+# Here's your coffee. Here's a coffee.
+# 
+# Voilà votre fiche. Voilà une fiche.
+# Here's your card. Here's a card.
+# 
+# Voilà vos livres. Voilà des livres.
+# Here are your books. Here are some books.
+# 
+# Voilà votre porte. Voilà une porte.
+# Here's your door. There's a door.
+# 
+# Voilà vos fiches. Voilà des fiches.
+# Here are your cards. Here are some cards.
+# 
 Voilà votre livre. Voilà un livre.
 Here's your book. Here's a book.
 

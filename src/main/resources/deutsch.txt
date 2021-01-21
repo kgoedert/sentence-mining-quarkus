@@ -5398,6 +5398,18 @@
 # Er kommt heute Abend zurück.
 # He is coming back tonight.
 # 
+Ich lade Maria zu meinem Geburtstag ein.
+I am inviting Maria to my birthday.
+
+Er steht mir gegenüber.
+He is standing across from me.
+
+Mir ist langweilig.
+I am bored.
+
+Wir fahren durch die Stadt.
+We are driving through the city. 
+
 Ich bin müde.
 I am tired.
 
