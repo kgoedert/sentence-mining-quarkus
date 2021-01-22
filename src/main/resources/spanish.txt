@@ -6886,316 +6886,319 @@
 # 
 # El tío este es tonto.
 # The guy, this one, is a fool.
+# # 
+# # Esa niña no ni tiene idea de nada.
+# # That girl has no idea whatsoever.
+# # 
+# # La niña esa no tiene ni idea de nada.
+# # That girl doesn't have a clue.
+# # 
+# # ¡Qué hombre este! ¡Siempre viendo fútbol.
+# # What a man! Always watching football.
+# # 
+# Colón llegó a América el 12 de octubre de 1492.
+# Colón arrived in America in october 12th 1492. 
 # 
-# Esa niña no ni tiene idea de nada.
-# That girl has no idea whatsoever.
+# ¿Me sientan bien estos pendientes?
+# Do these earrings suit me? 
 # 
-# La niña esa no tiene ni idea de nada.
-# That girl doesn't have a clue.
+# Sara e Isabel son madre y hija.
+# Sara and Isabel are mother and daughter.
 # 
-# ¡Qué hombre este! ¡Siempre viendo fútbol.
-# What a man! Always watching football.
+# Ese chico siempre trata de engañarnos.
+# This boy always manages to deceive us. - tratar
 # 
-Colón llegó a América el 12 de octubre de 1492.
-Colón arrived in America in october 12th 1492. 
-
-¿Me sientan bien estos pendientes?
-Do these earrings suit me? 
-
-Sara e Isabel son madre y hija.
-Sara and Isabel are mother and daughter.
-
-Ese chico siempre trata de engañarnos.
-This boy always manages to deceive us. - tratar
-
-No te imaginas lo bien que hemos comido en este restaurante.
-You can't imagine how well we've eaten in this restaurant.
-
-¿Te acuerdas de cuando éramos estudiantes? ¡Qué días aquellos!
-Do you remember when we were students? What days!
-
-¡Qué hombre este! No hay forma de que coma bien.
-What a man! There's no way he eats well.
-
-¡Qué chicas estas! Solo piensan en divertirse.
-What girls you are! All they think about is having fun.
-
-¡Qué ciudad esta! Hay un ruido terrible.
-What a city! There's a terrible noise.
-
-¡Qué ratos estos! ¿Qué sería de nosotros sin ellos?
-What a time! What would become of us without them?
-
-¿Te acuerdas de la selección de 1980? ¡Qué jugadores aquellos! Esos sí eran buenos.
-Do you remember the selection of 1980? What players those! Those were good players.
-
-En 1988 empecé a trabajar y me tocó la lotería. !Qué año aquel!
-In 1988 I started working and I won the lottery. What a year that was!
-
-¡Quién pudiera tener 20 años! ¡Qué días aquellos!
-Who could be 20 years old! What days those!
-
-No soporto las personas egoístas.
-I can't stand selfish people.
-
-Julián vive en unas casas prefabricadas.
-Julián lives in prefabricated houses.
-
-Carolina tiene muy mal gusto.
-Carolina has very bad taste.
-
-Rosario es la mejor alumna que tengo.
-Rosario is the best student I have.
-
-Armando es una buena persona.
-Armando is a good person.
-
-Es la última vez que te aviso.
-It's the last time I warn you.
-
-Tiene una casa en la sevillana calle Sierpe.
-She has a house on Sierpe Street in Seville.
-
-Los feroces leones y los juguetones chimpancés pueden compartir hábitat.
-Fierce lions and playful chimpanzees can share habitat.
-
-Jesús vive en aquellas casas altas.
-Jesus lives in those high houses.
-
-Me impresionan los altos rascacielos de Shangai.
-I am impressed by the tall skyscrapers of Shanghai.
-
-Bonita forma de contestar.
-Nice way to answer.
-
-Valiente compañero me he buscado.
-Brave companion I have looked for myself.
-
-Ha sido un feliz encuentro.
-It has been a happy encounter.
-
-Hemos hecho un descubrimiento sensacional sobre la gripe.
-We made a sensational discovery about the flu.
-
-Una jirafa es más alta que un oso.
-A giraffe is taller than a bear.
-
-Esa casa es nueva, pero parece antigua.
-That house is new, but it looks old.
-
-Los Bravos están enfermos. Han comido algo en mal estado.
-The Bravos are sick. They have eaten something in bad condition.
-
-Hay que limpiar mejor. El suelo sigue sucio.
-You have to clean better. The floor is still dirty.
-
-Me gustan los hermanos de Laura. Parecen serios.
-I like Laura's brothers. They look serious.
-
-Julián se ha vuelto perezoso. No quiere salir nunca.
-Julian has become lazy. He never wants to go out.
-
-Nos casamos muy viejos, por eso no tenemos hijos.
-We got married very old, that's why we don't have children.
-
-No os pongáis tristes.
-They fell asleep.
-
-Se quedaron dormidos.
-They fell asleep.
-
-Nerea caminaba descalza por la arena.
-Nerea walked barefoot through the sand.
-
-Las tropas avanzaban lentas y cautelosas.
-The troops advanced slowly and cautiously.
-
-Todos hablaban de la película entusiasmados.
-Everyone talked about the film enthusiastically.
-
-Mis padres viven tranquilos.
-My parents live peacefully.
-
-El río bajaba turbio.
-The river went down cloudy.
-
-Respondió orgulloso a todas mis preguntas.
-He answered all my questions proudly.
-
-El director nos explicó la situación avergonzado.
-The director explained the situation to us in shame.
-
-Avergonzado, el director nos explicó la situación.
-Embarrassed, the director explained the situation to us.
-
-El director, avergonzado, nos explicó la situación.
-The director, ashamed, explained the situation to us.
-
-Voy a comprar los muebles bastante baratos.
-I'm going to buy the furniture quite cheaply.
-
-Antonio siempre lleva manchada la corbata.
-Antonio always wears a stained tie.
-
-Elisa tiene los ojos grandes.
-Elisa has big eyes.
-
-Ver a la gente feliz me pone contento.
-Seeing happy people makes me happy.
-
-El profesor de Lengua es muy aburrido.
-The language teacher is very boring.
-
-Los chistes que cuenta Jorge son muy verdes.
-Jorge's jokes are very dirty.
-
-La novela era bastante mala. No pude terminarla.
-The novel was quite bad. I couldn't finish it.
-
-Carlos es muy interesado.
-Carlos is very interested.
-
-¡Qué morenos son tus hijos! ¡Con lo blanca que tú eres!
-Your children are so dark, you're so white!
-
-Abel está aburrido de trabajar en su oficina.
-Abel is bored of working in his office.
-
-Jorge está muy verde en informática.
-Jorge is very green in computer science.
-
-Marta está mala. Ha cogido una infección en los oídos.
-Marta is sick. She's got an infection in her ears.
-
-Marta está muy interesada en las culturas precolombinas.
-Marta is very interested in pre-Columbian cultures.
-
-¡Qué morena estás! ¡Cómo se nota que has ido a la playa!
-What a brunette you are! How you can tell you've been to the beach!
-
-¿Quién es el presidente de Brasil?
-Who is the president of Brazil?
-
-Faro y Porto son ciudades portuguesas.
-Faro and Porto are Portuguese cities.
-
-Marta no es nada trabajadora. 
-Marta is not at all hardworking. 
-
-Tus cumpleaños son bastante desagradables.
-Your birthdays are quite unpleasant.
-
-La última película de Almodóvar no es muy buena. Pues no es nada mala.
-Almodóvar's last film is not very good. Well, it's not bad at all.
-
-Lorena no es muy alta. Pues no es nada baja.
-Lorena is not very tall. Well, she's not short at all.
-
-Esta camisa no es nada cara.
-This shirt isn't expensive.
-
-No es lógico que no quiera trabajar necesitando dinero. Pues tampoco es nada extraño. Siempre le han ayudado sus padres.
-It's not logical that she doesn't want to work in need of money. Well, it's nothing strange either. His parents have always helped him.
-
-Hay mucho de bueno en ese muchacho.
-There's a lot of good in that boy.
-
-Pepe tiene poco de simpático y bastante de pesado.
-Pepe is not very sympathetic and quite heavy.
-
-Hay algo maternal en esa mujer.
-There's something maternal about that woman.
-
-Esa película tiene algo de maternal.
-There's something maternal about that film.
-
-Juan tiene poco de amable.
-Juan is not very nice.
-
-Esta novela no tiene nada de original.
-There's nothing original about this novel.
-
-Ana no tiene nada de tímido.
-There's nothing shy about Ana.
-
-Ana no tiene nada de tímida.
-There's nothing shy about Ana.
-
-Tus amigas no tienen nada de gracioso.
-There's nothing funny about your friends.
-
-Tus amigas no tienen nada de graciosas.
-There's nothing funny about your friends.
-
-¿Hay algo de malo en que me guste dormir?
-Is there anything wrong with me liking to sleep?
-
-Este café está bien caliente.
-This coffee is really hot.
-
-Los hijos de Laura son bien listos.
-Laura's kids are smart.
-
-Tu primo es tan guapo...
-Your cousin is so handsome...
-
-Conozco un club de lo más animado.
-I know a very lively club.
-
-Tengo un tío de lo más cariñoso.
-I have a most affectionate uncle.
-
-He visto una película de lo más divertido.
-I've seen the funniest movie.
-
-Pablo se ha comprado unas camisas de lo más caras.
-Pablo has bought some very expensive shirts.
-
-<<<<<<< Updated upstream
-Me pilló un chaparrón y llegué a la oficina toda mojada.
-I got caught in a shower and arrived at the office all wet.
-
-Ten cuidado, Raúl. Es mucha moto para ti.
-Be careful, Raúl. It's a lot of motorbike for you.
-
-El paquete llegó todo roto.
-The package arrived all broken.
-
-Esta pluma está toda rota.
-This pen is all broken.
-
-Los coches llegaron todo llenos de barro.
-The cars came all muddy.
-
-Las paredes se pusieran todo sucias con las obras.
-The walls got all dirty with the works.
-
-Javier es todo corazón.
-Javier is all heart.
-
-Ese libro es todo poesía.
-That book is all poetry.
-
-Felipe es todo huesos.
-Felipe is all bones.
-
-Elisa es todo corazón.
-Elisa is all heart.
-
-Esa chica es toda pasión.
-That girl is all passion.
-
-Margarita era todo risas.
-Margarita was all laughter.
-
-Tus hermanos son todo corazón.
-Your brothers are all heart.
-
-Luis es muy hombre de su casa. Hace la compra, la comida. 
-Luis is very much the man of his house. He does the shopping, the food. 
-
-Consuelo es muy bruja. Siempre adivina lo que piensas.
-Consuelo is a witch. She always guesses what you think.
+# No te imaginas lo bien que hemos comido en este restaurante.
+# You can't imagine how well we've eaten in this restaurant.
+# 
+# ¿Te acuerdas de cuando éramos estudiantes? ¡Qué días aquellos!
+# Do you remember when we were students? What days!
+# 
+# ¡Qué hombre este! No hay forma de que coma bien.
+# What a man! There's no way he eats well.
+# 
+# ¡Qué chicas estas! Solo piensan en divertirse.
+# What girls you are! All they think about is having fun.
+# 
+# ¡Qué ciudad esta! Hay un ruido terrible.
+# What a city! There's a terrible noise.
+# 
+# ¡Qué ratos estos! ¿Qué sería de nosotros sin ellos?
+# What a time! What would become of us without them?
+# 
+# ¿Te acuerdas de la selección de 1980? ¡Qué jugadores aquellos! Esos sí eran buenos.
+# Do you remember the selection of 1980? What players those! Those were good players.
+# 
+# En 1988 empecé a trabajar y me tocó la lotería. !Qué año aquel!
+# In 1988 I started working and I won the lottery. What a year that was!
+# 
+# ¡Quién pudiera tener 20 años! ¡Qué días aquellos!
+# Who could be 20 years old! What days those!
+# 
+# No soporto las personas egoístas.
+# I can't stand selfish people.
+# 
+# Julián vive en unas casas prefabricadas.
+# Julián lives in prefabricated houses.
+# 
+# Carolina tiene muy mal gusto.
+# Carolina has very bad taste.
+# 
+# Rosario es la mejor alumna que tengo.
+# Rosario is the best student I have.
+# 
+# Armando es una buena persona.
+# Armando is a good person.
+# 
+# Es la última vez que te aviso.
+# It's the last time I warn you.
+# 
+# Tiene una casa en la sevillana calle Sierpe.
+# She has a house on Sierpe Street in Seville.
+# 
+# Los feroces leones y los juguetones chimpancés pueden compartir hábitat.
+# Fierce lions and playful chimpanzees can share habitat.
+# 
+# Jesús vive en aquellas casas altas.
+# Jesus lives in those high houses.
+# 
+# Me impresionan los altos rascacielos de Shangai.
+# I am impressed by the tall skyscrapers of Shanghai.
+# 
+# Bonita forma de contestar.
+# Nice way to answer.
+# 
+# Valiente compañero me he buscado.
+# Brave companion I have looked for myself.
+# 
+# Ha sido un feliz encuentro.
+# It has been a happy encounter.
+# 
+# Hemos hecho un descubrimiento sensacional sobre la gripe.
+# We made a sensational discovery about the flu.
+# 
+# Una jirafa es más alta que un oso.
+# A giraffe is taller than a bear.
+# 
+# Esa casa es nueva, pero parece antigua.
+# That house is new, but it looks old.
+# 
+# Los Bravos están enfermos. Han comido algo en mal estado.
+# The Bravos are sick. They have eaten something in bad condition.
+# 
+# Hay que limpiar mejor. El suelo sigue sucio.
+# You have to clean better. The floor is still dirty.
+# 
+# Me gustan los hermanos de Laura. Parecen serios.
+# I like Laura's brothers. They look serious.
+# 
+# Julián se ha vuelto perezoso. No quiere salir nunca.
+# Julian has become lazy. He never wants to go out.
+# 
+# Nos casamos muy viejos, por eso no tenemos hijos.
+# We got married very old, that's why we don't have children.
+# 
+# No os pongáis tristes.
+# They fell asleep.
+# 
+# Se quedaron dormidos.
+# They fell asleep.
+# 
+# Nerea caminaba descalza por la arena.
+# Nerea walked barefoot through the sand.
+# 
+# Las tropas avanzaban lentas y cautelosas.
+# The troops advanced slowly and cautiously.
+# 
+# Todos hablaban de la película entusiasmados.
+# Everyone talked about the film enthusiastically.
+# 
+# Mis padres viven tranquilos.
+# My parents live peacefully.
+# 
+# El río bajaba turbio.
+# The river went down cloudy.
+# 
+# Respondió orgulloso a todas mis preguntas.
+# He answered all my questions proudly.
+# 
+# El director nos explicó la situación avergonzado.
+# The director explained the situation to us in shame.
+# 
+# Avergonzado, el director nos explicó la situación.
+# Embarrassed, the director explained the situation to us.
+# 
+# El director, avergonzado, nos explicó la situación.
+# The director, ashamed, explained the situation to us.
+# 
+# Voy a comprar los muebles bastante baratos.
+# I'm going to buy the furniture quite cheaply.
+# 
+# Antonio siempre lleva manchada la corbata.
+# Antonio always wears a stained tie.
+# 
+# Elisa tiene los ojos grandes.
+# Elisa has big eyes.
+# 
+# Ver a la gente feliz me pone contento.
+# Seeing happy people makes me happy.
+# 
+# El profesor de Lengua es muy aburrido.
+# The language teacher is very boring.
+# 
+# Los chistes que cuenta Jorge son muy verdes.
+# Jorge's jokes are very dirty.
+# 
+# La novela era bastante mala. No pude terminarla.
+# The novel was quite bad. I couldn't finish it.
+# 
+# Carlos es muy interesado.
+# Carlos is very interested.
+# 
+# ¡Qué morenos son tus hijos! ¡Con lo blanca que tú eres!
+# Your children are so dark, you're so white!
+# 
+# Abel está aburrido de trabajar en su oficina.
+# Abel is bored of working in his office.
+# 
+# Jorge está muy verde en informática.
+# Jorge is very green in computer science.
+# 
+# Marta está mala. Ha cogido una infección en los oídos.
+# Marta is sick. She's got an infection in her ears.
+# 
+# Marta está muy interesada en las culturas precolombinas.
+# Marta is very interested in pre-Columbian cultures.
+# 
+# ¡Qué morena estás! ¡Cómo se nota que has ido a la playa!
+# What a brunette you are! How you can tell you've been to the beach!
+# 
+# ¿Quién es el presidente de Brasil?
+# Who is the president of Brazil?
+# 
+# Faro y Porto son ciudades portuguesas.
+# Faro and Porto are Portuguese cities.
+# 
+# Marta no es nada trabajadora. 
+# Marta is not at all hardworking. 
+# 
+# Tus cumpleaños son bastante desagradables.
+# Your birthdays are quite unpleasant.
+# 
+# La última película de Almodóvar no es muy buena. Pues no es nada mala.
+# Almodóvar's last film is not very good. Well, it's not bad at all.
+# 
+# Lorena no es muy alta. Pues no es nada baja.
+# Lorena is not very tall. Well, she's not short at all.
+# 
+# Esta camisa no es nada cara.
+# This shirt isn't expensive.
+# 
+# No es lógico que no quiera trabajar necesitando dinero. Pues tampoco es nada extraño. Siempre le han ayudado sus padres.
+# It's not logical that she doesn't want to work in need of money. Well, it's nothing strange either. His parents have always helped him.
+# 
+# Hay mucho de bueno en ese muchacho.
+# There's a lot of good in that boy.
+# 
+# Pepe tiene poco de simpático y bastante de pesado.
+# Pepe is not very sympathetic and quite heavy.
+# 
+# Hay algo maternal en esa mujer.
+# There's something maternal about that woman.
+# 
+# Esa película tiene algo de maternal.
+# There's something maternal about that film.
+# 
+# Juan tiene poco de amable.
+# Juan is not very nice.
+# 
+# Esta novela no tiene nada de original.
+# There's nothing original about this novel.
+# 
+# Ana no tiene nada de tímido.
+# There's nothing shy about Ana.
+# 
+# Ana no tiene nada de tímida.
+# There's nothing shy about Ana.
+# 
+# Tus amigas no tienen nada de gracioso.
+# There's nothing funny about your friends.
+# 
+# Tus amigas no tienen nada de graciosas.
+# There's nothing funny about your friends.
+# 
+# ¿Hay algo de malo en que me guste dormir?
+# Is there anything wrong with me liking to sleep?
+# 
+# Este café está bien caliente.
+# This coffee is really hot.
+# 
+# Los hijos de Laura son bien listos.
+# Laura's kids are smart.
+# 
+# Tu primo es tan guapo...
+# Your cousin is so handsome...
+# 
+# Conozco un club de lo más animado.
+# I know a very lively club.
+# 
+# Tengo un tío de lo más cariñoso.
+# I have a most affectionate uncle.
+# 
+# He visto una película de lo más divertido.
+# I've seen the funniest movie.
+# 
+# Pablo se ha comprado unas camisas de lo más caras.
+# Pablo has bought some very expensive shirts.
+# 
+# <<<<<<< Updated upstream
+# Me pilló un chaparrón y llegué a la oficina toda mojada.
+# I got caught in a shower and arrived at the office all wet.
+# 
+# Ten cuidado, Raúl. Es mucha moto para ti.
+# Be careful, Raúl. It's a lot of motorbike for you.
+# 
+# El paquete llegó todo roto.
+# The package arrived all broken.
+# 
+# Esta pluma está toda rota.
+# This pen is all broken.
+# 
+# Los coches llegaron todo llenos de barro.
+# The cars came all muddy.
+# 
+# Las paredes se pusieran todo sucias con las obras.
+# The walls got all dirty with the works.
+# 
+# Javier es todo corazón.
+# Javier is all heart.
+# 
+# Ese libro es todo poesía.
+# That book is all poetry.
+# 
+# Felipe es todo huesos.
+# Felipe is all bones.
+# 
+# Elisa es todo corazón.
+# Elisa is all heart.
+# 
+# Esa chica es toda pasión.
+# That girl is all passion.
+# 
+# Margarita era todo risas.
+# Margarita was all laughter.
+# 
+# Tus hermanos son todo corazón.
+# Your brothers are all heart.
+# 
+# Luis es muy hombre de su casa. Hace la compra, la comida. 
+# Luis is very much the man of his house. He does the shopping, the food. 
+# 
+# Consuelo es muy bruja. Siempre adivina lo que piensas.
+# Consuelo is a witch. She always guesses what you think.
+# 
+Mi padre se va a Brasil y me ha pedido que lo lleve al aeropuerto esta noche.
+My father is going to Brazil and has asked me to take him to the airport tonight. 
 
 Eso es mucho bocadillo para un niño tan pequeño.
 That's a lot of sandwich for such a small child.

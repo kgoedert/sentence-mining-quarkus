@@ -8098,6 +8098,9 @@
 # Voilà vos fiches. Voilà des fiches.
 # Here are your cards. Here are some cards.
 # 
+Nous écoutons mais nous ne sommes pas d'accord. Nous aussi.
+We are listening but we do not agree. Us too.
+
 Voilà votre livre. Voilà un livre.
 Here's your book. Here's a book.
 
