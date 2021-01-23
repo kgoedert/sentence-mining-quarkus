@@ -8098,6 +8098,129 @@
 # Voilà vos fiches. Voilà des fiches.
 # Here are your cards. Here are some cards.
 # 
+Je vais à Nice pendant les vacances d'été.
+I'm going to Nice for the summer vacations.
+
+Aujourd'hui nous allons à la plage.
+Today, we are going to the beach.
+
+Ils vont au restaurant tous les jours pendant leurs vacances.
+They go to the restaurant every day during their vacations.
+
+Je voyage chaque été.
+I travel every summer.
+
+Aimez-vous voyager?
+Do you like traveling?
+
+Cette année, elle voyage à travers l'Asie.
+This year, she is travelling across Asia.
+
+Ma mère bronze très vite à la plage.
+My mom tans very fast at the beach.
+
+Est-ce que je suis assez bronzé?
+Am I tanned enough?
+
+Mes amis bronzent plus vite que moi.
+My friends tan faster than I do.
+
+Je me repose durant mes vacances.
+I rest during my vacations.
+
+Mon petit frère se repose dans la chambre d'hôtel.
+My little brother is resting in the hotel room.
+
+Repose-toi avant d'aller à la plage.
+Get some rest before going to the beach.
+
+Mes cousins nagent mieux que l'année dernière.
+My cousins swim better than last year.
+
+En vacances, ma sœur nage toute la journée.
+When she's on vacations, my sister swims all day.
+
+Si vous nagez dans l'océan, vous aller avoir froid.
+If you swim in the ocean, you will be cold.
+
+Ils visitent le musée d'Arts.
+They visit the arts museum.
+
+Aujourd'hui je visite la Maison Blanche.
+Today, I am visiting the White House.
+
+Nous visitons New York ensemble.
+We are visiting New York together.
+
+Nous logeons dans un hôtel cette année.
+We are staying in a hotel this year.
+
+Mon ami loge dans un camping cet été.
+My friend is staying at a campsite this year.
+
+Loges-tu avec les habitants de la ville?
+Are you staying with local residents?
+
+Je découvre les spécialités culinaires du Maroc au fil de mon voyage.
+I am discovering Morocco's culinary specialities along my trip.
+
+Ils découvrent la culture Maya à travers les monuments.
+They are discovering the Mayan culture through the monuments.
+
+Mon petit frère découvre les différents poissons de l'océan lorsqu'il nage.
+My little brother is discovering the ocean's fish while he swims.
+
+Ma mère achète une robe japonaise traditionelle.
+My mom is buying a traditional japanese dress.
+
+Mes amis achètent des bouées pour se détendre dans la piscine.
+My friends are buying floats to relax in the pool.
+
+J'achète une nouvelle valise parce que mon ancienne est cassée.
+I am buying a new suitcase because my old one is broken.
+
+Je m'amuse avec mes amis dans la piscine.
+I am having fun with my friends in the pool.
+
+Ils s'amusent toute la journée à la plage et toute la nuit au camping.
+They are having fun all day at the beach and all night at the campsite.
+
+Je veux te raconter toute l'histoire.
+I want to tell you all the story.
+
+Je veux savoir toute la vérité.
+I want to know the whole truth.
+
+Je ne te crois pas! Il a mangé tout le gâteau?
+I don't believe you! He ate the whole cake?
+
+J'ai regardé tout le film avec ma sœur.
+I watched the whole movie with my sister.
+
+Tous les enfants jouent dans la cour.
+All the children are playing in the schoolyard.
+
+Tous les gens sont venus à son anniversaire.
+All the people came to his/her birthday.
+
+Toutes les fêtes qu'elle fait son géniales.
+All the parties she has are amazing.
+
+Toutes les fêtes qu'elle fait sont supers.
+All the parties she has are amazing.
+
+Toutes ses fêtes sont géniales.
+All her parties are amazing.
+
+Merci à tous!
+Thanks to all of you!
+
+Tout le monde est là.
+Everyone is there.
+
+Tous les gens sont contents.
+All the people are happy.
+
 Nous écoutons mais nous ne sommes pas d'accord. Nous aussi.
 We are listening but we do not agree. Us too.
 
@@ -11229,4 +11352,3 @@ You're never cold, are you? Yes, I get cold sometimes!
 
 C'est stupide ce qu'il a dit, non? Non, c'est très bien!
 That was a stupid thing to say, wasn't it? No, that's very good!
-

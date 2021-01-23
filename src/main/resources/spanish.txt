@@ -7197,6 +7197,9 @@
 # Consuelo es muy bruja. Siempre adivina lo que piensas.
 # Consuelo is a witch. She always guesses what you think.
 # 
+Recuerdo que el año pasado visitamos el desierto de Atacama.
+I remember that last year we visited the Atacama desert. 
+
 Mi padre se va a Brasil y me ha pedido que lo lleve al aeropuerto esta noche.
 My father is going to Brazil and has asked me to take him to the airport tonight. 
 
