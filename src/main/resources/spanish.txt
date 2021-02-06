@@ -7197,6 +7197,15 @@
 # Consuelo es muy bruja. Siempre adivina lo que piensas.
 # Consuelo is a witch. She always guesses what you think.
 # 
+Ana no tiene nada de tímida.
+There's nothing shy about Ana.
+
+Tiene una casa en la calle Sierpe en Sevilla.
+He has a house on Calle Sierpe in Seville.
+
+No os pongáis tristes.
+Não fiquem tristes - vós
+
 Recuerdo que el año pasado visitamos el desierto de Atacama.
 I remember that last year we visited the Atacama desert. 
 

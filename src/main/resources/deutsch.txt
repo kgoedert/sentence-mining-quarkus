@@ -5698,6 +5698,9 @@
 # Er kann uns erst in zwei Wochen besuchen.
 # He can only visit us in two weeks.
 # 
+Er muss seiner Frau finanziell unter die Arme greifen.
+He has to help his wife financially.
+
 Wir können morgen mit euch nach Heidelberg fahren.
 We can go to Heidelberg with you guys tomorrow.
 

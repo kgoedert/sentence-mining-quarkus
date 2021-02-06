@@ -8097,307 +8097,307 @@
 # 
 # Voilà vos fiches. Voilà des fiches.
 # Here are your cards. Here are some cards.
+# # 
+# Je vais à Nice pendant les vacances d'été.
+# I'm going to Nice for the summer vacations.
 # 
-Je vais à Nice pendant les vacances d'été.
-I'm going to Nice for the summer vacations.
-
-Aujourd'hui nous allons à la plage.
-Today, we are going to the beach.
-
-Ils vont au restaurant tous les jours pendant leurs vacances.
-They go to the restaurant every day during their vacations.
-
-Je voyage chaque été.
-I travel every summer.
-
-Aimez-vous voyager?
-Do you like traveling?
-
-Cette année, elle voyage à travers l'Asie.
-This year, she is travelling across Asia.
-
-Ma mère bronze très vite à la plage.
-My mom tans very fast at the beach.
-
-Est-ce que je suis assez bronzé?
-Am I tanned enough?
-
-Mes amis bronzent plus vite que moi.
-My friends tan faster than I do.
-
-Je me repose durant mes vacances.
-I rest during my vacations.
-
-Mon petit frère se repose dans la chambre d'hôtel.
-My little brother is resting in the hotel room.
-
-Repose-toi avant d'aller à la plage.
-Get some rest before going to the beach.
-
-Mes cousins nagent mieux que l'année dernière.
-My cousins swim better than last year.
-
-En vacances, ma sœur nage toute la journée.
-When she's on vacations, my sister swims all day.
-
-Si vous nagez dans l'océan, vous aller avoir froid.
-If you swim in the ocean, you will be cold.
-
-Ils visitent le musée d'Arts.
-They visit the arts museum.
-
-Aujourd'hui je visite la Maison Blanche.
-Today, I am visiting the White House.
-
-Nous visitons New York ensemble.
-We are visiting New York together.
-
-Nous logeons dans un hôtel cette année.
-We are staying in a hotel this year.
-
-Mon ami loge dans un camping cet été.
-My friend is staying at a campsite this year.
-
-Loges-tu avec les habitants de la ville?
-Are you staying with local residents?
-
-Je découvre les spécialités culinaires du Maroc au fil de mon voyage.
-I am discovering Morocco's culinary specialities along my trip.
-
-Ils découvrent la culture Maya à travers les monuments.
-They are discovering the Mayan culture through the monuments.
-
-Mon petit frère découvre les différents poissons de l'océan lorsqu'il nage.
-My little brother is discovering the ocean's fish while he swims.
-
-Ma mère achète une robe japonaise traditionelle.
-My mom is buying a traditional japanese dress.
-
-Mes amis achètent des bouées pour se détendre dans la piscine.
-My friends are buying floats to relax in the pool.
-
-J'achète une nouvelle valise parce que mon ancienne est cassée.
-I am buying a new suitcase because my old one is broken.
-
-Je m'amuse avec mes amis dans la piscine.
-I am having fun with my friends in the pool.
-
-Ils s'amusent toute la journée à la plage et toute la nuit au camping.
-They are having fun all day at the beach and all night at the campsite.
-
-Je veux te raconter toute l'histoire.
-I want to tell you all the story.
-
-Je veux savoir toute la vérité.
-I want to know the whole truth.
-
-Je ne te crois pas! Il a mangé tout le gâteau?
-I don't believe you! He ate the whole cake?
-
-J'ai regardé tout le film avec ma sœur.
-I watched the whole movie with my sister.
-
-Tous les enfants jouent dans la cour.
-All the children are playing in the schoolyard.
-
-Tous les gens sont venus à son anniversaire.
-All the people came to his/her birthday.
-
-Toutes les fêtes qu'elle fait son géniales.
-All the parties she has are amazing.
-
-Toutes les fêtes qu'elle fait sont supers.
-All the parties she has are amazing.
-
-Toutes ses fêtes sont géniales.
-All her parties are amazing.
-
-Merci à tous!
-Thanks to all of you!
-
-Tout le monde est là.
-Everyone is there.
-
-Tous les gens sont contents.
-All the people are happy.
-
-Nous écoutons mais nous ne sommes pas d'accord. Nous aussi.
-We are listening but we do not agree. Us too.
-
-Voilà votre livre. Voilà un livre.
-Here's your book. Here's a book.
-
-Voilà votre classe. Voilà une classe.
-This is your class. This is a class.
-
-Voilà votre restaurant. Voilà un restaurant.
-There's your restaurant. There's a restaurant.
-
-Elle a dix ans.
-She's ten years old.
-
-Elle a six ans.
-She's six years old.
-
-Elle a trois ans.
-She's three years old.
-
-Elle a deux ans.
-She's two years old.
-
-Elle a treize ans.
-She is thirteen years old.
-
-Elle a quatorze ans.
-She is fourteen years old.
-
-Elle a seize ans.
-She is sixteen years old.
-
-Elle a quinze ans.
-She is fifteen years old.
-
-Il y a dix livres.
-There are ten books.
-
-Il y a six livres.
-There are six books.
-
-Il y a trois livres.
-There are three books.
-
-Il y a deux livres.
-There are two books.
-
-Il y a dix livres.
-There are ten books.
-
-ll y a six livres.
-There are six books.
-
-Il y a trois livres.
-There are three books.
-
-Il y a deux livres.
-There are two books.
-
-Il a onze ans.
-He's eleven years old.
-
-Il a onze fiches.
-He has eleven cards.
-
-Il a douze ans.
-He is twelve years old.
-
-Il a douze fiches.
-He has twelve cards.
-
-Il a treize ans.
-He is thirteen years old.
-
-Il a treize fiches.
-He has thirteen cards.
-
-Il a quatorze ans.
-He is fourteen years old.
-
-Il a quatorze fiches.
-He has fourteen cards.
-
-Il a quinze ans.
-He is fifteen years old.
-
-Il a quinze fiches.
-He has fifteen cards.
-
-Il a seize ans.
-He is sixteen years old.
-
-Il a seize fiches.
-He has sixteen cards.
-
-Il a quatre ans.
-He's four years old.
-
-Il a cinq ans.
-He's five years old.
-
-Il a sept ans.
-He's seven years old.
-
-Il a huit ans.
-He's eight years old.
-
-Il a neuf ans.
-He's nine years old.
-
-Il a dix-sept ans.
-He is seventeen years old.
-
-Il a dix-huit ans.
-He is eighteen years old.
-
-Il a dix-neuf ans.
-He is nineteen years old.
-
-Ils ont cinq livres.
-They have five pounds.
-
-Ils ont trois filles.
-They have three daughters.
-
-Ils ont dix livres.
-They have ten pounds.
-
-Ils ont cinq classes.
-They have five classes.
-
-Ils ont huit livres.
-They have eight pounds.
-
-Ils ont un livre.
-They have a book.
-
-Ils ont sept francs.
-They have seven francs.
-
-Ils ont deux livres.
-They have two books.
-
-Ils ont vingt euros.
-They have twenty euros.
-
-Ils ont six livres.
-They have six pounds.
-
-Il a neuf ans.
-He's nine years old.
-
-Il a neuf euros.
-He has nine euros.
-
-Il a neuf livres.
-He has nine books.
-
-Il a sept ans.
-He's seven years old.
-
-Il a sept euros.
-He has seven euros.
-
-Il a un an.
-He's a year old.
-
-Il a un euro.
-He has one euro.
-
-Il a dix-sept ans.
-He is seventeen years old.
-
-Il a dix-sept euros.
-He has seventeen euros.
-
+# Aujourd'hui nous allons à la plage.
+# Today, we are going to the beach.
+# 
+# Ils vont au restaurant tous les jours pendant leurs vacances.
+# They go to the restaurant every day during their vacations.
+# 
+# Je voyage chaque été.
+# I travel every summer.
+# 
+# Aimez-vous voyager?
+# Do you like traveling?
+# 
+# Cette année, elle voyage à travers l'Asie.
+# This year, she is travelling across Asia.
+# 
+# Ma mère bronze très vite à la plage.
+# My mom tans very fast at the beach.
+# 
+# Est-ce que je suis assez bronzé?
+# Am I tanned enough?
+# 
+# Mes amis bronzent plus vite que moi.
+# My friends tan faster than I do.
+# 
+# Je me repose durant mes vacances.
+# I rest during my vacations.
+# 
+# Mon petit frère se repose dans la chambre d'hôtel.
+# My little brother is resting in the hotel room.
+# 
+# Repose-toi avant d'aller à la plage.
+# Get some rest before going to the beach.
+# 
+# Mes cousins nagent mieux que l'année dernière.
+# My cousins swim better than last year.
+# 
+# En vacances, ma sœur nage toute la journée.
+# When she's on vacations, my sister swims all day.
+# 
+# Si vous nagez dans l'océan, vous aller avoir froid.
+# If you swim in the ocean, you will be cold.
+# 
+# Ils visitent le musée d'Arts.
+# They visit the arts museum.
+# 
+# Aujourd'hui je visite la Maison Blanche.
+# Today, I am visiting the White House.
+# 
+# Nous visitons New York ensemble.
+# We are visiting New York together.
+# 
+# Nous logeons dans un hôtel cette année.
+# We are staying in a hotel this year.
+# 
+# Mon ami loge dans un camping cet été.
+# My friend is staying at a campsite this year.
+# 
+# Loges-tu avec les habitants de la ville?
+# Are you staying with local residents?
+# 
+# Je découvre les spécialités culinaires du Maroc au fil de mon voyage.
+# I am discovering Morocco's culinary specialities along my trip.
+# 
+# Ils découvrent la culture Maya à travers les monuments.
+# They are discovering the Mayan culture through the monuments.
+# 
+# Mon petit frère découvre les différents poissons de l'océan lorsqu'il nage.
+# My little brother is discovering the ocean's fish while he swims.
+# 
+# Ma mère achète une robe japonaise traditionelle.
+# My mom is buying a traditional japanese dress.
+# 
+# Mes amis achètent des bouées pour se détendre dans la piscine.
+# My friends are buying floats to relax in the pool.
+# 
+# J'achète une nouvelle valise parce que mon ancienne est cassée.
+# I am buying a new suitcase because my old one is broken.
+# 
+# Je m'amuse avec mes amis dans la piscine.
+# I am having fun with my friends in the pool.
+# 
+# Ils s'amusent toute la journée à la plage et toute la nuit au camping.
+# They are having fun all day at the beach and all night at the campsite.
+# 
+# Je veux te raconter toute l'histoire.
+# I want to tell you all the story.
+# 
+# Je veux savoir toute la vérité.
+# I want to know the whole truth.
+# 
+# Je ne te crois pas! Il a mangé tout le gâteau?
+# I don't believe you! He ate the whole cake?
+# 
+# J'ai regardé tout le film avec ma sœur.
+# I watched the whole movie with my sister.
+# 
+# Tous les enfants jouent dans la cour.
+# All the children are playing in the schoolyard.
+# 
+# Tous les gens sont venus à son anniversaire.
+# All the people came to his/her birthday.
+# 
+# Toutes les fêtes qu'elle fait son géniales.
+# All the parties she has are amazing.
+# 
+# Toutes les fêtes qu'elle fait sont supers.
+# All the parties she has are amazing.
+# 
+# Toutes ses fêtes sont géniales.
+# All her parties are amazing.
+# 
+# Merci à tous!
+# Thanks to all of you!
+# 
+# Tout le monde est là.
+# Everyone is there.
+# 
+# Tous les gens sont contents.
+# All the people are happy.
+# 
+# Nous écoutons mais nous ne sommes pas d'accord. Nous aussi.
+# We are listening but we do not agree. Us too.
+# 
+# Voilà votre livre. Voilà un livre.
+# Here's your book. Here's a book.
+# 
+# Voilà votre classe. Voilà une classe.
+# This is your class. This is a class.
+# 
+# Voilà votre restaurant. Voilà un restaurant.
+# There's your restaurant. There's a restaurant.
+# 
+# Elle a dix ans.
+# She's ten years old.
+# 
+# Elle a six ans.
+# She's six years old.
+# 
+# Elle a trois ans.
+# She's three years old.
+# 
+# Elle a deux ans.
+# She's two years old.
+# 
+# Elle a treize ans.
+# She is thirteen years old.
+# 
+# Elle a quatorze ans.
+# She is fourteen years old.
+# 
+# Elle a seize ans.
+# She is sixteen years old.
+# 
+# Elle a quinze ans.
+# She is fifteen years old.
+# 
+# Il y a dix livres.
+# There are ten books.
+# 
+# Il y a six livres.
+# There are six books.
+# 
+# Il y a trois livres.
+# There are three books.
+# 
+# Il y a deux livres.
+# There are two books.
+# 
+# Il y a dix livres.
+# There are ten books.
+# 
+# ll y a six livres.
+# There are six books.
+# 
+# Il y a trois livres.
+# There are three books.
+# 
+# Il y a deux livres.
+# There are two books.
+# 
+# Il a onze ans.
+# He's eleven years old.
+# 
+# Il a onze fiches.
+# He has eleven cards.
+# 
+# Il a douze ans.
+# He is twelve years old.
+# 
+# Il a douze fiches.
+# He has twelve cards.
+# 
+# Il a treize ans.
+# He is thirteen years old.
+# 
+# Il a treize fiches.
+# He has thirteen cards.
+# 
+# Il a quatorze ans.
+# He is fourteen years old.
+# 
+# Il a quatorze fiches.
+# He has fourteen cards.
+# 
+# Il a quinze ans.
+# He is fifteen years old.
+# 
+# Il a quinze fiches.
+# He has fifteen cards.
+# 
+# Il a seize ans.
+# He is sixteen years old.
+# 
+# Il a seize fiches.
+# He has sixteen cards.
+# 
+# Il a quatre ans.
+# He's four years old.
+# 
+# Il a cinq ans.
+# He's five years old.
+# 
+# Il a sept ans.
+# He's seven years old.
+# 
+# Il a huit ans.
+# He's eight years old.
+# 
+# Il a neuf ans.
+# He's nine years old.
+# 
+# Il a dix-sept ans.
+# He is seventeen years old.
+# 
+# Il a dix-huit ans.
+# He is eighteen years old.
+# 
+# Il a dix-neuf ans.
+# He is nineteen years old.
+# 
+# Ils ont cinq livres.
+# They have five pounds.
+# 
+# Ils ont trois filles.
+# They have three daughters.
+# 
+# Ils ont dix livres.
+# They have ten pounds.
+# 
+# Ils ont cinq classes.
+# They have five classes.
+# 
+# Ils ont huit livres.
+# They have eight pounds.
+# 
+# Ils ont un livre.
+# They have a book.
+# 
+# Ils ont sept francs.
+# They have seven francs.
+# 
+# Ils ont deux livres.
+# They have two books.
+# 
+# Ils ont vingt euros.
+# They have twenty euros.
+# 
+# Ils ont six livres.
+# They have six pounds.
+# 
+# Il a neuf ans.
+# He's nine years old.
+# 
+# Il a neuf euros.
+# He has nine euros.
+# 
+# Il a neuf livres.
+# He has nine books.
+# 
+# Il a sept ans.
+# He's seven years old.
+# 
+# Il a sept euros.
+# He has seven euros.
+# 
+# Il a un an.
+# He's a year old.
+# 
+# Il a un euro.
+# He has one euro.
+# 
+# Il a dix-sept ans.
+# He is seventeen years old.
+# 
+# Il a dix-sept euros.
+# He has seventeen euros.
+# 
 Il a huit euros.
 He has eight euros.
 
