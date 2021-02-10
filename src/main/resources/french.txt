@@ -8398,6 +8398,117 @@
 # Il a dix-sept euros.
 # He has seventeen euros.
 # 
+J'était une bonne étudiante.
+Eu era uma boa estudante.
+
+Avant, j'aimais les films d'action. Maintenant, je préfère les comédies romantiques.
+Antes, eu gostava dos filmes de ação. Agora, eu prefiro as comédias romanticas.
+
+Elle étudiait dans sa chambre quand sa mère a appelé.
+Ela estudava em seu quarto quando sua mãe chamou.
+
+Sa mère a appelé pendant qu'elle étudiait.
+Sua mãe chamou enquanto ela estudava.
+
+J'étais une excellente étudiante à l'école.
+Eu era uma excelente estudante na escola.
+
+Quand j'étais jeune, j'aimais aller au parc après l'école.
+Quando eu era jovem, eu adorava ir ao parque depois da escola.
+
+J'allais au cinéma avec mes parents.
+Eu ia ao cinema com meus pais.
+
+Je faisais beaucoup de bêtises.
+Eu fazia muitas besteiras.
+
+Quand j'étais jeune, je ne parlais pas anglais.
+Quando eu era jovem, eu não falava inglês.
+
+Les gens était silencieux. Les gens ne parlaient pas.
+As pessoas estavam silenciosas. As pessoas não falavam.
+
+J'écrivais quand une personne est entrée dans la pièce.
+Eu escrevia quando uma pessoa entrou na sala.
+
+Je parlais avec le voisin quand Marc est tombé de son vélo.
+Eu falava com o vizinho quando Marc caiu da bicicleta.
+
+J'étais en train d'écrire quand il a commencé à pleuvoir.
+Eu estava escrevendo quando começou a chover.
+
+J'étais en train de jouer au football quand ma mère est arrivée.
+Eu estava jogando futebol quando minha mãe chegou.
+
+Je faisais mes exercices.
+Eu fazia meus exercícios.
+
+Tu jouais au football quand Marc s'est cassé la jambe.
+Tu jogavas futebol quando Marc quebrou a perna.
+
+Je cuisinais quand la voisine a sonné à la porte.
+Eu cozinhava quando a vizinha tocou a campainha.
+
+Le voisin est arrivé pendant que je prenais mon bain.
+O vizinho chegou enquanto eu tomava meu banho.
+
+Le facteur est passé pendant que je dormais.
+O carteiro passou enquanto eu dormia.
+
+Le professeur est arrivé pendant que les étudiants bavardaient.
+O professor chegou enquanto os estudantes conversavam.
+
+Si on allait au cinéma samedi? 
+How about going to the cinema on saturday? - on
+
+Et si tu venais avec nous?
+How about you come with us.
+
+Si on voyageait en Grèce cette annéee?
+How about we travel to Greece this year?
+
+Et si vous faisiez un effort?
+And what if you made an effort?
+
+Et si j'essayais de t'aider?
+And what if I tried to help you?
+
+Et s'il nous disait la vérité?
+And what if he told us the truth?
+
+Et si nous partions à Paris ce week-end?
+And what if we went to Paris this weekend?
+
+Et si vous étiez plus patient?
+And what if you were more patient?
+
+Et s'il apprenait le russe?
+And what if he learned russian?
+
+Il faut beaucoup d'eau dans l'été.
+It's important to drink a lot of water in the summer.  -faut
+
+Il faut bien dormir avant un examen important.
+É importante dormir bem antes de uma prova importante.
+
+Il faut des oeufs pour cette recette.
+We need eggs for this recipe. - faut
+
+Il faut arrêter ce projet.
+We need to stop this project - faut
+
+Il faut beaucoup de patience pour être professeur.
+A lot of patience is required to be a teacher. - faut
+
+Il faut parler anglais pour postuler à cette offert d'emploi.
+English is required to apply to this job offer.
+
+Il faut communiquer entre vous, si vous voulez avancer.
+You should communicate between each other, if you want to move forward.
+
+Il faut prendre des risques, si vous voulez que votre affaire fonctionne.
+You must take some risks, if you want your business to take off.
+
 Il a huit euros.
 He has eight euros.
 
