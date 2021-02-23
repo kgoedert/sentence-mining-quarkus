@@ -5690,305 +5690,314 @@
 # I can't see anything.
 # 
 # Ich kann nichts hören.
-# I can't hear anything.
+# # I can't hear anything.
+# # 
+# # Sie kann uns am Wochenende nichts besuchen.
+# # She can't visit us on the weekend.
+# # 
+# # Er kann uns erst in zwei Wochen besuchen.
+# # He can only visit us in two weeks.
+# # 
+# Kannst du segeln?
+# Can you sail?
 # 
-# Sie kann uns am Wochenende nichts besuchen.
-# She can't visit us on the weekend.
+# Musst du ihnen helfen?
+# Do you have to help them?
 # 
-# Er kann uns erst in zwei Wochen besuchen.
-# He can only visit us in two weeks.
+# Sie mag mich nicht.
+# She doesn't like me.
 # 
-Er muss seiner Frau finanziell unter die Arme greifen.
-He has to help his wife financially.
-
-Wir können morgen mit euch nach Heidelberg fahren.
-We can go to Heidelberg with you guys tomorrow.
-
-Ich kann zu dir kommen.
-I can come to your place.
-
-Ich kann mit euch nach Hamburg fahren.
-I can go to Hamburg with you guys.
-
-Hier kann man nicht mit Kreditkarten zahlen.
-You can't pay with credit card here.
-
-Hier kann man nicht parken.
-You can't park here.
-
-Sie dürfen gehen.
-You may go.
-
-Du darfst gehen.
-You may go.
-
-Dürfen wir hier fotografieren?
-Are we allowed to take pictures here?
-
-Darf man hier parken?
-May one park here?
-
-Hier darf man nicht rauchen.
-You are not allowed to smoke here.
-
-Das darfst du nicht!
-You are not allowed to do that!
-
-Sie dürfen hereinkommen.
-You may come in.
-
-Sie dürfen reinkommen.
-You may come in.
-
-In diesem See darf man nicht schwimmen.
-You are not allowed to swim in this lake.
-
-An diesem Spiel dürfen Kinder und Erwachsene teilnehmen.
-Kids and adults are allowed to participate in this game.
-
-Darf ich eine Frage stellen?
-May I ask a question?
-
-In diesem Museum darf man nicht anfassen.
-In this museum, you are not allowed to touch anything.
-
-Dürfen wir noch ein bisschen länger aufbleiben?
-May we stay up a bit longer?
-
-Meine Kinder dürfen nur eine halbe Stunde pro Tag fernsehen.
-My kids are allowed to watch TV for only half an hour every day.
-
-Sie dürfen die Braut jetzt küssen.
-You may now kiss the bride.
-
-Darf ich ein Vorschlag machen?
-May I make a suggestion?
-
-Dürfen wir den Raum betreten?
-Are we allowed to enter the room?
-
-Wenn es brennt, darf man den Aufzug nicht benutzen.
-When there is fire, you are not allowed to use the elevator.
-
-Im Flugzeug darf man nicht rauchen.
-You are not allowed to smoke on an airplane.
-
-Du hast um 13 Uhr einen Termin beim Arzt. Das darfst du nicht vergessen!
-You have a doctor appointment at 1pm. You shouldn't forget that!
-
-Ich fahre morgen nach Berlin.
-I am driving to Berlin tomorrow.
-
-Ich habe morgen frei.
-Tomorrow is my day off.
-
-Morgen habe ich frei.
-Tomorrow is my day off.
-
-Jeden Tag jogge ich 10km.
-Every day, I jog 10km.
-
-Ich jogge jeden Tag 15km.
-Every day, I jog 15km.
-
-Auf dem Balkon steht ein Tisch.
-A table stands on the balcony.
-
-In den Sommerferien steht man oft im Stau.
-Im the summer vacations, one is often stuck in a traffic jam.
-
-Man steht in den Sommerferien oft im Stau.
-In the summer vacations, one is often stuck in a traffic jam.
-
-Morgen fliegt meine Schwester nach Thailand.
-Tomorrow, my sister flies to Thailand.
-
-Fährst du nach Berlin?
-Are you driving to Berlin?
-
-Ist er zu Hause?
-Is he at home?
-
-Sind die Kinder zu Hause?
-Are the kids at home?
-
-Fliegst du morgen nach Rom?
-Are you flying to Rome tomorrow?
-
-Backst du einen Kuchen?
-Are you baking a cake?
-
-Wo sind Sie?
-Where are you?
-
-Wohin fährst du?
-Where are you driving to?
-
-Woher kommst du?
-Where do you come from?
-
-Warum bist du zu Hause?
-Why are you at home?
-
-Ich koche.
-I am cooking.
-
-Ich arbeite morgen.
-I am working tomorrow.
-
-Ich arbeite morgen den ganzen Tag.
-I am working tomorrow all day long.
-
-Ich spreche morgen mit dem Chef.
-I am talking tomorrow with the boss.
-
-Ich bin am Samstag mit meinen Kollegen auf einer Messe.
-On Saturday I am going to be at a trade fair with my collegues.
-
-Ich fliege morgen nach Berlin.
-I am flying tomorrow to Berlin.
-
-Ich komme morgen an.
-I am arriving tomorrow.
-
-Arbeitest du am Mittwoch?
-Are you working on Wednesday?
-
-Fährst du am Wochenende mit Jacqueline nach Zürich?
-Are you driving this weekend with Jacqueline to Zürich?
-
-Am Freitag fahren wir ans Meer.
-On friday we are driving to the sea.
-
-Nach Sidney fliegen wir in November.
-To Sidney, we are flying in november.
-
-Ich schicke dem Chef eine e-mail.
-I am sending the boss an email.
-
-Sie sagt ihrem Mann die Wahrheit.
-She tells her husband the truth.
-
-Er gibt der Frau einen Kuss.
-He gives the woman a kiss.
-
-Mario nimmt seinem Bruder das Spielzeugauto weg.
-Mario takes the car away from his brother.
-
-Der Vater hat dem Kind ein Buch gegeben.
-The father gave the child a book.
-
-Wir haben den Nachbarn ein Restaurant empfohlen.
-We recommended a restaurant to the neighbors.
-
-Ich werde meiner Mutter einen Gutschein kaufen.
-I'll buy my mother a gift certificate.
-
-Sie will dir ihr neues Auto zeigen.
-She wants to show you her new car.
-
-Ich kann euch die Bücher vorbeibringen.
-I kann drop the books off at your place.
-
-Schickst du dem Chef die E-Mail?
-Are you sending the e-mail to the boss? 
-
-Bringen Sie mir die Unterlagen vorbei?
-Are you dropping the documents off at my place?
-
-Wirst du den Praktikanten den Systeme erklären?       
-Will you explain the system to the intern?
-
-Kann sie mir den Vertrag schicken?
-Can she send me the contract?
-
-Wann geben Sie mir das Buch zurück?
-When are you giving the book back to me?
-
-Wer hat dem Kunden den Vertrag geschickt?
-Who sent the contract to the client?
-
-Ich shicke dem Chef eine E-mail. Ich schicke ihm eine E-mail. Ich schicke sie dem Chef. Ich shicke sie ihm.
-I am sending an email to the boss. I am sending him an email. I am sending it to the boss. I am sending it to him.
-
-Er gibt seinen Kindern die Bücher. Er gibt ihnen die Bücher. Er gibt sie seinen Kindern. Er gibt sie ihnen.
-He gives the books to his kids. He gives the books to them. He gives them to his kids. He gives them to them.
-
-Er zeigt der Frau das Auto. Er zeigt ihr das Auto. Er zeigt es der Frau. Er zeigt es ihr.
-He shows the car to the woman. He shows the car to her. He shows it to the woman. He shows it to her.
-
-Könntest du mir einen Gefallen tun?
-Could you do me a favor?
-
-Könnten Sie mir bitte einen Gefallen tun?
-Could you please do me a favor?
-
-Kannst du mir ein gutes Restaurant empfehlen?
-Could you recommend a good restaurant to me?
-
-Könntest du mir etwas Geld leihen?                     
-Could you lend me some money?
-
-Soll ich dir meine Urlaubsfotos zeigen?
-Should I show you my vacation photos?
-
-Kannst du mir ein Bier bringen?
-Can you get me a beer?
-
-Kannst du mir win Glas Wein bringen?
-Can you get a glass of wine?
-
-Kannst du mir einen Kaffee bringen?
-Can you bring me a coffee?
-
-Warum hast du mir das nicht gesagt?
-Why didn't you tell me that?
-
-Ich wünsche die alles Gut zum Geburtstag.
-I wish you all the best for your birthday.
-
-Er hat mir nicht die Wahrheit gesagt.              
-He didn't tell me the truth.
-
-Er hat dem Rettungssanitäter die Wunde gezeigt.
-He showed the wound to the paramedic.
-
-Er hat seinen Kindern eine spannende Geschichte erzählt.
-He told his kids a cativating story.
-
-Matthias darf nicht mit Steinen werfen. Seine Mutter hat es ihm verboten.
-Matthias is not allowed to throw rocks. His mother forbid it.
-
-Warum hast du den Kindern den Ball abgenommen?
-Why did you take the ball away from the children?
-
-Warum hast du ihn den Ball abgenommen?
-Why did you take the ball away from them?
-
-Er hat seine Frau Blumen geschenkt.
-He gave his wife the flowers.
-
-Soll ich dir meinen Tennischläger leihen?
-Should I lend you my tennis racket?
-
-Sie hat mir den Unterschied erklärt.
-She explained the difference to me.
-
-Sie hat ihrer Tochter neue Schuhe gekauft.
-She bought her daughter new shoes.
-
-Ich will zum Spielplatz gehen. Du hast es mir versprochen!
-I want to go to the playground. You promised it to me!
-
-Das ist echt krass!
-That is really incredible!
-
-Er hat ein krasses Auto.
-He has an amazing car.
-
-Ich reiẞe das Pflaster ab.
-I am ripping off the band-aid.
-
+# Er muss seiner Frau finanziell unter die Arme greifen.
+# He has to help his wife financially.
+# 
+# Wir können morgen mit euch nach Heidelberg fahren.
+# We can go to Heidelberg with you guys tomorrow.
+# 
+# Ich kann zu dir kommen.
+# I can come to your place.
+# 
+# Ich kann mit euch nach Hamburg fahren.
+# I can go to Hamburg with you guys.
+# 
+# Hier kann man nicht mit Kreditkarten zahlen.
+# You can't pay with credit card here.
+# 
+# Hier kann man nicht parken.
+# You can't park here.
+# 
+# Sie dürfen gehen.
+# You may go.
+# 
+# Du darfst gehen.
+# You may go.
+# 
+# Dürfen wir hier fotografieren?
+# Are we allowed to take pictures here?
+# 
+# Darf man hier parken?
+# May one park here?
+# 
+# Hier darf man nicht rauchen.
+# You are not allowed to smoke here.
+# 
+# Das darfst du nicht!
+# You are not allowed to do that!
+# 
+# Sie dürfen hereinkommen.
+# You may come in.
+# 
+# Sie dürfen reinkommen.
+# You may come in.
+# 
+# In diesem See darf man nicht schwimmen.
+# You are not allowed to swim in this lake.
+# 
+# An diesem Spiel dürfen Kinder und Erwachsene teilnehmen.
+# Kids and adults are allowed to participate in this game.
+# 
+# Darf ich eine Frage stellen?
+# May I ask a question?
+# 
+# In diesem Museum darf man nicht anfassen.
+# In this museum, you are not allowed to touch anything.
+# 
+# Dürfen wir noch ein bisschen länger aufbleiben?
+# May we stay up a bit longer?
+# 
+# Meine Kinder dürfen nur eine halbe Stunde pro Tag fernsehen.
+# My kids are allowed to watch TV for only half an hour every day.
+# 
+# Sie dürfen die Braut jetzt küssen.
+# You may now kiss the bride.
+# 
+# Darf ich ein Vorschlag machen?
+# May I make a suggestion?
+# 
+# Dürfen wir den Raum betreten?
+# Are we allowed to enter the room?
+# 
+# Wenn es brennt, darf man den Aufzug nicht benutzen.
+# When there is fire, you are not allowed to use the elevator.
+# 
+# Im Flugzeug darf man nicht rauchen.
+# You are not allowed to smoke on an airplane.
+# 
+# Du hast um 13 Uhr einen Termin beim Arzt. Das darfst du nicht vergessen!
+# You have a doctor appointment at 1pm. You shouldn't forget that!
+# 
+# Ich fahre morgen nach Berlin.
+# I am driving to Berlin tomorrow.
+# 
+# Ich habe morgen frei.
+# Tomorrow is my day off.
+# 
+# Morgen habe ich frei.
+# Tomorrow is my day off.
+# 
+# Jeden Tag jogge ich 10km.
+# Every day, I jog 10km.
+# 
+# Ich jogge jeden Tag 15km.
+# Every day, I jog 15km.
+# 
+# Auf dem Balkon steht ein Tisch.
+# A table stands on the balcony.
+# 
+# In den Sommerferien steht man oft im Stau.
+# Im the summer vacations, one is often stuck in a traffic jam.
+# 
+# Man steht in den Sommerferien oft im Stau.
+# In the summer vacations, one is often stuck in a traffic jam.
+# 
+# Morgen fliegt meine Schwester nach Thailand.
+# Tomorrow, my sister flies to Thailand.
+# 
+# Fährst du nach Berlin?
+# Are you driving to Berlin?
+# 
+# Ist er zu Hause?
+# Is he at home?
+# 
+# Sind die Kinder zu Hause?
+# Are the kids at home?
+# 
+# Fliegst du morgen nach Rom?
+# Are you flying to Rome tomorrow?
+# 
+# Backst du einen Kuchen?
+# Are you baking a cake?
+# 
+# Wo sind Sie?
+# Where are you?
+# 
+# Wohin fährst du?
+# Where are you driving to?
+# 
+# Woher kommst du?
+# Where do you come from?
+# 
+# Warum bist du zu Hause?
+# Why are you at home?
+# 
+# Ich koche.
+# I am cooking.
+# 
+# Ich arbeite morgen.
+# I am working tomorrow.
+# 
+# Ich arbeite morgen den ganzen Tag.
+# I am working tomorrow all day long.
+# 
+# Ich spreche morgen mit dem Chef.
+# I am talking tomorrow with the boss.
+# 
+# Ich bin am Samstag mit meinen Kollegen auf einer Messe.
+# On Saturday I am going to be at a trade fair with my collegues.
+# 
+# Ich fliege morgen nach Berlin.
+# I am flying tomorrow to Berlin.
+# 
+# Ich komme morgen an.
+# I am arriving tomorrow.
+# 
+# Arbeitest du am Mittwoch?
+# Are you working on Wednesday?
+# 
+# Fährst du am Wochenende mit Jacqueline nach Zürich?
+# Are you driving this weekend with Jacqueline to Zürich?
+# 
+# Am Freitag fahren wir ans Meer.
+# On friday we are driving to the sea.
+# 
+# Nach Sidney fliegen wir in November.
+# To Sidney, we are flying in november.
+# 
+# Ich schicke dem Chef eine e-mail.
+# I am sending the boss an email.
+# 
+# Sie sagt ihrem Mann die Wahrheit.
+# She tells her husband the truth.
+# 
+# Er gibt der Frau einen Kuss.
+# He gives the woman a kiss.
+# 
+# Mario nimmt seinem Bruder das Spielzeugauto weg.
+# Mario takes the car away from his brother.
+# 
+# Der Vater hat dem Kind ein Buch gegeben.
+# The father gave the child a book.
+# 
+# Wir haben den Nachbarn ein Restaurant empfohlen.
+# We recommended a restaurant to the neighbors.
+# 
+# Ich werde meiner Mutter einen Gutschein kaufen.
+# I'll buy my mother a gift certificate.
+# 
+# Sie will dir ihr neues Auto zeigen.
+# She wants to show you her new car.
+# 
+# Ich kann euch die Bücher vorbeibringen.
+# I kann drop the books off at your place.
+# 
+# Schickst du dem Chef die E-Mail?
+# Are you sending the e-mail to the boss? 
+# 
+# Bringen Sie mir die Unterlagen vorbei?
+# Are you dropping the documents off at my place?
+# 
+# Wirst du den Praktikanten den Systeme erklären?       
+# Will you explain the system to the intern?
+# 
+# Kann sie mir den Vertrag schicken?
+# Can she send me the contract?
+# 
+# Wann geben Sie mir das Buch zurück?
+# When are you giving the book back to me?
+# 
+# Wer hat dem Kunden den Vertrag geschickt?
+# Who sent the contract to the client?
+# 
+# Ich shicke dem Chef eine E-mail. Ich schicke ihm eine E-mail. Ich schicke sie dem Chef. Ich shicke sie ihm.
+# I am sending an email to the boss. I am sending him an email. I am sending it to the boss. I am sending it to him.
+# 
+# Er gibt seinen Kindern die Bücher. Er gibt ihnen die Bücher. Er gibt sie seinen Kindern. Er gibt sie ihnen.
+# He gives the books to his kids. He gives the books to them. He gives them to his kids. He gives them to them.
+# 
+# Er zeigt der Frau das Auto. Er zeigt ihr das Auto. Er zeigt es der Frau. Er zeigt es ihr.
+# He shows the car to the woman. He shows the car to her. He shows it to the woman. He shows it to her.
+# 
+# Könntest du mir einen Gefallen tun?
+# Could you do me a favor?
+# 
+# Könnten Sie mir bitte einen Gefallen tun?
+# Could you please do me a favor?
+# 
+# Kannst du mir ein gutes Restaurant empfehlen?
+# Could you recommend a good restaurant to me?
+# 
+# Könntest du mir etwas Geld leihen?                     
+# Could you lend me some money?
+# 
+# Soll ich dir meine Urlaubsfotos zeigen?
+# Should I show you my vacation photos?
+# 
+# Kannst du mir ein Bier bringen?
+# Can you get me a beer?
+# 
+# Kannst du mir win Glas Wein bringen?
+# Can you get a glass of wine?
+# 
+# Kannst du mir einen Kaffee bringen?
+# Can you bring me a coffee?
+# 
+# Warum hast du mir das nicht gesagt?
+# Why didn't you tell me that?
+# 
+# Ich wünsche die alles Gut zum Geburtstag.
+# I wish you all the best for your birthday.
+# 
+# Er hat mir nicht die Wahrheit gesagt.              
+# He didn't tell me the truth.
+# 
+# Er hat dem Rettungssanitäter die Wunde gezeigt.
+# He showed the wound to the paramedic.
+# 
+# Er hat seinen Kindern eine spannende Geschichte erzählt.
+# He told his kids a cativating story.
+# 
+# Matthias darf nicht mit Steinen werfen. Seine Mutter hat es ihm verboten.
+# Matthias is not allowed to throw rocks. His mother forbid it.
+# 
+# Warum hast du den Kindern den Ball abgenommen?
+# Why did you take the ball away from the children?
+# 
+# Warum hast du ihn den Ball abgenommen?
+# Why did you take the ball away from them?
+# 
+# Er hat seine Frau Blumen geschenkt.
+# He gave his wife the flowers.
+# 
+# Soll ich dir meinen Tennischläger leihen?
+# Should I lend you my tennis racket?
+# 
+# Sie hat mir den Unterschied erklärt.
+# She explained the difference to me.
+# 
+# Sie hat ihrer Tochter neue Schuhe gekauft.
+# She bought her daughter new shoes.
+# 
+# Ich will zum Spielplatz gehen. Du hast es mir versprochen!
+# I want to go to the playground. You promised it to me!
+# 
+# Das ist echt krass!
+# That is really incredible!
+# 
+# Er hat ein krasses Auto.
+# He has an amazing car.
+# 
+# Ich reiẞe das Pflaster ab.
+# I am ripping off the band-aid.
+# 
 Ihr seid sehr fleiẞig.
 You guys are very hard-working.
 
