@@ -8390,314 +8390,314 @@
 # He's a year old.
 # 
 # Il a un euro.
-# He has one euro.
+# # He has one euro.
+# # 
+# # Il a dix-sept ans.
+# # He is seventeen years old.
+# # 
+# # Il a dix-sept euros.
+# # He has seventeen euros.
+# # 
+# J'était une bonne étudiante.
+# Eu era uma boa estudante.
 # 
-# Il a dix-sept ans.
-# He is seventeen years old.
+# Avant, j'aimais les films d'action. Maintenant, je préfère les comédies romantiques.
+# Antes, eu gostava dos filmes de ação. Agora, eu prefiro as comédias romanticas.
 # 
-# Il a dix-sept euros.
-# He has seventeen euros.
+# Elle étudiait dans sa chambre quand sa mère a appelé.
+# Ela estudava em seu quarto quando sua mãe chamou.
 # 
-J'était une bonne étudiante.
-Eu era uma boa estudante.
-
-Avant, j'aimais les films d'action. Maintenant, je préfère les comédies romantiques.
-Antes, eu gostava dos filmes de ação. Agora, eu prefiro as comédias romanticas.
-
-Elle étudiait dans sa chambre quand sa mère a appelé.
-Ela estudava em seu quarto quando sua mãe chamou.
-
-Sa mère a appelé pendant qu'elle étudiait.
-Sua mãe chamou enquanto ela estudava.
-
-J'étais une excellente étudiante à l'école.
-Eu era uma excelente estudante na escola.
-
-Quand j'étais jeune, j'aimais aller au parc après l'école.
-Quando eu era jovem, eu adorava ir ao parque depois da escola.
-
-J'allais au cinéma avec mes parents.
-Eu ia ao cinema com meus pais.
-
-Je faisais beaucoup de bêtises.
-Eu fazia muitas besteiras.
-
-Quand j'étais jeune, je ne parlais pas anglais.
-Quando eu era jovem, eu não falava inglês.
-
-Les gens était silencieux. Les gens ne parlaient pas.
-As pessoas estavam silenciosas. As pessoas não falavam.
-
-J'écrivais quand une personne est entrée dans la pièce.
-Eu escrevia quando uma pessoa entrou na sala.
-
-Je parlais avec le voisin quand Marc est tombé de son vélo.
-Eu falava com o vizinho quando Marc caiu da bicicleta.
-
-J'étais en train d'écrire quand il a commencé à pleuvoir.
-Eu estava escrevendo quando começou a chover.
-
-J'étais en train de jouer au football quand ma mère est arrivée.
-Eu estava jogando futebol quando minha mãe chegou.
-
-Je faisais mes exercices.
-Eu fazia meus exercícios.
-
-Tu jouais au football quand Marc s'est cassé la jambe.
-Tu jogavas futebol quando Marc quebrou a perna.
-
-Je cuisinais quand la voisine a sonné à la porte.
-Eu cozinhava quando a vizinha tocou a campainha.
-
-Le voisin est arrivé pendant que je prenais mon bain.
-O vizinho chegou enquanto eu tomava meu banho.
-
-Le facteur est passé pendant que je dormais.
-O carteiro passou enquanto eu dormia.
-
-Le professeur est arrivé pendant que les étudiants bavardaient.
-O professor chegou enquanto os estudantes conversavam.
-
-Si on allait au cinéma samedi? 
-How about going to the cinema on saturday? - on
-
-Et si tu venais avec nous?
-How about you come with us.
-
-Si on voyageait en Grèce cette annéee?
-How about we travel to Greece this year?
-
-Et si vous faisiez un effort?
-And what if you made an effort?
-
-Et si j'essayais de t'aider?
-And what if I tried to help you?
-
-Et s'il nous disait la vérité?
-And what if he told us the truth?
-
-Et si nous partions à Paris ce week-end?
-And what if we went to Paris this weekend?
-
-Et si vous étiez plus patient?
-And what if you were more patient?
-
-Et s'il apprenait le russe?
-And what if he learned russian?
-
-Il faut beaucoup d'eau dans l'été.
-It's important to drink a lot of water in the summer.  -faut
-
-Il faut bien dormir avant un examen important.
-É importante dormir bem antes de uma prova importante.
-
-Il faut des oeufs pour cette recette.
-We need eggs for this recipe. - faut
-
-Il faut arrêter ce projet.
-We need to stop this project - faut
-
-Il faut beaucoup de patience pour être professeur.
-A lot of patience is required to be a teacher. - faut
-
-Il faut parler anglais pour postuler à cette offert d'emploi.
-English is required to apply to this job offer.
-
-Il faut communiquer entre vous, si vous voulez avancer.
-You should communicate between each other, if you want to move forward.
-
-Il faut prendre des risques, si vous voulez que votre affaire fonctionne.
-You must take some risks, if you want your business to take off.
-
-Il a huit euros.
-He has eight euros.
-
-Il a neuf ans.
-He's nine years old.
-
-Il a neuf euros.
-He has nine euros.
-
-Il a neuf amis.
-He has nine friends.
-
-Il a neuf livres.
-He has nine books.
-
-Il a neuf étages.
-It has nine floors.
-
-Il a neuf chambres.
-It has nine rooms.
-
-Il a neuf ans.
-He's nine years old.
-
-Il a cinq ans.
-He's five years old.
-
-Il a cinq euros.
-He has five euros.
-
-Il a cinq amis.
-He has five friends.
-
-Il a cinq fiches.
-He has five cards.
-
-Il a cinq sœurs.
-He has five sisters.
-
-Il a cinq étages.
-It has five floors.
-
-Il a cinq livres.
-He has five pounds.
-
-Il a dix ans.
-He's ten years old.
-
-Il a dix euros.
-He has ten euros.
-
-Il a dix étages.
-It has ten floors.
-
-Il a dix livres.
-He has ten pounds.
-
-Il a dix hôtels.
-He has ten hotels.
-
-Il a dix euros.
-He has ten euros.
-
-Il a dix enfants.
-He has ten children.
-
-Est-ce qu'il est dix heures? Non, il est onze heures.
-Is it ten o'clock? No, it's eleven o'clock.
-
-Est-ce que vous avez neuf fiches? Non, j'ai dix fiches.
-Do you have nine cards? No, I have ten cards.
-
-Est-ce que vous avez sept fiches? Non, j'ai huit fiches.
-Do you have seven cards? No, I have eight cards.
-
-Est-ce qu'il est sept heures? Non, il est huit heures.
-Is it seven o'clock? No, it's eight o'clock.
-
-Est-ce qu'il est une heure? Non, il est deux heures.
-Is it one o'clock? No, it's two o'clock.
-
-Est-ce qu'il déjeune à midi? Non, il déjeune à une heure.
-Does he have lunch at noon? No, he has lunch at one o'clock.
-
-Est-ce que vous avez quatre livres? Non, j'ai cinq livres.
-Do you have four books? No, I have five books.
-
-Est-ce qu'il y a six livres? Non, il y a sept livres.
-Are there six books? No, there are seven books.
-
-Est-ce que vous avez sept euros? Non, j'ai huit euros.
-Do you have seven euros? No, I have eight euros.
-
-Est-ce que votre fille a huit enfants? Non, elle a neuf enfants.
-Does your daughter have eight children? No, she has nine children.
-
-Est-ce que c'est la chambre quatre? Non, c'est la chambre cinq.
-Is this room four? No, this is room five.
-
-J'ai la chambre neuf. Et vous? J'ai la chambre dix.
-I have room nine. What about you? I have room ten.
-
-J'ai quatre sœurs. Et vous? J'ai cinq sœurs.
-I have four sisters. What about you? I have five sisters.
-
-J'ai dix-huit ans. Et vous? J'ai dix-neuf ans.
-I'm eighteen years old. What about you? I'm nineteen years old.
-
-J'arrive à six heures. Et vous? J'arrive à sept heures.
-I'll be there at six o'clock. What about you? I arrive at seven o'clock.
-
-J'ai huit heures de travail. Et vous? J'ai neuf heures de travail.
-I have eight hours of work. What about you? I have nine hours of work.
-
-J'arrive à dix heures. Et vous? J'arrive à onze heures.
-I'll be there at ten o'clock. What about you? I arrive at eleven o'clock.
-
-J'ai deux fiches. Et vous? J'ai trois fiches.
-I have two cards. What about you? I have three cards.
-
-J'ai la chambre six. Et vous? J'ai la chambre sept.
-I have room six. What about you? I have room seven.
-
-J'ai six euros. Et vous? J'ai sept euros.
-I have six euros. What about you? I have seven euros.
-
-J'ai cinq euros. Et vous? J'ai six euros.
-I have five euros. What about you? I have six euros.
-
-Il se réveille à sept heures. Et vous? Je me réveille à six heures.
-He wakes up at seven o'clock. What about you? I wake up at six o'clock.
-
-Il a trois frères. Et vous? J'ai deux frères.
-He has three brothers. What about you? I have two brothers.
-
-Il a cinq bagages. Et vous? J'ai quatre bagages.
-He has five pieces of luggage. What about you? I have four bags.
-
-Il a huit fils. Et vous? J'ai sept fils.
-He has eight sons. What about you? I have seven sons.
-
-Il arrive à neuf heures. Et vous? J'arrive à huit heures.
-He arrives at nine o'clock. What about you? I'll be there at eight o'clock.
-
-Il a six classes. Et vous? J'ai cinq classes.
-It has six classes. What about you? I have five classes.
-
-Il a dix-huit euros. Et vous? J'ai dix-sept euros.
-He has eighteen euros. What about you? I have seventeen euros.
-
-Il a la chambre douze. Et vous? J'ai la chambre onze.
-He has room twelve. What about you? I have room eleven.
-
-Il a quinze euros. Et vous? J'ai quatorze euros.
-He has fifteen euros. What about you? I have fourteen euros.
-
-Il a onze heures de travail. Et vous? J'ai dix heures de travail.
-He has eleven hours of work. What about you? I have ten hours of work.
-
-Elle n'est pas à l'hôtel.
-She's not at the hotel.
-
-Nous n'allons pas à l'hôtel.
-We're not going to the hotel.
-
-Il n'est pas à l'hôtel.
-He's not at the hotel.
-
-Il n'arrive pas à l'hôtel.
-He doesn't arrive at the hotel.
-
-Vous n'allez pas à l'hôtel.
-You don't go to a hotel.
-
-Mon frère n'est pas à l'hôtel.
-My brother is not at the hotel.
-
-Vous n'êtes pas a l'hôtel.
-You're not at the hotel.
-
-Nous n'allons pas à l'hôtel.
-We're not going to the hotel.
-
-Les bagages n'arrivent pas à l'hôtel.
-Luggage does not arrive at the hotel.
-
-Elle n'est pas à l'hôtel.
-She's not at the hotel.
-
+# Sa mère a appelé pendant qu'elle étudiait.
+# Sua mãe chamou enquanto ela estudava.
+# 
+# J'étais une excellente étudiante à l'école.
+# Eu era uma excelente estudante na escola.
+# 
+# Quand j'étais jeune, j'aimais aller au parc après l'école.
+# Quando eu era jovem, eu adorava ir ao parque depois da escola.
+# 
+# J'allais au cinéma avec mes parents.
+# Eu ia ao cinema com meus pais.
+# 
+# Je faisais beaucoup de bêtises.
+# Eu fazia muitas besteiras.
+# 
+# Quand j'étais jeune, je ne parlais pas anglais.
+# Quando eu era jovem, eu não falava inglês.
+# 
+# Les gens était silencieux. Les gens ne parlaient pas.
+# As pessoas estavam silenciosas. As pessoas não falavam.
+# 
+# J'écrivais quand une personne est entrée dans la pièce.
+# Eu escrevia quando uma pessoa entrou na sala.
+# 
+# Je parlais avec le voisin quand Marc est tombé de son vélo.
+# Eu falava com o vizinho quando Marc caiu da bicicleta.
+# 
+# J'étais en train d'écrire quand il a commencé à pleuvoir.
+# Eu estava escrevendo quando começou a chover.
+# 
+# J'étais en train de jouer au football quand ma mère est arrivée.
+# Eu estava jogando futebol quando minha mãe chegou.
+# 
+# Je faisais mes exercices.
+# Eu fazia meus exercícios.
+# 
+# Tu jouais au football quand Marc s'est cassé la jambe.
+# Tu jogavas futebol quando Marc quebrou a perna.
+# 
+# Je cuisinais quand la voisine a sonné à la porte.
+# Eu cozinhava quando a vizinha tocou a campainha.
+# 
+# Le voisin est arrivé pendant que je prenais mon bain.
+# O vizinho chegou enquanto eu tomava meu banho.
+# 
+# Le facteur est passé pendant que je dormais.
+# O carteiro passou enquanto eu dormia.
+# 
+# Le professeur est arrivé pendant que les étudiants bavardaient.
+# O professor chegou enquanto os estudantes conversavam.
+# 
+# Si on allait au cinéma samedi? 
+# How about going to the cinema on saturday? - on
+# 
+# Et si tu venais avec nous?
+# How about you come with us.
+# 
+# Si on voyageait en Grèce cette annéee?
+# How about we travel to Greece this year?
+# 
+# Et si vous faisiez un effort?
+# And what if you made an effort?
+# 
+# Et si j'essayais de t'aider?
+# And what if I tried to help you?
+# 
+# Et s'il nous disait la vérité?
+# And what if he told us the truth?
+# 
+# Et si nous partions à Paris ce week-end?
+# And what if we went to Paris this weekend?
+# 
+# Et si vous étiez plus patient?
+# And what if you were more patient?
+# 
+# Et s'il apprenait le russe?
+# And what if he learned russian?
+# 
+# Il faut beaucoup d'eau dans l'été.
+# It's important to drink a lot of water in the summer.  -faut
+# 
+# Il faut bien dormir avant un examen important.
+# É importante dormir bem antes de uma prova importante.
+# 
+# Il faut des oeufs pour cette recette.
+# We need eggs for this recipe. - faut
+# 
+# Il faut arrêter ce projet.
+# We need to stop this project - faut
+# 
+# Il faut beaucoup de patience pour être professeur.
+# A lot of patience is required to be a teacher. - faut
+# 
+# Il faut parler anglais pour postuler à cette offert d'emploi.
+# English is required to apply to this job offer.
+# 
+# Il faut communiquer entre vous, si vous voulez avancer.
+# You should communicate between each other, if you want to move forward.
+# 
+# Il faut prendre des risques, si vous voulez que votre affaire fonctionne.
+# You must take some risks, if you want your business to take off.
+# 
+# Il a huit euros.
+# He has eight euros.
+# 
+# Il a neuf ans.
+# He's nine years old.
+# 
+# Il a neuf euros.
+# He has nine euros.
+# 
+# Il a neuf amis.
+# He has nine friends.
+# 
+# Il a neuf livres.
+# He has nine books.
+# 
+# Il a neuf étages.
+# It has nine floors.
+# 
+# Il a neuf chambres.
+# It has nine rooms.
+# 
+# Il a neuf ans.
+# He's nine years old.
+# 
+# Il a cinq ans.
+# He's five years old.
+# 
+# Il a cinq euros.
+# He has five euros.
+# 
+# Il a cinq amis.
+# He has five friends.
+# 
+# Il a cinq fiches.
+# He has five cards.
+# 
+# Il a cinq sœurs.
+# He has five sisters.
+# 
+# Il a cinq étages.
+# It has five floors.
+# 
+# Il a cinq livres.
+# He has five pounds.
+# 
+# Il a dix ans.
+# He's ten years old.
+# 
+# Il a dix euros.
+# He has ten euros.
+# 
+# Il a dix étages.
+# It has ten floors.
+# 
+# Il a dix livres.
+# He has ten pounds.
+# 
+# Il a dix hôtels.
+# He has ten hotels.
+# 
+# Il a dix euros.
+# He has ten euros.
+# 
+# Il a dix enfants.
+# He has ten children.
+# 
+# Est-ce qu'il est dix heures? Non, il est onze heures.
+# Is it ten o'clock? No, it's eleven o'clock.
+# 
+# Est-ce que vous avez neuf fiches? Non, j'ai dix fiches.
+# Do you have nine cards? No, I have ten cards.
+# 
+# Est-ce que vous avez sept fiches? Non, j'ai huit fiches.
+# Do you have seven cards? No, I have eight cards.
+# 
+# Est-ce qu'il est sept heures? Non, il est huit heures.
+# Is it seven o'clock? No, it's eight o'clock.
+# 
+# Est-ce qu'il est une heure? Non, il est deux heures.
+# Is it one o'clock? No, it's two o'clock.
+# 
+# Est-ce qu'il déjeune à midi? Non, il déjeune à une heure.
+# Does he have lunch at noon? No, he has lunch at one o'clock.
+# 
+# Est-ce que vous avez quatre livres? Non, j'ai cinq livres.
+# Do you have four books? No, I have five books.
+# 
+# Est-ce qu'il y a six livres? Non, il y a sept livres.
+# Are there six books? No, there are seven books.
+# 
+# Est-ce que vous avez sept euros? Non, j'ai huit euros.
+# Do you have seven euros? No, I have eight euros.
+# 
+# Est-ce que votre fille a huit enfants? Non, elle a neuf enfants.
+# Does your daughter have eight children? No, she has nine children.
+# 
+# Est-ce que c'est la chambre quatre? Non, c'est la chambre cinq.
+# Is this room four? No, this is room five.
+# 
+# J'ai la chambre neuf. Et vous? J'ai la chambre dix.
+# I have room nine. What about you? I have room ten.
+# 
+# J'ai quatre sœurs. Et vous? J'ai cinq sœurs.
+# I have four sisters. What about you? I have five sisters.
+# 
+# J'ai dix-huit ans. Et vous? J'ai dix-neuf ans.
+# I'm eighteen years old. What about you? I'm nineteen years old.
+# 
+# J'arrive à six heures. Et vous? J'arrive à sept heures.
+# I'll be there at six o'clock. What about you? I arrive at seven o'clock.
+# 
+# J'ai huit heures de travail. Et vous? J'ai neuf heures de travail.
+# I have eight hours of work. What about you? I have nine hours of work.
+# 
+# J'arrive à dix heures. Et vous? J'arrive à onze heures.
+# I'll be there at ten o'clock. What about you? I arrive at eleven o'clock.
+# 
+# J'ai deux fiches. Et vous? J'ai trois fiches.
+# I have two cards. What about you? I have three cards.
+# 
+# J'ai la chambre six. Et vous? J'ai la chambre sept.
+# I have room six. What about you? I have room seven.
+# 
+# J'ai six euros. Et vous? J'ai sept euros.
+# I have six euros. What about you? I have seven euros.
+# 
+# J'ai cinq euros. Et vous? J'ai six euros.
+# I have five euros. What about you? I have six euros.
+# 
+# Il se réveille à sept heures. Et vous? Je me réveille à six heures.
+# He wakes up at seven o'clock. What about you? I wake up at six o'clock.
+# 
+# Il a trois frères. Et vous? J'ai deux frères.
+# He has three brothers. What about you? I have two brothers.
+# 
+# Il a cinq bagages. Et vous? J'ai quatre bagages.
+# He has five pieces of luggage. What about you? I have four bags.
+# 
+# Il a huit fils. Et vous? J'ai sept fils.
+# He has eight sons. What about you? I have seven sons.
+# 
+# Il arrive à neuf heures. Et vous? J'arrive à huit heures.
+# He arrives at nine o'clock. What about you? I'll be there at eight o'clock.
+# 
+# Il a six classes. Et vous? J'ai cinq classes.
+# It has six classes. What about you? I have five classes.
+# 
+# Il a dix-huit euros. Et vous? J'ai dix-sept euros.
+# He has eighteen euros. What about you? I have seventeen euros.
+# 
+# Il a la chambre douze. Et vous? J'ai la chambre onze.
+# He has room twelve. What about you? I have room eleven.
+# 
+# Il a quinze euros. Et vous? J'ai quatorze euros.
+# He has fifteen euros. What about you? I have fourteen euros.
+# 
+# Il a onze heures de travail. Et vous? J'ai dix heures de travail.
+# He has eleven hours of work. What about you? I have ten hours of work.
+# 
+# Elle n'est pas à l'hôtel.
+# She's not at the hotel.
+# 
+# Nous n'allons pas à l'hôtel.
+# We're not going to the hotel.
+# 
+# Il n'est pas à l'hôtel.
+# He's not at the hotel.
+# 
+# Il n'arrive pas à l'hôtel.
+# He doesn't arrive at the hotel.
+# 
+# Vous n'allez pas à l'hôtel.
+# You don't go to a hotel.
+# 
+# Mon frère n'est pas à l'hôtel.
+# My brother is not at the hotel.
+# 
+# Vous n'êtes pas a l'hôtel.
+# You're not at the hotel.
+# 
+# Nous n'allons pas à l'hôtel.
+# We're not going to the hotel.
+# 
+# Les bagages n'arrivent pas à l'hôtel.
+# Luggage does not arrive at the hotel.
+# 
+# Elle n'est pas à l'hôtel.
+# She's not at the hotel.
+# 
 Je ne vais pas bien.
 I'm not fine. 
 
