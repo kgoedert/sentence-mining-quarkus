@@ -8698,6 +8698,9 @@
 # Elle n'est pas à l'hôtel.
 # She's not at the hotel.
 # 
+J'étais une bonne étudiante.
+Eu era uma boa estudante. 
+
 Je ne leur en veux pas malgré tous les coups bas qu’ils m’ont faits.
 I don’t hold a grudge against them despite all the nasty things they’ve done to me.
 

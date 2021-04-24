@@ -5998,6 +5998,18 @@
 # Ich reiẞe das Pflaster ab.
 # I am ripping off the band-aid.
 # 
+Ich sammle Briefmarken.
+I collect (postage) stamps.
+
+Ich sammele Münzen.
+I collect coins.
+
+Ich muss die Spielzeuge einsammeln.
+I have to gather (up) the toys. (juntar coisas)
+
+Die Gruppe versammelt sich am Freitag.
+The group is gathering on Friday. (juntar pessoas)
+
 Ich beantwortete Ihre Frage.
 I answered your question. pas simples, Sie
 
