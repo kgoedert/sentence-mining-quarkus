@@ -8698,6 +8698,105 @@
 # Elle n'est pas à l'hôtel.
 # She's not at the hotel.
 # 
+Il est bon étudiant.
+He is a good student.	
+
+Il est bien comme étudiant.
+He is a good student.
+
+J'ai passé une bonne soirée.
+I had a nice evening.	
+
+Ça serait bien !
+That would be good!
+
+Il a bon cœur.
+He has a good/kind heart.	
+
+Très bien !
+Very good!
+
+Ce timbre n'est pas bon.
+This stamp is not valid.	
+
+Je suis bien partout.
+I'm at ease anywhere.
+
+Luc est bon pour le service.
+Luc is fit for (military) service.	
+
+Ce n'est pas bien de dire ça.
+It's not nice to say that.
+
+Je le trouve bien.
+I think it's nice.
+
+J'ai bien dormi.
+I slept well.	
+
+Il fait bon ici.
+It's nice/pleasant here.
+
+Il se porte bien.
+He is in good health.	
+
+Il fait bon vivre.
+It's good to be alive.
+
+Je vais bien, merci.
+I am well, thank you.	
+
+Il fait bon étudier.
+It's good to study.
+
+La radio ne marche pas bien.
+The radio isn't working right.	
+
+Ça sent bon !
+That smells good!
+
+Je le vois bien souvent.
+I see him quite often.
+
+J'ai bien dit ça.
+I *did* say that.
+
+un bon à vue
+demand note	
+
+le bien public
+public good
+
+un bon de caisse
+cash voucher	
+
+le bien et le mal
+good and evil
+
+un bon de commande
+order form	
+
+dire du bien de
+to speak well of
+
+un bon de livraison
+delivery slip	
+
+faire du bien à quelqu'un
+to do someone good
+
+un bon de réduction
+coupon	
+
+les biens d'un magasin
+a store's goods
+
+un bon du Trésor
+Treasury bond	
+
+biens immobiliers
+real estate
+
 J'étais une bonne étudiante.
 Eu era uma boa estudante. 
 
