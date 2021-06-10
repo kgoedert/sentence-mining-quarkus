@@ -5998,6 +5998,9 @@
 # Ich reiẞe das Pflaster ab.
 # I am ripping off the band-aid.
 # 
+der Nagel, die Nägel.
+a unha, as unhas
+
 Kannst du ein Glas Wein bringen?
 Podes me trazer uma taça de vinho?
 
