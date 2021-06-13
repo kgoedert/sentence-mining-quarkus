@@ -8689,315 +8689,315 @@
 # Vous n'êtes pas a l'hôtel.
 # You're not at the hotel.
 # 
-# Nous n'allons pas à l'hôtel.
-# We're not going to the hotel.
+# # Nous n'allons pas à l'hôtel.
+# # We're not going to the hotel.
+# # 
+# # Les bagages n'arrivent pas à l'hôtel.
+# # Luggage does not arrive at the hotel.
+# # 
+# # Elle n'est pas à l'hôtel.
+# # She's not at the hotel.
+# # 
+# Il est bon étudiant.
+# He is a good student.	
 # 
-# Les bagages n'arrivent pas à l'hôtel.
-# Luggage does not arrive at the hotel.
+# Il est bien comme étudiant.
+# He is a good student.
 # 
-# Elle n'est pas à l'hôtel.
-# She's not at the hotel.
+# J'ai passé une bonne soirée.
+# I had a nice evening.	
 # 
-Il est bon étudiant.
-He is a good student.	
-
-Il est bien comme étudiant.
-He is a good student.
-
-J'ai passé une bonne soirée.
-I had a nice evening.	
-
-Ça serait bien !
-That would be good!
-
-Il a bon cœur.
-He has a good/kind heart.	
-
-Très bien !
-Very good!
-
-Ce timbre n'est pas bon.
-This stamp is not valid.	
-
-Je suis bien partout.
-I'm at ease anywhere.
-
-Luc est bon pour le service.
-Luc is fit for (military) service.	
-
-Ce n'est pas bien de dire ça.
-It's not nice to say that.
-
-Je le trouve bien.
-I think it's nice.
-
-J'ai bien dormi.
-I slept well.	
-
-Il fait bon ici.
-It's nice/pleasant here.
-
-Il se porte bien.
-He is in good health.	
-
-Il fait bon vivre.
-It's good to be alive.
-
-Je vais bien, merci.
-I am well, thank you.	
-
-Il fait bon étudier.
-It's good to study.
-
-La radio ne marche pas bien.
-The radio isn't working right.	
-
-Ça sent bon !
-That smells good!
-
-Je le vois bien souvent.
-I see him quite often.
-
-J'ai bien dit ça.
-I *did* say that.
-
-un bon à vue
-demand note	
-
-le bien public
-public good
-
-un bon de caisse
-cash voucher	
-
-le bien et le mal
-good and evil
-
-un bon de commande
-order form	
-
-dire du bien de
-to speak well of
-
-un bon de livraison
-delivery slip	
-
-faire du bien à quelqu'un
-to do someone good
-
-un bon de réduction
-coupon	
-
-les biens d'un magasin
-a store's goods
-
-un bon du Trésor
-Treasury bond	
-
-biens immobiliers
-real estate
-
-J'étais une bonne étudiante.
-Eu era uma boa estudante. 
-
-Je ne leur en veux pas malgré tous les coups bas qu’ils m’ont faits.
-I don’t hold a grudge against them despite all the nasty things they’ve done to me.
-
-Je m’en voudrais de ne pas remercier toutes les personnes qui ont travaillé au projet.
-I would be remiss not to mention all the people who worked on the project.
-
-Même la maîtresse avait l’air triste. Nous, on ne lui en veut pas à la maîtresse.
-Even the teacher was sad. We really didn’t have anything against her.
-
-Je n’en peux plus !
-I can’t take it anymore!
-
-Il habite au 75, rue de cerisiers, 75001 Paris.
-He lives at number 75, cerisiers street, Paris. 75001 (zip code) 
-
-Si on voyageait en Grèce cette année?
-How about we travel to Greece this year?
-
-Je ne vais pas bien.
-I'm not fine. 
-
-Je ne comprends pas bien.
-I don't quite understand.
-
-Vous ne parlez pas bien.
-You don't speak well.
-
-Vous ne répétez pas bien.
-You don't rehearse well.
-
-Je ne vois pas bien.
-I can't see well.
-
-Je ne vais pas bien.
-I'm not fine. I'm not fine.
-
-Il ne va pas bien.
-He's not doing well.
-
-Il ne comprend pas bien.
-He doesn't understand well.
-
-Elle ne voit pas bien.
-She can't see well.
-
-Elle ne parle pas bien.
-She doesn't speak well.
-
-Il ne comprend pas bien.
-He doesn't understand well.
-
-Elle ne va pas bien.
-She's not doing well.
-
-Elle ne voit pas bien.
-She can't see well.
-
-Il ne va pas bien.
-He's not doing well.
-
-Il ne voit pas bien.
-He can't see well.
-
-Elle ne comprend pas bien.
-She doesn't understand well.
-
-Il ne voit pas bien.
-He can't see well.
-
-Il ne comprend pas bien.
-He doesn't understand well.
-
-Nous n'allons pas bien.
-We are not well.
-
-Vous n'écoutez pas bien.
-You're not listening well.
-
-Je n'entends pas bien.
-I can't hear well.
-
-Vous n'allez pas bien.
-You are not well.
-
-Elle n'entend pas bien.
-She can't hear well.
-
-Nous n'allons pas bien.
-We are not well.
-
-Il n'entend pas bien.
-He can't hear well.
-
-Nous n'allons pas bien.
-We are not well.
-
-Ce n'est pas mon frère.
-He's not my brother.
-
-Ce n'est pas mon père.
-He's not my father.
-
-Ce n'est pas ma sœur.
-She's not my sister.
-
-Ce n'est pas ma fiche.
-This is not my card.
-
-Ce n'est pas ma chambre.
-This is not my room.
-
-Ce n'est pas mon hôtel.
-This is not my hotel.
-
-Ce n'est pas mon café.
-It's not my coffee.
-
-Ce n'est pas mon enfant.
-He's not my child.
-
-Ce n'est pas ma fille.
-She's not my daughter.
-
-Il n'est pas pressé.
-He's in no hurry.
-
-Il n'est pas anglais.
-He's not English.
-
-Il n'est pas français.
-He's not French.
-
-Il n'est pas bon.
-It is not good.
-
-Il n'est pas libre.
-He's not free.
-
-Il n'est pas joli.
-It's not pretty.
-
-Il n'est pas parfait.
-He's not perfect.
-
-Il n'est pas très bon.
-He's not very good.
-
-Il n'est pas très fort.
-He's not very strong.
-
-Je ne vais pas déjeuner.
-I'm not going to lunch.
-
-Nous n'allons pas déjeuner.
-We're not going to lunch.
-
-Mlle Courtois ne va pas déjeuner.
-Miss Courtois is not going to lunch.
-
-Vous n'allez pas déjeuner.
-You're not going to lunch.
-
-On ne va pas déjeuner.
-We're not going to lunch.
-
-M. Lelong ne va pas déjeuner.
-Mr. Lelong is not going to lunch.
-
-Nous n'allons pas déjeuner.
-We're not going to lunch.
-
-Je ne vais pas déjeuner.
-I'm not going to lunch.
-
-Elle ne va pas déjeuner.
-She's not going to lunch.
-
-Vous ne déjeunez pas.
-You don't have lunch.
-
-Vous n'écoutez pas.
-You're not listening.
-
-Vous ne parlez pas.
-You don't talk.
-
-Vous ne changez pas.
-You don't change.
-
-Vous ne traduisez pas.
-You don't translate.
-
-Vous ne répondez pas.
-You don't answer.
-
-Vous n'ouvrez pas.
-You don't open the door.
-
+# Ça serait bien !
+# That would be good!
+# 
+# Il a bon cœur.
+# He has a good/kind heart.	
+# 
+# Très bien !
+# Very good!
+# 
+# Ce timbre n'est pas bon.
+# This stamp is not valid.	
+# 
+# Je suis bien partout.
+# I'm at ease anywhere.
+# 
+# Luc est bon pour le service.
+# Luc is fit for (military) service.	
+# 
+# Ce n'est pas bien de dire ça.
+# It's not nice to say that.
+# 
+# Je le trouve bien.
+# I think it's nice.
+# 
+# J'ai bien dormi.
+# I slept well.	
+# 
+# Il fait bon ici.
+# It's nice/pleasant here.
+# 
+# Il se porte bien.
+# He is in good health.	
+# 
+# Il fait bon vivre.
+# It's good to be alive.
+# 
+# Je vais bien, merci.
+# I am well, thank you.	
+# 
+# Il fait bon étudier.
+# It's good to study.
+# 
+# La radio ne marche pas bien.
+# The radio isn't working right.	
+# 
+# Ça sent bon !
+# That smells good!
+# 
+# Je le vois bien souvent.
+# I see him quite often.
+# 
+# J'ai bien dit ça.
+# I *did* say that.
+# 
+# un bon à vue
+# demand note	
+# 
+# le bien public
+# public good
+# 
+# un bon de caisse
+# cash voucher	
+# 
+# le bien et le mal
+# good and evil
+# 
+# un bon de commande
+# order form	
+# 
+# dire du bien de
+# to speak well of
+# 
+# un bon de livraison
+# delivery slip	
+# 
+# faire du bien à quelqu'un
+# to do someone good
+# 
+# un bon de réduction
+# coupon	
+# 
+# les biens d'un magasin
+# a store's goods
+# 
+# un bon du Trésor
+# Treasury bond	
+# 
+# biens immobiliers
+# real estate
+# 
+# J'étais une bonne étudiante.
+# Eu era uma boa estudante. 
+# 
+# Je ne leur en veux pas malgré tous les coups bas qu’ils m’ont faits.
+# I don’t hold a grudge against them despite all the nasty things they’ve done to me.
+# 
+# Je m’en voudrais de ne pas remercier toutes les personnes qui ont travaillé au projet.
+# I would be remiss not to mention all the people who worked on the project.
+# 
+# Même la maîtresse avait l’air triste. Nous, on ne lui en veut pas à la maîtresse.
+# Even the teacher was sad. We really didn’t have anything against her.
+# 
+# Je n’en peux plus !
+# I can’t take it anymore!
+# 
+# Il habite au 75, rue de cerisiers, 75001 Paris.
+# He lives at number 75, cerisiers street, Paris. 75001 (zip code) 
+# 
+# Si on voyageait en Grèce cette année?
+# How about we travel to Greece this year?
+# 
+# Je ne vais pas bien.
+# I'm not fine. 
+# 
+# Je ne comprends pas bien.
+# I don't quite understand.
+# 
+# Vous ne parlez pas bien.
+# You don't speak well.
+# 
+# Vous ne répétez pas bien.
+# You don't rehearse well.
+# 
+# Je ne vois pas bien.
+# I can't see well.
+# 
+# Je ne vais pas bien.
+# I'm not fine. I'm not fine.
+# 
+# Il ne va pas bien.
+# He's not doing well.
+# 
+# Il ne comprend pas bien.
+# He doesn't understand well.
+# 
+# Elle ne voit pas bien.
+# She can't see well.
+# 
+# Elle ne parle pas bien.
+# She doesn't speak well.
+# 
+# Il ne comprend pas bien.
+# He doesn't understand well.
+# 
+# Elle ne va pas bien.
+# She's not doing well.
+# 
+# Elle ne voit pas bien.
+# She can't see well.
+# 
+# Il ne va pas bien.
+# He's not doing well.
+# 
+# Il ne voit pas bien.
+# He can't see well.
+# 
+# Elle ne comprend pas bien.
+# She doesn't understand well.
+# 
+# Il ne voit pas bien.
+# He can't see well.
+# 
+# Il ne comprend pas bien.
+# He doesn't understand well.
+# 
+# Nous n'allons pas bien.
+# We are not well.
+# 
+# Vous n'écoutez pas bien.
+# You're not listening well.
+# 
+# Je n'entends pas bien.
+# I can't hear well.
+# 
+# Vous n'allez pas bien.
+# You are not well.
+# 
+# Elle n'entend pas bien.
+# She can't hear well.
+# 
+# Nous n'allons pas bien.
+# We are not well.
+# 
+# Il n'entend pas bien.
+# He can't hear well.
+# 
+# Nous n'allons pas bien.
+# We are not well.
+# 
+# Ce n'est pas mon frère.
+# He's not my brother.
+# 
+# Ce n'est pas mon père.
+# He's not my father.
+# 
+# Ce n'est pas ma sœur.
+# She's not my sister.
+# 
+# Ce n'est pas ma fiche.
+# This is not my card.
+# 
+# Ce n'est pas ma chambre.
+# This is not my room.
+# 
+# Ce n'est pas mon hôtel.
+# This is not my hotel.
+# 
+# Ce n'est pas mon café.
+# It's not my coffee.
+# 
+# Ce n'est pas mon enfant.
+# He's not my child.
+# 
+# Ce n'est pas ma fille.
+# She's not my daughter.
+# 
+# Il n'est pas pressé.
+# He's in no hurry.
+# 
+# Il n'est pas anglais.
+# He's not English.
+# 
+# Il n'est pas français.
+# He's not French.
+# 
+# Il n'est pas bon.
+# It is not good.
+# 
+# Il n'est pas libre.
+# He's not free.
+# 
+# Il n'est pas joli.
+# It's not pretty.
+# 
+# Il n'est pas parfait.
+# He's not perfect.
+# 
+# Il n'est pas très bon.
+# He's not very good.
+# 
+# Il n'est pas très fort.
+# He's not very strong.
+# 
+# Je ne vais pas déjeuner.
+# I'm not going to lunch.
+# 
+# Nous n'allons pas déjeuner.
+# We're not going to lunch.
+# 
+# Mlle Courtois ne va pas déjeuner.
+# Miss Courtois is not going to lunch.
+# 
+# Vous n'allez pas déjeuner.
+# You're not going to lunch.
+# 
+# On ne va pas déjeuner.
+# We're not going to lunch.
+# 
+# M. Lelong ne va pas déjeuner.
+# Mr. Lelong is not going to lunch.
+# 
+# Nous n'allons pas déjeuner.
+# We're not going to lunch.
+# 
+# Je ne vais pas déjeuner.
+# I'm not going to lunch.
+# 
+# Elle ne va pas déjeuner.
+# She's not going to lunch.
+# 
+# Vous ne déjeunez pas.
+# You don't have lunch.
+# 
+# Vous n'écoutez pas.
+# You're not listening.
+# 
+# Vous ne parlez pas.
+# You don't talk.
+# 
+# Vous ne changez pas.
+# You don't change.
+# 
+# Vous ne traduisez pas.
+# You don't translate.
+# 
+# Vous ne répondez pas.
+# You don't answer.
+# 
+# Vous n'ouvrez pas.
+# You don't open the door.
+# 
 Vous ne déjeunez pas.
 You don't have lunch.
 
