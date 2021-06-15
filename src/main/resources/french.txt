@@ -8998,6 +8998,126 @@
 # Vous n'ouvrez pas.
 # You don't open the door.
 # 
+Si tu touches le feu, tu brûles.
+If you touch the fire, you will burn yourself.
+
+Si il pleut, tu es mouillé.
+If it rains, you get wet.
+
+Si tu as soif, tu bois.
+If you are thirsty, you drink.
+
+Si tu es fatigué, tu dors.
+If you are tired you sleep.
+
+Si tu veux comprendre la leçon, écoute le professeur.
+If you want to understand the lesson, listen to the teacher.
+
+Si tu écoutes le professeur, tu comprendraas l'exercice.
+If you listen to the teacher, you will understand the exercise.
+
+Si tu veux être photographe, achète un bon appareil photo.
+If you want to become a photographer, buy a good camera.
+
+Si tu étudie cette weekend, tu auras une bonne note.
+If you study this weekend, you will get a good grade.
+
+Si elle a compris la leçon, c'est parce qu'ella a écouté.
+If she has understood the lesson, it's because she paid attention.
+
+Si vous êtes perdus, mettez le GPS.
+If you are lost, turn on the GPS.
+
+Si vous avez perdu votre voiture, appelez quelq'un.
+If you lost your car, call someone.
+
+Si tu as fait une bêtise, ton père sera fâché.
+If you have been naughty, your father will be angry.
+
+Si tu as fini ce livre, tu pourras commencer l'autre ce soir.
+If you have finished this book, you can start the other one tonight.
+
+Sans aucun doute.
+Without a doubt.
+
+Tu fais faire les courses demain? Je pense.
+Are you going shopping tomorrow? I think so.
+
+Elle est prof de français? Pas du tout, elle est prof d'allemand.
+Is she a french teacher? Not at all, sh is a german teacher.
+
+Elle est prof de français? Exact!
+Is she a french teacher? Exactly!
+
+Pas du tout! Elle est avocate.
+Not at all! She's a lawyer.
+
+Tu as des animaux de compagnie? Bien sûr!
+Have you got any pets? Of course!
+
+Tu fais du sport? De temps en temps.
+Do you practice sports? From time to time.
+
+Elle invite tous ses amis à son barbecue samedi.
+She is inviting all her friends to her barbecue party on saturday.
+
+Nous invitons seulement notre famille à notre mariage.
+We are only inviting our family to our wedding.
+
+Il cuisine son plat préféré pour la fête de ce soir.
+He is cooking his favorite dish for tonight's party.
+
+Nous cuisinons les amuse-bouche ensemble.
+We are cooking the appetizers together.
+
+Marie danse dès que l'on met de la musique.
+Marie danse as soon as we put music on.
+
+Vous avez dansé toute la nuit.
+You danced all night long.
+
+Nous nous amusons toujours beaucoup aux fêtes de Laura.
+We always have a lot of fun at Laura's partys.
+
+Je me suis amusé hier soir.
+I had fun last night.
+
+Ma mère fait les courses pour la soirée du Nouvel An.
+My mother is grocery shopping for New Year's eve.
+
+Ils font les courses ensemble pour aller plus vite.
+They are grocery shopping together in order to be faster.
+
+J'envoie les invitations pour mon anniversaire par e-mail.
+I am sending my birthday invitations via e-mail.
+
+Elle a oublié d'envoyer les invitations pour sa fête.
+She forgot to send the invitations for her party.
+
+Elle discute un peu avec chacun de ses invités.
+She is talking a little bit with each of her guests.
+
+Céline et Luc discutent depuis le début de la soirée.
+Céline and Luc have been talking since the beginning of the party.
+
+J'accueille mes invités.
+I am welcoming my guests.
+
+Patrick nous a vraiment bien accueilli pour sa fête d'anniversaire.
+Patrick was a great host at his birthday party.
+
+Vous décorez le salon avec une boule à facettes.
+You are decorating the living room with a disco ball.
+
+Elle décore la terrasse avec des guirlandes lumineuses.
+She is decorating the terrace with fairy lights.
+
+Je nettoie mon salon car Hugo a renversé du vin sur le sol.
+I am cleaning the living room because Hugo spilled wine on the floor.
+
+Ils sont en train de nettoyer la piscine pendant que je nettoie la cuisine.
+They are cleaning the pool while I'm cleaning the kitchen.
+
 Vous ne déjeunez pas.
 You don't have lunch.
 
