@@ -5992,312 +5992,312 @@
 # Das ist echt krass!
 # That is really incredible!
 # 
-# Er hat ein krasses Auto.
-# He has an amazing car.
+# # Er hat ein krasses Auto.
+# # He has an amazing car.
+# # 
+# # Ich reiẞe das Pflaster ab.
+# # I am ripping off the band-aid.
+# # 
+# der Nagel, die Nägel.
+# a unha, as unhas
 # 
-# Ich reiẞe das Pflaster ab.
-# I am ripping off the band-aid.
+# Kannst du ein Glas Wein bringen?
+# Podes me trazer uma taça de vinho?
 # 
-der Nagel, die Nägel.
-a unha, as unhas
-
-Kannst du ein Glas Wein bringen?
-Podes me trazer uma taça de vinho?
-
-Er bringt einen Salat mit.
-He is bringing a salad.
-
-Ich sammle Briefmarken.
-I collect (postage) stamps.
-
-The light, the lights
-Das Licht, die Lichter
-
-Ich sammele Münzen.
-I collect coins.
-
-Ich muss die Spielzeuge einsammeln.
-I have to gather (up) the toys. (juntar coisas)
-
-Die Gruppe versammelt sich am Freitag.
-The group is gathering on Friday. (juntar pessoas)
-
-Ich beantwortete Ihre Frage.
-I answered your question. pas simples, Sie
-
-Ihr seid sehr fleiẞig.
-You guys are very hard-working.
-
-Wo seid ihr?
-Where are you guys?
-
-Wo sitzt er?
-Where's he sitting?
-
-Warum gehst du?
-Why are you leaving?
-
-Warum weint sie?
-Why is she crying?
-
-Warum regnet es?
-Why is it raining?
-
-Warum sieht sie so traurig aus?
-Why does she look so sad?
-
-Warum kommst du nicht mit uns?
-Why aren't you coming with us?
-
-Wann kommst du morgen?
-When are you coming tomorrow?
-
-Wann ist dein Geburtstag?
-When is your birthday?
-
-Wann fangen wir an?
-When are we going to start?
-
-Wie viele Kinder hat sie?
-How many children does she have?
-
-Wie viele Autos besitzt er?
-How many cars does he own?
-
-Wie viele Katzen hast du?
-How many cats do you have?
-
-Wie viel Wasser trinkst du jeden Tag?
-How much water do you drink every day?
-
-Wie viel Geld hast du dabei?
-How much money do you have on you?
-
-Wie lange musst du heute arbeiten?
-How long do you have to work today?
-
-Wie lange ist er schon krank?
-How long has he been sick already?
-
-Wie spät ist es?                            
-What time is it?
-
-Wer ist das?
-Who is that?
-
-Wer ist der Chef?
-Who is the boss?
-
-Wer kommt zur Besprechung?
-Who is coming to the meeting?
-
-Woher kommen Sie?
-Where do you come from? - formal
-
-Wohin fährst du morgen?
-Where are you going tomorrow?
-
-Wohin fährst du in Urlaub?
-Where are you going on vacation?
-
-Was trinkst du?
-What are you drinking?
-
-Was machst du am Wochenende?
-What are you doing on the weekend?
-
-Was machst er?
-What's he doing?
-
-Wie ist der neue Job?
-How's the new job?
-
-Welches Formular brauche ich?
-Which form do I need?
-
-Welche U-Bahn nimmst du?
-Which subway are you taking?
-
-Welcher Mantel gefällt dir?
-Which coat do you like?
-
-Welche Farben gefallen dir?
-Which colors do you like?                
-
-Willst du einen Kaffee?
-Do you want a coffee?
-
-Ich will mitkommen.
-I want to come with [you].
-
-Ich möchte mitkommen.
-I would like to come with [you].
-
-Möchten Sie einen Kaffee?
-Would you like a coffee?
-
-Willst du etwas trinken?
-Do you want to drink something?
-
-Willst du um 15 Uhr vorbeikommen?
-Do you want to come over at 3pm?
-
-Willst du ein Taschentuch?
-Do you want a tissue?
-
-Willst du heute Abend essen gehen?
-Do you want to go eat out tonight?
-
-Möchtest du ein Taschentuch?
-Would you like a tissue?
-
-Möchtet ihr ein Stück Kuchen?
-Would you guys like a piece of cake?
-
-Möchte Maria bei uns übernachten?
-Would Maria like to stay overnight?
-
-Möchten Lars und Peter zum Essen bleiben?
-Would Lars and Peter like to stay for lunch/dinner?
-
-Will Maik seine Freunde einladen?
-Does Maik want to invite his friends?
-
-Wollen Carolin und Josef die Prüfung wiederholen?
-Do Carolin and Josef want to retake the exam?
-
-Wollt ihr mit uns kommen?
-Do you guys want to come with us?
-
-Wollt ihr mit uns ins Kino gehen?
-Do you guys want to come to the movies with us?
-
-Wollen Sie ein Hotelzimmer buchen?
-Do you want to book a hotel room?
-
-Wer will etwas trinken?
-Who wants to drink something?
-
-Wer möchte die Küchen aufräumen?
-Who would like to clean up the kitchen?
-
-Was möchtest du machen?
-What would you like to do?
-
-Wann möchtest du vorbeikommen?
-When would you like to come over?
-
-Wohin willst du in Urlaub fahren?
-Where do you want to go on vacation?
-
-Wo willst du studieren?
-Where do you want to study?
-
-Ich will flieẞend Deutsch sprechen.
-I want to speak german fluently.
-
-Ich will ein Glas Wein trinken.
-I want to drink a glass of wine.
-
-Ich möchte mit euch Ski fahren.
-I would like to ski with you guys.
-
-Ich möchte euch helfen.
-I would like to help you guys.
-
-Ich möchte den Kindern das Spiel zeigen.
-I would like to show the kids the game.
-
-Ich möchte mich hinlegen.
-I would like to lie down.
-
-Ich möchte mich ausruhen.
-I would like to rest.
-
-Wir wollen eine Pizza essen.
-We want to eat a pizza.
-
-Er will uns helfen.
-He wants to help us.
-
-Sie will ins Ausland gehen.
-She wants to go abroad.
-
-Ich möchte euch die Grammatik erklären.
-I would like to explain the grammar to you guys.
-
-Ich möchte eure Fragen beantworten.                
-I would like to answer your questions.
-
-Ich habe ein Foto gemacht.
-I have taken a picture.
-
-Ich habe einen Spaziergang gemacht.
-I took a walk.
-
-Sie hat einen Salat gemacht.
-She made a salad.
-
-Jan hat einen Fehler gemacht.
-Jan made a mistake.
-
-Ich habe Überstunden gemacht.
-I did overtime.
-
-Du hast Forschritte gemacht.
-You made progress.
-
-Sabine hat eine Weltreise gemacht.
-Sabine took a trip around the world.
-
-Hast du eine Weltreise gemacht?
-Did you take a trip around the world?
-
-Habt ihr einen Salat gemacht?
-Did you guys made a salad?
-
-Hast du Überstunden gemacht?
-Did you do overtime?
-
-Hat Anna einen Fehler gemacht?
-Did Anna make a mistake?
-
-Was hast du gestern gemacht?
-What did you do yesterday?
-
-Warum hast du Überstunden gemacht?
-Why did you make overtime?
-
-Er hat die ganze Zeit gemacht.
-He laughed the whole time.
-
-Warum hast du gelacht?
-Why did you laugh?
-
-Worüber habt ihr gelacht?
-What did you laugh about?
-
-Wir haben alle gelacht.
-All of us laughed.
-
-Niemand hat gelacht.
-No one laughed.
-
-Ich habe viel gelernt.
-I lerned/studied a lot.
-
-Habt ihr heute gelernt?
-Did you guys study today?
-
-Wo hast du Deutsch gelernt?
-Where did you lern german?
-
-Wie hast Deutsch gelernt?
-How did you lern german?
-
-Ich habe neuen Vokabeln gelernt.
-I learned new vocabulary.
-
+# Er bringt einen Salat mit.
+# He is bringing a salad.
+# 
+# Ich sammle Briefmarken.
+# I collect (postage) stamps.
+# 
+# The light, the lights
+# Das Licht, die Lichter
+# 
+# Ich sammele Münzen.
+# I collect coins.
+# 
+# Ich muss die Spielzeuge einsammeln.
+# I have to gather (up) the toys. (juntar coisas)
+# 
+# Die Gruppe versammelt sich am Freitag.
+# The group is gathering on Friday. (juntar pessoas)
+# 
+# Ich beantwortete Ihre Frage.
+# I answered your question. pas simples, Sie
+# 
+# Ihr seid sehr fleiẞig.
+# You guys are very hard-working.
+# 
+# Wo seid ihr?
+# Where are you guys?
+# 
+# Wo sitzt er?
+# Where's he sitting?
+# 
+# Warum gehst du?
+# Why are you leaving?
+# 
+# Warum weint sie?
+# Why is she crying?
+# 
+# Warum regnet es?
+# Why is it raining?
+# 
+# Warum sieht sie so traurig aus?
+# Why does she look so sad?
+# 
+# Warum kommst du nicht mit uns?
+# Why aren't you coming with us?
+# 
+# Wann kommst du morgen?
+# When are you coming tomorrow?
+# 
+# Wann ist dein Geburtstag?
+# When is your birthday?
+# 
+# Wann fangen wir an?
+# When are we going to start?
+# 
+# Wie viele Kinder hat sie?
+# How many children does she have?
+# 
+# Wie viele Autos besitzt er?
+# How many cars does he own?
+# 
+# Wie viele Katzen hast du?
+# How many cats do you have?
+# 
+# Wie viel Wasser trinkst du jeden Tag?
+# How much water do you drink every day?
+# 
+# Wie viel Geld hast du dabei?
+# How much money do you have on you?
+# 
+# Wie lange musst du heute arbeiten?
+# How long do you have to work today?
+# 
+# Wie lange ist er schon krank?
+# How long has he been sick already?
+# 
+# Wie spät ist es?                            
+# What time is it?
+# 
+# Wer ist das?
+# Who is that?
+# 
+# Wer ist der Chef?
+# Who is the boss?
+# 
+# Wer kommt zur Besprechung?
+# Who is coming to the meeting?
+# 
+# Woher kommen Sie?
+# Where do you come from? - formal
+# 
+# Wohin fährst du morgen?
+# Where are you going tomorrow?
+# 
+# Wohin fährst du in Urlaub?
+# Where are you going on vacation?
+# 
+# Was trinkst du?
+# What are you drinking?
+# 
+# Was machst du am Wochenende?
+# What are you doing on the weekend?
+# 
+# Was machst er?
+# What's he doing?
+# 
+# Wie ist der neue Job?
+# How's the new job?
+# 
+# Welches Formular brauche ich?
+# Which form do I need?
+# 
+# Welche U-Bahn nimmst du?
+# Which subway are you taking?
+# 
+# Welcher Mantel gefällt dir?
+# Which coat do you like?
+# 
+# Welche Farben gefallen dir?
+# Which colors do you like?                
+# 
+# Willst du einen Kaffee?
+# Do you want a coffee?
+# 
+# Ich will mitkommen.
+# I want to come with [you].
+# 
+# Ich möchte mitkommen.
+# I would like to come with [you].
+# 
+# Möchten Sie einen Kaffee?
+# Would you like a coffee?
+# 
+# Willst du etwas trinken?
+# Do you want to drink something?
+# 
+# Willst du um 15 Uhr vorbeikommen?
+# Do you want to come over at 3pm?
+# 
+# Willst du ein Taschentuch?
+# Do you want a tissue?
+# 
+# Willst du heute Abend essen gehen?
+# Do you want to go eat out tonight?
+# 
+# Möchtest du ein Taschentuch?
+# Would you like a tissue?
+# 
+# Möchtet ihr ein Stück Kuchen?
+# Would you guys like a piece of cake?
+# 
+# Möchte Maria bei uns übernachten?
+# Would Maria like to stay overnight?
+# 
+# Möchten Lars und Peter zum Essen bleiben?
+# Would Lars and Peter like to stay for lunch/dinner?
+# 
+# Will Maik seine Freunde einladen?
+# Does Maik want to invite his friends?
+# 
+# Wollen Carolin und Josef die Prüfung wiederholen?
+# Do Carolin and Josef want to retake the exam?
+# 
+# Wollt ihr mit uns kommen?
+# Do you guys want to come with us?
+# 
+# Wollt ihr mit uns ins Kino gehen?
+# Do you guys want to come to the movies with us?
+# 
+# Wollen Sie ein Hotelzimmer buchen?
+# Do you want to book a hotel room?
+# 
+# Wer will etwas trinken?
+# Who wants to drink something?
+# 
+# Wer möchte die Küchen aufräumen?
+# Who would like to clean up the kitchen?
+# 
+# Was möchtest du machen?
+# What would you like to do?
+# 
+# Wann möchtest du vorbeikommen?
+# When would you like to come over?
+# 
+# Wohin willst du in Urlaub fahren?
+# Where do you want to go on vacation?
+# 
+# Wo willst du studieren?
+# Where do you want to study?
+# 
+# Ich will flieẞend Deutsch sprechen.
+# I want to speak german fluently.
+# 
+# Ich will ein Glas Wein trinken.
+# I want to drink a glass of wine.
+# 
+# Ich möchte mit euch Ski fahren.
+# I would like to ski with you guys.
+# 
+# Ich möchte euch helfen.
+# I would like to help you guys.
+# 
+# Ich möchte den Kindern das Spiel zeigen.
+# I would like to show the kids the game.
+# 
+# Ich möchte mich hinlegen.
+# I would like to lie down.
+# 
+# Ich möchte mich ausruhen.
+# I would like to rest.
+# 
+# Wir wollen eine Pizza essen.
+# We want to eat a pizza.
+# 
+# Er will uns helfen.
+# He wants to help us.
+# 
+# Sie will ins Ausland gehen.
+# She wants to go abroad.
+# 
+# Ich möchte euch die Grammatik erklären.
+# I would like to explain the grammar to you guys.
+# 
+# Ich möchte eure Fragen beantworten.                
+# I would like to answer your questions.
+# 
+# Ich habe ein Foto gemacht.
+# I have taken a picture.
+# 
+# Ich habe einen Spaziergang gemacht.
+# I took a walk.
+# 
+# Sie hat einen Salat gemacht.
+# She made a salad.
+# 
+# Jan hat einen Fehler gemacht.
+# Jan made a mistake.
+# 
+# Ich habe Überstunden gemacht.
+# I did overtime.
+# 
+# Du hast Forschritte gemacht.
+# You made progress.
+# 
+# Sabine hat eine Weltreise gemacht.
+# Sabine took a trip around the world.
+# 
+# Hast du eine Weltreise gemacht?
+# Did you take a trip around the world?
+# 
+# Habt ihr einen Salat gemacht?
+# Did you guys made a salad?
+# 
+# Hast du Überstunden gemacht?
+# Did you do overtime?
+# 
+# Hat Anna einen Fehler gemacht?
+# Did Anna make a mistake?
+# 
+# Was hast du gestern gemacht?
+# What did you do yesterday?
+# 
+# Warum hast du Überstunden gemacht?
+# Why did you make overtime?
+# 
+# Er hat die ganze Zeit gemacht.
+# He laughed the whole time.
+# 
+# Warum hast du gelacht?
+# Why did you laugh?
+# 
+# Worüber habt ihr gelacht?
+# What did you laugh about?
+# 
+# Wir haben alle gelacht.
+# All of us laughed.
+# 
+# Niemand hat gelacht.
+# No one laughed.
+# 
+# Ich habe viel gelernt.
+# I lerned/studied a lot.
+# 
+# Habt ihr heute gelernt?
+# Did you guys study today?
+# 
+# Wo hast du Deutsch gelernt?
+# Where did you lern german?
+# 
+# Wie hast Deutsch gelernt?
+# How did you lern german?
+# 
+# Ich habe neuen Vokabeln gelernt.
+# I learned new vocabulary.
+# 
 Wir haben zusammen gelernt.     
 We studied together.
 
