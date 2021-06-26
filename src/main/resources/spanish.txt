@@ -7786,316 +7786,319 @@
 # She speaks to herself.
 # 
 # Solo piensa en si mismo.
-# He only thinks of himself.
+# # He only thinks of himself.
+# # 
+# # ¿Lo quieres para ti mismo o es para un amigo?
+# # Do you want it for yourself or is it for a friend?
+# # 
+# # Me enfado conmigo mismo porque siempre cometo los mismos errores.
+# # I get angry with myself because I always make the same mistakes.
+# # 
+# # No te enfades conmigo, enfádate contigo mismo.
+# # Don't be angry with me, be angry with yourself.
+# # 
+# Parece un poco loco. Siempre va hablando consigo mismo.
+# It seems a bit crazy. He always talks to himself.
 # 
-# ¿Lo quieres para ti mismo o es para un amigo?
-# Do you want it for yourself or is it for a friend?
+# En este restaurante se come de maravilla.
+# This restaurant is a great place to eat.
 # 
-# Me enfado conmigo mismo porque siempre cometo los mismos errores.
-# I get angry with myself because I always make the same mistakes.
+# Se rumoreaba que el Presidente iba a dimitir, pero lo ha negado esta mañana.
+# It was rumoured that the President was going to resign, but he denied it this morning.
 # 
-# No te enfades conmigo, enfádate contigo mismo.
-# Don't be angry with me, be angry with yourself.
+# Cada vez se trabaja más y se gana menos.
+# You work more and earn less.
 # 
-Parece un poco loco. Siempre va hablando consigo mismo.
-It seems a bit crazy. He always talks to himself.
-
-En este restaurante se come de maravilla.
-This restaurant is a great place to eat.
-
-Se rumoreaba que el Presidente iba a dimitir, pero lo ha negado esta mañana.
-It was rumoured that the President was going to resign, but he denied it this morning.
-
-Cada vez se trabaja más y se gana menos.
-You work more and earn less.
-
-Aquí antes se vivía bien, pero esto ha cambiado mucho.
-It used to be a good place to live, but this has changed a lot.
-
-En estas fiestas se lo pasa uno en grande.
-You have a lot of fun this holiday season.
-
-En el campo en invierno la gente se acuesta muy temprano.
-In the countryside in winter people go to bed very early.
-
-En algunos países no se siente uno libre.
-In some countries you don't feel free.
-
-En las familias grandes, no se puede ser egoísta.
-In big families, you can't be selfish.
-
-No se necesita ser muy listo para darse cuenta de que ciertas cosas están mal.
-You don't have to be very smart to realize that certain things are wrong.
-
-Estoy seguro de que pronto se podrá viajar por el espacio.
-I'm sure you'll soon be able to travel through space.
-
-Se dice que ha habido una explosión en la fábrica de cemento.
-It is said that there has been an explosion in the cement factory.
-
-Se piensa que en esa cueva hay enterrado un tesoro.
-It is thought that a treasure has been buried in that cave.
-
-Se sabe que hay unas ruinas romanas en la zona, pero no se sabe dónde.
-It is known that there are Roman ruins in the area, but it is not known where.
-
-Se espera que el paro aumente en los próximos meses.
-Unemployment is expected to increase in the coming months.
-
-Se espera que haya elecciones de pronto.
-Elections are expected soon.
-
-No se espera que venga mucha gente a la conferencia.
-Not many people are expected to come to the conference.
-
-Se esperaba que lloviera, pero al final no cayó ni una gota.
-It was expected to rain, but in the end not a drop fell.
-
-No se esperaba que viniera mucha gente, pero luego se llenó el local.
-It was not expected that many people would come, but then the place filled up.
-
-Nada más comenzar el congreso, se dio la bienvenida a los participantes.
-As soon as the congress began, the participants were welcomed.
-
-Tras el juicio, se consideró culpables a los detenidos.
-After the trial, the detainees were found guilty.
-
-La policía acusó a los detenidos de robo con violencia.
-The police accused the detainees of robbery with violence.
-
-Se acusó a los detenidos de robo con violencia.
-The detainees were charged with robbery with violence.
-
-A algunas personas se les engaña fácilmente.
-Some people are easily deceived.
-
-A los niños se los asusta enseguida.
-Children are quickly frightened.
-
-Soy muy influenciable. Se me convence fácilmente.
-I am very influential. I am easily convinced.
-
-Al principio del acto, se leyó la lista de participantes.
-At the beginning of the act, the list of participants was read.
-
-Hace unos años se podían comprar estas casas muy baratas.
-A few years ago you could buy these very cheap houses.
-
-Se necesitan extras para una película de romanos. ¿Por qué no nos presentamos?
-You need extras for a Roman film. Why don't we show up?
-
-Las becas se piden en la Secretaría.
-Scholarships are applied for at the Secretariat.
-
-Es posible que las elecciones se celebren este verano.
-It is possible that elections will be held this summer.
-
-En algunos hospitales no se permiten visitas después de las ocho de la noche.
-In some hospitals, visitors are not allowed after eight o'clock at night.
-
-Cuando era joven se llevaban los pantalones campana.
-When I was young, they wore bell-bottoms.
-
-La ventana se cerró de repente.
-The window suddenly closed.
-
-¿Crees que se habrá enfriado ya el caldo?
-Do you think the broth has cooled down by now?
-
-Las heridas se curan con el sol.
-The wounds heal with the sun.
-
-Se ha derrumbado el puente por la riada.
-The bridge has collapsed because of the flood.
-
-Hacía viento y la ventana se abrió.
-It was windy and the window opened.
-
-Esta puerta no se cierra bien.
-This door doesn't close well.
-
-Tengo mucho sueño. Se me cierran los ojos.
-I'm very sleepy. My eyes close.
-
-Se nos llenaron los ojos de lágrimas.
-Our eyes filled with tears.
-
-A mí se me encoge el corazón cuando veo llorar a un niño.
-My heart shrinks when I see a child crying.
-
-A Ricardo se le alegra el alma cuando ve a Sonia.
-Richard's soul rejoices when he sees Sonia.
- 
-El coche de Álvaro es peor que el de Ana.
-Álvaro's car is worse than Ana's.
-
-¿Habéis visto los documentos que estaban en mi mesa?
-Have you seen the documents that were on my desk?
-
-¿Qué manzanas quieres? Deme esas que tiene en esa caja.
-What apples do you want? Give me those you have in that box.
-
-Está aquí la mujer que ha llamado antes.
-The woman who called earlier is here.
-
-Aquellos que quieran ir al teatro, que pasen por secretaría.
-Those who want to go to the theatre, let them go through the secretariat.
-
-Mira, esta es la casa en la que vivía de pequeño.
-Look, this is the house I lived in as a child.
-
-Me encantan los poemas que has escrito.
-I love the poems you've written.
-
-Los chicos con los que vivo son rusos.
-The guys I live with are Russians.
-
-Hoy he conocido a la profesora de quien me habías hablado.
-Today I met the teacher you told me about.
-
-He hablado con la persona que se encarga de las matrículas.
-I talked to the person in charge of the plates.
-
-Los compañeros con los que trabajo son extraordinarios.
-The colleagues I work with are extraordinary.
-
-Aquí tengo la novela de que te hablé.
-Here's the novel I told you about.
-
-¿Sabes la hora a la que llegaron?
-Do you know the time they arrived?
-
-Esa es la calle por la que paso todos los días.
-That's the street I walk every day.
-
-Te tengo que presentar al chico con el que salgo.
-I have to introduce you to the guy I'm dating.
-
-¿En qué cama duermo? En la que tú quieras.
-What bed do I sleep in? Any bed you want.
-
-¿Qué tipo de pluma quieres? Una que usa cartuchos.
-What kind of pen do you want? One that uses cartridges.
-
-¿Qué tipo de chica prefieres? Una con quien pueda hablar.
-What kind of girl do you prefer? One I can talk to.
-
-La persona que manda aquí soy yo.
-The person in charge here is me.
-
-¿Qué manzanas quiere? Deme esas que tiene ahí.
-What apples do you want? Give me those you have there.
-
-El que come mucho, engorda.
-He who eats a lot gets fat.
-
-Los que tengan las entradas, que pasen.
-Those who have the tickets, let them pass.
-
-Ya lo sabes, Julia. La que estudia, aprueba.
-You know that, Julia. The one who studies, passes.
-
-Venga, Ángel. El que invita, paga.
-Come on, Angel. The one who invites, pays.
-
-Lo siento, pero no entiendo lo que dices.
-I'm sorry, but I don't understand what you're saying.
-
-Quiero hablar contigo de lo que comentaste anoche.
-I want to talk to you about what you said last night.
-
-Estoy a tu servicio para lo que tú quieras.
-I am at your service for whatever you want.
-
-Necesitas un empleo. Lo que necesito es dinero.
-You need a job. What I need is money.
-
-Lo que me molesta son los atascos de tráfico.
-What bothers me is traffic jams.
-
-Lo que no me gusta es madrugar.
-What I don't like is getting up early.
-
-Lo que quiero es que me ayudes.
-What I want is for you to help me.
-
-Lo que no me gustó fue que no nos avisaras.
-What I didn't like was that you didn't tell us.
-
-Lo que pasa es que no tengo sueño.
-It's just that I'm not sleepy.
-
-Julian quiere jubilarse. Es más joven que yo.
-Julian wants to retire. He's younger than me.
-
-Julian, que es más joven que yo, quiere jubilarse.
-Julian, who is younger than me, wants to retire.
-
-La mujer, que había llamado antes, se presentó en casa a la media hora.
-The woman, who had called before, showed up at home in half an hour.
-
-Entraron dos hombres y se llevaron el Picasso, que estaba en el salón principal.
-Two men came in and took the Picasso, which was in the main room.
-
-Entraron dos hombres y se llevaron todo el dinero y el cuadro que tenía el salón, que yo había pintado ese verano.
-Two men came in and took all the money and the painting in the living room, which I had painted that summer.
-
-Me encanta ese programa, que ya he visto alguna vez.
-I love that show, which I've seen before.
-
-Los ladrones asaltaron primero al portero, quien acababa de abrir la puerta del edificio.
-The thieves first assaulted the doorman, who had just opened the door to the building.
-
-Siempre recordaré a mis padres, a quienes tanto debo.
-I will always remember my parents, to whom I owe so much.
-
-Los ladrones asaltaron al portero, quien acaba de abrir la puerta del edificio.
-The thieves assaulted the doorman, who had just opened the door to the building.
-
-Los ladrones asaltaron al portero, que acaba de abrir la puerta del edificio.
-The thieves assaulted the doorman, who has just opened the door of the building.
-
-Siempre recordaré a mis padres, a los que tanto debo.
-I will always remember my parents, to whom I owe so much.
-
-Andrés, del que ya te he hablado, quiere que vayamos todos a Italia.
-Andrés, of whom I have already told you, wants us all to go to Italy.
-
-Fernando descolgó la lámpara, de la que colgaban trozos de tela.
-Fernando took down the lamp, from which pieces of cloth hung.
-
-Se puso a discutir con Alfredo, el cual había dicho que su libro era muy malo.
-He began to argue with Alfredo, who had said that his book was very bad.
-
-Aquí se guarda el agua, la cual se distribuye a los pisos a través de una tubería central.
-Here we keep the water, which is distributed to the floors through a central pipe.
-
-Elena, a la cual ya conoces, quiere que nos reunamos al sábado.
-Elena, whom you already know, wants us to meet on Saturday.
-
-Faltaba el director, sin el cual no podía empezar el concierto.
-The director was missing, without whom the concert could not begin.
-
-Se puso a discutir con Alfredo, que había dicho que su libro era muy malo.
-He began to argue with Alfredo, who had said that his book was very bad.
-
-Aquí se guarda el agua, que se distribuye a los pisos a través de una tubería central.
-The water is stored here and distributed to the floors through a central pipe.
-
-Elena, a la que ya conoces, quiere que nos reunamos al sábado.
-Elena, whom you already know, wants us to meet on Saturday.
-
-Faltaba el director, sin el que no podía empezar el concierto.
-The director was missing, without whom the concert could not begin.
-
-Me dijo una mentira, lo que no me gustó nada.
+# Aquí antes se vivía bien, pero esto ha cambiado mucho.
+# It used to be a good place to live, but this has changed a lot.
+# 
+# En estas fiestas se lo pasa uno en grande.
+# You have a lot of fun this holiday season.
+# 
+# En el campo en invierno la gente se acuesta muy temprano.
+# In the countryside in winter people go to bed very early.
+# 
+# En algunos países no se siente uno libre.
+# In some countries you don't feel free.
+# 
+# En las familias grandes, no se puede ser egoísta.
+# In big families, you can't be selfish.
+# 
+# No se necesita ser muy listo para darse cuenta de que ciertas cosas están mal.
+# You don't have to be very smart to realize that certain things are wrong.
+# 
+# Estoy seguro de que pronto se podrá viajar por el espacio.
+# I'm sure you'll soon be able to travel through space.
+# 
+# Se dice que ha habido una explosión en la fábrica de cemento.
+# It is said that there has been an explosion in the cement factory.
+# 
+# Se piensa que en esa cueva hay enterrado un tesoro.
+# It is thought that a treasure has been buried in that cave.
+# 
+# Se sabe que hay unas ruinas romanas en la zona, pero no se sabe dónde.
+# It is known that there are Roman ruins in the area, but it is not known where.
+# 
+# Se espera que el paro aumente en los próximos meses.
+# Unemployment is expected to increase in the coming months.
+# 
+# Se espera que haya elecciones de pronto.
+# Elections are expected soon.
+# 
+# No se espera que venga mucha gente a la conferencia.
+# Not many people are expected to come to the conference.
+# 
+# Se esperaba que lloviera, pero al final no cayó ni una gota.
+# It was expected to rain, but in the end not a drop fell.
+# 
+# No se esperaba que viniera mucha gente, pero luego se llenó el local.
+# It was not expected that many people would come, but then the place filled up.
+# 
+# Nada más comenzar el congreso, se dio la bienvenida a los participantes.
+# As soon as the congress began, the participants were welcomed.
+# 
+# Tras el juicio, se consideró culpables a los detenidos.
+# After the trial, the detainees were found guilty.
+# 
+# La policía acusó a los detenidos de robo con violencia.
+# The police accused the detainees of robbery with violence.
+# 
+# Se acusó a los detenidos de robo con violencia.
+# The detainees were charged with robbery with violence.
+# 
+# A algunas personas se les engaña fácilmente.
+# Some people are easily deceived.
+# 
+# A los niños se los asusta enseguida.
+# Children are quickly frightened.
+# 
+# Soy muy influenciable. Se me convence fácilmente.
+# I am very influential. I am easily convinced.
+# 
+# Al principio del acto, se leyó la lista de participantes.
+# At the beginning of the act, the list of participants was read.
+# 
+# Hace unos años se podían comprar estas casas muy baratas.
+# A few years ago you could buy these very cheap houses.
+# 
+# Se necesitan extras para una película de romanos. ¿Por qué no nos presentamos?
+# You need extras for a Roman film. Why don't we show up?
+# 
+# Las becas se piden en la Secretaría.
+# Scholarships are applied for at the Secretariat.
+# 
+# Es posible que las elecciones se celebren este verano.
+# It is possible that elections will be held this summer.
+# 
+# En algunos hospitales no se permiten visitas después de las ocho de la noche.
+# In some hospitals, visitors are not allowed after eight o'clock at night.
+# 
+# Cuando era joven se llevaban los pantalones campana.
+# When I was young, they wore bell-bottoms.
+# 
+# La ventana se cerró de repente.
+# The window suddenly closed.
+# 
+# ¿Crees que se habrá enfriado ya el caldo?
+# Do you think the broth has cooled down by now?
+# 
+# Las heridas se curan con el sol.
+# The wounds heal with the sun.
+# 
+# Se ha derrumbado el puente por la riada.
+# The bridge has collapsed because of the flood.
+# 
+# Hacía viento y la ventana se abrió.
+# It was windy and the window opened.
+# 
+# Esta puerta no se cierra bien.
+# This door doesn't close well.
+# 
+# Tengo mucho sueño. Se me cierran los ojos.
+# I'm very sleepy. My eyes close.
+# 
+# Se nos llenaron los ojos de lágrimas.
+# Our eyes filled with tears.
+# 
+# A mí se me encoge el corazón cuando veo llorar a un niño.
+# My heart shrinks when I see a child crying.
+# 
+# A Ricardo se le alegra el alma cuando ve a Sonia.
+# Richard's soul rejoices when he sees Sonia.
+#  
+# El coche de Álvaro es peor que el de Ana.
+# Álvaro's car is worse than Ana's.
+# 
+# ¿Habéis visto los documentos que estaban en mi mesa?
+# Have you seen the documents that were on my desk?
+# 
+# ¿Qué manzanas quieres? Deme esas que tiene en esa caja.
+# What apples do you want? Give me those you have in that box.
+# 
+# Está aquí la mujer que ha llamado antes.
+# The woman who called earlier is here.
+# 
+# Aquellos que quieran ir al teatro, que pasen por secretaría.
+# Those who want to go to the theatre, let them go through the secretariat.
+# 
+# Mira, esta es la casa en la que vivía de pequeño.
+# Look, this is the house I lived in as a child.
+# 
+# Me encantan los poemas que has escrito.
+# I love the poems you've written.
+# 
+# Los chicos con los que vivo son rusos.
+# The guys I live with are Russians.
+# 
+# Hoy he conocido a la profesora de quien me habías hablado.
+# Today I met the teacher you told me about.
+# 
+# He hablado con la persona que se encarga de las matrículas.
+# I talked to the person in charge of the plates.
+# 
+# Los compañeros con los que trabajo son extraordinarios.
+# The colleagues I work with are extraordinary.
+# 
+# Aquí tengo la novela de que te hablé.
+# Here's the novel I told you about.
+# 
+# ¿Sabes la hora a la que llegaron?
+# Do you know the time they arrived?
+# 
+# Esa es la calle por la que paso todos los días.
+# That's the street I walk every day.
+# 
+# Te tengo que presentar al chico con el que salgo.
+# I have to introduce you to the guy I'm dating.
+# 
+# ¿En qué cama duermo? En la que tú quieras.
+# What bed do I sleep in? Any bed you want.
+# 
+# ¿Qué tipo de pluma quieres? Una que usa cartuchos.
+# What kind of pen do you want? One that uses cartridges.
+# 
+# ¿Qué tipo de chica prefieres? Una con quien pueda hablar.
+# What kind of girl do you prefer? One I can talk to.
+# 
+# La persona que manda aquí soy yo.
+# The person in charge here is me.
+# 
+# ¿Qué manzanas quiere? Deme esas que tiene ahí.
+# What apples do you want? Give me those you have there.
+# 
+# El que come mucho, engorda.
+# He who eats a lot gets fat.
+# 
+# Los que tengan las entradas, que pasen.
+# Those who have the tickets, let them pass.
+# 
+# Ya lo sabes, Julia. La que estudia, aprueba.
+# You know that, Julia. The one who studies, passes.
+# 
+# Venga, Ángel. El que invita, paga.
+# Come on, Angel. The one who invites, pays.
+# 
+# Lo siento, pero no entiendo lo que dices.
+# I'm sorry, but I don't understand what you're saying.
+# 
+# Quiero hablar contigo de lo que comentaste anoche.
+# I want to talk to you about what you said last night.
+# 
+# Estoy a tu servicio para lo que tú quieras.
+# I am at your service for whatever you want.
+# 
+# Necesitas un empleo. Lo que necesito es dinero.
+# You need a job. What I need is money.
+# 
+# Lo que me molesta son los atascos de tráfico.
+# What bothers me is traffic jams.
+# 
+# Lo que no me gusta es madrugar.
+# What I don't like is getting up early.
+# 
+# Lo que quiero es que me ayudes.
+# What I want is for you to help me.
+# 
+# Lo que no me gustó fue que no nos avisaras.
+# What I didn't like was that you didn't tell us.
+# 
+# Lo que pasa es que no tengo sueño.
+# It's just that I'm not sleepy.
+# 
+# Julian quiere jubilarse. Es más joven que yo.
+# Julian wants to retire. He's younger than me.
+# 
+# Julian, que es más joven que yo, quiere jubilarse.
+# Julian, who is younger than me, wants to retire.
+# 
+# La mujer, que había llamado antes, se presentó en casa a la media hora.
+# The woman, who had called before, showed up at home in half an hour.
+# 
+# Entraron dos hombres y se llevaron el Picasso, que estaba en el salón principal.
+# Two men came in and took the Picasso, which was in the main room.
+# 
+# Entraron dos hombres y se llevaron todo el dinero y el cuadro que tenía el salón, que yo había pintado ese verano.
+# Two men came in and took all the money and the painting in the living room, which I had painted that summer.
+# 
+# Me encanta ese programa, que ya he visto alguna vez.
+# I love that show, which I've seen before.
+# 
+# Los ladrones asaltaron primero al portero, quien acababa de abrir la puerta del edificio.
+# The thieves first assaulted the doorman, who had just opened the door to the building.
+# 
+# Siempre recordaré a mis padres, a quienes tanto debo.
+# I will always remember my parents, to whom I owe so much.
+# 
+# Los ladrones asaltaron al portero, quien acaba de abrir la puerta del edificio.
+# The thieves assaulted the doorman, who had just opened the door to the building.
+# 
+# Los ladrones asaltaron al portero, que acaba de abrir la puerta del edificio.
+# The thieves assaulted the doorman, who has just opened the door of the building.
+# 
+# Siempre recordaré a mis padres, a los que tanto debo.
+# I will always remember my parents, to whom I owe so much.
+# 
+# Andrés, del que ya te he hablado, quiere que vayamos todos a Italia.
+# Andrés, of whom I have already told you, wants us all to go to Italy.
+# 
+# Fernando descolgó la lámpara, de la que colgaban trozos de tela.
+# Fernando took down the lamp, from which pieces of cloth hung.
+# 
+# Se puso a discutir con Alfredo, el cual había dicho que su libro era muy malo.
+# He began to argue with Alfredo, who had said that his book was very bad.
+# 
+# Aquí se guarda el agua, la cual se distribuye a los pisos a través de una tubería central.
+# Here we keep the water, which is distributed to the floors through a central pipe.
+# 
+# Elena, a la cual ya conoces, quiere que nos reunamos al sábado.
+# Elena, whom you already know, wants us to meet on Saturday.
+# 
+# Faltaba el director, sin el cual no podía empezar el concierto.
+# The director was missing, without whom the concert could not begin.
+# 
+# Se puso a discutir con Alfredo, que había dicho que su libro era muy malo.
+# He began to argue with Alfredo, who had said that his book was very bad.
+# 
+# Aquí se guarda el agua, que se distribuye a los pisos a través de una tubería central.
+# The water is stored here and distributed to the floors through a central pipe.
+# 
+# Elena, a la que ya conoces, quiere que nos reunamos al sábado.
+# Elena, whom you already know, wants us to meet on Saturday.
+# 
+# Faltaba el director, sin el que no podía empezar el concierto.
+# The director was missing, without whom the concert could not begin.
+# 
+# Me dijo una mentira, lo que no me gustó nada.
+# He told me a lie, which I didn't like at all.
+# 
+# Me dijo una mentira, cosa que no gustó nada.
+# He told me a lie, which I didn't like at all.
+# 
+# Eva fue despedirse, lo que molestó a Javi.
+# Eva said goodbye, which upset Javi.
+# 
+Me dijo una mentira, cosa que no gusto nada.
 He told me a lie, which I didn't like at all.
-
-Me dijo una mentira, cosa que no gustó nada.
-He told me a lie, which I didn't like at all.
-
-Eva fue despedirse, lo que molestó a Javi.
-Eva said goodbye, which upset Javi.
 
 Tengo un amigo. Su padre es fotógrafo.
 I have a friend. His father is a photographer.

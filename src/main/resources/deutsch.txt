@@ -6298,6 +6298,12 @@
 # Ich habe neuen Vokabeln gelernt.
 # I learned new vocabulary.
 # 
+Das Licht, die Lichter
+The light, the lights
+
+Darf ich einen Vorschlag machen?
+May I make a suggestion? 
+
 Wir haben zusammen gelernt.     
 We studied together.
 
