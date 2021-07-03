@@ -8989,315 +8989,315 @@
 # Vous ne changez pas.
 # You don't change.
 # 
-# Vous ne traduisez pas.
-# You don't translate.
+# # Vous ne traduisez pas.
+# # You don't translate.
+# # 
+# # Vous ne répondez pas.
+# # You don't answer.
+# # 
+# # Vous n'ouvrez pas.
+# # You don't open the door.
+# # 
+# Si tu touches le feu, tu brûles.
+# If you touch the fire, you will burn yourself.
 # 
-# Vous ne répondez pas.
-# You don't answer.
+# Si il pleut, tu es mouillé.
+# If it rains, you get wet.
 # 
-# Vous n'ouvrez pas.
-# You don't open the door.
+# Si tu as soif, tu bois.
+# If you are thirsty, you drink.
 # 
-Si tu touches le feu, tu brûles.
-If you touch the fire, you will burn yourself.
-
-Si il pleut, tu es mouillé.
-If it rains, you get wet.
-
-Si tu as soif, tu bois.
-If you are thirsty, you drink.
-
-Si tu es fatigué, tu dors.
-If you are tired you sleep.
-
-Si tu veux comprendre la leçon, écoute le professeur.
-If you want to understand the lesson, listen to the teacher.
-
-Si tu écoutes le professeur, tu comprendraas l'exercice.
-If you listen to the teacher, you will understand the exercise.
-
-Si tu veux être photographe, achète un bon appareil photo.
-If you want to become a photographer, buy a good camera.
-
-Si tu étudie cette weekend, tu auras une bonne note.
-If you study this weekend, you will get a good grade.
-
-Si elle a compris la leçon, c'est parce qu'ella a écouté.
-If she has understood the lesson, it's because she paid attention.
-
-Si vous êtes perdus, mettez le GPS.
-If you are lost, turn on the GPS.
-
-Si vous avez perdu votre voiture, appelez quelq'un.
-If you lost your car, call someone.
-
-Si tu as fait une bêtise, ton père sera fâché.
-If you have been naughty, your father will be angry.
-
-Si tu as fini ce livre, tu pourras commencer l'autre ce soir.
-If you have finished this book, you can start the other one tonight.
-
-Sans aucun doute.
-Without a doubt.
-
-Tu fais faire les courses demain? Je pense.
-Are you going shopping tomorrow? I think so.
-
-Elle est prof de français? Pas du tout, elle est prof d'allemand.
-Is she a french teacher? Not at all, sh is a german teacher.
-
-Elle est prof de français? Exact!
-Is she a french teacher? Exactly!
-
-Pas du tout! Elle est avocate.
-Not at all! She's a lawyer.
-
-Tu as des animaux de compagnie? Bien sûr!
-Have you got any pets? Of course!
-
-Tu fais du sport? De temps en temps.
-Do you practice sports? From time to time.
-
-Elle invite tous ses amis à son barbecue samedi.
-She is inviting all her friends to her barbecue party on saturday.
-
-Nous invitons seulement notre famille à notre mariage.
-We are only inviting our family to our wedding.
-
-Il cuisine son plat préféré pour la fête de ce soir.
-He is cooking his favorite dish for tonight's party.
-
-Nous cuisinons les amuse-bouche ensemble.
-We are cooking the appetizers together.
-
-Marie danse dès que l'on met de la musique.
-Marie danse as soon as we put music on.
-
-Vous avez dansé toute la nuit.
-You danced all night long.
-
-Nous nous amusons toujours beaucoup aux fêtes de Laura.
-We always have a lot of fun at Laura's partys.
-
-Je me suis amusé hier soir.
-I had fun last night.
-
-Ma mère fait les courses pour la soirée du Nouvel An.
-My mother is grocery shopping for New Year's eve.
-
-Ils font les courses ensemble pour aller plus vite.
-They are grocery shopping together in order to be faster.
-
-J'envoie les invitations pour mon anniversaire par e-mail.
-I am sending my birthday invitations via e-mail.
-
-Elle a oublié d'envoyer les invitations pour sa fête.
-She forgot to send the invitations for her party.
-
-Elle discute un peu avec chacun de ses invités.
-She is talking a little bit with each of her guests.
-
-Céline et Luc discutent depuis le début de la soirée.
-Céline and Luc have been talking since the beginning of the party.
-
-J'accueille mes invités.
-I am welcoming my guests.
-
-Patrick nous a vraiment bien accueilli pour sa fête d'anniversaire.
-Patrick was a great host at his birthday party.
-
-Vous décorez le salon avec une boule à facettes.
-You are decorating the living room with a disco ball.
-
-Elle décore la terrasse avec des guirlandes lumineuses.
-She is decorating the terrace with fairy lights.
-
-Je nettoie mon salon car Hugo a renversé du vin sur le sol.
-I am cleaning the living room because Hugo spilled wine on the floor.
-
-Ils sont en train de nettoyer la piscine pendant que je nettoie la cuisine.
-They are cleaning the pool while I'm cleaning the kitchen.
-
-Vous ne déjeunez pas.
-You don't have lunch.
-
-Il arrive aujourd'hui? Non, il n'arrive pas aujourd'hui.
-Is he coming in today? No, he's not coming today.
-
-Il entend bien? Non, il n'entend pas bien.
-Does he hear well? No, he can't hear well.
-
-Elle arrive ce soir? Non, elle n'arrive pas ce soir.
-Is she coming tonight? No, she's not coming tonight.
-
-Elle est en vacances? Non, elle n'est pas en vacances.
-Is she on vacation? No, she's not on vacation.
-
-Il est à l'hôtel? Non, il n'est pas à l'hôtel.
-Is he at the hotel? No, he's not at the hotel.
-
-Elle entend bien? Non, elle n'entend pas bien.
-Does she hear well? No, she can't hear well.
-
-Il a de la monnaie? Non, il n'a pas de monnaie.
-Does he have any change? No, he doesn't have any change.
-
-Il est ici? Non, il n'est pas ici.
-Is he here? Is he here? No, he's not here.
-
-Elle a les bagages? Non, elle n'a pas les bagages.
-Does she have the luggage? No, she doesn't have the luggage.
-
-Est-ce qu'elle comprend? Non, elle ne comprend pas.
-Does she understand? No, she doesn't understand.
-
-Est-ce qu'il sait? Non, il ne sait pas.
-Does he know? No, he doesn't know.
-
-Est-ce qu'elle monte? Non, elle ne monte pas.
-Is she going up? No, she's not going up.
-
-Est-ce qu'elle voit? Non, elle ne voit pas.
-Does she see? No, she can't see.
-
-Est-ce qu'il change? Non, il ne change pas.
-Is it changing? No, it doesn't change.
-
-Est-ce qu'il commence? Non, il ne commence pas.
-Is it starting? No, he's not starting.
-
-Est-ce qu'il comprend? Non, il ne comprend pas.
-Does he understand? No, he doesn't understand.
-
-Est-ce qu'il voit? Non, il ne voit pas.
-Does he see? No, he can't see.
-
-Est-ce qu'elle commence? Non, elle ne commence pas.
-Is it starting? No, it doesn't start.
-
-Vos amis sont heureux? Non, ils ne sont pas heureux.
-Are your friends happy? No, they're not happy.
-
-Elle arrive en retard? Non, elle n'arrive pas en retard.
-Is she late? Is she late? No, she's not late.
-
-Il est en retard? Non, il n'est pas en retard.
-Is he late? Is he late? No, he's not late.
-
-Vous êtes pressé? Non, je ne suis pas pressé.
-Are you in a hurry? No, I'm in no hurry.
-
-Il va au restaurant? Non, il ne va pas au restaurant.
-No, he doesn't go to the restaurant.
-
-Elle a la chambre douze? Non, elle n'a pas la chambre douze.
-She has room twelve? No, she doesn't have room twelve.
-
-La classe commence à huit heures? Non, elle ne commence pas à huit heures.
-Class starts at eight o'clock? No, it doesn't start at eight o'clock.
-
-Votre fille est pressée? Non, elle n'est pas pressée.
-Is your daughter in a hurry? No, she's in no hurry.
-
-M. Durand est avec eux? Non, il n'est pas avec eux.
-Is Mr. Durand with them? No, he's not with them.
-
-Elle change à Paris? Non, elle ne change pas à Paris.
-She's changing in Paris? No, it doesn't change in Paris.
-
-Elle va en vacances? Non, elle ne va pas en vacances.
-Is she going on vacation? No, she's not going on vacation.
-
-Vous allez au café? Non, je ne vais pas au café.
-Are you going to the coffee shop? No, I'm not going to the coffee shop.
-
-Elle comprend le français? Non, elle ne comprend pas le français.
-Does she understand French? No, she doesn't understand French.
-
-Le gérant est au premier étage? Non, il n'est pas au premier étage.
-Is the manager on the first floor? No, he's not on the first floor.
-
-Les bagages sont à l'hôtel? Non, ils ne sont pas à l'hôtel.
-Are the luggage at the hotel? No, they're not at the hotel.
-
-Vous êtes pressé? Non, je ne suis pas pressé.
-Are you in a hurry? No, I'm in no hurry.
-
-Les Durand sont satisfaits? Non, ils ne sont pas satisfaits.
-Are the Durands satisfied? No, they are not satisfied.
-
-Janine sait la leçon? Non, elle ne sait pas la leçon.
-Does Janine know the lesson? No, she doesn't know the lesson.
-
-Les chambres sont communicantes? Non, elles ne sont pas communicantes.
-Are the rooms connected? No, they're not communicating.
-
-C'est mon père? Non, ce n'est pas votre père.
-Is that my father? No, he's not your father.
-
-C'est ma sœur? Non, ce n'est pas votre sœur.
-Is that my sister? No, she's not your sister.
-
-C'est ma fiche? Non, ce n'est pas votre fiche.
-Is that my card? No, it's not your record.
-
-C'est ma chambre? Non, ce n'est pas votre chambre.
-Is this my room? No, this is not your room.
-
-C'est mon hôtel? Non, ce n'est pas votre hôtel.
-Is this my hotel? No, it's not your hotel.
-
-C'est mon ami? Non, ce n'est pas votre ami.
-Is he my friend? No, he's not your friend.
-
-C'est mon café? Non, ce n'est pas votre café.
-Is that my coffee? No, it's not your coffee.
-
-C'est anglais? Non, ce n'est pas anglais.
-Is that English? No, it's not English.
-
-C'est français? Non, ce n'est pas français.
-Is it French? No, it's not French.
-
-C'est bon? Non, ce n'est pas bon.
-Is it good? No, it's not good.
-
-C'est libre? Non, ce n'est pas libre.
-Is it free? No, it's not free.
-
-C'est ici? Non, ce n'est pas ici.
-Is this the place? No, it's not here.
-
-C'est parfait? Non, ce n'est pas parfait.
-Is it perfect? No, it's not perfect.
-
-C'est très bon? Non, ce n'est pas très bon.
-Is it very good? No, it's not very good.
-
-C'est fort? Non, ce n'est pas fort.
-Is it strong? No, it's not strong.
-
-Il est pressé? Non, il n'est pas pressé.
-Is he in a hurry? No, he's in no hurry.
-
-C'est pressé? Non, ce n'est pas pressé.
-Is there a hurry? No, there's no hurry.
-
-Ils sont en vacances? Non, ils ne sont pas en vacances.
-Are they on vacation? No, they're not on vacation.
-
-Vous êtes pressé? Non, je ne suis pas pressé.
-Are you in a hurry? No, I'm in no hurry.
-
-C'est ici? Non, ce n'est pas ici.
-Is this the place? No, it's not here.
-
-C'est le restaurant? Non, ce n'est pas le restaurant.
-Is that the restaurant? No, it's not the restaurant.
-
-Il est à Paris? Non, il n'est pas à Paris.
-Is he in Paris? No, he's not in Paris.
-
+# Si tu es fatigué, tu dors.
+# If you are tired you sleep.
+# 
+# Si tu veux comprendre la leçon, écoute le professeur.
+# If you want to understand the lesson, listen to the teacher.
+# 
+# Si tu écoutes le professeur, tu comprendraas l'exercice.
+# If you listen to the teacher, you will understand the exercise.
+# 
+# Si tu veux être photographe, achète un bon appareil photo.
+# If you want to become a photographer, buy a good camera.
+# 
+# Si tu étudie cette weekend, tu auras une bonne note.
+# If you study this weekend, you will get a good grade.
+# 
+# Si elle a compris la leçon, c'est parce qu'ella a écouté.
+# If she has understood the lesson, it's because she paid attention.
+# 
+# Si vous êtes perdus, mettez le GPS.
+# If you are lost, turn on the GPS.
+# 
+# Si vous avez perdu votre voiture, appelez quelq'un.
+# If you lost your car, call someone.
+# 
+# Si tu as fait une bêtise, ton père sera fâché.
+# If you have been naughty, your father will be angry.
+# 
+# Si tu as fini ce livre, tu pourras commencer l'autre ce soir.
+# If you have finished this book, you can start the other one tonight.
+# 
+# Sans aucun doute.
+# Without a doubt.
+# 
+# Tu fais faire les courses demain? Je pense.
+# Are you going shopping tomorrow? I think so.
+# 
+# Elle est prof de français? Pas du tout, elle est prof d'allemand.
+# Is she a french teacher? Not at all, sh is a german teacher.
+# 
+# Elle est prof de français? Exact!
+# Is she a french teacher? Exactly!
+# 
+# Pas du tout! Elle est avocate.
+# Not at all! She's a lawyer.
+# 
+# Tu as des animaux de compagnie? Bien sûr!
+# Have you got any pets? Of course!
+# 
+# Tu fais du sport? De temps en temps.
+# Do you practice sports? From time to time.
+# 
+# Elle invite tous ses amis à son barbecue samedi.
+# She is inviting all her friends to her barbecue party on saturday.
+# 
+# Nous invitons seulement notre famille à notre mariage.
+# We are only inviting our family to our wedding.
+# 
+# Il cuisine son plat préféré pour la fête de ce soir.
+# He is cooking his favorite dish for tonight's party.
+# 
+# Nous cuisinons les amuse-bouche ensemble.
+# We are cooking the appetizers together.
+# 
+# Marie danse dès que l'on met de la musique.
+# Marie danse as soon as we put music on.
+# 
+# Vous avez dansé toute la nuit.
+# You danced all night long.
+# 
+# Nous nous amusons toujours beaucoup aux fêtes de Laura.
+# We always have a lot of fun at Laura's partys.
+# 
+# Je me suis amusé hier soir.
+# I had fun last night.
+# 
+# Ma mère fait les courses pour la soirée du Nouvel An.
+# My mother is grocery shopping for New Year's eve.
+# 
+# Ils font les courses ensemble pour aller plus vite.
+# They are grocery shopping together in order to be faster.
+# 
+# J'envoie les invitations pour mon anniversaire par e-mail.
+# I am sending my birthday invitations via e-mail.
+# 
+# Elle a oublié d'envoyer les invitations pour sa fête.
+# She forgot to send the invitations for her party.
+# 
+# Elle discute un peu avec chacun de ses invités.
+# She is talking a little bit with each of her guests.
+# 
+# Céline et Luc discutent depuis le début de la soirée.
+# Céline and Luc have been talking since the beginning of the party.
+# 
+# J'accueille mes invités.
+# I am welcoming my guests.
+# 
+# Patrick nous a vraiment bien accueilli pour sa fête d'anniversaire.
+# Patrick was a great host at his birthday party.
+# 
+# Vous décorez le salon avec une boule à facettes.
+# You are decorating the living room with a disco ball.
+# 
+# Elle décore la terrasse avec des guirlandes lumineuses.
+# She is decorating the terrace with fairy lights.
+# 
+# Je nettoie mon salon car Hugo a renversé du vin sur le sol.
+# I am cleaning the living room because Hugo spilled wine on the floor.
+# 
+# Ils sont en train de nettoyer la piscine pendant que je nettoie la cuisine.
+# They are cleaning the pool while I'm cleaning the kitchen.
+# 
+# Vous ne déjeunez pas.
+# You don't have lunch.
+# 
+# Il arrive aujourd'hui? Non, il n'arrive pas aujourd'hui.
+# Is he coming in today? No, he's not coming today.
+# 
+# Il entend bien? Non, il n'entend pas bien.
+# Does he hear well? No, he can't hear well.
+# 
+# Elle arrive ce soir? Non, elle n'arrive pas ce soir.
+# Is she coming tonight? No, she's not coming tonight.
+# 
+# Elle est en vacances? Non, elle n'est pas en vacances.
+# Is she on vacation? No, she's not on vacation.
+# 
+# Il est à l'hôtel? Non, il n'est pas à l'hôtel.
+# Is he at the hotel? No, he's not at the hotel.
+# 
+# Elle entend bien? Non, elle n'entend pas bien.
+# Does she hear well? No, she can't hear well.
+# 
+# Il a de la monnaie? Non, il n'a pas de monnaie.
+# Does he have any change? No, he doesn't have any change.
+# 
+# Il est ici? Non, il n'est pas ici.
+# Is he here? Is he here? No, he's not here.
+# 
+# Elle a les bagages? Non, elle n'a pas les bagages.
+# Does she have the luggage? No, she doesn't have the luggage.
+# 
+# Est-ce qu'elle comprend? Non, elle ne comprend pas.
+# Does she understand? No, she doesn't understand.
+# 
+# Est-ce qu'il sait? Non, il ne sait pas.
+# Does he know? No, he doesn't know.
+# 
+# Est-ce qu'elle monte? Non, elle ne monte pas.
+# Is she going up? No, she's not going up.
+# 
+# Est-ce qu'elle voit? Non, elle ne voit pas.
+# Does she see? No, she can't see.
+# 
+# Est-ce qu'il change? Non, il ne change pas.
+# Is it changing? No, it doesn't change.
+# 
+# Est-ce qu'il commence? Non, il ne commence pas.
+# Is it starting? No, he's not starting.
+# 
+# Est-ce qu'il comprend? Non, il ne comprend pas.
+# Does he understand? No, he doesn't understand.
+# 
+# Est-ce qu'il voit? Non, il ne voit pas.
+# Does he see? No, he can't see.
+# 
+# Est-ce qu'elle commence? Non, elle ne commence pas.
+# Is it starting? No, it doesn't start.
+# 
+# Vos amis sont heureux? Non, ils ne sont pas heureux.
+# Are your friends happy? No, they're not happy.
+# 
+# Elle arrive en retard? Non, elle n'arrive pas en retard.
+# Is she late? Is she late? No, she's not late.
+# 
+# Il est en retard? Non, il n'est pas en retard.
+# Is he late? Is he late? No, he's not late.
+# 
+# Vous êtes pressé? Non, je ne suis pas pressé.
+# Are you in a hurry? No, I'm in no hurry.
+# 
+# Il va au restaurant? Non, il ne va pas au restaurant.
+# No, he doesn't go to the restaurant.
+# 
+# Elle a la chambre douze? Non, elle n'a pas la chambre douze.
+# She has room twelve? No, she doesn't have room twelve.
+# 
+# La classe commence à huit heures? Non, elle ne commence pas à huit heures.
+# Class starts at eight o'clock? No, it doesn't start at eight o'clock.
+# 
+# Votre fille est pressée? Non, elle n'est pas pressée.
+# Is your daughter in a hurry? No, she's in no hurry.
+# 
+# M. Durand est avec eux? Non, il n'est pas avec eux.
+# Is Mr. Durand with them? No, he's not with them.
+# 
+# Elle change à Paris? Non, elle ne change pas à Paris.
+# She's changing in Paris? No, it doesn't change in Paris.
+# 
+# Elle va en vacances? Non, elle ne va pas en vacances.
+# Is she going on vacation? No, she's not going on vacation.
+# 
+# Vous allez au café? Non, je ne vais pas au café.
+# Are you going to the coffee shop? No, I'm not going to the coffee shop.
+# 
+# Elle comprend le français? Non, elle ne comprend pas le français.
+# Does she understand French? No, she doesn't understand French.
+# 
+# Le gérant est au premier étage? Non, il n'est pas au premier étage.
+# Is the manager on the first floor? No, he's not on the first floor.
+# 
+# Les bagages sont à l'hôtel? Non, ils ne sont pas à l'hôtel.
+# Are the luggage at the hotel? No, they're not at the hotel.
+# 
+# Vous êtes pressé? Non, je ne suis pas pressé.
+# Are you in a hurry? No, I'm in no hurry.
+# 
+# Les Durand sont satisfaits? Non, ils ne sont pas satisfaits.
+# Are the Durands satisfied? No, they are not satisfied.
+# 
+# Janine sait la leçon? Non, elle ne sait pas la leçon.
+# Does Janine know the lesson? No, she doesn't know the lesson.
+# 
+# Les chambres sont communicantes? Non, elles ne sont pas communicantes.
+# Are the rooms connected? No, they're not communicating.
+# 
+# C'est mon père? Non, ce n'est pas votre père.
+# Is that my father? No, he's not your father.
+# 
+# C'est ma sœur? Non, ce n'est pas votre sœur.
+# Is that my sister? No, she's not your sister.
+# 
+# C'est ma fiche? Non, ce n'est pas votre fiche.
+# Is that my card? No, it's not your record.
+# 
+# C'est ma chambre? Non, ce n'est pas votre chambre.
+# Is this my room? No, this is not your room.
+# 
+# C'est mon hôtel? Non, ce n'est pas votre hôtel.
+# Is this my hotel? No, it's not your hotel.
+# 
+# C'est mon ami? Non, ce n'est pas votre ami.
+# Is he my friend? No, he's not your friend.
+# 
+# C'est mon café? Non, ce n'est pas votre café.
+# Is that my coffee? No, it's not your coffee.
+# 
+# C'est anglais? Non, ce n'est pas anglais.
+# Is that English? No, it's not English.
+# 
+# C'est français? Non, ce n'est pas français.
+# Is it French? No, it's not French.
+# 
+# C'est bon? Non, ce n'est pas bon.
+# Is it good? No, it's not good.
+# 
+# C'est libre? Non, ce n'est pas libre.
+# Is it free? No, it's not free.
+# 
+# C'est ici? Non, ce n'est pas ici.
+# Is this the place? No, it's not here.
+# 
+# C'est parfait? Non, ce n'est pas parfait.
+# Is it perfect? No, it's not perfect.
+# 
+# C'est très bon? Non, ce n'est pas très bon.
+# Is it very good? No, it's not very good.
+# 
+# C'est fort? Non, ce n'est pas fort.
+# Is it strong? No, it's not strong.
+# 
+# Il est pressé? Non, il n'est pas pressé.
+# Is he in a hurry? No, he's in no hurry.
+# 
+# C'est pressé? Non, ce n'est pas pressé.
+# Is there a hurry? No, there's no hurry.
+# 
+# Ils sont en vacances? Non, ils ne sont pas en vacances.
+# Are they on vacation? No, they're not on vacation.
+# 
+# Vous êtes pressé? Non, je ne suis pas pressé.
+# Are you in a hurry? No, I'm in no hurry.
+# 
+# C'est ici? Non, ce n'est pas ici.
+# Is this the place? No, it's not here.
+# 
+# C'est le restaurant? Non, ce n'est pas le restaurant.
+# Is that the restaurant? No, it's not the restaurant.
+# 
+# Il est à Paris? Non, il n'est pas à Paris.
+# Is he in Paris? No, he's not in Paris.
+# 
 Est-ce que la chambre est jolie? Non, elle n'est pas jolie.
 Is the room pretty? No, she's not pretty.
 

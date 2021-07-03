@@ -89,7 +89,7 @@ public class SetenceMining implements QuarkusApplication {
                         pair.sourceLanguage + "[sound:" + audioFilename + "]")
                 .put("Back (a single word/phrase, no context)", pair.sourceLanguage)
                 .put("- The full sentence (no words blanked out)", pair.targetLanguage)
-                .put("• Make 2 cards? (\"y\" = yes, blank = no)", "y");
+                .put("• Make 2 cards? (y = yes, blank = no)", "y");
 
         JsonObject note = new JsonObject();
         note.put("deckName", deckName).put("modelName", "3. All-Purpose Card").put("fields", fields).put("tags",
