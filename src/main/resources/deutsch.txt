@@ -6298,6 +6298,9 @@
 # Ich habe neuen Vokabeln gelernt.
 # I learned new vocabulary.
 # 
+Werden Sie den Praktikanten die Systeme erklären? - formal
+Are you going to explain the systems to the interns?
+
 Das Licht, die Lichter
 The light, the lights
 
