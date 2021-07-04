@@ -9298,6 +9298,114 @@
 # Il est à Paris? Non, il n'est pas à Paris.
 # Is he in Paris? No, he's not in Paris.
 # 
+C'est la fille qui a les yeux bleus.
+It's the girl that has blue eyes.
+
+C'est le garçon que j'aime.
+It's the boy I love.
+
+C'est le garçon qui habite en face de chez moi.
+It's the boy that lives opposite to my place.
+
+C'est la fille qui travaille à la banque.
+It's the girl that works at the bank.
+
+C'est la fille qui aime les chevaux.
+It's the girl that loves horses.
+
+C'est le garçon que tu veux connaître.
+It's the boy that you would like to know.
+
+C'est le garçon qu'il a vu au supermarché.
+It's the boy that he saw in the supermarket.
+
+C'est le garçon que les enfants adorent.
+It's the boy that the kids love.
+
+Quels types d'équipements vous pouvez demander ou exiger lorsque vous décidez de rester dans un hôtel?
+What kind of facilities you can ask for or require when you decide to stay at a hotel?
+
+Et bien, s'il y a un parking le parking peut être gratuit ou payant.
+Well, if there is a parking, the parking can be free, or charged.
+
+Est-ce que l'hôtel dispose d'un restaurant?
+Has the hotel got a restaurant?
+
+Est-ce que les animaux domestiques sont admins?
+Are pets allowed?
+
+Est-ce qu'il y a un service d'étage dans les chambres?
+Is there room serive?
+
+Est-ce qu'il y a un centre de remise en forme?
+Is there a wellness center?
+
+Je vouldrais réserver, masi sans pré-paimanet
+I would like to book but without prepayment
+
+Est-ce qu'il y a une annulation gratuite?
+Iz there free cancellation?
+
+Ça ce sont por les conditions de réservation principales.
+This is concerning main booking conditions.
+
+Dans un hôtel vous regardez le nombre d'étoiles.
+At a hotel, you look at the number of stars.
+
+Le standard de l'hôtel augmente avec le nombre d'etoiles.
+The stading of the hotel increases with the number of stars.
+
+Ensuite, on peut poser des questions sur les repas.
+then, we can ask questions about the meals.
+
+Est-ce que le petit=déjeneur est inclus?
+Is breakfast included?
+
+Est-ce que c'est une penion complète? Petit-déjeunes, déjeuner, dîner.
+Is it full board? Breakfast, lunch, dinner.
+
+Est-ce que ce tout compris, à volonté?
+Is it all included?
+
+Ensuite, l'équipements de la chambre. On a parlé de l'équipement de l'hôtel.
+Then, the room equipment. We have talked about the hotel facilities.
+
+Vous pouvez demander s'il y a une cuisine dans la chambre.
+You can ask if there is a kitchen in the room.
+
+Est-ce qu'il y a la climatisation?
+Is there air conditioning?
+
+Ça c'est très important.
+This is very important.
+
+Est-ce qu'il y a une bagnoire ou une douche?
+Is there a bath tub or a shower?
+
+Vous pouvez préférer un étage supérieur.
+You may prefer un upper floor.
+
+Certains demand également s'il y a un accès à un balcon ou une terrasse.
+Some people ask if there is access to a balcony or terrasse.
+
+La chambre peut être une chambre simple, avec un seul lit, une chambre double, prévue pour deux personnes.
+The room can be a single room, with only one bed, a double room, planned for two people.
+
+Il existe également des chambres triples ou quadruples.
+There are also triple or quadruple bedrooms.
+
+Est-ce qu'il y a un lit d'appint?
+Is there an extra bed?
+
+D'accord, ça c'est pour la litterie.
+Ok, this is concerning the bedding.
+
+Est-ce qu'il y a des sites d'intérêt à proximiter à visiter?
+Are there places of interest nearby to visit?
+
+Et l'accès: en transport en commun, ou l'accès à pied.
+And access: by means of public transportation, or the access on foot.
+
 Est-ce que la chambre est jolie? Non, elle n'est pas jolie.
 Is the room pretty? No, she's not pretty.
 
