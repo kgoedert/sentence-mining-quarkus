@@ -9298,6 +9298,12 @@
 # Il est à Paris? Non, il n'est pas à Paris.
 # Is he in Paris? No, he's not in Paris.
 # 
+Si elle a compris la leçon, c'est parce qu'elle a écouté.
+If she has understood the lesson, it's because she listened to it. 
+
+Tu vais faire les courses demain? Je pense.
+Are you going shopping tomorrow? I think so.
+
 C'est la fille qui a les yeux bleus.
 It's the girl that has blue eyes.
 

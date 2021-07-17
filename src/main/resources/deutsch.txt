@@ -6297,301 +6297,307 @@
 # 
 # Ich habe neuen Vokabeln gelernt.
 # I learned new vocabulary.
+# # 
+# Wie hast du Deutsch gelernt?
+# How did you lern german?
 # 
-Werden Sie den Praktikanten die Systeme erklären? - formal
-Are you going to explain the systems to the interns?
-
-Das Licht, die Lichter
-The light, the lights
-
-Darf ich einen Vorschlag machen?
-May I make a suggestion? 
-
-Wir haben zusammen gelernt.     
-We studied together.
-
-Ich bin gefahren.
-I drove.
-
-Ich bin nach Berlin gefahren.
-I drove to Berlin.
-
-Ich bin gestern nach Berlin gefahren.
-Yesterday, I drove to Berlin.
-
-Ich bin gestern mit dem Zug nach Berlin gefahren.
-Yesterday, I took the train to Berlin.
-
-Wir sind mit seinem Auto gefahren.
-We drove with his car.
-
-Seid ihr in die Berge gefahren?
-Did you guys drive into the mountains?
-
-Wir sind mit BlablaAuto nach München gefahren.
-We went to Munich by BlablaAuto.
-
-Anna ist mit Josef in die Stadt gefahren.
-Anna drove into the city with Josef.
-
-Er ist nach Hause gegangen.
-He went home.
-
-Er ist alleine nach Hause gegangen.
-He went home alone.
-
-Er ist gestern Abend alleine nach Hause gegangen.
-Yesterday night, he went home alone.
-
-Er ist nach Moskau geflogen.
-He flew to Moscow.
-
-Sie ist noch nie geflogen.
-She's never flown before.
-
-Seid ihr schon mal nach Namibia geflogen?
-Have you guys flown to Namibia before?
-
-Er ist nicht zur Besprechung gekommen.
-He didn't come to the meeting.
-
-Pia ist zu spät gekommen.
-Pia was late.
-
-Warum seid ihr zu spät gekommen?
-Why were you guys late?
-
-Ich bin mit der Bahn gekommen.
-I came by train.
-
-Thomas ist alleine gekommen.
-Thomas came alone.
-
-Er ist letzte Woche nach Thailand gereist.
-He traveled to Thailand last week.
-
-Wir sind sicher gelandet.
-We landed safely.
-
-Er ist über einen Stein gestolpert.
-He tripped over a rock.
-
-Er ist über den Stuhl gefallen.
-He fell over the chair.
-
-Ich bin ins Wasser gefallen.
-I fell into the water.
-
-Ich bin hingefallen.
-I fell down.
-
-Ich bin bis zum Ende geblieben.
-I stayed until the end.
-
-Sie ist zu Hause geblieben.
-She stayed at home.
-
-Wir sind dieses Jahr in Berlin gewesen.
-We were in Berlin this year.
-
-Wir waren in Berlin.
-We were in Berlin.
-
-Ich bin noch nie in Russland gewesen.
-I've never been to Russia before.
-
-Was ist passiert?
-What happened?
-
-Was ist geschehen?
-What happened? (mais formal que passiert)
-
-Ein Unfall ist passiert?
-An accident happened.
-
-Er ist rot geworden.
-He blushed.
-
-Ich bin dick geworden.
-I got fat.
-
-Der Kuchen ist mir gelungen.
-The cake was a success.
-
-Der Kuchen ist mir misslungen.
-I failed at baking the cake.
-
-Ich bin mitten in der Nacht aufgewacht.
-I woke up in the middle of the night.
-
-Ich bin heute um sechs Uhr aufgestanden.
-I got up at 6 am today.
-
-Er ist letztes Jahr gestorben.
-He died last year.
-
-Das Baby ist eingeschlafen.                
-The baby fell asleep.
-
-Wir haben meine Mutter besucht.
-We visited my mother.
-
-Wir haben gestern meine Mutter in Dortmund besucht.
-We visited my mother in Dortmund yesterday.
-
-Sie ist nach Berlin gefahren.
-She drove to Berlin.
-
-Sie ist Dienstagmorgen mit Julia nach Berlin gefahren.         
-She drove tuesday morning with Julia to Berlin.
-
-Habt ihr schon angefangen?
-Have you guys already started?
-
-Nein, wir haben noch nicht angefangen.
-No, we have not started yet.
-
-Er hat mich gestern um 2 Uhr nachts angerufen.
-He called me yesterday at 2 am.
-
-Er ist mitgekommen, weil er nicht allein sein wollte.
-He came along because he didn't want to be alone.
-
-Ich habe sie in Berlin kennengelernt.
-I met her in Berlin.
-
-Ich bin um 4 Uhr aufgewacht und konnte nicht mehr einschlafen.
-I woke up at 4 am and could not fall asleep anymore.
-
-Er ist heute um halb acht aufgestanden, obwohl er spät ins Bett gegangen ist.
-He got up at 7:30 today even though he went to bed late.
-
-Anna und Stephan haben Wein und Käse mitgebracht.
-Anna and Stephan brought wine and cheese.
-
-Sie hat keinen Regenschirm mitgenommen und ist nass geworden.
-She didn't bring an umbrella with her and got wet.
-
-Er ist erst sehr spät zurückgekommen und war stinksauer.
-He only came back very late and I was pissed off.
-
-Wann bist du gestern angekommen?
-When did you arrive yesterday?
-
-Hat Lukas sein Zimmer aufgeräumt?
-Did Lukas clean up his room?
-
-Hast du dich umgesehen?
-Did you take a look around?
-
-Hast du ihr die Bücher zurückgegeben?
-Did you give her back the books?
-
-Haben Sie mir zugehört?
-Did you listen to me?
-
-Hat sie sich angezogen?
-Did she get dressed?
-
-Wo hast du die Gläser hingestellen?
-Where did you put the glasses?
-
-Hat er mit dem Rauchen aufgehört?
-Did he quit smoking?
-
-Hast du die Kinder von der Schule abgeholt?
-Did you pick up the kids from school?
-
-Warum hast du dem Jungen das Spielzeug abgenommen?        
-Why did you take the toy from the boy?
-
-Ich weiß nicht.
-I don't know.
-
-Ich weiß es nicht.
-I don't know.
-
-Ich weiß es leider nicht.               
-Unfortunately, I don't know.
-
-Keine Ahnung.
-No idea. (No clue)
-
-Ich habe keine Ahnung.
-I have no idea.
-
-Ich bin mir nicht sicher.
-I am not sure.
-
-Ich bin mir unsicher.
-I am unsure.
-
-Wie war dein Wochenende?
-How was your weekend?
-
-Wie war Ihr Wochenende?
-How was your weekend? (formal)
-
-Schönes Wochenende!
-Have a nice weekend!
-
-Was machst du am Wochenende?
-What are you doing this weekend?
-
-Ich gehe ins Kino.
-I'm going to the movies.
-
-Am Wochenende gehe ich ins Kino.
-On the weekend, I'm going to the movies.
-
-Ich gehe wandern.
-I'm going hiking.
-
-Wir gehen Skifahren.
-We're going skiing.
-
-Wir gehen Wochenende Skifahren.
-We're going skiing on the weekend.
-
-Ich gehe schwimmen.
-I'm going swimming.
-
-Ich gehe mit einer Freundin einkaufen.
-I'm going shopping with a friend.
-
-Wir gehen in die Sauna.
-We're going to the sauna.
-
-Ich fahre in die Stadt.
-I'm driving into town.
-
-Ich fahre mit dem Zug in die Stadt.
-I'm going into town by train.
-
-Ich fliege nach Zürich.
-I'm flying to Zurich.
-
-Ich gehe zu Phillip.
-I'm going to Phillip's house.
-
-Wir gehen zu Anna.
-We're going to Ana's house.
-
-Wie war dein Wochenende?
-How was your weekend?
-
-Mein Wochenende war sehr schön!
-My weekend was very nice!
-
-Mein Wochenende war toll!
-My weekend was great!
-
-Mein Wochenende war ziemlich langweilig.
-My weekend was pretty boring.
-
-Mein Wochenende war ganz gut.
-My weekend was ok.
-
+# Er hat die ganze Zeit gelacht.
+# He laughed the whole time.
+# 
+# Werden Sie den Praktikanten die Systeme erklären? - formal
+# Are you going to explain the systems to the interns?
+# 
+# Das Licht, die Lichter
+# The light, the lights
+# 
+# Darf ich einen Vorschlag machen?
+# May I make a suggestion? 
+# 
+# Wir haben zusammen gelernt.     
+# We studied together.
+# 
+# Ich bin gefahren.
+# I drove.
+# 
+# Ich bin nach Berlin gefahren.
+# I drove to Berlin.
+# 
+# Ich bin gestern nach Berlin gefahren.
+# Yesterday, I drove to Berlin.
+# 
+# Ich bin gestern mit dem Zug nach Berlin gefahren.
+# Yesterday, I took the train to Berlin.
+# 
+# Wir sind mit seinem Auto gefahren.
+# We drove with his car.
+# 
+# Seid ihr in die Berge gefahren?
+# Did you guys drive into the mountains?
+# 
+# Wir sind mit BlablaAuto nach München gefahren.
+# We went to Munich by BlablaAuto.
+# 
+# Anna ist mit Josef in die Stadt gefahren.
+# Anna drove into the city with Josef.
+# 
+# Er ist nach Hause gegangen.
+# He went home.
+# 
+# Er ist alleine nach Hause gegangen.
+# He went home alone.
+# 
+# Er ist gestern Abend alleine nach Hause gegangen.
+# Yesterday night, he went home alone.
+# 
+# Er ist nach Moskau geflogen.
+# He flew to Moscow.
+# 
+# Sie ist noch nie geflogen.
+# She's never flown before.
+# 
+# Seid ihr schon mal nach Namibia geflogen?
+# Have you guys flown to Namibia before?
+# 
+# Er ist nicht zur Besprechung gekommen.
+# He didn't come to the meeting.
+# 
+# Pia ist zu spät gekommen.
+# Pia was late.
+# 
+# Warum seid ihr zu spät gekommen?
+# Why were you guys late?
+# 
+# Ich bin mit der Bahn gekommen.
+# I came by train.
+# 
+# Thomas ist alleine gekommen.
+# Thomas came alone.
+# 
+# Er ist letzte Woche nach Thailand gereist.
+# He traveled to Thailand last week.
+# 
+# Wir sind sicher gelandet.
+# We landed safely.
+# 
+# Er ist über einen Stein gestolpert.
+# He tripped over a rock.
+# 
+# Er ist über den Stuhl gefallen.
+# He fell over the chair.
+# 
+# Ich bin ins Wasser gefallen.
+# I fell into the water.
+# 
+# Ich bin hingefallen.
+# I fell down.
+# 
+# Ich bin bis zum Ende geblieben.
+# I stayed until the end.
+# 
+# Sie ist zu Hause geblieben.
+# She stayed at home.
+# 
+# Wir sind dieses Jahr in Berlin gewesen.
+# We were in Berlin this year.
+# 
+# Wir waren in Berlin.
+# We were in Berlin.
+# 
+# Ich bin noch nie in Russland gewesen.
+# I've never been to Russia before.
+# 
+# Was ist passiert?
+# What happened?
+# 
+# Was ist geschehen?
+# What happened? (mais formal que passiert)
+# 
+# Ein Unfall ist passiert?
+# An accident happened.
+# 
+# Er ist rot geworden.
+# He blushed.
+# 
+# Ich bin dick geworden.
+# I got fat.
+# 
+# Der Kuchen ist mir gelungen.
+# The cake was a success.
+# 
+# Der Kuchen ist mir misslungen.
+# I failed at baking the cake.
+# 
+# Ich bin mitten in der Nacht aufgewacht.
+# I woke up in the middle of the night.
+# 
+# Ich bin heute um sechs Uhr aufgestanden.
+# I got up at 6 am today.
+# 
+# Er ist letztes Jahr gestorben.
+# He died last year.
+# 
+# Das Baby ist eingeschlafen.                
+# The baby fell asleep.
+# 
+# Wir haben meine Mutter besucht.
+# We visited my mother.
+# 
+# Wir haben gestern meine Mutter in Dortmund besucht.
+# We visited my mother in Dortmund yesterday.
+# 
+# Sie ist nach Berlin gefahren.
+# She drove to Berlin.
+# 
+# Sie ist Dienstagmorgen mit Julia nach Berlin gefahren.         
+# She drove tuesday morning with Julia to Berlin.
+# 
+# Habt ihr schon angefangen?
+# Have you guys already started?
+# 
+# Nein, wir haben noch nicht angefangen.
+# No, we have not started yet.
+# 
+# Er hat mich gestern um 2 Uhr nachts angerufen.
+# He called me yesterday at 2 am.
+# 
+# Er ist mitgekommen, weil er nicht allein sein wollte.
+# He came along because he didn't want to be alone.
+# 
+# Ich habe sie in Berlin kennengelernt.
+# I met her in Berlin.
+# 
+# Ich bin um 4 Uhr aufgewacht und konnte nicht mehr einschlafen.
+# I woke up at 4 am and could not fall asleep anymore.
+# 
+# Er ist heute um halb acht aufgestanden, obwohl er spät ins Bett gegangen ist.
+# He got up at 7:30 today even though he went to bed late.
+# 
+# Anna und Stephan haben Wein und Käse mitgebracht.
+# Anna and Stephan brought wine and cheese.
+# 
+# Sie hat keinen Regenschirm mitgenommen und ist nass geworden.
+# She didn't bring an umbrella with her and got wet.
+# 
+# Er ist erst sehr spät zurückgekommen und war stinksauer.
+# He only came back very late and I was pissed off.
+# 
+# Wann bist du gestern angekommen?
+# When did you arrive yesterday?
+# 
+# Hat Lukas sein Zimmer aufgeräumt?
+# Did Lukas clean up his room?
+# 
+# Hast du dich umgesehen?
+# Did you take a look around?
+# 
+# Hast du ihr die Bücher zurückgegeben?
+# Did you give her back the books?
+# 
+# Haben Sie mir zugehört?
+# Did you listen to me?
+# 
+# Hat sie sich angezogen?
+# Did she get dressed?
+# 
+# Wo hast du die Gläser hingestellen?
+# Where did you put the glasses?
+# 
+# Hat er mit dem Rauchen aufgehört?
+# Did he quit smoking?
+# 
+# Hast du die Kinder von der Schule abgeholt?
+# Did you pick up the kids from school?
+# 
+# Warum hast du dem Jungen das Spielzeug abgenommen?        
+# Why did you take the toy from the boy?
+# 
+# Ich weiß nicht.
+# I don't know.
+# 
+# Ich weiß es nicht.
+# I don't know.
+# 
+# Ich weiß es leider nicht.               
+# Unfortunately, I don't know.
+# 
+# Keine Ahnung.
+# No idea. (No clue)
+# 
+# Ich habe keine Ahnung.
+# I have no idea.
+# 
+# Ich bin mir nicht sicher.
+# I am not sure.
+# 
+# Ich bin mir unsicher.
+# I am unsure.
+# 
+# Wie war dein Wochenende?
+# How was your weekend?
+# 
+# Wie war Ihr Wochenende?
+# How was your weekend? (formal)
+# 
+# Schönes Wochenende!
+# Have a nice weekend!
+# 
+# Was machst du am Wochenende?
+# What are you doing this weekend?
+# 
+# Ich gehe ins Kino.
+# I'm going to the movies.
+# 
+# Am Wochenende gehe ich ins Kino.
+# On the weekend, I'm going to the movies.
+# 
+# Ich gehe wandern.
+# I'm going hiking.
+# 
+# Wir gehen Skifahren.
+# We're going skiing.
+# 
+# Wir gehen Wochenende Skifahren.
+# We're going skiing on the weekend.
+# 
+# Ich gehe schwimmen.
+# I'm going swimming.
+# 
+# Ich gehe mit einer Freundin einkaufen.
+# I'm going shopping with a friend.
+# 
+# Wir gehen in die Sauna.
+# We're going to the sauna.
+# 
+# Ich fahre in die Stadt.
+# I'm driving into town.
+# 
+# Ich fahre mit dem Zug in die Stadt.
+# I'm going into town by train.
+# 
+# Ich fliege nach Zürich.
+# I'm flying to Zurich.
+# 
+# Ich gehe zu Phillip.
+# I'm going to Phillip's house.
+# 
+# Wir gehen zu Anna.
+# We're going to Ana's house.
+# 
+# Wie war dein Wochenende?
+# How was your weekend?
+# 
+# Mein Wochenende war sehr schön!
+# My weekend was very nice!
+# 
+# Mein Wochenende war toll!
+# My weekend was great!
+# 
+# Mein Wochenende war ziemlich langweilig.
+# My weekend was pretty boring.
+# 
+# Mein Wochenende war ganz gut.
+# My weekend was ok.
+# 
 Mein Wochenende war der Hammer!
 My weekend was awesome!
 

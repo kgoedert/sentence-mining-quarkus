@@ -8087,316 +8087,316 @@
 # 
 # Faltaba el director, sin el que no podía empezar el concierto.
 # The director was missing, without whom the concert could not begin.
-# 
-# Me dijo una mentira, lo que no me gustó nada.
+# # 
+# # Me dijo una mentira, lo que no me gustó nada.
+# # He told me a lie, which I didn't like at all.
+# # 
+# # Me dijo una mentira, cosa que no gustó nada.
+# # He told me a lie, which I didn't like at all.
+# # 
+# # Eva fue despedirse, lo que molestó a Javi.
+# # Eva said goodbye, which upset Javi.
+# # 
+# Me dijo una mentira, cosa que no gusto nada.
 # He told me a lie, which I didn't like at all.
 # 
-# Me dijo una mentira, cosa que no gustó nada.
-# He told me a lie, which I didn't like at all.
+# Tengo un amigo. Su padre es fotógrafo.
+# I have a friend. His father is a photographer.
 # 
-# Eva fue despedirse, lo que molestó a Javi.
-# Eva said goodbye, which upset Javi.
+# Tengo un amigo cuyo padre es fotógrafo.
+# I have a friend whose father is a photographer.
 # 
-Me dijo una mentira, cosa que no gusto nada.
-He told me a lie, which I didn't like at all.
-
-Tengo un amigo. Su padre es fotógrafo.
-I have a friend. His father is a photographer.
-
-Tengo un amigo cuyo padre es fotógrafo.
-I have a friend whose father is a photographer.
-
-Ese señor es escritor. Te he hablado de sus libros.
-That man is a writer. I told you about his books.
-
-Ese señor es el escritor de cuyos libros te he hablado.
-That man is the writer whose books I told you about.
-
-Mira. Esa es la chica cuyo hermano es actor de teatro.
-Look. That's the girl whose brother is a theatre actor.
-
-Una viuda es una mujer cuyo marido ha fallecido.
-A widow is a woman whose husband has died.
-
-He estado hablando con la señora en cuya tienda quieres trabajar.
-I've been talking to the lady whose shop you want to work in.
-
-Aurelia, cuyo hermano colabora con la Cruz Roja, cree que puede encontrarme trabajo.
-Aurelia, whose brother collaborates with the Red Cross, thinks she can find me a job.
-
-Conozco a una chica cuya hermana ha escalado el Aconcagua.
-I know a girl whose sister has climbed Aconcagua.
-
-Conozco a un señor cuyos hijos han estudiado Físicas.
-I know a man whose children have studied physics.
-
-Esa es la chica cuyo hermano es actor de teatro.
-That's the girl whose brother is a theatre actor.
-
-Esa es la hermana del chico que es actor de teatro.
-That is the sister of the boy who is a theatre actor.
-
-Es es el señor cuyo perro ganó el concurso.
-He is the man whose dog won the contest.
-
-Ese es el dueño del perro que ganó el concurso.
-That's the owner of the dog that won the contest.
-
-Te puedo dar cuanto aceite necesites.
-I can give you as much oil as you need.
-
-Coge cuantos higos quieras. Hay muchos.
-Take as many figs as you want. There are many.
-
-Come cuantos pasteles quieras. Yo no tengo hambre.
-Eat as many cakes as you want. I'm not hungry.
-
-Coge cuantas hojas necesites.
-Take as many leaves as you need.
-
-Duerme cuanto quieras. Estamos de vacaciones.
-Sleep as much as you want. We are on vacation.
-
-Come cuanto quieras. No te quedes con hambre.
-Eat as much as you want. Don't stay hungry.
-
-Se llevaron todo cuanto había en el piso.
-They took everything on the floor.
-
-¿Quién ha llamado?
-Who called?
-
-¿Quiénes faltaron a clase ayer?
-Who missed class yesterday?
-
-¿A quién viste en la explosión?
-Who did you see in the explosion?
-
-¿Qué es un samurái?
-What is a samurai?
-
-¿Con qué profesor estás?
-Which teacher are you with?
-
-¿Qué pintor hispanoamericano pinta personas gordas?
-What Hispanic-American painter paints fat people?
-
-¿Con qué arquitecto trabajas?
-What architect do you work with?
-
-¿Con quién trabajas?
-Who do you work with?
-
-¿Con cuál de las hermanas de John está casado Jorge?
-Which of John's sisters is Jorge married to?
-
-¿Qué es una probeta?
-What is a test tube?
-
-¿Qué prefieres, carne o pescado?
-What do you prefer, meat or fish?
-
-¿En qué libro sales las fotos del monte Emei?
-In which book do you take the photos of Mount Emei?
-
-¿Cuál de estas fotos quieres guardar?
-Which of these photos do you want to keep?
-
-¿Qué tenemos que coger?
-What do we have to take?
-
-¿Cuál es la casa de Anita?
-Which is Anita's house?
-
-¿Cuáles son los accidentes de carretera más frecuentes?
-What are the most frequent road accidents?
-
-¿Cuál es mi habitación?
-Which is my room?
-
-¿En qué restaurante quieres comer?
-In which restaurant do you want to eat?
-
-¿Qué haces?
-What do you do?
-
-¿Qué te ocurre?
-What's wrong with you?
-
-¿Qué pasó anoche?
-What happened last night?
-
-¿Dónde está la torre 101?
-Where is Tower 101?
-
-¿De dónde vienes?
-Where do you come from?
-
-¿Adónde han enviado a Rodríguez?
-Where did they send Rodriguez?
-
-¿Cuando acabaste la carrera?
-When did you finish the race?
-
-¿Hasta cuándo vais a estar en casa de Aurora?
-How long are you going to be at Aurora's house?
-
-¿Cuánto dinero necesitas?
-How much money do you need?
-
-¿Cuántos estudiantes hay en tu clase?
-How many students are in your class?
-
-¿A cuántos de tus amigos has invitado?
-How many of your friends have you invited?
-
-¿Cómo se abre esta ventana?
-How do you open this window?
-
-¿Cómo es tu nueva casa?
-What's your new home like?
-
-¿Cómo está Roberto?
-How is Roberto?
-
-¿Por qué te vas de la empresa?
-Why are you leaving the company?
-
-¿Para qué quieres aprender chino?
-Why do you want to learn Chinese?
-
-¿A qué has venido?
-Why did you come here?
-
-¿Por qué no llamamos a Lola? Buena idea.
-Why don't we call Lola? That's a good idea.
-
-¿Por qué no le pides a Jesús que te ayude? A lo mejor lo hago.
-Why don't you ask Jesus to help you? Maybe I will.
-
-¿Quién diablos te ha vendido este coche? No funciona.
-Who the hell sold you this car? It doesn't work.
-
-¿Qué demonios haces aquí a esta hora?
-What the hell are you doing here at this hour?
-
-¿Dónde diablos vive Mónica? No llegamos nunca.
-Where the hell does Monica live? We never got there.
-
-¿Cómo demonios se abre esta caja?
-How the hell does this box open?
-
-¿Cómo estás en casa? Deberías estar en la oficina. Es que no me siento bien.
-How are you at home? You should be in the office. I just don't feel well.
-
-¿Cómo no hay leche? Si yo compré dos litros ayer. Se la ha bebido Rosa.
-How come there's no milk? I bought two liters yesterday. Rosa drank it.
-
-Rocío ayuda mucho. ¿Cómo que ayuda mucho? Si no está nunca en casa.
-Rocío helps a lot. What do you mean it helps a lot? She's never home.
-
-Luis a pagado dos rondas. ¿Cómo que ha pagado Luis? He pagado yo.
-Luis has paid two rounds. What do you mean, Luis has paid? I paid.
-
-Creo que las tiendas están cerradas. ¿Cómo que están cerradas? Si ya son las 11.
-I think the stores are closed. What do you mean, closed? It's already 11 o'clock.
-
-Espero que me den el puesto. ¿Cómo te van a dar el puesto? Si no has acabado la carrera.
-I hope they give me the stall. How are they going to give you the stall? If you haven't finished the race.
-
-Antonio no hace nada. ¿Cómo que no hace nada? Es el que más trabaja.
-Antonio doesn't do anything. What do you mean he doesn't do anything? He works the hardest.
-
-García no vino ayer. ¿Cómo que no vino ayer? Si acabó el informe.
-García didn't come yesterday. What do you mean he didn't come yesterday? He finished the report.
-
-No sé dónde vive Marta. ¿Cómo que no lo sabes? Si es muy amiga tuya.
-I don't know where Marta lives. What do you mean you don't know? She's a very good friend of yours.
-
-No creo que me den el puesto. ¿Cómo no te van a dar el puesto? Si eres el mejor.
-I don't think they'll give me the job. How can they not give you the job? If you are the best.
-
-Ahora conduzco mejor. ¿Cómo conduces mejor? Pero si eres un peligro.
-I drive better now. How do you drive better? But you are a danger.
-
-No creo que Eva me invite a su boda. ¿Cómo no te va a invitar? Os conocéis hace años.
-I don't think Eva will invite me to her wedding. How can she not invite you? You've known each other for years.
-
-¿Con quién se va a casar Laura? ¿Cómo que con quién se va a casar? Con Jaime, su novio.
-Who is Laura going to marry? What do you mean, who is she going to marry? Jaime, her boyfriend.
-
-¿Para qué quería dinero Rosa? ¿Cómo que para qué quería dinero? Para comprar comida.
-What did Rosa want money for? What do you mean, what did she want money for? To buy food.
-
-Te he estado buscando. ¿Dónde estabas? ¿Cómo que dónde estaba? En la oficina.
-I've been looking for you. Where were you? What do you mean, where was I? In the office.
-
-Tengo unos sellos y monedas rusos.
-I have some russian stamps and coins.
-
-¡Quién iba a pensar que Ana se iba a divorciar!
-Who knew Ana was getting a divorce!
-
-¡Quién iba a pensar que Lourdes estaba deprimida!
-Who would have thought Lourdes was depressed!
-
-¡Quién podía pensar que íbamos a trabajar juntos!
-Who knew we were going to work together!
-
-¡Quién podía pensar que Lorenzo tenía dos hijas!
-Who could have thought that Lorenzo had two daughters!
-
-¡Quién podría pensar que iba a bajar la Bolsa!
-Who could have thought that we were going to lower the stock market!
-
-¡Quién podría pensar que la empresa tenía pérdidas!
-Who could have thought that the company had losses!
-
-¡Quién cocinara como tú! Yo soy un desastre en la cocina.
-Who would cook like you! I'm a mess in the kitchen.
-
-¡Quién pudiera viajar como tú! Me gustaría conocer África!
-Who could travel like you! I'd like to see Africa!
-
-¡Qué sueño tengo!
-What a dream I have!
-
-¡Qué mala suerte!
-What bad luck!
-
-¡Qué cosa!
-What a thing!
-
-¡Qué suerte la tuya!
-How lucky you are!
-
-¡Qué valor el vuestro!
-What a value you have!
-
-¡Vaya casa! ¡Es preciosa!
-What a house! It's beautiful!
-
-¡Vaya cuadro! ¡Es horrible!
-What a picture! It's horrible!
-
-¡Vaya zapatos bonitos se ha comprado María! ¡Me encantan!
-What beautiful shoes Maria has bought! I love them!
-
-¡Vaya traje! Estás muy elegante.
-What a suit! You look very elegant.
-
-¡Vaya traje! Así no puedes ir a la fiesta!
-What a suit! That way you can't go to the party!
-
-¡Vaya ciudad más bonita!
-What a beautiful city!
-
-¡Vaya camisa tan fea te has comprado!
-What an ugly shirt you bought!
-
-¡Qué jóvenes que son tus amigos!
-How young your friends are!
-
+# Ese señor es escritor. Te he hablado de sus libros.
+# That man is a writer. I told you about his books.
+# 
+# Ese señor es el escritor de cuyos libros te he hablado.
+# That man is the writer whose books I told you about.
+# 
+# Mira. Esa es la chica cuyo hermano es actor de teatro.
+# Look. That's the girl whose brother is a theatre actor.
+# 
+# Una viuda es una mujer cuyo marido ha fallecido.
+# A widow is a woman whose husband has died.
+# 
+# He estado hablando con la señora en cuya tienda quieres trabajar.
+# I've been talking to the lady whose shop you want to work in.
+# 
+# Aurelia, cuyo hermano colabora con la Cruz Roja, cree que puede encontrarme trabajo.
+# Aurelia, whose brother collaborates with the Red Cross, thinks she can find me a job.
+# 
+# Conozco a una chica cuya hermana ha escalado el Aconcagua.
+# I know a girl whose sister has climbed Aconcagua.
+# 
+# Conozco a un señor cuyos hijos han estudiado Físicas.
+# I know a man whose children have studied physics.
+# 
+# Esa es la chica cuyo hermano es actor de teatro.
+# That's the girl whose brother is a theatre actor.
+# 
+# Esa es la hermana del chico que es actor de teatro.
+# That is the sister of the boy who is a theatre actor.
+# 
+# Es es el señor cuyo perro ganó el concurso.
+# He is the man whose dog won the contest.
+# 
+# Ese es el dueño del perro que ganó el concurso.
+# That's the owner of the dog that won the contest.
+# 
+# Te puedo dar cuanto aceite necesites.
+# I can give you as much oil as you need.
+# 
+# Coge cuantos higos quieras. Hay muchos.
+# Take as many figs as you want. There are many.
+# 
+# Come cuantos pasteles quieras. Yo no tengo hambre.
+# Eat as many cakes as you want. I'm not hungry.
+# 
+# Coge cuantas hojas necesites.
+# Take as many leaves as you need.
+# 
+# Duerme cuanto quieras. Estamos de vacaciones.
+# Sleep as much as you want. We are on vacation.
+# 
+# Come cuanto quieras. No te quedes con hambre.
+# Eat as much as you want. Don't stay hungry.
+# 
+# Se llevaron todo cuanto había en el piso.
+# They took everything on the floor.
+# 
+# ¿Quién ha llamado?
+# Who called?
+# 
+# ¿Quiénes faltaron a clase ayer?
+# Who missed class yesterday?
+# 
+# ¿A quién viste en la explosión?
+# Who did you see in the explosion?
+# 
+# ¿Qué es un samurái?
+# What is a samurai?
+# 
+# ¿Con qué profesor estás?
+# Which teacher are you with?
+# 
+# ¿Qué pintor hispanoamericano pinta personas gordas?
+# What Hispanic-American painter paints fat people?
+# 
+# ¿Con qué arquitecto trabajas?
+# What architect do you work with?
+# 
+# ¿Con quién trabajas?
+# Who do you work with?
+# 
+# ¿Con cuál de las hermanas de John está casado Jorge?
+# Which of John's sisters is Jorge married to?
+# 
+# ¿Qué es una probeta?
+# What is a test tube?
+# 
+# ¿Qué prefieres, carne o pescado?
+# What do you prefer, meat or fish?
+# 
+# ¿En qué libro sales las fotos del monte Emei?
+# In which book do you take the photos of Mount Emei?
+# 
+# ¿Cuál de estas fotos quieres guardar?
+# Which of these photos do you want to keep?
+# 
+# ¿Qué tenemos que coger?
+# What do we have to take?
+# 
+# ¿Cuál es la casa de Anita?
+# Which is Anita's house?
+# 
+# ¿Cuáles son los accidentes de carretera más frecuentes?
+# What are the most frequent road accidents?
+# 
+# ¿Cuál es mi habitación?
+# Which is my room?
+# 
+# ¿En qué restaurante quieres comer?
+# In which restaurant do you want to eat?
+# 
+# ¿Qué haces?
+# What do you do?
+# 
+# ¿Qué te ocurre?
+# What's wrong with you?
+# 
+# ¿Qué pasó anoche?
+# What happened last night?
+# 
+# ¿Dónde está la torre 101?
+# Where is Tower 101?
+# 
+# ¿De dónde vienes?
+# Where do you come from?
+# 
+# ¿Adónde han enviado a Rodríguez?
+# Where did they send Rodriguez?
+# 
+# ¿Cuando acabaste la carrera?
+# When did you finish the race?
+# 
+# ¿Hasta cuándo vais a estar en casa de Aurora?
+# How long are you going to be at Aurora's house?
+# 
+# ¿Cuánto dinero necesitas?
+# How much money do you need?
+# 
+# ¿Cuántos estudiantes hay en tu clase?
+# How many students are in your class?
+# 
+# ¿A cuántos de tus amigos has invitado?
+# How many of your friends have you invited?
+# 
+# ¿Cómo se abre esta ventana?
+# How do you open this window?
+# 
+# ¿Cómo es tu nueva casa?
+# What's your new home like?
+# 
+# ¿Cómo está Roberto?
+# How is Roberto?
+# 
+# ¿Por qué te vas de la empresa?
+# Why are you leaving the company?
+# 
+# ¿Para qué quieres aprender chino?
+# Why do you want to learn Chinese?
+# 
+# ¿A qué has venido?
+# Why did you come here?
+# 
+# ¿Por qué no llamamos a Lola? Buena idea.
+# Why don't we call Lola? That's a good idea.
+# 
+# ¿Por qué no le pides a Jesús que te ayude? A lo mejor lo hago.
+# Why don't you ask Jesus to help you? Maybe I will.
+# 
+# ¿Quién diablos te ha vendido este coche? No funciona.
+# Who the hell sold you this car? It doesn't work.
+# 
+# ¿Qué demonios haces aquí a esta hora?
+# What the hell are you doing here at this hour?
+# 
+# ¿Dónde diablos vive Mónica? No llegamos nunca.
+# Where the hell does Monica live? We never got there.
+# 
+# ¿Cómo demonios se abre esta caja?
+# How the hell does this box open?
+# 
+# ¿Cómo estás en casa? Deberías estar en la oficina. Es que no me siento bien.
+# How are you at home? You should be in the office. I just don't feel well.
+# 
+# ¿Cómo no hay leche? Si yo compré dos litros ayer. Se la ha bebido Rosa.
+# How come there's no milk? I bought two liters yesterday. Rosa drank it.
+# 
+# Rocío ayuda mucho. ¿Cómo que ayuda mucho? Si no está nunca en casa.
+# Rocío helps a lot. What do you mean it helps a lot? She's never home.
+# 
+# Luis a pagado dos rondas. ¿Cómo que ha pagado Luis? He pagado yo.
+# Luis has paid two rounds. What do you mean, Luis has paid? I paid.
+# 
+# Creo que las tiendas están cerradas. ¿Cómo que están cerradas? Si ya son las 11.
+# I think the stores are closed. What do you mean, closed? It's already 11 o'clock.
+# 
+# Espero que me den el puesto. ¿Cómo te van a dar el puesto? Si no has acabado la carrera.
+# I hope they give me the stall. How are they going to give you the stall? If you haven't finished the race.
+# 
+# Antonio no hace nada. ¿Cómo que no hace nada? Es el que más trabaja.
+# Antonio doesn't do anything. What do you mean he doesn't do anything? He works the hardest.
+# 
+# García no vino ayer. ¿Cómo que no vino ayer? Si acabó el informe.
+# García didn't come yesterday. What do you mean he didn't come yesterday? He finished the report.
+# 
+# No sé dónde vive Marta. ¿Cómo que no lo sabes? Si es muy amiga tuya.
+# I don't know where Marta lives. What do you mean you don't know? She's a very good friend of yours.
+# 
+# No creo que me den el puesto. ¿Cómo no te van a dar el puesto? Si eres el mejor.
+# I don't think they'll give me the job. How can they not give you the job? If you are the best.
+# 
+# Ahora conduzco mejor. ¿Cómo conduces mejor? Pero si eres un peligro.
+# I drive better now. How do you drive better? But you are a danger.
+# 
+# No creo que Eva me invite a su boda. ¿Cómo no te va a invitar? Os conocéis hace años.
+# I don't think Eva will invite me to her wedding. How can she not invite you? You've known each other for years.
+# 
+# ¿Con quién se va a casar Laura? ¿Cómo que con quién se va a casar? Con Jaime, su novio.
+# Who is Laura going to marry? What do you mean, who is she going to marry? Jaime, her boyfriend.
+# 
+# ¿Para qué quería dinero Rosa? ¿Cómo que para qué quería dinero? Para comprar comida.
+# What did Rosa want money for? What do you mean, what did she want money for? To buy food.
+# 
+# Te he estado buscando. ¿Dónde estabas? ¿Cómo que dónde estaba? En la oficina.
+# I've been looking for you. Where were you? What do you mean, where was I? In the office.
+# 
+# Tengo unos sellos y monedas rusos.
+# I have some russian stamps and coins.
+# 
+# ¡Quién iba a pensar que Ana se iba a divorciar!
+# Who knew Ana was getting a divorce!
+# 
+# ¡Quién iba a pensar que Lourdes estaba deprimida!
+# Who would have thought Lourdes was depressed!
+# 
+# ¡Quién podía pensar que íbamos a trabajar juntos!
+# Who knew we were going to work together!
+# 
+# ¡Quién podía pensar que Lorenzo tenía dos hijas!
+# Who could have thought that Lorenzo had two daughters!
+# 
+# ¡Quién podría pensar que iba a bajar la Bolsa!
+# Who could have thought that we were going to lower the stock market!
+# 
+# ¡Quién podría pensar que la empresa tenía pérdidas!
+# Who could have thought that the company had losses!
+# 
+# ¡Quién cocinara como tú! Yo soy un desastre en la cocina.
+# Who would cook like you! I'm a mess in the kitchen.
+# 
+# ¡Quién pudiera viajar como tú! Me gustaría conocer África!
+# Who could travel like you! I'd like to see Africa!
+# 
+# ¡Qué sueño tengo!
+# What a dream I have!
+# 
+# ¡Qué mala suerte!
+# What bad luck!
+# 
+# ¡Qué cosa!
+# What a thing!
+# 
+# ¡Qué suerte la tuya!
+# How lucky you are!
+# 
+# ¡Qué valor el vuestro!
+# What a value you have!
+# 
+# ¡Vaya casa! ¡Es preciosa!
+# What a house! It's beautiful!
+# 
+# ¡Vaya cuadro! ¡Es horrible!
+# What a picture! It's horrible!
+# 
+# ¡Vaya zapatos bonitos se ha comprado María! ¡Me encantan!
+# What beautiful shoes Maria has bought! I love them!
+# 
+# ¡Vaya traje! Estás muy elegante.
+# What a suit! You look very elegant.
+# 
+# ¡Vaya traje! Así no puedes ir a la fiesta!
+# What a suit! That way you can't go to the party!
+# 
+# ¡Vaya ciudad más bonita!
+# What a beautiful city!
+# 
+# ¡Vaya camisa tan fea te has comprado!
+# What an ugly shirt you bought!
+# 
+# ¡Qué jóvenes que son tus amigos!
+# How young your friends are!
+# 
 ¡Qué horror!¡Qué de niños!
 What a horror! What children!
 
