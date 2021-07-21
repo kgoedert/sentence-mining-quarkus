@@ -9295,299 +9295,311 @@
 # C'est le restaurant? Non, ce n'est pas le restaurant.
 # Is that the restaurant? No, it's not the restaurant.
 # 
-# Il est à Paris? Non, il n'est pas à Paris.
-# Is he in Paris? No, he's not in Paris.
+# # Il est à Paris? Non, il n'est pas à Paris.
+# # Is he in Paris? No, he's not in Paris.
+# # 
+# Si tu écoutes le professeur, tu comprendras l'exercice.
+# If you listen to the teacher, you will understand the exercise.
 # 
-Si elle a compris la leçon, c'est parce qu'elle a écouté.
-If she has understood the lesson, it's because she listened to it. 
-
-Tu vais faire les courses demain? Je pense.
-Are you going shopping tomorrow? I think so.
-
-C'est la fille qui a les yeux bleus.
-It's the girl that has blue eyes.
-
-C'est le garçon que j'aime.
-It's the boy I love.
-
-C'est le garçon qui habite en face de chez moi.
-It's the boy that lives opposite to my place.
-
-C'est la fille qui travaille à la banque.
-It's the girl that works at the bank.
-
-C'est la fille qui aime les chevaux.
-It's the girl that loves horses.
-
-C'est le garçon que tu veux connaître.
-It's the boy that you would like to know.
-
-C'est le garçon qu'il a vu au supermarché.
-It's the boy that he saw in the supermarket.
-
-C'est le garçon que les enfants adorent.
-It's the boy that the kids love.
-
-Quels types d'équipements vous pouvez demander ou exiger lorsque vous décidez de rester dans un hôtel?
-What kind of facilities you can ask for or require when you decide to stay at a hotel?
-
-Et bien, s'il y a un parking le parking peut être gratuit ou payant.
-Well, if there is a parking, the parking can be free, or charged.
-
-Est-ce que l'hôtel dispose d'un restaurant?
-Has the hotel got a restaurant?
-
-Est-ce que les animaux domestiques sont admins?
-Are pets allowed?
-
-Est-ce qu'il y a un service d'étage dans les chambres?
-Is there room serive?
-
-Est-ce qu'il y a un centre de remise en forme?
-Is there a wellness center?
-
-Je vouldrais réserver, masi sans pré-paimanet
-I would like to book but without prepayment
-
-Est-ce qu'il y a une annulation gratuite?
-Iz there free cancellation?
-
-Ça ce sont por les conditions de réservation principales.
-This is concerning main booking conditions.
-
-Dans un hôtel vous regardez le nombre d'étoiles.
-At a hotel, you look at the number of stars.
-
-Le standard de l'hôtel augmente avec le nombre d'etoiles.
-The stading of the hotel increases with the number of stars.
-
-Ensuite, on peut poser des questions sur les repas.
-then, we can ask questions about the meals.
-
-Est-ce que le petit=déjeneur est inclus?
-Is breakfast included?
-
-Est-ce que c'est une penion complète? Petit-déjeunes, déjeuner, dîner.
-Is it full board? Breakfast, lunch, dinner.
-
-Est-ce que ce tout compris, à volonté?
-Is it all included?
-
-Ensuite, l'équipements de la chambre. On a parlé de l'équipement de l'hôtel.
-Then, the room equipment. We have talked about the hotel facilities.
-
-Vous pouvez demander s'il y a une cuisine dans la chambre.
-You can ask if there is a kitchen in the room.
-
-Est-ce qu'il y a la climatisation?
-Is there air conditioning?
-
-Ça c'est très important.
-This is very important.
-
-Est-ce qu'il y a une bagnoire ou une douche?
-Is there a bath tub or a shower?
-
-Vous pouvez préférer un étage supérieur.
-You may prefer un upper floor.
-
-Certains demand également s'il y a un accès à un balcon ou une terrasse.
-Some people ask if there is access to a balcony or terrasse.
-
-La chambre peut être une chambre simple, avec un seul lit, une chambre double, prévue pour deux personnes.
-The room can be a single room, with only one bed, a double room, planned for two people.
-
-Il existe également des chambres triples ou quadruples.
-There are also triple or quadruple bedrooms.
-
-Est-ce qu'il y a un lit d'appint?
-Is there an extra bed?
-
-D'accord, ça c'est pour la litterie.
-Ok, this is concerning the bedding.
-
-Est-ce qu'il y a des sites d'intérêt à proximiter à visiter?
-Are there places of interest nearby to visit?
-
-Et l'accès: en transport en commun, ou l'accès à pied.
-And access: by means of public transportation, or the access on foot.
-
-Est-ce que la chambre est jolie? Non, elle n'est pas jolie.
-Is the room pretty? No, she's not pretty.
-
-C'est bon? Non, ce n'est pas bon.
-Is it good? No, it's not good.
-
-C'est au café? Non, ce n'est pas au café.
-Is it at the coffee shop? No, it's not at the coffee shop.
-
-C'est votre chambre? Non, ce n'est pas ma chambre.
-Is this your room? No, this is not my room.
-
-Est-ce que votre ami est français? Non, il n'est pas français.
-Is your friend French? No, he's not French.
-
-Est-ce que vous avez les livres? Non, je n'ai pas les livres.
-Do you have the books? No, I don't have the books.
-
-Est-ce que vous allez en vacances? Non, je ne vais pas en vacances.
-Are you going on vacation? No, I'm not going on vacation.
-
-C'est votre chambre? Non, ce n'est pas ma chambre.
-Is this your room? No, this is not my room.
-
-C'est mon café? Non, ce n'est pas votre café.
-Is that my coffee? No, it's not your coffee.
-
-Est-ce que la voiture est dans cette direction? Non, la voiture n'est pas dans cette direction.
-Is the car in that direction? No, the car is not in that direction.
-
-Est-ce que l'aéroport est dans cette direction? Non, l'aéroport n'est pas dans cette direction.
-Is the airport in that direction? No, the airport is not in that direction.
-
-Est-ce que l'ascenseur est dans cette direction? Non, l'ascenseur n'est pas dans cette direction.
-Is the elevator in that direction? No, the elevator is not in that direction.
-
-Est-ce que les escaliers sont dans cette direction? Non, les escaliers ne sont pas dans cette direction.
-Are the stairs in that direction? No, the stairs are not in that direction.
-
-Est-ce que le restaurant est dans cette direction? Non, le restaurant n'est pas dans cette direction.
-Is the restaurant in that direction? No, the restaurant is not in that direction.
-
-Est-ce que la salle est dans cette direction? Non, la salle n'est pas dans cette direction.
-Is the room in that direction? No, the room is not in that direction.
-
-Est-ce que la chambre est dans cette direction? Non, la chambre n'est pas dans cette direction.
-Is the room in this direction? No, the room is not in that direction.
-
-Est-ce qu'il faut commencer la classe maintenant? Non, il ne faut pas commencer la classe maintenant.
-Do we have to start the class now? No, you mustn't start the class now.
-
-Est-ce qu'il faut aller à l'aéroport? Non, il ne faut pas aller à l'aéroport.
-Do we have to go to the airport? No, you don't have to go to the airport.
-
-Est-ce qu'il faut prendre l'ascenseur? Non, il ne faut pas prendre l'ascenseur.
-Do we have to take the elevator? No, you shouldn't take the elevator.
-
-Est-ce qu'il faut garder les sacs longtemps? Non, il ne faut pas garder les sacs longtemps.
-Do you have to keep the bags for a long time? No, you shouldn't keep the bags for long.
-
-Est-ce qu'il faut prendre les escaliers? Non, il ne faut pas prendre les escaliers.
-Do you have to take the stairs? No, you shouldn't take the stairs.
-
-Est-ce qu'il faut être à la gare à six heures? Non, il ne faut pas être à la gare à six heures.
-Do you have to be at the station at six o'clock? No, you don't have to be at the station at six o'clock.
-
-Est-ce qu'il faut prendre le métro? Non, il ne faut pas prendre le métro.
-Do I have to take the subway? No, you shouldn't take the subway.
-
-Est-ce qu'il faut aller à la gare le matin? Non, il ne faut pas aller à la gare le matin.
-Do you have to go to the station in the morning? No, you shouldn't go to the station in the morning.
-
-Est-ce qu'il faut prendre le petit déjeuner? Non, il ne faut pas prendre le petit déjeuner.
-Do I have to eat breakfast? No, you shouldn't have breakfast.
-
-Nous avons de la monnaie.
-We have change.
-
-Ils ont de la monnaie.
-They have change.
-
-Il a de la monnaie.
-He has change.
-
-Elles ont de la monnaie.
-They have change.
-
-Elle a de la monnaie.
-She has change.
-
-On a de la monnaie.
-We have change.
-
-Vous avez de la monnaie.
-You have change.
-
-J'ai de la monnaie.
-I have some change.
-
-Nous avons une jolie chambre au premier étage.
-We have a nice room on the first floor.
-
-J'ai une jolie chambre au premier étage.
-I have a nice room on the first floor.
-
-Il a une jolie chambre au premier étage.
-He has a nice room on the first floor.
-
-Ils ont une jolie chambre au premier étage.
-They have a nice room on the first floor.
-
-Vous avez une jolie chambre au premier étage.
-You have a nice room on the first floor.
-
-Elle a une jolie chambre au premier étage.
-She has a nice room on the first floor.
-
-Elles ont une jolie chambre au premier étage.
-They have a nice room on the first floor.
-
-On a une jolie chambre au premier étage.
-We have a nice room on the first floor.
-
-Est-ce qu'il a des chambres communicantes?
-Does it have communicating rooms?
-
-Est-ce que vous avez des chambres communicantes?
-Do you have communicating rooms?
-
-Il n'a pas les fiches.
-He doesn't have the records.
-
-Je n'ai pas la chambre six, j'ai la chambre dix.
-I don't have room six, I have room ten.
-
-Ils n'ont pas la chambre douze, ils ont la chambre dix.
-They don't have room twelve, they have room ten.
-
-Ils sont à l'hôtel; ils ont la chambre douze.
-They're at the hotel; they have room twelve.
-
-Elle est à l'hôtel; elle a la chambre douze.
-She's at the hotel; she has room twelve.
-
-Il est à l'hôtel; il a la chambre douze.
-He's at the hotel; he has room twelve.
-
-Elles sont à l'hôtel; elles ont la chambre douze.
-They're at the hotel; they have room twelve.
-
-Janine est à l'hôtel; elle a la chambre douze.
-Janine is at the hotel; she has room twelve.
-
-Mes parents sont à l'hôtel; ils ont la chambre douze.
-My parents are at the hotel; they have room twelve.
-
-Mes filles sont à l'hôtel; elles ont la chambre douze.
-My daughters are at the hotel; they have room twelve.
-
-Ils sont à l'hôtel; ils ont la chambre douze.
-They're at the hotel; they have room twelve.
-
-Elle est à l'hôtel; elle a la chambre douze.
-She's at the hotel; she has room twelve.
-
-Mon frère est à l'hôtel; il a la chambre douze
-My brother is at the hotel; he has room twelve
-
-Ils n'ont pas la chambre treize, ils ont la chambre quatorze.
-They don't have room thirteen, they have room fourteen.
-
-Elle n'a pas la chambre treize, elle a la chambre quatorze.
-She doesn't have room thirteen, she has room fourteen.
-
-Janine n'a pas la chambre treize, elle a la chambre quatorze.
-Janine doesn't have room thirteen, she has room fourteen.
+# Si vous avez perdu votre voiture, appelez quelqu'un.
+# If you lost your car, call someone. - vous
+# 
+# Si tu étudie ce weekend, tu auras une bonne note.
+# If you study this weekend, you will get a good grade. 
+# 
+# Si elle a compris la leçon, c'est parce qu'elle a écouté.
+# If she has understood the lesson, it's because she listened to it. 
+# 
+# Tu vais faire les courses demain? Je pense.
+# Are you going shopping tomorrow? I think so.
+# 
+# C'est la fille qui a les yeux bleus.
+# It's the girl that has blue eyes.
+# 
+# C'est le garçon que j'aime.
+# It's the boy I love.
+# 
+# C'est le garçon qui habite en face de chez moi.
+# It's the boy that lives opposite to my place.
+# 
+# C'est la fille qui travaille à la banque.
+# It's the girl that works at the bank.
+# 
+# C'est la fille qui aime les chevaux.
+# It's the girl that loves horses.
+# 
+# C'est le garçon que tu veux connaître.
+# It's the boy that you would like to know.
+# 
+# C'est le garçon qu'il a vu au supermarché.
+# It's the boy that he saw in the supermarket.
+# 
+# C'est le garçon que les enfants adorent.
+# It's the boy that the kids love.
+# 
+# Quels types d'équipements vous pouvez demander ou exiger lorsque vous décidez de rester dans un hôtel?
+# What kind of facilities you can ask for or require when you decide to stay at a hotel?
+# 
+# Et bien, s'il y a un parking le parking peut être gratuit ou payant.
+# Well, if there is a parking, the parking can be free, or charged.
+# 
+# Est-ce que l'hôtel dispose d'un restaurant?
+# Has the hotel got a restaurant?
+# 
+# Est-ce que les animaux domestiques sont admins?
+# Are pets allowed?
+# 
+# Est-ce qu'il y a un service d'étage dans les chambres?
+# Is there room serive?
+# 
+# Est-ce qu'il y a un centre de remise en forme?
+# Is there a wellness center?
+# 
+# Je vouldrais réserver, masi sans pré-paimanet
+# I would like to book but without prepayment
+# 
+# Est-ce qu'il y a une annulation gratuite?
+# Iz there free cancellation?
+# 
+# Ça ce sont por les conditions de réservation principales.
+# This is concerning main booking conditions.
+# 
+# Dans un hôtel vous regardez le nombre d'étoiles.
+# At a hotel, you look at the number of stars.
+# 
+# Le standard de l'hôtel augmente avec le nombre d'etoiles.
+# The stading of the hotel increases with the number of stars.
+# 
+# Ensuite, on peut poser des questions sur les repas.
+# then, we can ask questions about the meals.
+# 
+# Est-ce que le petit=déjeneur est inclus?
+# Is breakfast included?
+# 
+# Est-ce que c'est une penion complète? Petit-déjeunes, déjeuner, dîner.
+# Is it full board? Breakfast, lunch, dinner.
+# 
+# Est-ce que ce tout compris, à volonté?
+# Is it all included?
+# 
+# Ensuite, l'équipements de la chambre. On a parlé de l'équipement de l'hôtel.
+# Then, the room equipment. We have talked about the hotel facilities.
+# 
+# Vous pouvez demander s'il y a une cuisine dans la chambre.
+# You can ask if there is a kitchen in the room.
+# 
+# Est-ce qu'il y a la climatisation?
+# Is there air conditioning?
+# 
+# Ça c'est très important.
+# This is very important.
+# 
+# Est-ce qu'il y a une bagnoire ou une douche?
+# Is there a bath tub or a shower?
+# 
+# Vous pouvez préférer un étage supérieur.
+# You may prefer un upper floor.
+# 
+# Certains demand également s'il y a un accès à un balcon ou une terrasse.
+# Some people ask if there is access to a balcony or terrasse.
+# 
+# La chambre peut être une chambre simple, avec un seul lit, une chambre double, prévue pour deux personnes.
+# The room can be a single room, with only one bed, a double room, planned for two people.
+# 
+# Il existe également des chambres triples ou quadruples.
+# There are also triple or quadruple bedrooms.
+# 
+# Est-ce qu'il y a un lit d'appint?
+# Is there an extra bed?
+# 
+# D'accord, ça c'est pour la litterie.
+# Ok, this is concerning the bedding.
+# 
+# Est-ce qu'il y a des sites d'intérêt à proximiter à visiter?
+# Are there places of interest nearby to visit?
+# 
+# Et l'accès: en transport en commun, ou l'accès à pied.
+# And access: by means of public transportation, or the access on foot.
+# 
+# Est-ce que la chambre est jolie? Non, elle n'est pas jolie.
+# Is the room pretty? No, she's not pretty.
+# 
+# C'est bon? Non, ce n'est pas bon.
+# Is it good? No, it's not good.
+# 
+# C'est au café? Non, ce n'est pas au café.
+# Is it at the coffee shop? No, it's not at the coffee shop.
+# 
+# C'est votre chambre? Non, ce n'est pas ma chambre.
+# Is this your room? No, this is not my room.
+# 
+# Est-ce que votre ami est français? Non, il n'est pas français.
+# Is your friend French? No, he's not French.
+# 
+# Est-ce que vous avez les livres? Non, je n'ai pas les livres.
+# Do you have the books? No, I don't have the books.
+# 
+# Est-ce que vous allez en vacances? Non, je ne vais pas en vacances.
+# Are you going on vacation? No, I'm not going on vacation.
+# 
+# C'est votre chambre? Non, ce n'est pas ma chambre.
+# Is this your room? No, this is not my room.
+# 
+# C'est mon café? Non, ce n'est pas votre café.
+# Is that my coffee? No, it's not your coffee.
+# 
+# Est-ce que la voiture est dans cette direction? Non, la voiture n'est pas dans cette direction.
+# Is the car in that direction? No, the car is not in that direction.
+# 
+# Est-ce que l'aéroport est dans cette direction? Non, l'aéroport n'est pas dans cette direction.
+# Is the airport in that direction? No, the airport is not in that direction.
+# 
+# Est-ce que l'ascenseur est dans cette direction? Non, l'ascenseur n'est pas dans cette direction.
+# Is the elevator in that direction? No, the elevator is not in that direction.
+# 
+# Est-ce que les escaliers sont dans cette direction? Non, les escaliers ne sont pas dans cette direction.
+# Are the stairs in that direction? No, the stairs are not in that direction.
+# 
+# Est-ce que le restaurant est dans cette direction? Non, le restaurant n'est pas dans cette direction.
+# Is the restaurant in that direction? No, the restaurant is not in that direction.
+# 
+# Est-ce que la salle est dans cette direction? Non, la salle n'est pas dans cette direction.
+# Is the room in that direction? No, the room is not in that direction.
+# 
+# Est-ce que la chambre est dans cette direction? Non, la chambre n'est pas dans cette direction.
+# Is the room in this direction? No, the room is not in that direction.
+# 
+# Est-ce qu'il faut commencer la classe maintenant? Non, il ne faut pas commencer la classe maintenant.
+# Do we have to start the class now? No, you mustn't start the class now.
+# 
+# Est-ce qu'il faut aller à l'aéroport? Non, il ne faut pas aller à l'aéroport.
+# Do we have to go to the airport? No, you don't have to go to the airport.
+# 
+# Est-ce qu'il faut prendre l'ascenseur? Non, il ne faut pas prendre l'ascenseur.
+# Do we have to take the elevator? No, you shouldn't take the elevator.
+# 
+# Est-ce qu'il faut garder les sacs longtemps? Non, il ne faut pas garder les sacs longtemps.
+# Do you have to keep the bags for a long time? No, you shouldn't keep the bags for long.
+# 
+# Est-ce qu'il faut prendre les escaliers? Non, il ne faut pas prendre les escaliers.
+# Do you have to take the stairs? No, you shouldn't take the stairs.
+# 
+# Est-ce qu'il faut être à la gare à six heures? Non, il ne faut pas être à la gare à six heures.
+# Do you have to be at the station at six o'clock? No, you don't have to be at the station at six o'clock.
+# 
+# Est-ce qu'il faut prendre le métro? Non, il ne faut pas prendre le métro.
+# Do I have to take the subway? No, you shouldn't take the subway.
+# 
+# Est-ce qu'il faut aller à la gare le matin? Non, il ne faut pas aller à la gare le matin.
+# Do you have to go to the station in the morning? No, you shouldn't go to the station in the morning.
+# 
+# Est-ce qu'il faut prendre le petit déjeuner? Non, il ne faut pas prendre le petit déjeuner.
+# Do I have to eat breakfast? No, you shouldn't have breakfast.
+# 
+# Nous avons de la monnaie.
+# We have change.
+# 
+# Ils ont de la monnaie.
+# They have change.
+# 
+# Il a de la monnaie.
+# He has change.
+# 
+# Elles ont de la monnaie.
+# They have change.
+# 
+# Elle a de la monnaie.
+# She has change.
+# 
+# On a de la monnaie.
+# We have change.
+# 
+# Vous avez de la monnaie.
+# You have change.
+# 
+# J'ai de la monnaie.
+# I have some change.
+# 
+# Nous avons une jolie chambre au premier étage.
+# We have a nice room on the first floor.
+# 
+# J'ai une jolie chambre au premier étage.
+# I have a nice room on the first floor.
+# 
+# Il a une jolie chambre au premier étage.
+# He has a nice room on the first floor.
+# 
+# Ils ont une jolie chambre au premier étage.
+# They have a nice room on the first floor.
+# 
+# Vous avez une jolie chambre au premier étage.
+# You have a nice room on the first floor.
+# 
+# Elle a une jolie chambre au premier étage.
+# She has a nice room on the first floor.
+# 
+# Elles ont une jolie chambre au premier étage.
+# They have a nice room on the first floor.
+# 
+# On a une jolie chambre au premier étage.
+# We have a nice room on the first floor.
+# 
+# Est-ce qu'il a des chambres communicantes?
+# Does it have communicating rooms?
+# 
+# Est-ce que vous avez des chambres communicantes?
+# Do you have communicating rooms?
+# 
+# Il n'a pas les fiches.
+# He doesn't have the records.
+# 
+# Je n'ai pas la chambre six, j'ai la chambre dix.
+# I don't have room six, I have room ten.
+# 
+# Ils n'ont pas la chambre douze, ils ont la chambre dix.
+# They don't have room twelve, they have room ten.
+# 
+# Ils sont à l'hôtel; ils ont la chambre douze.
+# They're at the hotel; they have room twelve.
+# 
+# Elle est à l'hôtel; elle a la chambre douze.
+# She's at the hotel; she has room twelve.
+# 
+# Il est à l'hôtel; il a la chambre douze.
+# He's at the hotel; he has room twelve.
+# 
+# Elles sont à l'hôtel; elles ont la chambre douze.
+# They're at the hotel; they have room twelve.
+# 
+# Janine est à l'hôtel; elle a la chambre douze.
+# Janine is at the hotel; she has room twelve.
+# 
+# Mes parents sont à l'hôtel; ils ont la chambre douze.
+# My parents are at the hotel; they have room twelve.
+# 
+# Mes filles sont à l'hôtel; elles ont la chambre douze.
+# My daughters are at the hotel; they have room twelve.
+# 
+# Ils sont à l'hôtel; ils ont la chambre douze.
+# They're at the hotel; they have room twelve.
+# 
+# Elle est à l'hôtel; elle a la chambre douze.
+# She's at the hotel; she has room twelve.
+# 
+# Mon frère est à l'hôtel; il a la chambre douze
+# My brother is at the hotel; he has room twelve
+# 
+# Ils n'ont pas la chambre treize, ils ont la chambre quatorze.
+# They don't have room thirteen, they have room fourteen.
+# 
+# Elle n'a pas la chambre treize, elle a la chambre quatorze.
+# She doesn't have room thirteen, she has room fourteen.
+# 
+# Janine n'a pas la chambre treize, elle a la chambre quatorze.
+# Janine doesn't have room thirteen, she has room fourteen.
+# 
+Est-ce que c'est une pension complète? Petit-déjeunes, déjeuner, dîner.
+Is it all included? Breakfast, lunch, dinner.
 
 Vos parents n'ont pas la chambre treize, ils ont la chambre quatorze.
 Your parents don't have room thirteen, they have room fourteen.

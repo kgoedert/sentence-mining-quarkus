@@ -6598,6 +6598,9 @@
 # Mein Wochenende war ganz gut.
 # My weekend was ok.
 # 
+Werden Sie den Praktikanten die Systeme erklären?
+Are you going to explain the systems to the interns? - formal
+
 Mein Wochenende war der Hammer!
 My weekend was awesome!
 
