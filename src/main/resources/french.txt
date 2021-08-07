@@ -9597,302 +9597,308 @@
 # She doesn't have room thirteen, she has room fourteen.
 # 
 # Janine n'a pas la chambre treize, elle a la chambre quatorze.
-# Janine doesn't have room thirteen, she has room fourteen.
+# # Janine doesn't have room thirteen, she has room fourteen.
+# # 
+# Je vouldrais réserver, mais sans pré-paiemenet
+# I would like to book but without prepayment
 # 
-Est-ce que c'est une pension complète? Petit-déjeunes, déjeuner, dîner.
-Is it all included? Breakfast, lunch, dinner.
-
-Je faisais mes devoirs quand ma mère m'a appelé.
-I was doing my homework when my mother called me.
-
-Je regardais la télé quand soudain, j'ai entendu un bruit étrange.
-I was watching tv when suddenly, I heard a strange noise.
-
-Elle est entrée dans la salle de conférence.
-Ela entrou na sala de conferência.
-
-Elle entrait dans la salle de conférence à huit heures tous les matins.
-Ela entrava na sala de conferência at 8 a.m. every morning.
-
-Elle portait un long manteau et elle semblait fatiguée.
-She was wearing a long coat and she seemed tired.
-
-Elle a pris le journal posé sur la table.
-She picked up the newspaper that was on the table.
-
-Elle prenait le journal posé sur la table.
-She used to pick up the newspaper that was on the table.
-
-Elle a posé son parapluie à côté de la porte.
-She put her umbrella next to the door.
-
-Elle s'est assise.
-She sat down.
-
-Je la regardais et je la trouvais belle.
-I was looking at her and I thought she was beautiful.
-
-La salle était grande et silencieuse.
-The room was big and quiet.
-
-Et soudain, elle s'est levée et elle parlé à l'homme à côté de moi, qui dormais depuis le début de la ráunion.
-And suddenly, she stood up and talked to the man next to me, who had been sleeping since the beginning of the meeting.
-
-Et c'est à ce moment-là qu'une chose incroyable s'est produite.
-And at this moment, an incredible thing happened.
-
-La salle de bain est propre.
-The bathroom is clean.
-
-Le garage n'est pas propre.
-The garage is not clean.
-
-Mes chats sont très propres.
-My cats are very clean.
-
-Mon fils est très calme.
-My son is very calm.
-
-Ma fille est très calme.
-My daughter is very calm.
-
-Mes enfants sont calmes.
-My children are calm.
-
-Cet homme ést effrayé.
-This man is afraid.
-
-Cette femme est effrayée.
-This woman is afraid.
-
-Elles sont toutes effrayées.
-They are all afraid. - F
-
-Ce livre est ancien.
-This book is old.
-
-Ces livres sont anciens.
-This books are old.
-
-Cette chaise est ancienne.
-This chair is old.
-
-Ces chaises sont anciennes.
-These chairs are old.
-
-Mon père est très gentil.
-My father is very nice.
-
-Ma mère est très gentille.
-My mother is very nice.
-
-Mes parents sont très gentils.
-My parents are very nice.
-
-Ma soeur est méchante.
-My sister is mean.
-
-Mon frère est méchant.
-My brother is mean.
-
-Mes frères sont méchants.
-My brothers are mean.
-
-Mes soeurs sont méchantes.
-My sisters are mean.
-
-Ce mariage est parfait.
-This wedding is perfect.
-
-Cette robe est parfaite.
-This dress is perfect.
-
-Ces voitures sont parfaites.
-These cars are perfect.
-
-Mon père est très grand.
-My father is very tall.
-
-Marie est plus grande que moi.
-Marie is taller than me.
-
-Ces bâtiments sont très grands.
-These buildings are very high.
-
-Ce vase est petit.
-This vase is small.
-
-Cette tasse est petite.
-This cup is small.
-
-Mes lunettes sont trop petites.
-My glasses are too small.
-
-Marc est un bel homme.
-Marc is a handsome man.
-
-C'est une belle cérémonie.
-It's a beautiful ceremony.
-
-Ces vêtements sont beaux.
-Theses clothes are beautiful.
-
-Cette route est dangereuse.
-This road is dangerous.
-
-Ce produit est dangereux pour la santé.
-This product is dangerous for your health.
-
-Les couteaux sont des objets dangereux.
-Knives are dangerous objects.
-
-Son travail est fatigant.
-His work is tiring.
-
-Cette randonnée est fatingante.
-This hike is tiring.
-
-Ce sont des activités fatigantes.
-These are tiring activities.
-
-Il est amoureux d'elle.
-He is in love with her.
-
-Elle est amoureuse de lui.
-She is in love with him.
-
-Elles sont toutes amoureuses de lui.
-They are all in love with him.
-
-Mon frère est très maladroit.
-My brother is very clumsy.
-
-Cette fille est très maladroite.
-This girl is very clumsy.
-
-Les enfants sont maladroits.
-Kids are clumsy.
-
-Cet homme est très agressif.
-This man is very aggressive.
-
-Cette femme est très agressive.
-This woman is very aggressive.
-
-Les serpents sont très agressifs.
-Snakes are very aggressive.
-
-Cette opération est très douloureuse.
-This surgery is very painful.
-
-Mon genou est douloureux.
-My knee is painful.
-
-Ces chaussures sont très douloureuses.
-These shoes are very painful.
-
-Elle est inquiète pour lui.
-She is worried about him.
-
-Il est très inquiet pour ses examens.
-He is very worried about his exams.
-
-Mes parents sont inquiets pour moi.
-My parents are worried about me.
-
-Elle est triste depuis deux jours.
-She has been sad for two days.
-
-Il est triste parce qu'il a perdu son jouet.
-He's sad because he lost his toy.
-
-Les enfants sont tristes dès qu'ils retournent à l'école.
-Kids are sad when they go back to school.
-
-Il est élégant lorqu'il porte son costume.
-He is elegant when he wears his suit.
-
-Elle est très élégante lorqu'elle porte cette robe.
-She is very elegant when she wears this dress.
-
-Les hommes sont élégants pour sortir le soir.
-The men are elegant because they are going out tonight.
-
-Mon frère est un menteur.
-My frère is a liar.
-
-Ma soeur est une manteuse.
-My sister is a liar.
-
-Ce sont tous des menteurs.
-They are all liars.
-
-Si elle a compris la leçon, c'est parce qu'elle a écouté.
-If she has understood the lesson, it's because she listened to it. 
-
-Tu vais faire les courses demain? Je pense.
-Are you going shopping tomorrow? I think so.
-
-C'est la fille qui a les yeux bleus.
-It's the girl that has blue eyes.
-
-C'est le garçon que j'aime.
-It's the boy I love.
-
-C'est le garçon qui habite en face de chez moi.
-It's the boy that lives opposite to my place.
-
-C'est la fille qui travaille à la banque.
-It's the girl that works at the bank.
-
-C'est la fille qui aime les chevaux.
-It's the girl that loves horses.
-
-C'est le garçon que tu veux connaître.
-It's the boy that you would like to know.
-
-C'est le garçon qu'il a vu au supermarché.
-It's the boy that he saw in the supermarket.
-
-C'est le garçon que les enfants adorent.
-It's the boy that the kids love.
-
-Quels types d'équipements vous pouvez demander ou exiger lorsque vous décidez de rester dans un hôtel?
-What kind of facilities you can ask for or require when you decide to stay at a hotel?
-
-Et bien, s'il y a un parking le parking peut être gratuit ou payant.
-Well, if there is a parking, the parking can be free, or charged.
-
-Est-ce que l'hôtel dispose d'un restaurant?
-Has the hotel got a restaurant?
-
-Est-ce que les animaux domestiques sont admins?
-Are pets allowed?
-
-Est-ce qu'il y a un service d'étage dans les chambres?
-Is there room serive?
-
-Est-ce qu'il y a un centre de remise en forme?
-Is there a wellness center?
-
-Je vouldrais réserver, masi sans pré-paimanet
-I would like to book but without prepayment
-
-Est-ce qu'il y a une annulation gratuite?
-Iz there free cancellation?
-
-Ça ce sont por les conditions de réservation principales.
-This is concerning main booking conditions.
-
-Dans un hôtel vous regardez le nombre d'étoiles.
-At a hotel, you look at the number of stars.
-
-Le standard de l'hôtel augmente avec le nombre d'etoiles.
-The stading of the hotel increases with the number of stars.
-
-Ensuite, on peut poser des questions sur les repas.
-then, we can ask questions about the meals.
-
+# Est-ce que le petit-déjeneur est inclus?
+# Is breakfast included?
+# 
+# Est-ce que c'est une pension complète? Petit-déjeunes, déjeuner, dîner.
+# Is it all included? Breakfast, lunch, dinner.
+# 
+# Je faisais mes devoirs quand ma mère m'a appelé.
+# I was doing my homework when my mother called me.
+# 
+# Je regardais la télé quand soudain, j'ai entendu un bruit étrange.
+# I was watching tv when suddenly, I heard a strange noise.
+# 
+# Elle est entrée dans la salle de conférence.
+# Ela entrou na sala de conferência.
+# 
+# Elle entrait dans la salle de conférence à huit heures tous les matins.
+# Ela entrava na sala de conferência at 8 a.m. every morning.
+# 
+# Elle portait un long manteau et elle semblait fatiguée.
+# She was wearing a long coat and she seemed tired.
+# 
+# Elle a pris le journal posé sur la table.
+# She picked up the newspaper that was on the table.
+# 
+# Elle prenait le journal posé sur la table.
+# She used to pick up the newspaper that was on the table.
+# 
+# Elle a posé son parapluie à côté de la porte.
+# She put her umbrella next to the door.
+# 
+# Elle s'est assise.
+# She sat down.
+# 
+# Je la regardais et je la trouvais belle.
+# I was looking at her and I thought she was beautiful.
+# 
+# La salle était grande et silencieuse.
+# The room was big and quiet.
+# 
+# Et soudain, elle s'est levée et elle parlé à l'homme à côté de moi, qui dormais depuis le début de la ráunion.
+# And suddenly, she stood up and talked to the man next to me, who had been sleeping since the beginning of the meeting.
+# 
+# Et c'est à ce moment-là qu'une chose incroyable s'est produite.
+# And at this moment, an incredible thing happened.
+# 
+# La salle de bain est propre.
+# The bathroom is clean.
+# 
+# Le garage n'est pas propre.
+# The garage is not clean.
+# 
+# Mes chats sont très propres.
+# My cats are very clean.
+# 
+# Mon fils est très calme.
+# My son is very calm.
+# 
+# Ma fille est très calme.
+# My daughter is very calm.
+# 
+# Mes enfants sont calmes.
+# My children are calm.
+# 
+# Cet homme ést effrayé.
+# This man is afraid.
+# 
+# Cette femme est effrayée.
+# This woman is afraid.
+# 
+# Elles sont toutes effrayées.
+# They are all afraid. - F
+# 
+# Ce livre est ancien.
+# This book is old.
+# 
+# Ces livres sont anciens.
+# This books are old.
+# 
+# Cette chaise est ancienne.
+# This chair is old.
+# 
+# Ces chaises sont anciennes.
+# These chairs are old.
+# 
+# Mon père est très gentil.
+# My father is very nice.
+# 
+# Ma mère est très gentille.
+# My mother is very nice.
+# 
+# Mes parents sont très gentils.
+# My parents are very nice.
+# 
+# Ma soeur est méchante.
+# My sister is mean.
+# 
+# Mon frère est méchant.
+# My brother is mean.
+# 
+# Mes frères sont méchants.
+# My brothers are mean.
+# 
+# Mes soeurs sont méchantes.
+# My sisters are mean.
+# 
+# Ce mariage est parfait.
+# This wedding is perfect.
+# 
+# Cette robe est parfaite.
+# This dress is perfect.
+# 
+# Ces voitures sont parfaites.
+# These cars are perfect.
+# 
+# Mon père est très grand.
+# My father is very tall.
+# 
+# Marie est plus grande que moi.
+# Marie is taller than me.
+# 
+# Ces bâtiments sont très grands.
+# These buildings are very high.
+# 
+# Ce vase est petit.
+# This vase is small.
+# 
+# Cette tasse est petite.
+# This cup is small.
+# 
+# Mes lunettes sont trop petites.
+# My glasses are too small.
+# 
+# Marc est un bel homme.
+# Marc is a handsome man.
+# 
+# C'est une belle cérémonie.
+# It's a beautiful ceremony.
+# 
+# Ces vêtements sont beaux.
+# Theses clothes are beautiful.
+# 
+# Cette route est dangereuse.
+# This road is dangerous.
+# 
+# Ce produit est dangereux pour la santé.
+# This product is dangerous for your health.
+# 
+# Les couteaux sont des objets dangereux.
+# Knives are dangerous objects.
+# 
+# Son travail est fatigant.
+# His work is tiring.
+# 
+# Cette randonnée est fatingante.
+# This hike is tiring.
+# 
+# Ce sont des activités fatigantes.
+# These are tiring activities.
+# 
+# Il est amoureux d'elle.
+# He is in love with her.
+# 
+# Elle est amoureuse de lui.
+# She is in love with him.
+# 
+# Elles sont toutes amoureuses de lui.
+# They are all in love with him.
+# 
+# Mon frère est très maladroit.
+# My brother is very clumsy.
+# 
+# Cette fille est très maladroite.
+# This girl is very clumsy.
+# 
+# Les enfants sont maladroits.
+# Kids are clumsy.
+# 
+# Cet homme est très agressif.
+# This man is very aggressive.
+# 
+# Cette femme est très agressive.
+# This woman is very aggressive.
+# 
+# Les serpents sont très agressifs.
+# Snakes are very aggressive.
+# 
+# Cette opération est très douloureuse.
+# This surgery is very painful.
+# 
+# Mon genou est douloureux.
+# My knee is painful.
+# 
+# Ces chaussures sont très douloureuses.
+# These shoes are very painful.
+# 
+# Elle est inquiète pour lui.
+# She is worried about him.
+# 
+# Il est très inquiet pour ses examens.
+# He is very worried about his exams.
+# 
+# Mes parents sont inquiets pour moi.
+# My parents are worried about me.
+# 
+# Elle est triste depuis deux jours.
+# She has been sad for two days.
+# 
+# Il est triste parce qu'il a perdu son jouet.
+# He's sad because he lost his toy.
+# 
+# Les enfants sont tristes dès qu'ils retournent à l'école.
+# Kids are sad when they go back to school.
+# 
+# Il est élégant lorqu'il porte son costume.
+# He is elegant when he wears his suit.
+# 
+# Elle est très élégante lorqu'elle porte cette robe.
+# She is very elegant when she wears this dress.
+# 
+# Les hommes sont élégants pour sortir le soir.
+# The men are elegant because they are going out tonight.
+# 
+# Mon frère est un menteur.
+# My frère is a liar.
+# 
+# Ma soeur est une manteuse.
+# My sister is a liar.
+# 
+# Ce sont tous des menteurs.
+# They are all liars.
+# 
+# Si elle a compris la leçon, c'est parce qu'elle a écouté.
+# If she has understood the lesson, it's because she listened to it. 
+# 
+# Tu vais faire les courses demain? Je pense.
+# Are you going shopping tomorrow? I think so.
+# 
+# C'est la fille qui a les yeux bleus.
+# It's the girl that has blue eyes.
+# 
+# C'est le garçon que j'aime.
+# It's the boy I love.
+# 
+# C'est le garçon qui habite en face de chez moi.
+# It's the boy that lives opposite to my place.
+# 
+# C'est la fille qui travaille à la banque.
+# It's the girl that works at the bank.
+# 
+# C'est la fille qui aime les chevaux.
+# It's the girl that loves horses.
+# 
+# C'est le garçon que tu veux connaître.
+# It's the boy that you would like to know.
+# 
+# C'est le garçon qu'il a vu au supermarché.
+# It's the boy that he saw in the supermarket.
+# 
+# C'est le garçon que les enfants adorent.
+# It's the boy that the kids love.
+# 
+# Quels types d'équipements vous pouvez demander ou exiger lorsque vous décidez de rester dans un hôtel?
+# What kind of facilities you can ask for or require when you decide to stay at a hotel?
+# 
+# Et bien, s'il y a un parking le parking peut être gratuit ou payant.
+# Well, if there is a parking, the parking can be free, or charged.
+# 
+# Est-ce que l'hôtel dispose d'un restaurant?
+# Has the hotel got a restaurant?
+# 
+# Est-ce que les animaux domestiques sont admins?
+# Are pets allowed?
+# 
+# Est-ce qu'il y a un service d'étage dans les chambres?
+# Is there room serive?
+# 
+# Est-ce qu'il y a un centre de remise en forme?
+# Is there a wellness center?
+# 
+# Je vouldrais réserver, masi sans pré-paimanet
+# I would like to book but without prepayment
+# 
+# Est-ce qu'il y a une annulation gratuite?
+# Iz there free cancellation?
+# 
+# Ça ce sont por les conditions de réservation principales.
+# This is concerning main booking conditions.
+# 
+# Dans un hôtel vous regardez le nombre d'étoiles.
+# At a hotel, you look at the number of stars.
+# 
+# Le standard de l'hôtel augmente avec le nombre d'etoiles.
+# The stading of the hotel increases with the number of stars.
+# 
+# Ensuite, on peut poser des questions sur les repas.
+# then, we can ask questions about the meals.
+# 
 Est-ce que le petit=déjeneur est inclus?
 Is breakfast included?
 

@@ -6598,6 +6598,9 @@
 # Mein Wochenende war ganz gut.
 # My weekend was ok.
 # 
+Wir gehen am Wochenende Skifahren.
+We're going skiing on the weekend. 
+
 Werden Sie den Praktikanten die Systeme erklären?
 Are you going to explain the systems to the interns? - formal
 
