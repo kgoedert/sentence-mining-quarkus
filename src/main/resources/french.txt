@@ -9899,6 +9899,165 @@
 # Ensuite, on peut poser des questions sur les repas.
 # then, we can ask questions about the meals.
 # 
+Mon oncle a un magasin de vêtements.
+My uncle has a clothes shop.
+
+Donc, je suis allé au magasin de mon oncle cet après-midi, puis j'ai acheté un magazine à la librarie.
+So, I went to my uncle's shop this afternoon, then I bought a magazine at the bookstore.
+
+Ma grand-mère aime la grammaire.
+My grandma loves grammar.
+
+Ce plat est très bon, mais il est meilleur avec moins de sel.
+This dish is very good, but it's better with less salt.
+
+Sa photo est bien, mais elle est mieux après retouche.
+His/her picture is nice, but it's better after editing.
+
+Paul a une assez bonne concentration, mais l'attitude de sa soeur est meilleure.
+Paul is quite good at concentrating, but his sister behaviour is better.
+
+Je ne vois pas bien avec ces lunettes, je suis mieux sans.
+I can't see well with these glasses, it's better without.
+
+Alex étudie bien le soir, moi j'étudie mieux le matin.
+Alex studies well in the evenings, I study better in the mornings.
+
+Valérie a une bonne prononciation en français, et encore meilleure en anglais.
+Valerie has a good pronunciation in french, and even better in english.
+
+Valérie a un bon accent.
+Valerie has a good accent.
+
+La première saison de cette série était bien et captivante. La deuxième est mieux et encore plus drôle.
+The first season of this series was good and captivating. The second one is better and even funnier.
+
+Suzanne explique mieux que toi, et elle a de meilleurs exemples.
+Suzanne explains better than you, and she has got better examples.
+
+Je mémorise mieux si j'ai bien dormi.
+I memorize better if I have slept well.
+
+Ma mémoire est bonne et encore meilleure si je suis en forme.
+My memory is good and even better if I am fit.
+
+Je déteste les haricots verts.
+I hate green beans.
+
+Les hauteurs de la ville sont sublimes.
+The heights of the city are sublime.
+
+Les héros de cette aventure sont les pompiers.
+The heros of this adventure are the firefighters.
+
+Les huit participants de ce jeu sont très doués.
+The eight participants of this game are very talented.
+
+Les hivers sont doux à Barcelone.
+Winters are mild in Barcelona.
+
+Les heures passent lentement quand je t'attends.
+The hours pass slowly when I am waiting for you.
+
+Les hôpitaux ont reçu un aide financière.
+The hospitals received financial help.
+
+J'ai mal à la tête.
+I have a headache.
+
+Tu as de longs bras.
+You have long arms.
+
+Il a les mains sèches.
+He has dry hands.
+
+Elle a mal aux pieds dès qu'elle court.
+Her feet hurt when she runs.
+
+Ses jambes sont musclées.
+His/her legs are muscly.
+
+Elle se fait opérer du genou.
+She's getting knee surgery.
+
+Il a mal à la poitrine dès qu'il fait du sport.
+His chest hurts when he exercises.
+
+Elle s'est cassé trois doigts.
+She broke three fingers.
+
+J'ai un coup de soleil sur le nez.
+I have a sunburn on my nose.
+
+Il a une grande bouche.
+He has a big mouth.
+
+Ton oeil est très rouge.
+Your eye is really red.
+
+Elle s'est éraflé le coude.
+She scratched her elbow.
+
+Is s'est cassé le poignet à la gym.
+He broke his wrist at the gym.
+
+La nuque est une partie très fragile du corps humain.
+The neck is a very fragile part of the human body.
+
+Marc a mal au dos depuis sont accident de voiture.
+Mark has back pain since his car accident.
+
+Elle a mal au ventre lorqu'elle mange des pâtes.
+She has a stomachache when she eats pasta.
+
+Il s'est foulé la cheville pendant une randonnée.
+He sprained his ankle during a hike.
+
+Elle a de petits doigts de pieds.
+She has small toes.
+
+J'ai les oreilles qui sifflent.
+My ears are ringing.
+
+Elle s'est luxé l'épaule.
+She dislocated her shoulder.
+
+On peut suivre un cours de français.
+You can take a french lesson.
+
+C'est un cours très intéressant.
+It'a very interesting course.
+
+À quelle heure commence le cours de chinois?
+What time does the chinese lesson begin?
+
+Si un élève est absent, vous pouvez lui passer votre cours.
+If a student is absent, you can lend him your notes.
+
+Tu cuisine super bien! Tu devrais me donner des cours.
+You cook very well! You should give me lessons.
+
+Les étudiants doivent tous être en classe 5 minutes avant le début du cours.
+All students have to be in the classroom 5 minutes before the lesson starts.
+
+Il n'y a pas assez de chaises dans la classe.
+There aren't enough chairs in the classroom.
+
+Combien y a-t-il de classes au troisème étage?
+How many classrooms there are on the third floor?
+
+Il fait trop chaud dans cette classe.
+It's too hot in this classroom.
+
+Dans mon école, les salles de classes sont grandes et lumineuses.
+In my school, the classrooms are big and bright.
+
+Tu es en quelle classe? Je suis en Terminale.
+Which class are you in? I am in the Senior class.
+
+Je suis dans la même classe que mon cousin cette année.
+I'm in the same class as my cousin this year.
+
 Est-ce que le petit=déjeneur est inclus?
 Is breakfast included?
 
