@@ -6587,317 +6587,317 @@
 # How was your weekend?
 # 
 # Mein Wochenende war sehr schön!
-# My weekend was very nice!
+# # My weekend was very nice!
+# # 
+# # Mein Wochenende war toll!
+# # My weekend was great!
+# # 
+# # Mein Wochenende war ziemlich langweilig.
+# # My weekend was pretty boring.
+# # 
+# # Mein Wochenende war ganz gut.
+# # My weekend was ok.
+# # 
+# Wir gehen am Wochenende Skifahren.
+# We're going skiing on the weekend. 
 # 
-# Mein Wochenende war toll!
-# My weekend was great!
+# Werden Sie den Praktikanten die Systeme erklären?
+# Are you going to explain the systems to the interns? - formal
 # 
-# Mein Wochenende war ziemlich langweilig.
-# My weekend was pretty boring.
+# Mein Wochenende war der Hammer!
+# My weekend was awesome!
 # 
-# Mein Wochenende war ganz gut.
-# My weekend was ok.
+# Mein Wochenende war geil!
+# My weeking was freaking amazing! (colloq)
 # 
-Wir gehen am Wochenende Skifahren.
-We're going skiing on the weekend. 
-
-Werden Sie den Praktikanten die Systeme erklären?
-Are you going to explain the systems to the interns? - formal
-
-Mein Wochenende war der Hammer!
-My weekend was awesome!
-
-Mein Wochenende war geil!
-My weeking was freaking amazing! (colloq)
-
-Mein Wochenende war genial!
-My weekend was fantastic!
-
-Mein Wochenende war nicht so toll.
-My weekend wasn't that great.
-
-Mein Wochenende war der absolute Knaller!
-My weekend was sensational!
-
-Mein Wochenende war der absolute Wahnsinn!
-My weekend was absolutely amazing!
-
-Das Wochenende ging so schnell vorbei.
-The weekend went by so fast.
-
-Das Wochenende ist so schnell vorbeigegangen.
-The weekend went by so fast.
-
-Ich hatte am Wochenende viel zu tun.
-I had a lot of things to do this weekend.
-
-Ich war das ganze Wochenende zu Hause.
-I was home all weekend.
-
-Am Wochende hatte ich viel Spaß.
-On the weekend, I had a lot of fun.
-
-Ich habe am Wochenende nicht viel gemacht.
-I didn't do a lot of things this weekend.
-
-Ich hatte am Wochenende ziemlich viel Stress.
-I was under quite a lot of stress this weekend.
-
-Möchetest du am Wochenende zu uns kommen?
-Do you want to come to our place this weekend?
-
-Wir können uns am Wochenende treffen, wenn du möchtest.
-We can meet up this weekend if you're up for it.
-
-Sollen wir am Wochenende etwas unternehmen?
-Do you want to do something this weekend?
-
-Hast du dieses Wochenende etwas vor?
-Are you planning on doing anything this weekend?
-
-Ich habe am Wochenende noch nichts vor.       
-I haven't planned anything this weekend.
-
-Ich bin schon zu Hause.
-I'm already home.
-
-Bist du schon zu Hause?
-Are you already home?
-
-Ich bin shon im Büro.
-I'm already at the office.
-
-Seid ihr schon am Flughafen?
-Are you guys already at the airport?
-
-Seid ihr schon mal in London gewesen?
-Have you guys already been to London?
-
-Wart ihr schon mal in London?
-Have you guys already been to London?
-
-Ich war schon mal in Rom.
-I have already been to Rome.
-
-Das Haus ist schön.
-The house is nice.
-
-Ich finde deine Wohnung schön.
-I find your apartment nice.
-
-Du hast eine schöne Jeans an.
-You are wearing a nice pair of jeans.
-
-Das ist ein schönes Sofa.
-This is a nice couch.           
-
-Ich habe mir einen schönen Lippenstift gakauft.
-I bought myself a nice lipstick.
-
-Sie haben eine schöne Bluse an.
-You are wearing a nice blouse. - Formal
-
-Sie haben ein schönes Auto.
-You have a nice car.
-
-Du hast eine schöne Uhr.
-You have a nice watch. - du
-
-Wir haben einen schönen Esstisch gekauft.
-We bought a nice dinning room table.
-
-Ihr habt schöne Fenster.
-You guys have nice windows.
-
-Heute ist schönes Wetter.
-Today, the weather is nice.
-
-Unser Urlaub war schön.
-Our vacation was nice.
-
-Meine Wochende war schön.
-My weekend was nice.
-
-In der Sauna war es schön.
-In the sauna, it was nice.
-
-In der Schweiz war es schön.
-In Switzerland, it was nice.
-
-Ich habe keine Lust mehr.
-I don't feel like doing this anymore.
-
-Ich arbeite nicht mehr bei Siemens.
-I don't work for Siemens anymore.
-
-Ich bin nicht mehr bei Siemens.
-I am not at Siemens anymore.
-
-Ich wohne nicht mehr in Berlin.
-I don't live in Berlin anymore.
-
-Wir sind nicht mehr zusammen.
-We are not together anymore.
-
-Wir können nicht mehr warten.
-We cannot wait anymore.
-
-Er raucht nicht mehr.
-He doesn't smoke anymore.
-
-Ich kann nichts mehr essen. Ich bin so satt.
-I can't eat anything anymore. I am so full.
-
-Ich brauche das nicht mehr.
-I don't need that anymore.
-
-Ich erinnere mich nicht mehr.
-I don't remember anymore.
-
-Ich vertraue ihm nicht mehr.
-I don't trust him anymore.
-
-Wir haben kein Geld mehr.
-We don't have anymore money.
-
-Ich habe keinen Hunger mehr.
-I am not hungry anymore.
-
-Er schreibt mir nicht mehr.
-He is not writing to me anymore.
-
-Paul ist nicht mehr da.
-Paul is not there anymore.
-
-Wir haben keinen Milch mehr.
-We don't have anymore milk.
-
-Mein Reisepass ist nicht mehr gültig.
-My passport is not valid anymore.
-
-Ich weiß nicht mehr weiter.
-I'm at a loss.
-
-Ich halte es nicht mehr aus.
-I can't stand it any longer.
-
-Wir können ihm nicht mehr helfen.
-We can't help him anymore.
-
-Wir sind nicht mehr befreundet.
-We are not friends anymore.
-
-Es regnet nicht mehr.
-It's not raining anymore.
-
-Ich kann nicht mehr vor Lachen.
-I'm dying of laughter.
-
-Ich habe ihn seit zwei Wochen nicht mehr gesehen.
-I haven't seen him for two weeks.
-
-Ich war seit heute morgen nicht mehr draußen.
-I haven't been outside since this morning.
-
-Er hat seit einem Jahr nicht mehr geraucht.
-He hasn't smoked for one year.
-
-Er hat seit drei Wochen kein Golf mehr gespielt.
-He hasn't played golf for three weeks.
-
-Jetzt habt ihr erstmal genug Beispiel.
-For now you guys have enough examples.
-
-Viel Spaß!
-Have fun!
-
-Das macht Spaß!
-It's fun! / This is fun!
-
-Es hat Spaß gemacht.
-It was fun!
-
-Das hat Spaß gemacht!
-That was fun!
-
-Macht das Spaß?
-Is that fun?
-
-Hat es Spaß gemacht?
-Was it fun?
-
-Das macht bestimmt Spaß!
-That must be fun!
-
-Sport macht mir Spaß.
-I like working out.
-
-Kartenspiele machen Spaß!
-Card games are fun!
-
-Viel Spaß auf der Party!
-Have fun at the party!
-
-Wir hatten viel Spaß zusammen!
-We had a lot of fun together!
-
-Viel Spaß im Urlaub!
-Have fun on your vacation!
-
-Eine Fremdsprache zu lernen macht Spaß.
-Learning a foreign language is fun.
-
-Tennis macht ihr keinen Spaß mehr.
-She doesn’t like tennis anymore.
-
-Ich mach nur Spaß.
-I am just kidding.
-
-Das war nur Spaß.
-That was just a joke.
-
-Manchen Leuten macht Mathe Spaß.
-Some people think Math is fun.
-
-Er versteht keinen Spaß.
-He can't take a joke.
-
-Aufräumen macht keinen Spaß.
-Cleaning up is not fun.
-
-Hattet ihr Spaß?
-Did you guys have fun?
-
-Ich hoffe, ihr hattet Spaß.
-I hope you guys had fun.
-
-Das macht irgendwie Spaß.
-This is kinda fun.
-
-Er hat uns den Spaß verdorben.
-He spoiled the fun for us.
-
-Damit ist nicht zu spaßen!
-This is not a laughing matter!
-
-Ich möchte dir nicht den Spaß verderben.
-I don't want to spoil the fun for you. - du
-
-Hast du den Müll rausgetragen?
-Have you already taken out the trash? - du
-
-Könntest du bitte den Müll rausgetragen?
-Could you please take out the trash?
-
-Ich habe noch nicht gefrühstückt.
-I haven't had breakfast yet.
-
-Hast du schon gefrühstückt?
-Have you already had breakfast?
-
-Ich muss heute die Fenster putzen.
-I have to clean the windows today.
-
+# Mein Wochenende war genial!
+# My weekend was fantastic!
+# 
+# Mein Wochenende war nicht so toll.
+# My weekend wasn't that great.
+# 
+# Mein Wochenende war der absolute Knaller!
+# My weekend was sensational!
+# 
+# Mein Wochenende war der absolute Wahnsinn!
+# My weekend was absolutely amazing!
+# 
+# Das Wochenende ging so schnell vorbei.
+# The weekend went by so fast.
+# 
+# Das Wochenende ist so schnell vorbeigegangen.
+# The weekend went by so fast.
+# 
+# Ich hatte am Wochenende viel zu tun.
+# I had a lot of things to do this weekend.
+# 
+# Ich war das ganze Wochenende zu Hause.
+# I was home all weekend.
+# 
+# Am Wochende hatte ich viel Spaß.
+# On the weekend, I had a lot of fun.
+# 
+# Ich habe am Wochenende nicht viel gemacht.
+# I didn't do a lot of things this weekend.
+# 
+# Ich hatte am Wochenende ziemlich viel Stress.
+# I was under quite a lot of stress this weekend.
+# 
+# Möchetest du am Wochenende zu uns kommen?
+# Do you want to come to our place this weekend?
+# 
+# Wir können uns am Wochenende treffen, wenn du möchtest.
+# We can meet up this weekend if you're up for it.
+# 
+# Sollen wir am Wochenende etwas unternehmen?
+# Do you want to do something this weekend?
+# 
+# Hast du dieses Wochenende etwas vor?
+# Are you planning on doing anything this weekend?
+# 
+# Ich habe am Wochenende noch nichts vor.       
+# I haven't planned anything this weekend.
+# 
+# Ich bin schon zu Hause.
+# I'm already home.
+# 
+# Bist du schon zu Hause?
+# Are you already home?
+# 
+# Ich bin shon im Büro.
+# I'm already at the office.
+# 
+# Seid ihr schon am Flughafen?
+# Are you guys already at the airport?
+# 
+# Seid ihr schon mal in London gewesen?
+# Have you guys already been to London?
+# 
+# Wart ihr schon mal in London?
+# Have you guys already been to London?
+# 
+# Ich war schon mal in Rom.
+# I have already been to Rome.
+# 
+# Das Haus ist schön.
+# The house is nice.
+# 
+# Ich finde deine Wohnung schön.
+# I find your apartment nice.
+# 
+# Du hast eine schöne Jeans an.
+# You are wearing a nice pair of jeans.
+# 
+# Das ist ein schönes Sofa.
+# This is a nice couch.           
+# 
+# Ich habe mir einen schönen Lippenstift gakauft.
+# I bought myself a nice lipstick.
+# 
+# Sie haben eine schöne Bluse an.
+# You are wearing a nice blouse. - Formal
+# 
+# Sie haben ein schönes Auto.
+# You have a nice car.
+# 
+# Du hast eine schöne Uhr.
+# You have a nice watch. - du
+# 
+# Wir haben einen schönen Esstisch gekauft.
+# We bought a nice dinning room table.
+# 
+# Ihr habt schöne Fenster.
+# You guys have nice windows.
+# 
+# Heute ist schönes Wetter.
+# Today, the weather is nice.
+# 
+# Unser Urlaub war schön.
+# Our vacation was nice.
+# 
+# Meine Wochende war schön.
+# My weekend was nice.
+# 
+# In der Sauna war es schön.
+# In the sauna, it was nice.
+# 
+# In der Schweiz war es schön.
+# In Switzerland, it was nice.
+# 
+# Ich habe keine Lust mehr.
+# I don't feel like doing this anymore.
+# 
+# Ich arbeite nicht mehr bei Siemens.
+# I don't work for Siemens anymore.
+# 
+# Ich bin nicht mehr bei Siemens.
+# I am not at Siemens anymore.
+# 
+# Ich wohne nicht mehr in Berlin.
+# I don't live in Berlin anymore.
+# 
+# Wir sind nicht mehr zusammen.
+# We are not together anymore.
+# 
+# Wir können nicht mehr warten.
+# We cannot wait anymore.
+# 
+# Er raucht nicht mehr.
+# He doesn't smoke anymore.
+# 
+# Ich kann nichts mehr essen. Ich bin so satt.
+# I can't eat anything anymore. I am so full.
+# 
+# Ich brauche das nicht mehr.
+# I don't need that anymore.
+# 
+# Ich erinnere mich nicht mehr.
+# I don't remember anymore.
+# 
+# Ich vertraue ihm nicht mehr.
+# I don't trust him anymore.
+# 
+# Wir haben kein Geld mehr.
+# We don't have anymore money.
+# 
+# Ich habe keinen Hunger mehr.
+# I am not hungry anymore.
+# 
+# Er schreibt mir nicht mehr.
+# He is not writing to me anymore.
+# 
+# Paul ist nicht mehr da.
+# Paul is not there anymore.
+# 
+# Wir haben keinen Milch mehr.
+# We don't have anymore milk.
+# 
+# Mein Reisepass ist nicht mehr gültig.
+# My passport is not valid anymore.
+# 
+# Ich weiß nicht mehr weiter.
+# I'm at a loss.
+# 
+# Ich halte es nicht mehr aus.
+# I can't stand it any longer.
+# 
+# Wir können ihm nicht mehr helfen.
+# We can't help him anymore.
+# 
+# Wir sind nicht mehr befreundet.
+# We are not friends anymore.
+# 
+# Es regnet nicht mehr.
+# It's not raining anymore.
+# 
+# Ich kann nicht mehr vor Lachen.
+# I'm dying of laughter.
+# 
+# Ich habe ihn seit zwei Wochen nicht mehr gesehen.
+# I haven't seen him for two weeks.
+# 
+# Ich war seit heute morgen nicht mehr draußen.
+# I haven't been outside since this morning.
+# 
+# Er hat seit einem Jahr nicht mehr geraucht.
+# He hasn't smoked for one year.
+# 
+# Er hat seit drei Wochen kein Golf mehr gespielt.
+# He hasn't played golf for three weeks.
+# 
+# Jetzt habt ihr erstmal genug Beispiel.
+# For now you guys have enough examples.
+# 
+# Viel Spaß!
+# Have fun!
+# 
+# Das macht Spaß!
+# It's fun! / This is fun!
+# 
+# Es hat Spaß gemacht.
+# It was fun!
+# 
+# Das hat Spaß gemacht!
+# That was fun!
+# 
+# Macht das Spaß?
+# Is that fun?
+# 
+# Hat es Spaß gemacht?
+# Was it fun?
+# 
+# Das macht bestimmt Spaß!
+# That must be fun!
+# 
+# Sport macht mir Spaß.
+# I like working out.
+# 
+# Kartenspiele machen Spaß!
+# Card games are fun!
+# 
+# Viel Spaß auf der Party!
+# Have fun at the party!
+# 
+# Wir hatten viel Spaß zusammen!
+# We had a lot of fun together!
+# 
+# Viel Spaß im Urlaub!
+# Have fun on your vacation!
+# 
+# Eine Fremdsprache zu lernen macht Spaß.
+# Learning a foreign language is fun.
+# 
+# Tennis macht ihr keinen Spaß mehr.
+# She doesn’t like tennis anymore.
+# 
+# Ich mach nur Spaß.
+# I am just kidding.
+# 
+# Das war nur Spaß.
+# That was just a joke.
+# 
+# Manchen Leuten macht Mathe Spaß.
+# Some people think Math is fun.
+# 
+# Er versteht keinen Spaß.
+# He can't take a joke.
+# 
+# Aufräumen macht keinen Spaß.
+# Cleaning up is not fun.
+# 
+# Hattet ihr Spaß?
+# Did you guys have fun?
+# 
+# Ich hoffe, ihr hattet Spaß.
+# I hope you guys had fun.
+# 
+# Das macht irgendwie Spaß.
+# This is kinda fun.
+# 
+# Er hat uns den Spaß verdorben.
+# He spoiled the fun for us.
+# 
+# Damit ist nicht zu spaßen!
+# This is not a laughing matter!
+# 
+# Ich möchte dir nicht den Spaß verderben.
+# I don't want to spoil the fun for you. - du
+# 
+# Hast du den Müll rausgetragen?
+# Have you already taken out the trash? - du
+# 
+# Könntest du bitte den Müll rausgetragen?
+# Could you please take out the trash?
+# 
+# Ich habe noch nicht gefrühstückt.
+# I haven't had breakfast yet.
+# 
+# Hast du schon gefrühstückt?
+# Have you already had breakfast?
+# 
+# Ich muss heute die Fenster putzen.
+# I have to clean the windows today.
+# 
 Hast du dein Zimmer aufgeräumt?
 Have you cleaned up your room?
 
