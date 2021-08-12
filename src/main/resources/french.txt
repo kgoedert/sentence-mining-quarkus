@@ -9899,6 +9899,9 @@
 # Ensuite, on peut poser des questions sur les repas.
 # then, we can ask questions about the meals.
 # 
+Il est élégant lorsqu'il porte son costume.
+He is elegant when he wears his suit. 
+
 Mon oncle a un magasin de vêtements.
 My uncle has a clothes shop.
 

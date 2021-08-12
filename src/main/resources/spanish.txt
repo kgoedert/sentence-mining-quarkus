@@ -8383,320 +8383,320 @@
 # What beautiful shoes Maria has bought! I love them!
 # 
 # ¡Vaya traje! Estás muy elegante.
-# What a suit! You look very elegant.
+# # What a suit! You look very elegant.
+# # 
+# # ¡Vaya traje! Así no puedes ir a la fiesta!
+# # What a suit! That way you can't go to the party!
+# # 
+# # ¡Vaya ciudad más bonita!
+# # What a beautiful city!
+# # 
+# # ¡Vaya camisa tan fea te has comprado!
+# # What an ugly shirt you bought!
+# # 
+# # ¡Qué jóvenes que son tus amigos!
+# # How young your friends are!
+# # 
+# Marcela estaba leyendo en la cama.
+# Marcela was reading in bed.
 # 
-# ¡Vaya traje! Así no puedes ir a la fiesta!
-# What a suit! That way you can't go to the party!
+# Suelo meterme en la cama a las 9 pm.
+# I usually get into bed at 9 pm.
 # 
-# ¡Vaya ciudad más bonita!
-# What a beautiful city!
+# No dejes los lentes en la cama. Alguien podría sentarse encima sin querer.
+# Don't leave your glasses on the bed. Someone could accidentally sit on them.
 # 
-# ¡Vaya camisa tan fea te has comprado!
-# What an ugly shirt you bought!
+# El médico le dijo a Alicia que tiene que quedarse en cama tres días.
+# The doctor told Alicia that she has to stay in bed three days.
 # 
-# ¡Qué jóvenes que son tus amigos!
-# How young your friends are!
+# Es es el señor cuyo perro ganó el concurso.
+# He is the man whose dog won the contest. 
 # 
-Marcela estaba leyendo en la cama.
-Marcela was reading in bed.
-
-Suelo meterme en la cama a las 9 pm.
-I usually get into bed at 9 pm.
-
-No dejes los lentes en la cama. Alguien podría sentarse encima sin querer.
-Don't leave your glasses on the bed. Someone could accidentally sit on them.
-
-El médico le dijo a Alicia que tiene que quedarse en cama tres días.
-The doctor told Alicia that she has to stay in bed three days.
-
-Es es el señor cuyo perro ganó el concurso.
-He is the man whose dog won the contest. 
-
-¡Qué horror!¡Qué de niños!
-What a horror! What children!
-
-¡Qué fastidio!¡Qué de trabajo!
-What a nuisance! What a job!
-
-¡Cómo estaba el restaurante! ¡Qué de gente comiendo!
-How the restaurant was! How many people were eating!
-
-Es horrible. ¡Qué de niños gritando!
-How horrible! How many children shouting!
-
-¡Qué poca gente hay! ¡Fenomenal!
-How few people there are! Phenomenal!
-
-¡Qué pocos huevos tenemos! No podemos hacer tortilla.
-How few eggs we have! We can't make an omelet.
-
-Mira si hay leche. ¡Qué poca queda! Hay que comprar.
-See if there's milk. There's so little left! You have to buy.
-
-¡Qué pocos somos! No podemos jugar un partido.
-How few we are! We can't play a game.
-
-¡Qué de gente! No vamos a poder entrar.
-What people! We won't be able to get in.
-
-¡Qué horror! ¡Cuánta gente!
-What a horror! How many people!
-
-¡Qué maravilla! Cuántos libros tiene Marcela.
-How wonderful! How many books Marcela has.
-
-¡Cuánto loco vive en esta ciudad!
-How many crazy people live in this city!
-
-¡Cuánto inútil hay en el gobierno!
-How many useless people there are in the government!
-
-¡Cuántos inútiles hay en el gobierno!
-How many useless people there are in the government!
-
-¡Cuánto imbécil hay!
-How many idiots there are!
-
-¡Cuántos imbéciles hay!
-How many idiots there are!
-
-¡Cuánto lo siento!
-How sorry I am!
-
-¡Cuánto trabaja Ana! Le va a pasar algo.
-How much Ana works! Something's going to happen to her.
-
-¡Qué pocos que somos!
-How few we are!
-
-¡Cómo pinta Miguel!
-How well Miguel paints!
-
-¡Cómo nevaba!
-How it snowed!
-
-¡Cómo canta Angela! ¡Tiene una voz preciosa!
-How Angela sings! She has a beautiful voice!
-
-¡Cómo canta Angela! Es la que más desafina del coro.
-How Angela sings! She is the most out of tune of the choir.
-
-¡Cómo come! Ya va el tercer plato de espaguetis.
-How she eats! The third plate of spaghetti is coming.
-
-¡Cómo come! No tiene educación!
-How she eats! She has no education!
-
-¡Cómo estaba el restaurante! Lleno de gente.
-How was the restaurant! Full of people.
-
-¡Cómo estaba el restaurante! Había suciedad por todas partes.
-How was the restaurant! There was dirt everywhere.
-
-¡Cómo canta bien Angela!
-How Angela sings well!
-
-¡Cómo canta mal Angela!
-How Angela sings badly!
-
-¡Cómo es de alto!
-How tall it is!
-
-¡Cómo eran listas las niñas de Aurora!
-How clever were the girls of Aurora!
-
-¡Dónde vive Luisa! Es un barrio precioso.
-Where Louise lives! It's a beautiful neighborhood.
-
-¡Por dónde nos llevan! ¡Qué carretera más peligrosa!
-Where are they taking us? What a dangerous road!
-
-¡Adónde nos querrá llevar este hombre! Ya llevamos andando dos horas.
-Where will this man take us! We've been walking for two hours now.
-
-¡Dónde trabaja Raquel! Es una empresa modelo.
-Where Rachel works! It's a model company.
-
-¡Dónde trabaja Raquel! Es una oficina horrible.
-Where does Rachel work! It's a horrible office.
-
-¡Desde cuándo decides tú quién puede venir a casa!
-Since when do you decide who can come home!
-
-¡Cuándo querrás escucharme!
-When will you want to listen to me!
-
-¡Hasta cuándo nos va a estar engañando Sonia!
-How long will Sonia be cheating on us!
-
-Teresa es encantadora. ¡Qué va a ser encantadora! Si es un horror.
-Teresa is charming. What will she be charming! It's a horror.
-
-El director pagó la comida. ¡Qué va a pagar la comida el director! La pagó la empresa.
-The director paid for the food. The director won't pay for the food! The company paid for it.
-
-Creo que vamos tarde. ¡Qué vamos ir a tarde! Si son solo las cuatro.
-I think we're going to be late. We're going to be late! It's only four o'clock.
-
-Te pedirán el carné. ¡Qué van a pedir! Esos nunca piden nada.
-They'll ask for your card. What are they going to ask for? They never ask for anything.
-
-Yo soy igual de trabajadora que vosotros.
-I am as hardworking as you.
-
-Cuando oyó la explosión, se agachó instintivamente.
-When he heard the explosion, he ducked instinctively.
-
-Cuando nos vio, nos saludó cordialmente.
-When he saw us, he greeted us cordially.
-
-Me dijo claramente que no.
-He clearly said no.
-
-Movió la cortina imperceptiblemente.
-He moved the curtain imperceptibly.
-
-Hirieron gravemente al hombre.
-The man was seriously wounded.
-
-Roland me ha felicitado telefónicamente.
-Roland congratulated me on the phone.
-
-Fernando hizo los cálculos mentalmente.
-Fernando did the calculations mentally.
-
-Alonso tiene la costumbre de saludar militarmente.
-Alonso has a habit of saluting militarily.
-
-El ladrón entró sigilosamente en la casa.
-The thief sneaked into the house.
-
-Cuando oí el disparo, reaccioné instintivamente y me agaché.
-When I heard the shot, I reacted instinctively and crouched.
-
-Lo repitió enfáticamente.
-He repeated it emphatically.
-
-Levantó la mesa fácilmente.
-He lifted the table easily.
-
-Aparentemente, le han robado la cartera.
-Apparently, his wallet has been stolen.
-
-Innegablemente, Sofía es la más agradable de todas.
-Undeniably, Sofia is the most pleasant of them all.
-
-Lucía opinaba erróneamente que la habíamos engañado.
-Lucía thought wrongly that we had deceived her.
-
-Forzosamente, el comité no optará por recomendar la publicación.
-The committee will not necessarily choose to recommend the publication.
-
-Tendrás que presentarte obligatoriamente al examen.
-You will have to take the exam.
-
-Geográficamente, España está en un rincón de Europa.
-Geographically, Spain is in a corner of Europe.
-
-Políticamente hablando, la democracia española tiene muchas lagunas.
-Politically speaking, Spanish democracy has many loopholes.
-
-Humanamente hablando, la situación de África es inaceptable.
-Humanly speaking, the situation in Africa is unacceptable.
-
-Políticamente, sus palabras eran inaceptables.
-Politically, his words were unacceptable.
-
-Hay que operarla, pero no urgentemente.
-It needs to be operated on, but not urgently.
-
-Me enseñó un bolso que era absurdamente cara.
-He showed me a bag that was absurdly expensive.
-
-Este modelo es infinitamente mejor que el que tú tienes.
-This model is infinitely better than the one you have.
-
-Esta gramática es extraordinariamente práctica.
-This grammar is extraordinarily practical.
-
-Deberíamos irnos a casa. Es excesivamente tarde.
-We should go home. It's too late.
-
-Lo que dijo el alcalde me resultó escasamente convincente.
-What the mayor said was scarcely convincing.
-
-Desde la carretera la playa quedaba débilmente iluminada por la luna.
-From the road the beach was dimly illuminated by the moon.
-
-Tu visita fue una gran sorpresa. Tus padres estaban visiblemente emocionados.
-Your visit was a great surprise. Your parents were visibly excited.
-
-Fumar en hospitales está expresamente prohibido por ley.
-Smoking in hospitals is expressly forbidden by law.
-
-La política de la empresa ha quedado claramente expuesta por el director.
-The company's policy has been clearly stated by the director.
-
-Eso que dices es simplemente falso.
-What you say is simply false.
-
-¿Cómo se llama ese actor recientemente fallecido?
-What is the name of this recently deceased actor?
-
-Gracias por tu ayuda. Te estoy eternamente agradecida.
-Thank you for your help. I am eternally grateful to you.
-
-Por fin ha llegado el éxito largamente esperado.
-The long-awaited success has finally arrived.
-
-La estatuilla estaba cuidadosamente tallada.
-The statuette was carefully carved.
-
-¡Qué pena! Este libro está pésimamente traducido.
-What a pity! This book is badly translated.
-
-La habitación que ocupé estaba pobremente amueblada.
-The room I occupied was poorly furnished.
-
-Creo que el acuerdo es mutuamente beneficioso para todos.
-I think the agreement is mutually beneficial to all.
-
-Estamos internamente divididos y enfrentados, y por eso avanzamos.
-We are internally divided and at odds, and so we move forward.
-
-El cadáver estaba profundamente enterrado.
-The body was deeply buried.
-
-Carlos está profundamente triste por la muerte de su perra.
-Carlos is deeply saddened by the death of his dog.
-
-Las dos amigas estaban estrechamente unidas.
-The two friends were tightly knit.
-
-Los alumnos se hallaban estrechamente situados en el aula.
-The students were closely situated in the classroom.
-
-¿Qué prefieren, carne o pescado?
-What do you prefer, meat or fish?
-
-¿Quién es más alta, Rosana o Leila?
-Who is taller, Rosana or Leila?
-
-Ana se levanta a las siete.
-Ana gets up at seven.
-
-¿Te atreves a venir al lago?
-Do you dare to come to the lake?
-
-En verano no nos aburrimos nunca.
-We never get bored in the summer.
-
-Luis se lava, se afeita y luego se viste.
-Luis washes himself, shaves and then dresses.
-
-Siempre me lavo la cara con agua fría.
-I always wash my face with cold water.
-
+# ¡Qué horror!¡Qué de niños!
+# What a horror! What children!
+# 
+# ¡Qué fastidio!¡Qué de trabajo!
+# What a nuisance! What a job!
+# 
+# ¡Cómo estaba el restaurante! ¡Qué de gente comiendo!
+# How the restaurant was! How many people were eating!
+# 
+# Es horrible. ¡Qué de niños gritando!
+# How horrible! How many children shouting!
+# 
+# ¡Qué poca gente hay! ¡Fenomenal!
+# How few people there are! Phenomenal!
+# 
+# ¡Qué pocos huevos tenemos! No podemos hacer tortilla.
+# How few eggs we have! We can't make an omelet.
+# 
+# Mira si hay leche. ¡Qué poca queda! Hay que comprar.
+# See if there's milk. There's so little left! You have to buy.
+# 
+# ¡Qué pocos somos! No podemos jugar un partido.
+# How few we are! We can't play a game.
+# 
+# ¡Qué de gente! No vamos a poder entrar.
+# What people! We won't be able to get in.
+# 
+# ¡Qué horror! ¡Cuánta gente!
+# What a horror! How many people!
+# 
+# ¡Qué maravilla! Cuántos libros tiene Marcela.
+# How wonderful! How many books Marcela has.
+# 
+# ¡Cuánto loco vive en esta ciudad!
+# How many crazy people live in this city!
+# 
+# ¡Cuánto inútil hay en el gobierno!
+# How many useless people there are in the government!
+# 
+# ¡Cuántos inútiles hay en el gobierno!
+# How many useless people there are in the government!
+# 
+# ¡Cuánto imbécil hay!
+# How many idiots there are!
+# 
+# ¡Cuántos imbéciles hay!
+# How many idiots there are!
+# 
+# ¡Cuánto lo siento!
+# How sorry I am!
+# 
+# ¡Cuánto trabaja Ana! Le va a pasar algo.
+# How much Ana works! Something's going to happen to her.
+# 
+# ¡Qué pocos que somos!
+# How few we are!
+# 
+# ¡Cómo pinta Miguel!
+# How well Miguel paints!
+# 
+# ¡Cómo nevaba!
+# How it snowed!
+# 
+# ¡Cómo canta Angela! ¡Tiene una voz preciosa!
+# How Angela sings! She has a beautiful voice!
+# 
+# ¡Cómo canta Angela! Es la que más desafina del coro.
+# How Angela sings! She is the most out of tune of the choir.
+# 
+# ¡Cómo come! Ya va el tercer plato de espaguetis.
+# How she eats! The third plate of spaghetti is coming.
+# 
+# ¡Cómo come! No tiene educación!
+# How she eats! She has no education!
+# 
+# ¡Cómo estaba el restaurante! Lleno de gente.
+# How was the restaurant! Full of people.
+# 
+# ¡Cómo estaba el restaurante! Había suciedad por todas partes.
+# How was the restaurant! There was dirt everywhere.
+# 
+# ¡Cómo canta bien Angela!
+# How Angela sings well!
+# 
+# ¡Cómo canta mal Angela!
+# How Angela sings badly!
+# 
+# ¡Cómo es de alto!
+# How tall it is!
+# 
+# ¡Cómo eran listas las niñas de Aurora!
+# How clever were the girls of Aurora!
+# 
+# ¡Dónde vive Luisa! Es un barrio precioso.
+# Where Louise lives! It's a beautiful neighborhood.
+# 
+# ¡Por dónde nos llevan! ¡Qué carretera más peligrosa!
+# Where are they taking us? What a dangerous road!
+# 
+# ¡Adónde nos querrá llevar este hombre! Ya llevamos andando dos horas.
+# Where will this man take us! We've been walking for two hours now.
+# 
+# ¡Dónde trabaja Raquel! Es una empresa modelo.
+# Where Rachel works! It's a model company.
+# 
+# ¡Dónde trabaja Raquel! Es una oficina horrible.
+# Where does Rachel work! It's a horrible office.
+# 
+# ¡Desde cuándo decides tú quién puede venir a casa!
+# Since when do you decide who can come home!
+# 
+# ¡Cuándo querrás escucharme!
+# When will you want to listen to me!
+# 
+# ¡Hasta cuándo nos va a estar engañando Sonia!
+# How long will Sonia be cheating on us!
+# 
+# Teresa es encantadora. ¡Qué va a ser encantadora! Si es un horror.
+# Teresa is charming. What will she be charming! It's a horror.
+# 
+# El director pagó la comida. ¡Qué va a pagar la comida el director! La pagó la empresa.
+# The director paid for the food. The director won't pay for the food! The company paid for it.
+# 
+# Creo que vamos tarde. ¡Qué vamos ir a tarde! Si son solo las cuatro.
+# I think we're going to be late. We're going to be late! It's only four o'clock.
+# 
+# Te pedirán el carné. ¡Qué van a pedir! Esos nunca piden nada.
+# They'll ask for your card. What are they going to ask for? They never ask for anything.
+# 
+# Yo soy igual de trabajadora que vosotros.
+# I am as hardworking as you.
+# 
+# Cuando oyó la explosión, se agachó instintivamente.
+# When he heard the explosion, he ducked instinctively.
+# 
+# Cuando nos vio, nos saludó cordialmente.
+# When he saw us, he greeted us cordially.
+# 
+# Me dijo claramente que no.
+# He clearly said no.
+# 
+# Movió la cortina imperceptiblemente.
+# He moved the curtain imperceptibly.
+# 
+# Hirieron gravemente al hombre.
+# The man was seriously wounded.
+# 
+# Roland me ha felicitado telefónicamente.
+# Roland congratulated me on the phone.
+# 
+# Fernando hizo los cálculos mentalmente.
+# Fernando did the calculations mentally.
+# 
+# Alonso tiene la costumbre de saludar militarmente.
+# Alonso has a habit of saluting militarily.
+# 
+# El ladrón entró sigilosamente en la casa.
+# The thief sneaked into the house.
+# 
+# Cuando oí el disparo, reaccioné instintivamente y me agaché.
+# When I heard the shot, I reacted instinctively and crouched.
+# 
+# Lo repitió enfáticamente.
+# He repeated it emphatically.
+# 
+# Levantó la mesa fácilmente.
+# He lifted the table easily.
+# 
+# Aparentemente, le han robado la cartera.
+# Apparently, his wallet has been stolen.
+# 
+# Innegablemente, Sofía es la más agradable de todas.
+# Undeniably, Sofia is the most pleasant of them all.
+# 
+# Lucía opinaba erróneamente que la habíamos engañado.
+# Lucía thought wrongly that we had deceived her.
+# 
+# Forzosamente, el comité no optará por recomendar la publicación.
+# The committee will not necessarily choose to recommend the publication.
+# 
+# Tendrás que presentarte obligatoriamente al examen.
+# You will have to take the exam.
+# 
+# Geográficamente, España está en un rincón de Europa.
+# Geographically, Spain is in a corner of Europe.
+# 
+# Políticamente hablando, la democracia española tiene muchas lagunas.
+# Politically speaking, Spanish democracy has many loopholes.
+# 
+# Humanamente hablando, la situación de África es inaceptable.
+# Humanly speaking, the situation in Africa is unacceptable.
+# 
+# Políticamente, sus palabras eran inaceptables.
+# Politically, his words were unacceptable.
+# 
+# Hay que operarla, pero no urgentemente.
+# It needs to be operated on, but not urgently.
+# 
+# Me enseñó un bolso que era absurdamente cara.
+# He showed me a bag that was absurdly expensive.
+# 
+# Este modelo es infinitamente mejor que el que tú tienes.
+# This model is infinitely better than the one you have.
+# 
+# Esta gramática es extraordinariamente práctica.
+# This grammar is extraordinarily practical.
+# 
+# Deberíamos irnos a casa. Es excesivamente tarde.
+# We should go home. It's too late.
+# 
+# Lo que dijo el alcalde me resultó escasamente convincente.
+# What the mayor said was scarcely convincing.
+# 
+# Desde la carretera la playa quedaba débilmente iluminada por la luna.
+# From the road the beach was dimly illuminated by the moon.
+# 
+# Tu visita fue una gran sorpresa. Tus padres estaban visiblemente emocionados.
+# Your visit was a great surprise. Your parents were visibly excited.
+# 
+# Fumar en hospitales está expresamente prohibido por ley.
+# Smoking in hospitals is expressly forbidden by law.
+# 
+# La política de la empresa ha quedado claramente expuesta por el director.
+# The company's policy has been clearly stated by the director.
+# 
+# Eso que dices es simplemente falso.
+# What you say is simply false.
+# 
+# ¿Cómo se llama ese actor recientemente fallecido?
+# What is the name of this recently deceased actor?
+# 
+# Gracias por tu ayuda. Te estoy eternamente agradecida.
+# Thank you for your help. I am eternally grateful to you.
+# 
+# Por fin ha llegado el éxito largamente esperado.
+# The long-awaited success has finally arrived.
+# 
+# La estatuilla estaba cuidadosamente tallada.
+# The statuette was carefully carved.
+# 
+# ¡Qué pena! Este libro está pésimamente traducido.
+# What a pity! This book is badly translated.
+# 
+# La habitación que ocupé estaba pobremente amueblada.
+# The room I occupied was poorly furnished.
+# 
+# Creo que el acuerdo es mutuamente beneficioso para todos.
+# I think the agreement is mutually beneficial to all.
+# 
+# Estamos internamente divididos y enfrentados, y por eso avanzamos.
+# We are internally divided and at odds, and so we move forward.
+# 
+# El cadáver estaba profundamente enterrado.
+# The body was deeply buried.
+# 
+# Carlos está profundamente triste por la muerte de su perra.
+# Carlos is deeply saddened by the death of his dog.
+# 
+# Las dos amigas estaban estrechamente unidas.
+# The two friends were tightly knit.
+# 
+# Los alumnos se hallaban estrechamente situados en el aula.
+# The students were closely situated in the classroom.
+# 
+# ¿Qué prefieren, carne o pescado?
+# What do you prefer, meat or fish?
+# 
+# ¿Quién es más alta, Rosana o Leila?
+# Who is taller, Rosana or Leila?
+# 
+# Ana se levanta a las siete.
+# Ana gets up at seven.
+# 
+# ¿Te atreves a venir al lago?
+# Do you dare to come to the lake?
+# 
+# En verano no nos aburrimos nunca.
+# We never get bored in the summer.
+# 
+# Luis se lava, se afeita y luego se viste.
+# Luis washes himself, shaves and then dresses.
+# 
+# Siempre me lavo la cara con agua fría.
+# I always wash my face with cold water.
+# 
 Los niños se manchan mucho la ropa.
 The kids stain the clothes a lot.
 
