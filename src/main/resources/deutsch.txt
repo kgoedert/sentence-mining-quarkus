@@ -6898,6 +6898,189 @@
 # Ich muss heute die Fenster putzen.
 # I have to clean the windows today.
 # 
+Ich habe mir einen schönen Lippenstift gekauft.
+I bought myself a nice lipstick.
+
+Ich mache nur Spaß.
+I am just kidding.
+
+Am Wochenende hatte ich viel Spaß.
+On the weekend, I had a lot of fun.
+
+Wir haben keine Milch mehr.
+We don't have anymore milk.
+
+Ich lerne Deutsch.
+I'm learning german.
+
+Er lernt viel.
+He studies a lot.
+
+Stephan lernt für die Prüfung.
+Stephan is studying for the test.
+
+Ich lerne gerade.
+I'm studying right now.
+
+Sie lernt heute.
+She's studying today.
+
+Peter lernt nicht.
+Peter is not studying.
+
+Sie macht einen Salat.
+She's making a salad.
+
+Wir machen Urlaub.
+We're on vacation.
+
+Manuela und Jochen machen lärm.
+Manuela and Jochen are making noise.
+
+Ich mache Kaffee.
+I'm making coffee.
+
+Tim macht das Bett.
+Tim is making the bed.
+
+Luisa macht nichts.
+Luisa is not doing anything.
+
+Ich gehe nach Hause.
+I'm going home.
+
+Sie geht zu Fuß.
+She's going on foot.
+
+Ich gehe ins Bett.
+I'm going to bed.
+
+Klaus geht weg.
+Klaus is walking away.
+
+Der Hund geht nach draußen.
+The dog is going outside.
+
+Ich gehe zum Supermarkt.
+I'm going to the supermarket.
+
+Am Montag geht Lisa in die Schule.
+Na segunda-feira, Lisa vai à escola.
+
+Montag, geht Lisa in die Schule.
+Segunda-feira Lisa vai à escola.
+
+Am Dienstag geht sie in den Supermarkt.
+Na terça-feira ela vai ao supermercado.
+
+Dienstag geht sie in den Supermarkt.
+Terça-feira ela vai ao supermercado.
+
+Antonia hat am Mittwoch Geburstag.
+O aniversário da Antonia é na quarta-feira.
+
+Antonia hat Mittwoch Geburstag.
+O aniversário da Antonia é quarta-feira.
+
+Am Donnerstag treffe ich Anna.
+Na quinta-feira vou me encontrar com a Anna.
+
+Donnerstag treffe ich Anna.
+Quinta-feira vou me encontrar com a Anna.
+
+Am Freitag besuche ich Peter.
+Na sexta-feira vou visitar o Peter.
+
+Freitag besuche ich Peter.
+Sexta-feira vou visitar o Peter.
+
+Am Samstag gehen wir ins Kino.
+No sábado nós vamos ao cinema.
+
+Samstag gehen wir ins Kino.
+Sábado nós vamos ao cinema.
+
+Thomas geht am Sonntag in die Kirche.
+Thomas vai no sábado à igreja.
+
+Thomas geht Sonntag in die Kirche.
+Thomas vai sábado à igreja.
+
+Sie kauft eine Waschmaschine.
+She's buying a washing machine.
+
+Der Trockner ist kaputt.
+The dryer is broken.
+
+Der Kühlschrank ist kalt.
+The fridge is cold.
+
+Der Gefrierschrank steht im Keller.
+The freezer is in the basement.
+
+Die Mikrowelle ist teuer.
+The microwave is expensive.
+
+Der Topf steht auf dem Herd.
+The pot is on the stove.
+
+Die Pizza ist im Backofen.
+The pizza is in the oven.
+
+Der Toaster ist in der Küche.
+The toaster is in the kitchen.
+
+Die Kaffeemaschine ist alt.
+The coffee machine is old.
+
+Der Wasserkocher steht in der Küche.
+The kettle is in the kitchen.
+
+Ich arbeite am Computer.
+I'm working at the computer.
+
+Sie schaltet den Laptop aus.
+She's switching off the laptop.
+
+Die Tastatur funktioniert nicht.
+The keyboard doesn't work.
+
+Ich habe ein kleines Tablet.
+I have a small tablet.
+
+Der Scanner ist aus.
+The scanner is off.
+
+Paul benutzt den Kopierer.
+Paul is using the copier.
+
+Das Faxgerät ist im Büro.
+The fax machine is in the office.
+
+Der Drucker druckt schwarz.
+The printer is printing black.
+
+Der Staubsauger ist schwer.
+The vaccum cleaner is heavy.
+
+Ich benutze das Bügeleisen.
+I'm using the iron.
+
+Der Föhn ist im Badezimmer.
+The blow dryer is in the bathroom.
+
+Wir kaufen ein Glätteneisen.
+We are buying a straightener.
+
+Anna benutzt einen Lockenstab.
+Anna is using a curling iron.
+
+Thomas braucht einen Rasierer.
+Thomas needs a shaver.
+
+Der Fernseher steht im Wohnzimmer.
+The TV is in the living room.
+
 Hast du dein Zimmer aufgeräumt?
 Have you cleaned up your room?
 
