@@ -6898,6 +6898,9 @@
 # Ich muss heute die Fenster putzen.
 # I have to clean the windows today.
 # 
+Meine Wochenende war schön.
+My weekend was nice. 
+
 Ich habe mir einen schönen Lippenstift gekauft.
 I bought myself a nice lipstick.
 
