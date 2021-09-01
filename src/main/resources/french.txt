@@ -10426,7 +10426,6 @@ She doesn't have room thirteen, she has room fourteen.
 
 Janine n'a pas la chambre treize, elle a la chambre quatorze.
 Janine doesn't have room thirteen, she has room fourteen.
->>>>>>> f75e00a7169fe15a8c4e98cf519acc0c3810838c
 
 Vos parents n'ont pas la chambre treize, ils ont la chambre quatorze.
 Your parents don't have room thirteen, they have room fourteen.
