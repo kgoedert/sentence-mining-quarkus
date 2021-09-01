@@ -10199,6 +10199,126 @@
 # Est-ce qu'il faut prendre le métro? Non, il ne faut pas prendre le métro.
 # Do I have to take the subway? No, you shouldn't take the subway.
 # 
+Le coupable a été découvert par hasard 10 ans après le meurtre.
+The culprit was found unexpectedly 10 years after the murder.
+
+J'ai croisé mon dentiste au resto japonais par hasard.
+I bumped into my dentiste unexpectedly at the japanese restaurant.
+
+Tu n'as pas vu mes clés par hasard?
+Have you seen my keys by any chance?
+
+Est-ce qu'il y a une pharmacie à côté par hasard?
+Is there a pharmacy near here by any chance?
+
+J'ai rencontré ma voisine en vacances par hasard.
+I met my neighbour when I was on holiday completely unexpectedly.
+
+J'ai assisté par hasard à ce match de beach volley.
+I unexpectedly attended a beach volleyball match.
+
+Les enfants ont trouvé cette boîte en jouant dans le jardin par hasard.
+The children found this box playing in the garden completely unexpectedly.
+
+Ce n'est pas par hasard que j'ai décidé d'apprendre le français.
+I didn't just decide to learn french out of nowhere.
+
+J'ai réparti la nourriture au hasard entre nous.
+I randomly divided up the food between us.
+
+Choisis une carte au hasard.
+Choose a card randomly.
+
+J'ai choisi ce livre à la bibliothèque au hasard et il est super.
+I randomly chose this book at the library and it's great.
+
+Les personnes sont selectionnées au hasard.
+The people are selected randomly.
+
+J'ai ouvert toutes les portes au hasard avant de trouver les toilettes.
+I opened all the doors randomly before I found the toilets.
+
+Je vais au parc à vélo, mais je vais au supermarché en voiture.
+I go to the park by bike, but I go to the supermaket by car.
+
+Je préfère aller au travail en tram, parce qu'en métro, je suis sous terre.
+I prefer to go to work by tram, because by subway I am underground.
+
+Je voyage le plus possible en train ou en bateau pour réduire mon empreinte carbonne.
+I travel as much as possible by train or by boat to reduce my carbon footprint.
+
+Les enfants sont partis en colonies de vacances en car.
+The children went to summer camp by coach.
+
+Elle va chercher son fils à l'école en bus.
+She goes to pick up her son from school by bus.
+
+J'aimerais pouvoir me déplacer uniquement à cheval.
+I'd like to be able to move around exclusively by horse.
+
+Il vont au travail à trottinette et ils ne respectent pas le code de la route.
+They go to work by scooter and they don't respect the highway code.
+
+Je vais à la pharmacie à pied.
+I go to the pharmacy on foot.
+
+Je l'ai vu sur l'autoroute à moto.
+I saw him on the motorway riding his bike.
+
+Les adolescents aiment se déplacer à scooter.
+Teenagers enjoy moving around by scooter.
+
+Je me lève tous les matins à huit heures.
+I wake up every morning at eight o'clock.
+
+Nous allons au cinéma ce soir à vingt heures.
+We are going to the cinéma tonight at eight pm.
+
+Je fais du sport de neuf heures à dix heures tous les matins.
+I do sport from nine to ten every morning.
+
+Depuis 2010, elle a arrêté de fumer.
+She hasn't smoked since 2010.
+
+Il a habité en France pendant trois ans.
+He lived in France for three years.
+
+Elle voyage au Pérou chaque année.
+She travels to Peru every year.
+
+Ils habitent au Maroc, à Casablanca.
+They live in Marocco, in Casablanca.
+
+Je vais à la bibliothèque.
+I go to the library.
+
+Ils sont chez eux.
+They are at home.
+
+Je vais chez le boulanger.
+I go to the baker.
+
+Je vais à la boulangerie.
+I go to the bakery.
+
+Je vais au salon de coiffure.
+I go to the hairdressing salon.
+
+Je vais chez le coiffeur.
+I go to the hairdresser.
+
+I viens de Paris.
+I come from Paris.
+
+Elle habite en France.
+She lives in France.
+
+Il voyage en Espagne cet été.
+He is travelling to Spain this summer.
+
+Elle visite tous ses monuments préférés en Italie.
+She visits all her favorite monuments in Italy.
+
 Est-ce qu'il faut aller à la gare le matin? Non, il ne faut pas aller à la gare le matin.
 Do you have to go to the station in the morning? No, you shouldn't go to the station in the morning.
 
