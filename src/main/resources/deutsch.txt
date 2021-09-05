@@ -7198,6 +7198,9 @@
 # Danke, dass du an mich gedacht hast.
 # Thank you for thinking of me - inf
 # 
+Antonia hat am Mittwoch Geburtstag.
+O aniversário da Antonia é na quarta-feira.
+
 Hast du die Rechnungen bezahlt?
 Have you already paid the bills?
 

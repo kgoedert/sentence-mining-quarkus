@@ -10193,297 +10193,312 @@
 # Est-ce qu'il faut prendre les escaliers? Non, il ne faut pas prendre les escaliers.
 # Do you have to take the stairs? No, you shouldn't take the stairs.
 # 
-# Est-ce qu'il faut être à la gare à six heures? Non, il ne faut pas être à la gare à six heures.
-# Do you have to be at the station at six o'clock? No, you don't have to be at the station at six o'clock.
+# # Est-ce qu'il faut être à la gare à six heures? Non, il ne faut pas être à la gare à six heures.
+# # Do you have to be at the station at six o'clock? No, you don't have to be at the station at six o'clock.
+# # 
+# # Est-ce qu'il faut prendre le métro? Non, il ne faut pas prendre le métro.
+# # Do I have to take the subway? No, you shouldn't take the subway.
+# # 
+# Je vouldrais réserver, mais sans prépaiement
+# I would like to book but without prepayment
 # 
-# Est-ce qu'il faut prendre le métro? Non, il ne faut pas prendre le métro.
-# Do I have to take the subway? No, you shouldn't take the subway.
+# Est-ce que le petit-déjeneur est inclus?
+# Is breakfast included?
 # 
-Le coupable a été découvert par hasard 10 ans après le meurtre.
-The culprit was found unexpectedly 10 years after the murder.
-
-J'ai croisé mon dentiste au resto japonais par hasard.
-I bumped into my dentiste unexpectedly at the japanese restaurant.
-
-Tu n'as pas vu mes clés par hasard?
-Have you seen my keys by any chance?
-
-Est-ce qu'il y a une pharmacie à côté par hasard?
-Is there a pharmacy near here by any chance?
-
-J'ai rencontré ma voisine en vacances par hasard.
-I met my neighbour when I was on holiday completely unexpectedly.
-
-J'ai assisté par hasard à ce match de beach volley.
-I unexpectedly attended a beach volleyball match.
-
-Les enfants ont trouvé cette boîte en jouant dans le jardin par hasard.
-The children found this box playing in the garden completely unexpectedly.
-
-Ce n'est pas par hasard que j'ai décidé d'apprendre le français.
-I didn't just decide to learn french out of nowhere.
-
-J'ai réparti la nourriture au hasard entre nous.
-I randomly divided up the food between us.
-
-Choisis une carte au hasard.
-Choose a card randomly.
-
-J'ai choisi ce livre à la bibliothèque au hasard et il est super.
-I randomly chose this book at the library and it's great.
-
-Les personnes sont selectionnées au hasard.
-The people are selected randomly.
-
-J'ai ouvert toutes les portes au hasard avant de trouver les toilettes.
-I opened all the doors randomly before I found the toilets.
-
-Je vais au parc à vélo, mais je vais au supermarché en voiture.
-I go to the park by bike, but I go to the supermaket by car.
-
-Je préfère aller au travail en tram, parce qu'en métro, je suis sous terre.
-I prefer to go to work by tram, because by subway I am underground.
-
-Je voyage le plus possible en train ou en bateau pour réduire mon empreinte carbonne.
-I travel as much as possible by train or by boat to reduce my carbon footprint.
-
-Les enfants sont partis en colonies de vacances en car.
-The children went to summer camp by coach.
-
-Elle va chercher son fils à l'école en bus.
-She goes to pick up her son from school by bus.
-
-J'aimerais pouvoir me déplacer uniquement à cheval.
-I'd like to be able to move around exclusively by horse.
-
-Il vont au travail à trottinette et ils ne respectent pas le code de la route.
-They go to work by scooter and they don't respect the highway code.
-
-Je vais à la pharmacie à pied.
-I go to the pharmacy on foot.
-
-Je l'ai vu sur l'autoroute à moto.
-I saw him on the motorway riding his bike.
-
-Les adolescents aiment se déplacer à scooter.
-Teenagers enjoy moving around by scooter.
-
-Je me lève tous les matins à huit heures.
-I wake up every morning at eight o'clock.
-
-Nous allons au cinéma ce soir à vingt heures.
-We are going to the cinéma tonight at eight pm.
-
-Je fais du sport de neuf heures à dix heures tous les matins.
-I do sport from nine to ten every morning.
-
-Depuis 2010, elle a arrêté de fumer.
-She hasn't smoked since 2010.
-
-Il a habité en France pendant trois ans.
-He lived in France for three years.
-
-Elle voyage au Pérou chaque année.
-She travels to Peru every year.
-
-Ils habitent au Maroc, à Casablanca.
-They live in Marocco, in Casablanca.
-
-Je vais à la bibliothèque.
-I go to the library.
-
-Ils sont chez eux.
-They are at home.
-
-Je vais chez le boulanger.
-I go to the baker.
-
-Je vais à la boulangerie.
-I go to the bakery.
-
-Je vais au salon de coiffure.
-I go to the hairdressing salon.
-
-Je vais chez le coiffeur.
-I go to the hairdresser.
-
-I viens de Paris.
-I come from Paris.
-
-Elle habite en France.
-She lives in France.
-
-Il voyage en Espagne cet été.
-He is travelling to Spain this summer.
-
-Elle visite tous ses monuments préférés en Italie.
-She visits all her favorite monuments in Italy.
-
-Est-ce qu'il faut aller à la gare le matin? Non, il ne faut pas aller à la gare le matin.
-Do you have to go to the station in the morning? No, you shouldn't go to the station in the morning.
-
-Est-ce qu'il faut prendre le petit déjeuner? Non, il ne faut pas prendre le petit déjeuner.
-Do I have to eat breakfast? No, you shouldn't have breakfast.
-
-Nous avons de la monnaie.
-We have change.
-
-Ils ont de la monnaie.
-They have change.
-
-Il a de la monnaie.
-He has change.
-
-Elles ont de la monnaie.
-They have change.
-
-Elle a de la monnaie.
-She has change.
-
-On a de la monnaie.
-We have change.
-
-Vous avez de la monnaie.
-You have change.
-
-J'ai de la monnaie.
-I have some change.
-
-Nous avons une jolie chambre au premier étage.
-We have a nice room on the first floor.
-
-J'ai une jolie chambre au premier étage.
-I have a nice room on the first floor.
-
-Il a une jolie chambre au premier étage.
-He has a nice room on the first floor.
-
-Ils ont une jolie chambre au premier étage.
-They have a nice room on the first floor.
-
-Vous avez une jolie chambre au premier étage.
-You have a nice room on the first floor.
-
-Elle a une jolie chambre au premier étage.
-She has a nice room on the first floor.
-
-Elles ont une jolie chambre au premier étage.
-They have a nice room on the first floor.
-
-On a une jolie chambre au premier étage.
-We have a nice room on the first floor.
-
-Est-ce qu'il a des chambres communicantes?
-Does it have communicating rooms?
-
-Est-ce que vous avez des chambres communicantes?
-Do you have communicating rooms?
-
-Il n'a pas les fiches.
-He doesn't have the records.
-
-Je n'ai pas la chambre six, j'ai la chambre dix.
-I don't have room six, I have room ten.
-
-Ils n'ont pas la chambre douze, ils ont la chambre dix.
-They don't have room twelve, they have room ten.
-
-Ils sont à l'hôtel; ils ont la chambre douze.
-They're at the hotel; they have room twelve.
-
-Elle est à l'hôtel; elle a la chambre douze.
-She's at the hotel; she has room twelve.
-
-Il est à l'hôtel; il a la chambre douze.
-He's at the hotel; he has room twelve.
-
-Elles sont à l'hôtel; elles ont la chambre douze.
-They're at the hotel; they have room twelve.
-
-Janine est à l'hôtel; elle a la chambre douze.
-Janine is at the hotel; she has room twelve.
-
-Mes parents sont à l'hôtel; ils ont la chambre douze.
-My parents are at the hotel; they have room twelve.
-
-Mes filles sont à l'hôtel; elles ont la chambre douze.
-My daughters are at the hotel; they have room twelve.
-
-Ils sont à l'hôtel; ils ont la chambre douze.
-They're at the hotel; they have room twelve.
-
-Elle est à l'hôtel; elle a la chambre douze.
-She's at the hotel; she has room twelve.
-
-Mon frère est à l'hôtel; il a la chambre douze
-My brother is at the hotel; he has room twelve
-
-Ils n'ont pas la chambre treize, ils ont la chambre quatorze.
-They don't have room thirteen, they have room fourteen.
-
-Elle n'a pas la chambre treize, elle a la chambre quatorze.
-She doesn't have room thirteen, she has room fourteen.
-
-Janine n'a pas la chambre treize, elle a la chambre quatorze.
-Janine doesn't have room thirteen, she has room fourteen.
-
-Vos parents n'ont pas la chambre treize, ils ont la chambre quatorze.
-Your parents don't have room thirteen, they have room fourteen.
-
-On n'a pas la chambre treize, on a la chambre quatorze.
-We don't have room thirteen, we have room fourteen.
-
-Votre frère n'a pas la chambre treize, il a la chambre quatorze.
-Your brother doesn't have room thirteen, he has room fourteen.
-
-Ma sœur n'a pas la chambre treize, elle a la chambre quatorze.
-My sister doesn't have room thirteen, she has room fourteen.
-
-Vos sœurs n'ont pas la chambre treize, elles ont la chambre quatorze.
-Your sisters don't have room thirteen, they have room fourteen.
-
-Il n'a pas la chambre treize, il a la chambre quatorze.
-He doesn't have room thirteen, he has room fourteen.
-
-Il a les bagages, mais il n'a pas les fiches.
-He has the luggage, but he doesn't have the records.
-
-On a les bagages, mais on n'a pas les fiches.
-We have the luggage, but we don't have the records.
-
-J'ai les bagages, mais je n'ai pas les fiches.
-I have the luggage, but I don't have the cards.
-
-Elles ont les bagages, mais elles n'ont pas les fiches.
-They have the luggage, but they don't have the cards.
-
-Vous avez les bagages, mais vous n'avez pas les fiches.
-You have the luggage, but you don't have the records.
-
-Elle a les bagages, mais elle n'a pas les fiches.
-She has the luggage, but she doesn't have the records.
-
-Ils ont les bagages, mais ils n'ont pas les fiches.
-They have the luggage, but they don't have the cards.
-
-On a les bagages, mais on n'a pas les fiches.
-We have the luggage, but we don't have the records.
-
-Je suis à l'hôtel; j'ai la chambre douze.
-I'm at the hotel; I have room twelve.
-
-Elle est à l'hôtel; elle a la chambre douze.
-She's at the hotel; she has room twelve.
-
-Nous sommes à l'hôtel; nous avons la chambre douze.
-We are at the hotel; we have room twelve.
-
-On est à l'hôtel; on a la chambre douze.
-We're at the hotel; we have room twelve.
-
-Il est à l'hôtel; il a la chambre douze.
-He's at the hotel; he has room twelve.
-
+# Est-ce qu'il y a un lit d'appoint?
+# Is there an extra bed?
+# 
+# Les hôpitaux ont reçu une aide financière.
+# The hospitals received financial help.
+# 
+# Est-ce que c'est une pension complète? Petit-déjeunes, déjeuner, dîner.
+# Is it all included? Breakfast, lunch, dinner.
+# 
+# Le coupable a été découvert par hasard 10 ans après le meurtre.
+# The culprit was found unexpectedly 10 years after the murder.
+# 
+# J'ai croisé mon dentiste au resto japonais par hasard.
+# I bumped into my dentiste unexpectedly at the japanese restaurant.
+# 
+# Tu n'as pas vu mes clés par hasard?
+# Have you seen my keys by any chance?
+# 
+# Est-ce qu'il y a une pharmacie à côté par hasard?
+# Is there a pharmacy near here by any chance?
+# 
+# J'ai rencontré ma voisine en vacances par hasard.
+# I met my neighbour when I was on holiday completely unexpectedly.
+# 
+# J'ai assisté par hasard à ce match de beach volley.
+# I unexpectedly attended a beach volleyball match.
+# 
+# Les enfants ont trouvé cette boîte en jouant dans le jardin par hasard.
+# The children found this box playing in the garden completely unexpectedly.
+# 
+# Ce n'est pas par hasard que j'ai décidé d'apprendre le français.
+# I didn't just decide to learn french out of nowhere.
+# 
+# J'ai réparti la nourriture au hasard entre nous.
+# I randomly divided up the food between us.
+# 
+# Choisis une carte au hasard.
+# Choose a card randomly.
+# 
+# J'ai choisi ce livre à la bibliothèque au hasard et il est super.
+# I randomly chose this book at the library and it's great.
+# 
+# Les personnes sont selectionnées au hasard.
+# The people are selected randomly.
+# 
+# J'ai ouvert toutes les portes au hasard avant de trouver les toilettes.
+# I opened all the doors randomly before I found the toilets.
+# 
+# Je vais au parc à vélo, mais je vais au supermarché en voiture.
+# I go to the park by bike, but I go to the supermaket by car.
+# 
+# Je préfère aller au travail en tram, parce qu'en métro, je suis sous terre.
+# I prefer to go to work by tram, because by subway I am underground.
+# 
+# Je voyage le plus possible en train ou en bateau pour réduire mon empreinte carbonne.
+# I travel as much as possible by train or by boat to reduce my carbon footprint.
+# 
+# Les enfants sont partis en colonies de vacances en car.
+# The children went to summer camp by coach.
+# 
+# Elle va chercher son fils à l'école en bus.
+# She goes to pick up her son from school by bus.
+# 
+# J'aimerais pouvoir me déplacer uniquement à cheval.
+# I'd like to be able to move around exclusively by horse.
+# 
+# Il vont au travail à trottinette et ils ne respectent pas le code de la route.
+# They go to work by scooter and they don't respect the highway code.
+# 
+# Je vais à la pharmacie à pied.
+# I go to the pharmacy on foot.
+# 
+# Je l'ai vu sur l'autoroute à moto.
+# I saw him on the motorway riding his bike.
+# 
+# Les adolescents aiment se déplacer à scooter.
+# Teenagers enjoy moving around by scooter.
+# 
+# Je me lève tous les matins à huit heures.
+# I wake up every morning at eight o'clock.
+# 
+# Nous allons au cinéma ce soir à vingt heures.
+# We are going to the cinéma tonight at eight pm.
+# 
+# Je fais du sport de neuf heures à dix heures tous les matins.
+# I do sport from nine to ten every morning.
+# 
+# Depuis 2010, elle a arrêté de fumer.
+# She hasn't smoked since 2010.
+# 
+# Il a habité en France pendant trois ans.
+# He lived in France for three years.
+# 
+# Elle voyage au Pérou chaque année.
+# She travels to Peru every year.
+# 
+# Ils habitent au Maroc, à Casablanca.
+# They live in Marocco, in Casablanca.
+# 
+# Je vais à la bibliothèque.
+# I go to the library.
+# 
+# Ils sont chez eux.
+# They are at home.
+# 
+# Je vais chez le boulanger.
+# I go to the baker.
+# 
+# Je vais à la boulangerie.
+# I go to the bakery.
+# 
+# Je vais au salon de coiffure.
+# I go to the hairdressing salon.
+# 
+# Je vais chez le coiffeur.
+# I go to the hairdresser.
+# 
+# I viens de Paris.
+# I come from Paris.
+# 
+# Elle habite en France.
+# She lives in France.
+# 
+# Il voyage en Espagne cet été.
+# He is travelling to Spain this summer.
+# 
+# Elle visite tous ses monuments préférés en Italie.
+# She visits all her favorite monuments in Italy.
+# 
+# Est-ce qu'il faut aller à la gare le matin? Non, il ne faut pas aller à la gare le matin.
+# Do you have to go to the station in the morning? No, you shouldn't go to the station in the morning.
+# 
+# Est-ce qu'il faut prendre le petit déjeuner? Non, il ne faut pas prendre le petit déjeuner.
+# Do I have to eat breakfast? No, you shouldn't have breakfast.
+# 
+# Nous avons de la monnaie.
+# We have change.
+# 
+# Ils ont de la monnaie.
+# They have change.
+# 
+# Il a de la monnaie.
+# He has change.
+# 
+# Elles ont de la monnaie.
+# They have change.
+# 
+# Elle a de la monnaie.
+# She has change.
+# 
+# On a de la monnaie.
+# We have change.
+# 
+# Vous avez de la monnaie.
+# You have change.
+# 
+# J'ai de la monnaie.
+# I have some change.
+# 
+# Nous avons une jolie chambre au premier étage.
+# We have a nice room on the first floor.
+# 
+# J'ai une jolie chambre au premier étage.
+# I have a nice room on the first floor.
+# 
+# Il a une jolie chambre au premier étage.
+# He has a nice room on the first floor.
+# 
+# Ils ont une jolie chambre au premier étage.
+# They have a nice room on the first floor.
+# 
+# Vous avez une jolie chambre au premier étage.
+# You have a nice room on the first floor.
+# 
+# Elle a une jolie chambre au premier étage.
+# She has a nice room on the first floor.
+# 
+# Elles ont une jolie chambre au premier étage.
+# They have a nice room on the first floor.
+# 
+# On a une jolie chambre au premier étage.
+# We have a nice room on the first floor.
+# 
+# Est-ce qu'il a des chambres communicantes?
+# Does it have communicating rooms?
+# 
+# Est-ce que vous avez des chambres communicantes?
+# Do you have communicating rooms?
+# 
+# Il n'a pas les fiches.
+# He doesn't have the records.
+# 
+# Je n'ai pas la chambre six, j'ai la chambre dix.
+# I don't have room six, I have room ten.
+# 
+# Ils n'ont pas la chambre douze, ils ont la chambre dix.
+# They don't have room twelve, they have room ten.
+# 
+# Ils sont à l'hôtel; ils ont la chambre douze.
+# They're at the hotel; they have room twelve.
+# 
+# Elle est à l'hôtel; elle a la chambre douze.
+# She's at the hotel; she has room twelve.
+# 
+# Il est à l'hôtel; il a la chambre douze.
+# He's at the hotel; he has room twelve.
+# 
+# Elles sont à l'hôtel; elles ont la chambre douze.
+# They're at the hotel; they have room twelve.
+# 
+# Janine est à l'hôtel; elle a la chambre douze.
+# Janine is at the hotel; she has room twelve.
+# 
+# Mes parents sont à l'hôtel; ils ont la chambre douze.
+# My parents are at the hotel; they have room twelve.
+# 
+# Mes filles sont à l'hôtel; elles ont la chambre douze.
+# My daughters are at the hotel; they have room twelve.
+# 
+# Ils sont à l'hôtel; ils ont la chambre douze.
+# They're at the hotel; they have room twelve.
+# 
+# Elle est à l'hôtel; elle a la chambre douze.
+# She's at the hotel; she has room twelve.
+# 
+# Mon frère est à l'hôtel; il a la chambre douze
+# My brother is at the hotel; he has room twelve
+# 
+# Ils n'ont pas la chambre treize, ils ont la chambre quatorze.
+# They don't have room thirteen, they have room fourteen.
+# 
+# Elle n'a pas la chambre treize, elle a la chambre quatorze.
+# She doesn't have room thirteen, she has room fourteen.
+# 
+# Janine n'a pas la chambre treize, elle a la chambre quatorze.
+# Janine doesn't have room thirteen, she has room fourteen.
+# 
+# Vos parents n'ont pas la chambre treize, ils ont la chambre quatorze.
+# Your parents don't have room thirteen, they have room fourteen.
+# 
+# On n'a pas la chambre treize, on a la chambre quatorze.
+# We don't have room thirteen, we have room fourteen.
+# 
+# Votre frère n'a pas la chambre treize, il a la chambre quatorze.
+# Your brother doesn't have room thirteen, he has room fourteen.
+# 
+# Ma sœur n'a pas la chambre treize, elle a la chambre quatorze.
+# My sister doesn't have room thirteen, she has room fourteen.
+# 
+# Vos sœurs n'ont pas la chambre treize, elles ont la chambre quatorze.
+# Your sisters don't have room thirteen, they have room fourteen.
+# 
+# Il n'a pas la chambre treize, il a la chambre quatorze.
+# He doesn't have room thirteen, he has room fourteen.
+# 
+# Il a les bagages, mais il n'a pas les fiches.
+# He has the luggage, but he doesn't have the records.
+# 
+# On a les bagages, mais on n'a pas les fiches.
+# We have the luggage, but we don't have the records.
+# 
+# J'ai les bagages, mais je n'ai pas les fiches.
+# I have the luggage, but I don't have the cards.
+# 
+# Elles ont les bagages, mais elles n'ont pas les fiches.
+# They have the luggage, but they don't have the cards.
+# 
+# Vous avez les bagages, mais vous n'avez pas les fiches.
+# You have the luggage, but you don't have the records.
+# 
+# Elle a les bagages, mais elle n'a pas les fiches.
+# She has the luggage, but she doesn't have the records.
+# 
+# Ils ont les bagages, mais ils n'ont pas les fiches.
+# They have the luggage, but they don't have the cards.
+# 
+# On a les bagages, mais on n'a pas les fiches.
+# We have the luggage, but we don't have the records.
+# 
+# Je suis à l'hôtel; j'ai la chambre douze.
+# I'm at the hotel; I have room twelve.
+# 
+# Elle est à l'hôtel; elle a la chambre douze.
+# She's at the hotel; she has room twelve.
+# 
+# Nous sommes à l'hôtel; nous avons la chambre douze.
+# We are at the hotel; we have room twelve.
+# 
+# On est à l'hôtel; on a la chambre douze.
+# We're at the hotel; we have room twelve.
+# 
+# Il est à l'hôtel; il a la chambre douze.
+# He's at the hotel; he has room twelve.
+# 
 Elles sont à l'hôtel; elles ont la chambre douze.
 They're at the hotel; they have room twelve.
 
