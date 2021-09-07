@@ -10499,6 +10499,135 @@
 # Il est à l'hôtel; il a la chambre douze.
 # He's at the hotel; he has room twelve.
 # 
+Elle a des chaussures toutes neuves.
+She's got brand new shoes.
+
+Ma mère a un nouvel ordinateur.
+My mom has a new computer.
+
+Ma mére a un ordinateur neuf.
+My mom has a brand new computer.
+
+Leur nouveau professeur de français est vieux.
+Their new frech teacher is old.
+
+Ma nouvelle collègue est très sympa. C'est une femme.
+My new collegue is very friendly. She's a woman.
+
+Il y a un nouveau livre sur mon étagère.
+There is a new book on my bookshelf.
+
+Il y a deux nouveaux livres sur mon étagère.
+There are two new books on my bookshelf.
+
+Jéssica a un nouveau vélo. C'était celui de son frère avant.
+Jessica has got a new bike. It used to be her brother's.
+
+Jessica a un vélo neuf.
+Jessica has a brand new bike.
+
+Nous avons acheté un nouveau bureau et un canapé neuf.
+We bought a new desk and a brand new sofa.
+
+J'adore tes chaussures, elles sont neuves?
+I love your shoes, are they brand new?
+
+Tu as des nouvelles chaussures.
+You've got a new pair of shoes.
+
+Oh! Ce sont des chaussures neuves?
+Oh! São sapatos novos (novinhos em folha)?
+
+Tu as un nouveau bureau.
+You've got a new desk. (not necessarily brand new)
+
+Je mange une pomme par jour.
+I eat an apple a day.
+
+Il aime mettre du chocolat sur sa poire.
+He likes to put chocolate on his pear.
+
+Elle préfère les fraises avec de la chantilly.
+She prefers strawberries with whipped cream.
+
+Mon gâteau préféré est le tiramisu aux framboises.
+My favorite cake is a raspberry tiramisu.
+
+Les pêches poussent en été.
+Peaches grow in summer.
+
+Le kiwi est un fruit très énérgetique.
+The kiwi is a very energetic fruit.
+
+Les bananes sont riches en potassium.
+Bananas are rich in potassium.
+
+L'ananas est un fruit tropical.
+The pineapple is a tropical fruit.
+
+J'ai mangé beaucoup de mangues en vacances.
+I ate a lot of mangos on my vacations.
+
+Les oranges sont une source de vitamine C.
+Oranges are a source of vitamine C.
+
+J'aime cueillir des champignons en automne.
+I like picking mushrooms in autumn.
+
+Mon frère n'aime pas les brocolis.
+My brother doesn't like broccoli.
+
+Il préfère les concombres en salade.
+He prefers cucumbers in a salad.
+
+Les poivrons sont en train de griller sur le barbecue.
+The bell peppers are grilling on the barbecue.
+
+Techniquement, la tomate est un fruit.
+Technically, the tomato is a fruit.
+
+Les carottes sont bientôt cuites.
+The carrots will be cooked soon.
+
+Elle coupe les pommes de terre pour faire des frites.
+She's cutting the potatoes to make fries.
+
+Ma sœur aime mettre des aubergines sur sa pizza.
+My sister likes to put eggplants on her pizza.
+
+Les piments verts que j'ai acheté sont très forts.
+The green chillies that I bought are very strong.
+
+Il pleure car il a coupé des oignons.
+He is crying because he cut onions.
+
+Qui vient faire les courses avec moi?
+Who's coming grocery shopping with me?
+
+Moi ; sauf si vous ne voulez pas.
+I will, unless you don't want me to.
+
+J'ai dit : « j'appelerais demain ! »
+I said: "I'll call tomorrow!"
+
+Nous arriverons mardi (ou mercredi) à Paris.
+We will arrive in Paris on tuesday (or wednesday).
+
+Frenchement, je ne sais pas du tout !.
+Honestly, I have no idea!
+
+Est-ce que tes parents viendront avec nous ?
+Will your parents come with us?
+
+Viendra-t-elle avec nous au cinéma?
+Will she come with us to the cinema?
+
+Comprendra-t-il ta réaction?
+Will he understand your reaction?
+
+Marie ! Tu peux descendre, s'il te plait?
+Marie! Could you come down, please?
+
 Elles sont à l'hôtel; elles ont la chambre douze.
 They're at the hotel; they have room twelve.
 
