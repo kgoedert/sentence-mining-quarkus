@@ -10499,6 +10499,9 @@
 # Il est à l'hôtel; il a la chambre douze.
 # He's at the hotel; he has room twelve.
 # 
+Elle a mal au ventre lorsqu'elle mange des pâtes.
+She has a stomachache when she eats pasta.
+
 Elle a des chaussures toutes neuves.
 She's got brand new shoes.
 
