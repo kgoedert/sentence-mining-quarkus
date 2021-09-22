@@ -10498,292 +10498,307 @@
 # 
 # Il est à l'hôtel; il a la chambre douze.
 # He's at the hotel; he has room twelve.
+# # 
+# Il s'est cassé le poignet à la gym.
+# He broke his wrist at the gym. 
 # 
-Elle a mal au ventre lorsqu'elle mange des pâtes.
-She has a stomachache when she eats pasta.
-
-Elle a des chaussures toutes neuves.
-She's got brand new shoes.
-
-Ma mère a un nouvel ordinateur.
-My mom has a new computer.
-
-Ma mére a un ordinateur neuf.
-My mom has a brand new computer.
-
-Leur nouveau professeur de français est vieux.
-Their new frech teacher is old.
-
-Ma nouvelle collègue est très sympa. C'est une femme.
-My new collegue is very friendly. She's a woman.
-
-Il y a un nouveau livre sur mon étagère.
-There is a new book on my bookshelf.
-
-Il y a deux nouveaux livres sur mon étagère.
-There are two new books on my bookshelf.
-
-Jéssica a un nouveau vélo. C'était celui de son frère avant.
-Jessica has got a new bike. It used to be her brother's.
-
-Jessica a un vélo neuf.
-Jessica has a brand new bike.
-
-Nous avons acheté un nouveau bureau et un canapé neuf.
-We bought a new desk and a brand new sofa.
-
-J'adore tes chaussures, elles sont neuves?
-I love your shoes, are they brand new?
-
-Tu as des nouvelles chaussures.
-You've got a new pair of shoes.
-
-Oh! Ce sont des chaussures neuves?
-Oh! São sapatos novos (novinhos em folha)?
-
-Tu as un nouveau bureau.
-You've got a new desk. (not necessarily brand new)
-
-Je mange une pomme par jour.
-I eat an apple a day.
-
-Il aime mettre du chocolat sur sa poire.
-He likes to put chocolate on his pear.
-
-Elle préfère les fraises avec de la chantilly.
-She prefers strawberries with whipped cream.
-
-Mon gâteau préféré est le tiramisu aux framboises.
-My favorite cake is a raspberry tiramisu.
-
-Les pêches poussent en été.
-Peaches grow in summer.
-
-Le kiwi est un fruit très énérgetique.
-The kiwi is a very energetic fruit.
-
-Les bananes sont riches en potassium.
-Bananas are rich in potassium.
-
-L'ananas est un fruit tropical.
-The pineapple is a tropical fruit.
-
-J'ai mangé beaucoup de mangues en vacances.
-I ate a lot of mangos on my vacations.
-
-Les oranges sont une source de vitamine C.
-Oranges are a source of vitamine C.
-
-J'aime cueillir des champignons en automne.
-I like picking mushrooms in autumn.
-
-Mon frère n'aime pas les brocolis.
-My brother doesn't like broccoli.
-
-Il préfère les concombres en salade.
-He prefers cucumbers in a salad.
-
-Les poivrons sont en train de griller sur le barbecue.
-The bell peppers are grilling on the barbecue.
-
-Techniquement, la tomate est un fruit.
-Technically, the tomato is a fruit.
-
-Les carottes sont bientôt cuites.
-The carrots will be cooked soon.
-
-Elle coupe les pommes de terre pour faire des frites.
-She's cutting the potatoes to make fries.
-
-Ma sœur aime mettre des aubergines sur sa pizza.
-My sister likes to put eggplants on her pizza.
-
-Les piments verts que j'ai acheté sont très forts.
-The green chillies that I bought are very strong.
-
-Il pleure car il a coupé des oignons.
-He is crying because he cut onions.
-
-Qui vient faire les courses avec moi?
-Who's coming grocery shopping with me?
-
-Moi ; sauf si vous ne voulez pas.
-I will, unless you don't want me to.
-
-J'ai dit : « j'appelerais demain ! »
-I said: "I'll call tomorrow!"
-
-Nous arriverons mardi (ou mercredi) à Paris.
-We will arrive in Paris on tuesday (or wednesday).
-
-Frenchement, je ne sais pas du tout !.
-Honestly, I have no idea!
-
-Est-ce que tes parents viendront avec nous ?
-Will your parents come with us?
-
-Viendra-t-elle avec nous au cinéma?
-Will she come with us to the cinema?
-
-Comprendra-t-il ta réaction?
-Will he understand your reaction?
-
-Marie ! Tu peux descendre, s'il te plait?
-Marie! Could you come down, please?
-
-Elles sont à l'hôtel; elles ont la chambre douze.
-They're at the hotel; they have room twelve.
-
-Vos parents sont à l'hôtel; ils ont la chambre douze.
-Your parents are at the hotel; they have room twelve.
-
-Je suis à l'hôtel; j'ai la chambre douze.
-I'm at the hotel; I have room twelve.
-
-M. Lelong est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
-Mr. Lelong is here. Does he have any news of Miss Courtois?
-
-Mme Durand est ici. Est-ce qu'elle a des nouvelles de Mlle Courtois?
-Mrs. Durand is here. Does she have any news of Miss Courtois?
-
-Mon frère est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
-My brother is here. Does he have any news of Miss Courtois?
-
-Le gérant est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
-The manager is here. Does he have any news of Miss Courtois?
-
-Ils sont ici. Est-ce qu'ils ont des nouvelles de Mlle Courtois?
-They are here. Do they have any news of Miss Courtois?
-
-Elle est ici. Est-ce qu'elle a des nouvelles de Mlle Courtois?
-She's here. She's here. Does she have any news of Miss Courtois?
-
-Elles sont ici. Est-ce qu'elles ont des nouvelles de Mlle Courtois?
-They are here. Do they have any news of Miss Courtois?
-
-Il est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
-He is here. Does he have any news of Miss Courtois?
-
-Est-ce que vous êtes en vacances? Oui, je suis en vacances.
-Are you on vacation? Yes, I'm on vacation.
-
-Est-ce que vous avez une chambre? Oui, j'ai une chambre.
-Do you have a room? Yes, I have a room.
-
-Est-ce que votre ami a les fiches? Oui, il a les fiches.
-Does your friend have the cards? Yes, he has the cards.
-
-Est-ce que votre amie est en vacances? Oui, elle est en vacances.
-Is your friend on vacation? Yes, she's on vacation.
-
-Est-ce que vous avez un frère? Oui, j'ai un frère.
-Do you have a brother? Yes, I have a brother.
-
-Est-ce que vos amis sont en vacances? Oui, ils sont en vacances.
-Are your friends on vacation? Yes, they're on vacation.
-
-Est-ce que vous avez le livre? Oui, j'ai le livre.
-Do you have the book? Yes, I have the book.
-
-Est-ce que vos sœurs ont les livres? Oui, elles ont les livres.
-Do your sisters have the books? Yes, they have the books.
-
-Vous avez de la monnaie? Oui, j'ai de la monnaie.
-Do you have any change? Yes, I have change.
-
-Janine a la chambre douze? Oui, elle a la chambre douze.
-Janine has room twelve? Yes, she has room twelve.
-
-Vos amis ont les fiches? Oui, ils ont les fiches.
-Do your friends have the files? Yes, they have the cards.
-
-Le gérant a la fiche? Oui, il a la fiche.
-Does the manager have the card? Yes, he has the card.
-
-Vous êtes au café? Oui, je suis au café.
-Are you at the café? Yes, I'm at the café.
-
-Votre famille est à l'hôtel? Oui, elle est à l'hôtel.
-Is your family at the hotel? Yes, she's at the hotel.
-
-Vous avez une chambre? Oui, j'ai une chambre.
-Do you have a room? Yes, I have a room.
-
-Les enfants sont ici? Oui, ils sont ici.
-Are the children here? Yes, they are here.
-
-Les enfants ont des chambres communicantes? Oui, ils ont des chambres communicantes.
-Do the children have communicating rooms? Yes, they have communicating rooms.
-
-Janine est en vacances? Oui, elle est en vacances.
-Is Janine on vacation? Yes, she's on vacation.
-
-Est-ce que Janine a la chambre quatorze? Non, elle n'a pas la chambre quatorze.
-Does Janine have room fourteen? No, she doesn't have room fourteen.
-
-Est-ce que Janine est au café? Non, elle n'est pas au café.
-Is Janine at the coffee shop? No, she's not at the coffee shop.
-
-Est-ce que les enfants ont les fiches? Non, ils n'ont pas les fiches.
-Do the children have the cards? No, they don't have the cards.
-
-Est-ce que vous avez de la monnaie? Non, je n'ai pas de monnaie.
-Do you have any change? No, I don't have any change.
-
-Est-ce que vos filles ont les livres? Non, elles n'ont pas les livres.
-Do your daughters have the books? No, they don't have the books.
-
-Est-ce que vos amis sont à Paris? Non, ils ne sont pas à Paris.
-Are your friends in Paris? No, they're not in Paris.
-
-Est-ce que votre fils a le livre? Non, il n'a pas le livre.
-Does your son have the book? No, he doesn't have the book.
-
-Est-ce que votre amie a les fiches? Non, elle n'a pas les fiches.
-Does your friend have the cards? No, she doesn't have the cards.
-
-Est-ce que le restaurant est bon? Non, il n'est pas bon.
-Is the restaurant good? No, it's not good.
-
-Est-ce que vos amis ont la chambre dix? Non, ils n'ont pas la chambre dix.
-Do your friends have room ten? No, they don't have room ten.
-
-La classe commence à six heures.
-Class starts at six o'clock.
-
-La classe commence le matin.
-Class starts in the morning.
-
-La classe commence à dix heures.
-Class starts at ten o'clock.
-
-La classe commence demain.
-The class starts tomorrow.
-
-La classe commence à sept heures.
-Class starts at seven o'clock.
-
-La classe commence aujourd'hui.
-The class starts today.
-
-La classe commence à onze heures.
-Class starts at eleven o'clock.
-
-La classe commence tout de suite.
-The class starts right away.
-
-La classe commence plus tard.
-The class starts later.
-
-La classe commence cet après-midi.
-Class starts this afternoon.
-
-La classe commence maintenant.
-The class starts now.
-
-À quelle heure est-ce que nous devons aller à l'hôtel?
-What time do we have to go to the hotel?
-
+# Ces bâtiments sont très hauts.
+# These buildings are very high. 
+# 
+# Je voudrais réserver, mais sans prépaiement
+# I would like to book but without prepayment
+# 
+# Est-ce que c'est une pension complète? Petit-déjeuner, déjeuner, dîner.
+# Is it all included? Breakfast, lunch, dinner.
+# 
+# Je viens de Paris.
+# I come from Paris.
+# 
+# Elle a mal au ventre lorsqu'elle mange des pâtes.
+# She has a stomachache when she eats pasta.
+# 
+# Elle a des chaussures toutes neuves.
+# She's got brand new shoes.
+# 
+# Ma mère a un nouvel ordinateur.
+# My mom has a new computer.
+# 
+# Ma mére a un ordinateur neuf.
+# My mom has a brand new computer.
+# 
+# Leur nouveau professeur de français est vieux.
+# Their new frech teacher is old.
+# 
+# Ma nouvelle collègue est très sympa. C'est une femme.
+# My new collegue is very friendly. She's a woman.
+# 
+# Il y a un nouveau livre sur mon étagère.
+# There is a new book on my bookshelf.
+# 
+# Il y a deux nouveaux livres sur mon étagère.
+# There are two new books on my bookshelf.
+# 
+# Jéssica a un nouveau vélo. C'était celui de son frère avant.
+# Jessica has got a new bike. It used to be her brother's.
+# 
+# Jessica a un vélo neuf.
+# Jessica has a brand new bike.
+# 
+# Nous avons acheté un nouveau bureau et un canapé neuf.
+# We bought a new desk and a brand new sofa.
+# 
+# J'adore tes chaussures, elles sont neuves?
+# I love your shoes, are they brand new?
+# 
+# Tu as des nouvelles chaussures.
+# You've got a new pair of shoes.
+# 
+# Oh! Ce sont des chaussures neuves?
+# Oh! São sapatos novos (novinhos em folha)?
+# 
+# Tu as un nouveau bureau.
+# You've got a new desk. (not necessarily brand new)
+# 
+# Je mange une pomme par jour.
+# I eat an apple a day.
+# 
+# Il aime mettre du chocolat sur sa poire.
+# He likes to put chocolate on his pear.
+# 
+# Elle préfère les fraises avec de la chantilly.
+# She prefers strawberries with whipped cream.
+# 
+# Mon gâteau préféré est le tiramisu aux framboises.
+# My favorite cake is a raspberry tiramisu.
+# 
+# Les pêches poussent en été.
+# Peaches grow in summer.
+# 
+# Le kiwi est un fruit très énérgetique.
+# The kiwi is a very energetic fruit.
+# 
+# Les bananes sont riches en potassium.
+# Bananas are rich in potassium.
+# 
+# L'ananas est un fruit tropical.
+# The pineapple is a tropical fruit.
+# 
+# J'ai mangé beaucoup de mangues en vacances.
+# I ate a lot of mangos on my vacations.
+# 
+# Les oranges sont une source de vitamine C.
+# Oranges are a source of vitamine C.
+# 
+# J'aime cueillir des champignons en automne.
+# I like picking mushrooms in autumn.
+# 
+# Mon frère n'aime pas les brocolis.
+# My brother doesn't like broccoli.
+# 
+# Il préfère les concombres en salade.
+# He prefers cucumbers in a salad.
+# 
+# Les poivrons sont en train de griller sur le barbecue.
+# The bell peppers are grilling on the barbecue.
+# 
+# Techniquement, la tomate est un fruit.
+# Technically, the tomato is a fruit.
+# 
+# Les carottes sont bientôt cuites.
+# The carrots will be cooked soon.
+# 
+# Elle coupe les pommes de terre pour faire des frites.
+# She's cutting the potatoes to make fries.
+# 
+# Ma sœur aime mettre des aubergines sur sa pizza.
+# My sister likes to put eggplants on her pizza.
+# 
+# Les piments verts que j'ai acheté sont très forts.
+# The green chillies that I bought are very strong.
+# 
+# Il pleure car il a coupé des oignons.
+# He is crying because he cut onions.
+# 
+# Qui vient faire les courses avec moi?
+# Who's coming grocery shopping with me?
+# 
+# Moi ; sauf si vous ne voulez pas.
+# I will, unless you don't want me to.
+# 
+# J'ai dit : « j'appelerais demain ! »
+# I said: "I'll call tomorrow!"
+# 
+# Nous arriverons mardi (ou mercredi) à Paris.
+# We will arrive in Paris on tuesday (or wednesday).
+# 
+# Frenchement, je ne sais pas du tout !.
+# Honestly, I have no idea!
+# 
+# Est-ce que tes parents viendront avec nous ?
+# Will your parents come with us?
+# 
+# Viendra-t-elle avec nous au cinéma?
+# Will she come with us to the cinema?
+# 
+# Comprendra-t-il ta réaction?
+# Will he understand your reaction?
+# 
+# Marie ! Tu peux descendre, s'il te plait?
+# Marie! Could you come down, please?
+# 
+# Elles sont à l'hôtel; elles ont la chambre douze.
+# They're at the hotel; they have room twelve.
+# 
+# Vos parents sont à l'hôtel; ils ont la chambre douze.
+# Your parents are at the hotel; they have room twelve.
+# 
+# Je suis à l'hôtel; j'ai la chambre douze.
+# I'm at the hotel; I have room twelve.
+# 
+# M. Lelong est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+# Mr. Lelong is here. Does he have any news of Miss Courtois?
+# 
+# Mme Durand est ici. Est-ce qu'elle a des nouvelles de Mlle Courtois?
+# Mrs. Durand is here. Does she have any news of Miss Courtois?
+# 
+# Mon frère est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+# My brother is here. Does he have any news of Miss Courtois?
+# 
+# Le gérant est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+# The manager is here. Does he have any news of Miss Courtois?
+# 
+# Ils sont ici. Est-ce qu'ils ont des nouvelles de Mlle Courtois?
+# They are here. Do they have any news of Miss Courtois?
+# 
+# Elle est ici. Est-ce qu'elle a des nouvelles de Mlle Courtois?
+# She's here. She's here. Does she have any news of Miss Courtois?
+# 
+# Elles sont ici. Est-ce qu'elles ont des nouvelles de Mlle Courtois?
+# They are here. Do they have any news of Miss Courtois?
+# 
+# Il est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+# He is here. Does he have any news of Miss Courtois?
+# 
+# Est-ce que vous êtes en vacances? Oui, je suis en vacances.
+# Are you on vacation? Yes, I'm on vacation.
+# 
+# Est-ce que vous avez une chambre? Oui, j'ai une chambre.
+# Do you have a room? Yes, I have a room.
+# 
+# Est-ce que votre ami a les fiches? Oui, il a les fiches.
+# Does your friend have the cards? Yes, he has the cards.
+# 
+# Est-ce que votre amie est en vacances? Oui, elle est en vacances.
+# Is your friend on vacation? Yes, she's on vacation.
+# 
+# Est-ce que vous avez un frère? Oui, j'ai un frère.
+# Do you have a brother? Yes, I have a brother.
+# 
+# Est-ce que vos amis sont en vacances? Oui, ils sont en vacances.
+# Are your friends on vacation? Yes, they're on vacation.
+# 
+# Est-ce que vous avez le livre? Oui, j'ai le livre.
+# Do you have the book? Yes, I have the book.
+# 
+# Est-ce que vos sœurs ont les livres? Oui, elles ont les livres.
+# Do your sisters have the books? Yes, they have the books.
+# 
+# Vous avez de la monnaie? Oui, j'ai de la monnaie.
+# Do you have any change? Yes, I have change.
+# 
+# Janine a la chambre douze? Oui, elle a la chambre douze.
+# Janine has room twelve? Yes, she has room twelve.
+# 
+# Vos amis ont les fiches? Oui, ils ont les fiches.
+# Do your friends have the files? Yes, they have the cards.
+# 
+# Le gérant a la fiche? Oui, il a la fiche.
+# Does the manager have the card? Yes, he has the card.
+# 
+# Vous êtes au café? Oui, je suis au café.
+# Are you at the café? Yes, I'm at the café.
+# 
+# Votre famille est à l'hôtel? Oui, elle est à l'hôtel.
+# Is your family at the hotel? Yes, she's at the hotel.
+# 
+# Vous avez une chambre? Oui, j'ai une chambre.
+# Do you have a room? Yes, I have a room.
+# 
+# Les enfants sont ici? Oui, ils sont ici.
+# Are the children here? Yes, they are here.
+# 
+# Les enfants ont des chambres communicantes? Oui, ils ont des chambres communicantes.
+# Do the children have communicating rooms? Yes, they have communicating rooms.
+# 
+# Janine est en vacances? Oui, elle est en vacances.
+# Is Janine on vacation? Yes, she's on vacation.
+# 
+# Est-ce que Janine a la chambre quatorze? Non, elle n'a pas la chambre quatorze.
+# Does Janine have room fourteen? No, she doesn't have room fourteen.
+# 
+# Est-ce que Janine est au café? Non, elle n'est pas au café.
+# Is Janine at the coffee shop? No, she's not at the coffee shop.
+# 
+# Est-ce que les enfants ont les fiches? Non, ils n'ont pas les fiches.
+# Do the children have the cards? No, they don't have the cards.
+# 
+# Est-ce que vous avez de la monnaie? Non, je n'ai pas de monnaie.
+# Do you have any change? No, I don't have any change.
+# 
+# Est-ce que vos filles ont les livres? Non, elles n'ont pas les livres.
+# Do your daughters have the books? No, they don't have the books.
+# 
+# Est-ce que vos amis sont à Paris? Non, ils ne sont pas à Paris.
+# Are your friends in Paris? No, they're not in Paris.
+# 
+# Est-ce que votre fils a le livre? Non, il n'a pas le livre.
+# Does your son have the book? No, he doesn't have the book.
+# 
+# Est-ce que votre amie a les fiches? Non, elle n'a pas les fiches.
+# Does your friend have the cards? No, she doesn't have the cards.
+# 
+# Est-ce que le restaurant est bon? Non, il n'est pas bon.
+# Is the restaurant good? No, it's not good.
+# 
+# Est-ce que vos amis ont la chambre dix? Non, ils n'ont pas la chambre dix.
+# Do your friends have room ten? No, they don't have room ten.
+# 
+# La classe commence à six heures.
+# Class starts at six o'clock.
+# 
+# La classe commence le matin.
+# Class starts in the morning.
+# 
+# La classe commence à dix heures.
+# Class starts at ten o'clock.
+# 
+# La classe commence demain.
+# The class starts tomorrow.
+# 
+# La classe commence à sept heures.
+# Class starts at seven o'clock.
+# 
+# La classe commence aujourd'hui.
+# The class starts today.
+# 
+# La classe commence à onze heures.
+# Class starts at eleven o'clock.
+# 
+# La classe commence tout de suite.
+# The class starts right away.
+# 
+# La classe commence plus tard.
+# The class starts later.
+# 
+# La classe commence cet après-midi.
+# Class starts this afternoon.
+# 
+# La classe commence maintenant.
+# The class starts now.
+# 
+# À quelle heure est-ce que nous devons aller à l'hôtel?
+# What time do we have to go to the hotel?
+# 
 À quelle heure est-ce que nous devons aller à l'aéroport?
 What time do we have to go to the airport?
 

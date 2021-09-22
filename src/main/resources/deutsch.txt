@@ -7198,6 +7198,15 @@
 # Danke, dass du an mich gedacht hast.
 # Thank you for thinking of me - inf
 # 
+Wir kaufen ein Glätteisen.
+We are buying a straightener.
+
+Wo hast du das Bild gehängt?
+Where did you hang the picture? 
+
+Ich muss noch das Bett machen.
+I still have to make the bed.
+
 Mein Mann kommt erst am Samstag. 
 My husband is coming only on Saturday.
 
