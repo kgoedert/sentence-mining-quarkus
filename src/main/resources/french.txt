@@ -10799,6 +10799,9 @@
 # À quelle heure est-ce que nous devons aller à l'hôtel?
 # What time do we have to go to the hotel?
 # 
+Les carottes seront bientôt cuites.
+The carrots will be cooked soon.
+
 À quelle heure est-ce que nous devons aller à l'aéroport?
 What time do we have to go to the airport?
 
