@@ -10799,6 +10799,123 @@
 # À quelle heure est-ce que nous devons aller à l'hôtel?
 # What time do we have to go to the hotel?
 # 
+Elle a un ami très sympa.
+She's got a very nice friend.
+
+J'ai des animaux de compagnie chez moi.
+I've got some pets at home.
+
+Tu peux me prêter trois euros pour acheter ce magazine?
+Can you lend me three euros so I can buy this magazine?
+
+J'ai quelques informations sur ce cas.
+I have some information about this case.
+
+C'est son anniversaire aujourd'hui.
+It's his/her birthday today.
+
+Les pompiers sont des héros du quotidien.
+Firefighters are ordinary life heros.
+
+Il y a de très belles images dans ce livre.
+There are some pretty pictures in this book.
+
+Il fait de gros efforts.
+He makes some big efforts.
+
+Luc est un étudiant intelligent.
+Luc is a smart student.
+
+C'est un courrier important.
+It's an important mail.
+
+On a frappé à la porte.
+Someone knocked at the door.
+
+Vous avez du courrier.
+You've got some mail.
+
+Ils adorent le cinéma.
+They love cinema.
+
+Elles aiment la littérature.
+They enjoy literature.
+
+Les étudiant arrivent toujours en retard en classe.
+The students always arrive late for class.
+
+Le garçon a lancé la balle.
+The boy threw the ball.
+
+Le chien est parti en courant.
+The dog left running.
+
+Tu veux un café?
+Do you want a coffee?
+
+Elle prend une douche.
+She's having a shower.
+
+Je pars avec lui.
+I'm leaving with him.
+
+Il est très intelligent.
+He is very smart.
+
+Il est beaucoup plus optimiste que je pensais.
+He is much more optimistic than I thought.
+
+On s'est bien entendu avec ton amie.
+We got on well with your friend.
+
+C'était vraiment intéressant.
+It was very interesting.
+
+Quand elle viendra, je lui donnerai son cadeau.
+When she comes, I'll give her her present.
+
+De temps en temps, j'aime aller à la piscine.
+From time to time, I like to go to the swimming pool.
+
+Les élèves ont-ils compris quand ils doivent faire les liaisons?
+Have the students understood when they have to do the liaisons?
+
+Je vais chez un ami.
+I'm going to a friend's house.
+
+Il habite dans une grande maison, sans animaux de compagnie, en Île-de-France.
+He lives in a big house, with no pets, in Île-de-France.
+
+J'ai commencé le français il y a trois années.
+I've been learning french for three full years. (o foco esta no periodo)
+
+J'ai commencé le français il y a trois ans.
+I started learning frenh three years ago. (o foco nao esta no periodo)
+
+Je travaille souvent le matin.
+I often work in the morning (o foco nao esta no periodo)
+
+Je travaille plutôt la matinée.
+I'd rather work in the morning. (o foco esta no periodo)
+
+J'ai passé deux jours au lit.
+I spent two days in bed. (o foco nao esta no periodo)
+
+J'avais la grippe.
+I had the flu.
+
+J'ai passé deux journées au lit.
+I spent two full days in bed (o foco esta no periodo)
+
+La voyage a duré deux jours.
+The trip lasted two days. (o foco nao esta no periodo)
+
+Après dix ans en couple, ils se séparent.
+After ten years of relationship, they split up. (o foco nao esta no periodo)
+
+Après dix années en couple, ils se séparent.
+After ten years of relationship, they split up. (o foco esta no periodo)
+
 À quelle heure est-ce que nous devons aller à l'aéroport?
 What time do we have to go to the airport?
 
