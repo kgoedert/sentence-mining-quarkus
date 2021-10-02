@@ -7197,295 +7197,307 @@
 # 
 # Danke, dass du an mich gedacht hast.
 # Thank you for thinking of me - inf
+# # 
+# Warum hast du ihnen den Ball weggenommen?
+# Why did you take the ball away from them?
 # 
-Wir kaufen ein Glätteisen.
-We are buying a straightener.
-
-Wo hast du das Bild gehängt?
-Where did you hang the picture? 
-
-Ich muss noch das Bett machen.
-I still have to make the bed.
-
-Mein Mann kommt erst am Samstag. 
-My husband is coming only on Saturday.
-
-Meine Schwester hat erst zwei Kinder.
-My sister has two children at the moment.
-
-Es sieht so aus, dass mein Mann erst am Samstag kommen kann. 
-It now looks like my husband won’t be coming until Saturday.
-
-Es ist erst neun Uhr. 
-It is only 9 o’clock. (The speaker thought it was later than 9 o’ clock.)
-
-Sie wird erst schlafen wenn sie heimkommt. 
-She is going sleep only when she comes home. (Only then will she sleep.)
-
-Mein Mann geht nur am Samstag zur Konferenz 
-He is going only on Saturday to the conference. (That’s the one and only day that he is expected to go.)
-
-Sie bleibt nur eine Stunde.
-She is staying only one hour.
-
-Ich bin müde, deswegen habe ich nur fünf Seiten dieses Buches gelesen.
-I am tired, that is why I have read only five pages from the book. (The speaker is not going to read more than five pages.)
-
-Sie will nur schlafen
-She wants to just sleep. (That’s all she wants to do now.)
-
-Antonia hat am Mittwoch Geburtstag.
-O aniversário da Antonia é na quarta-feira.
-
-Hast du die Rechnungen bezahlt?
-Have you already paid the bills?
-
-Was machst du heute Abend?
-What are you doing tonight?
-
-Was machst du am Wochenende?
-What are you doing on the weekend?
-
-Was hast du am Wochenende gemacht?
-What did you do on the weekend?           
-
-Brauchen Sie hilfe?
-Do you need help? - formal
-
-Soll ich Ihnen helfen?
-Should I help you?
-
-Schaffen Sie das alleine?
-Can you manage that on your own?
-
-Sollen wir das Wohnzimmer streichen?
-Should we paint the living room?
-
-Ich weiß es nicht. Ich muss mir das erst überlegen.
-I don't know. I have to think about that first.
-
-Wohin fahrt ihr in Urlaub?
-Where are you guys going on vacation?
-
-Das ist eine gute Frage. Das müssen wir uns noch überlegen.
-That's a good question. We still have to think about that.
-
-Was machst du beruflich?
-What do you do professionally?
-
-Ich bin Software-Entwickler.
-I'm software developer.
-
-Ich arbeite als Software-Entwickler.
-I work as a software developer.
-
-Was hat er dir gesagt?
-What did he say to you?
-
-Er hat mir das Gegenteil gesagt.
-He told me the opposite.
-
-Er hat mir gar nichts gesagt.
-He didn't tell me anything.
-
-Sie hat mir alles gesagt.
-She told me everything.
-
-Jonas ist bei mir.
-Jonas is at my place.
-
-Der Hund ist bei uns.
-The dog is at our place.
-
-Der Sclüssel ist bei Florian.
-The key is at Florian's place.
-
-Ich bin by meinen Eltern.
-I am at my parent's place.
-
-Seid ihr bei Stephan?
-Are you guys at Stephan's place?
-
-Stephan hat sein Handy immer bei sich.
-Stephan always has his cell phone on him.
-
-Stephan hat sein Handy immer dabei.
-Stephan always has his cell phone on him.
-
-Hast du deine Tasche bei dir?
-Do you have your bag with you?
-
-Ich bin beim Arzt.
-I'm at the doctor.
-
-Ich bin bei der Polizei.
-I'm at the police station.
-
-Er ist bei der Arbeit.
-He is at work.
-
-Er arbeitete bei einer Bank.
-He works at a bank.
-
-Ich arbeite bei einem mittleständischen Unternehmen.
-I work at a medium-sized company.
-
-Mein Vater hat zwei Jahre bei der Bundeswehr.
-My father was with the military for two years.
-
-Ich arbeite in einem Krankenhaus.
-I work at a hospital.
-
-Ich habe bei Amazon ein Busch bestellt.
-I ordered a book at amazon.
-
-Die Apotheke ist beim Rathaus.
-The pharmacy is by the town hall.
-
-Ich habe beim Kino geparkt.
-I parked by the movie theater.
-
-Er sitzt bei seinen Freunden.
-He is sitting with his friends.
-
-Beim Festival habe ich viele nette Leute kennengelernt.
-At the festival, I met a lot of nice people.
-
-Bei der Weinprobe habe ich leckeren Wein getrunken.
-At the wine tasting I drank delicious wine.
-
-Beim Konzert ist sie in Ohnmacht gafallen, als Justin ihren Arm berührt hat.
-At the concert she fainted, when Justin touched her arm.
-
-Beim Essen hat er uns von seinem Urlaub erzählt.
-While we were eating, he told us about his vacation.
-
-Beim Telefonieren habe ich das Glas umgekippt.
-While I was talking on the telephone, i knocked over the glass.
-
-Beim Duschen singt sie immer.
-When taking a shower, she always sings.
-
-Wasser kocht bei 100° Celsius.
-Water boils at 100° Celsius.
-
-Wir mussen bei Null anfangen.
-We have to start from scratch.
-
-Bei 25° C fühle ich mich wohl.
-At 25° C, I feel good.
-
-Ich bleibe bei meiner Meinung.
-I'm sticking to my opinion.
-
-Ich kann dir beim Kochen helfen, wenn du willst.
-I can help you cook, if you want.                   <<<-- jenny
-
-Zisch ab, du Idiot!
-Buzz off, you idiot!
-
-Wo ist das Auto?
-Where is the car?
-
-Wo ist der Mann?
-Where is the man?
-
-Wo ist die Frau?
-Where is the woman?
-
-Die Frau ist im Auto.
-The woman is in the car.
-
-Der Mann ist im Auto.
-The man is in the car.
-
-Ich lerne Deutsch.
-I'm learning german.
-
-Wo ist das Auto?
-Where is the car?
-
-Hallo Leute!
-Hi Guys!
-
-Guten Tag. Mein Name is Janine Schmidt.
-Hello. My name is Janine Schmidt.
-
-Wie heiẞt ihr?
-What are your names? - informal
-
-Ich komme aus Deutschland.
-I come from Germany.
-
-Ich komme aus den USA. 
-I come from the USA.
-
-Ich wohne in Berlin.
-I live in Berlin.
-
-Ich wohne in München.
-I live in Munich.
-
-Er lernt viel.
-He studies a lot.
-
-Stephan lernt für die Prüfung.
-Stephan is studying for the exam.
-
-Ich lerne gerade.
-I'm studying right now.
-
-Sie lernt heute.
-She is studying today.
-
-Sie lernt nicht.
-She is not studying.
-
-Sie macht einen Salat.
-She is making a salad.
-
-Wir machen Urlaub.
-We are on vacation.
-
-Manuela und Jochen machen Lärm.
-Manuela and Jochen are making noise.
-
-Ich mache Kaffee.
-I am making coffee.
-
-Tim macht das Bett.
-Tim is making the Bed.
-
-Luisa macht nichts.
-Luisa is not doing anything.
-
-Er geht nach Hause.
-He is going home.
-
-Sie geht zu Fuẞ.
-She is walking.
-
-Ich gehe ins Bett.
-I am going to bed.
-
-Klaus geht weg.
-Klaus is going away.
-
-Ich gehe zum Supermarkt.
-I am going to the supermaket.
-
-Der Hund geht nach drauẞen.
-The dog is going outside.
-
-Ich gehe in die Küche.
-I am going into the kitchen.
-
-Lernst du?
-Are you studying?
-
-Lernt ihr?
-Are you guys studying?
-
+# die Münze, die Münzen
+# the coin, the coins
+# 
+# die Vokabel, die Vokabeln
+# the vocabulary, the vocabulary (plural)
+# 
+# Ich bin schon im Büro.
+# I'm already at the office. 
+# 
+# Wir kaufen ein Glätteisen.
+# We are buying a straightener.
+# 
+# Wo hast du das Bild gehängt?
+# Where did you hang the picture? 
+# 
+# Ich muss noch das Bett machen.
+# I still have to make the bed.
+# 
+# Mein Mann kommt erst am Samstag. 
+# My husband is coming only on Saturday.
+# 
+# Meine Schwester hat erst zwei Kinder.
+# My sister has two children at the moment.
+# 
+# Es sieht so aus, dass mein Mann erst am Samstag kommen kann. 
+# It now looks like my husband won’t be coming until Saturday.
+# 
+# Es ist erst neun Uhr. 
+# It is only 9 o’clock. (The speaker thought it was later than 9 o’ clock.)
+# 
+# Sie wird erst schlafen wenn sie heimkommt. 
+# She is going sleep only when she comes home. (Only then will she sleep.)
+# 
+# Mein Mann geht nur am Samstag zur Konferenz 
+# He is going only on Saturday to the conference. (That’s the one and only day that he is expected to go.)
+# 
+# Sie bleibt nur eine Stunde.
+# She is staying only one hour.
+# 
+# Ich bin müde, deswegen habe ich nur fünf Seiten dieses Buches gelesen.
+# I am tired, that is why I have read only five pages from the book. (The speaker is not going to read more than five pages.)
+# 
+# Sie will nur schlafen
+# She wants to just sleep. (That’s all she wants to do now.)
+# 
+# Antonia hat am Mittwoch Geburtstag.
+# O aniversário da Antonia é na quarta-feira.
+# 
+# Hast du die Rechnungen bezahlt?
+# Have you already paid the bills?
+# 
+# Was machst du heute Abend?
+# What are you doing tonight?
+# 
+# Was machst du am Wochenende?
+# What are you doing on the weekend?
+# 
+# Was hast du am Wochenende gemacht?
+# What did you do on the weekend?           
+# 
+# Brauchen Sie hilfe?
+# Do you need help? - formal
+# 
+# Soll ich Ihnen helfen?
+# Should I help you?
+# 
+# Schaffen Sie das alleine?
+# Can you manage that on your own?
+# 
+# Sollen wir das Wohnzimmer streichen?
+# Should we paint the living room?
+# 
+# Ich weiß es nicht. Ich muss mir das erst überlegen.
+# I don't know. I have to think about that first.
+# 
+# Wohin fahrt ihr in Urlaub?
+# Where are you guys going on vacation?
+# 
+# Das ist eine gute Frage. Das müssen wir uns noch überlegen.
+# That's a good question. We still have to think about that.
+# 
+# Was machst du beruflich?
+# What do you do professionally?
+# 
+# Ich bin Software-Entwickler.
+# I'm software developer.
+# 
+# Ich arbeite als Software-Entwickler.
+# I work as a software developer.
+# 
+# Was hat er dir gesagt?
+# What did he say to you?
+# 
+# Er hat mir das Gegenteil gesagt.
+# He told me the opposite.
+# 
+# Er hat mir gar nichts gesagt.
+# He didn't tell me anything.
+# 
+# Sie hat mir alles gesagt.
+# She told me everything.
+# 
+# Jonas ist bei mir.
+# Jonas is at my place.
+# 
+# Der Hund ist bei uns.
+# The dog is at our place.
+# 
+# Der Sclüssel ist bei Florian.
+# The key is at Florian's place.
+# 
+# Ich bin by meinen Eltern.
+# I am at my parent's place.
+# 
+# Seid ihr bei Stephan?
+# Are you guys at Stephan's place?
+# 
+# Stephan hat sein Handy immer bei sich.
+# Stephan always has his cell phone on him.
+# 
+# Stephan hat sein Handy immer dabei.
+# Stephan always has his cell phone on him.
+# 
+# Hast du deine Tasche bei dir?
+# Do you have your bag with you?
+# 
+# Ich bin beim Arzt.
+# I'm at the doctor.
+# 
+# Ich bin bei der Polizei.
+# I'm at the police station.
+# 
+# Er ist bei der Arbeit.
+# He is at work.
+# 
+# Er arbeitete bei einer Bank.
+# He works at a bank.
+# 
+# Ich arbeite bei einem mittleständischen Unternehmen.
+# I work at a medium-sized company.
+# 
+# Mein Vater hat zwei Jahre bei der Bundeswehr.
+# My father was with the military for two years.
+# 
+# Ich arbeite in einem Krankenhaus.
+# I work at a hospital.
+# 
+# Ich habe bei Amazon ein Busch bestellt.
+# I ordered a book at amazon.
+# 
+# Die Apotheke ist beim Rathaus.
+# The pharmacy is by the town hall.
+# 
+# Ich habe beim Kino geparkt.
+# I parked by the movie theater.
+# 
+# Er sitzt bei seinen Freunden.
+# He is sitting with his friends.
+# 
+# Beim Festival habe ich viele nette Leute kennengelernt.
+# At the festival, I met a lot of nice people.
+# 
+# Bei der Weinprobe habe ich leckeren Wein getrunken.
+# At the wine tasting I drank delicious wine.
+# 
+# Beim Konzert ist sie in Ohnmacht gafallen, als Justin ihren Arm berührt hat.
+# At the concert she fainted, when Justin touched her arm.
+# 
+# Beim Essen hat er uns von seinem Urlaub erzählt.
+# While we were eating, he told us about his vacation.
+# 
+# Beim Telefonieren habe ich das Glas umgekippt.
+# While I was talking on the telephone, i knocked over the glass.
+# 
+# Beim Duschen singt sie immer.
+# When taking a shower, she always sings.
+# 
+# Wasser kocht bei 100° Celsius.
+# Water boils at 100° Celsius.
+# 
+# Wir mussen bei Null anfangen.
+# We have to start from scratch.
+# 
+# Bei 25° C fühle ich mich wohl.
+# At 25° C, I feel good.
+# 
+# Ich bleibe bei meiner Meinung.
+# I'm sticking to my opinion.
+# 
+# Ich kann dir beim Kochen helfen, wenn du willst.
+# I can help you cook, if you want.                   <<<-- jenny
+# 
+# Zisch ab, du Idiot!
+# Buzz off, you idiot!
+# 
+# Wo ist das Auto?
+# Where is the car?
+# 
+# Wo ist der Mann?
+# Where is the man?
+# 
+# Wo ist die Frau?
+# Where is the woman?
+# 
+# Die Frau ist im Auto.
+# The woman is in the car.
+# 
+# Der Mann ist im Auto.
+# The man is in the car.
+# 
+# Ich lerne Deutsch.
+# I'm learning german.
+# 
+# Wo ist das Auto?
+# Where is the car?
+# 
+# Hallo Leute!
+# Hi Guys!
+# 
+# Guten Tag. Mein Name is Janine Schmidt.
+# Hello. My name is Janine Schmidt.
+# 
+# Wie heiẞt ihr?
+# What are your names? - informal
+# 
+# Ich komme aus Deutschland.
+# I come from Germany.
+# 
+# Ich komme aus den USA. 
+# I come from the USA.
+# 
+# Ich wohne in Berlin.
+# I live in Berlin.
+# 
+# Ich wohne in München.
+# I live in Munich.
+# 
+# Er lernt viel.
+# He studies a lot.
+# 
+# Stephan lernt für die Prüfung.
+# Stephan is studying for the exam.
+# 
+# Ich lerne gerade.
+# I'm studying right now.
+# 
+# Sie lernt heute.
+# She is studying today.
+# 
+# Sie lernt nicht.
+# She is not studying.
+# 
+# Sie macht einen Salat.
+# She is making a salad.
+# 
+# Wir machen Urlaub.
+# We are on vacation.
+# 
+# Manuela und Jochen machen Lärm.
+# Manuela and Jochen are making noise.
+# 
+# Ich mache Kaffee.
+# I am making coffee.
+# 
+# Tim macht das Bett.
+# Tim is making the Bed.
+# 
+# Luisa macht nichts.
+# Luisa is not doing anything.
+# 
+# Er geht nach Hause.
+# He is going home.
+# 
+# Sie geht zu Fuẞ.
+# She is walking.
+# 
+# Ich gehe ins Bett.
+# I am going to bed.
+# 
+# Klaus geht weg.
+# Klaus is going away.
+# 
+# Ich gehe zum Supermarkt.
+# I am going to the supermaket.
+# 
+# Der Hund geht nach drauẞen.
+# The dog is going outside.
+# 
+# Ich gehe in die Küche.
+# I am going into the kitchen.
+# 
+# Lernst du?
+# Are you studying?
+# 
+# Lernt ihr?
+# Are you guys studying?
+# 
 Lernt ihr heute?
 Are you guys studying today?
 

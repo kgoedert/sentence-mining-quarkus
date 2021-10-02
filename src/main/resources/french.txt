@@ -10918,7 +10918,6 @@ After ten years of relationship, they split up. (o foco nao esta no periodo)
 
 Après dix années en couple, ils se séparent.
 After ten years of relationship, they split up. (o foco esta no periodo)
->>>>>>> 4805d8fbf90d4f2056018751d739b1090c9bfbde
 
 À quelle heure est-ce que nous devons aller à l'aéroport?
 What time do we have to go to the airport?
