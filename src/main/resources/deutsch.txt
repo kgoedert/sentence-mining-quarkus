@@ -7498,6 +7498,9 @@
 # Lernt ihr?
 # Are you guys studying?
 # 
+Der Schlüssel ist bei Florian.
+The key is at Florian's place.
+
 Lernt ihr heute?
 Are you guys studying today?
 

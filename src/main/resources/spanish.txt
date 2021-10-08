@@ -8994,307 +8994,310 @@
 # 
 # Hace diez años que conocemos a Humiko.
 # We've known Humiko for ten years.
+# # 
+# # No veo a Carla desde hace seis meses.
+# # I haven't seen Carla in six months.
+# # 
+# Este soy yo cuando era pequeño.
+# This is me when I was little.
 # 
-# No veo a Carla desde hace seis meses.
-# I haven't seen Carla in six months.
+# Suelo meterme en la cama a las 9.
+# I usually get into bed at 9.
 # 
-Suelo meterme en la cama a las 9.
-I usually get into bed at 9.
-
-¿Por qué sonríes? Es que estoy me acordando de la película de anoche.
-Why are you smiling? I'm just remembering last night's movie.
-
-Estudio chino desde hace dos años.
-I've been studying Chinese for two years.
-
-Marieta vive con unos amigos desde el verano pasado.
-Marieta has been living with friends since last summer.
-
-No sé nada de mis primas desde Nochevieja.
-I haven't heard from my cousins since New Year's Eve.
-
-No como jamón desde que me lo prohibió el médico.
-I haven't eaten ham since the doctor told me not to.
-
-Trabaja con su padre desde que acabó la carrera.
-She has been working with her father since she finished her studies.
-
-¿Cuánto tiempo hace que tienes ese móvil?
-How long have you had that mobile phone?
-
-¿Desde cuándo no te duchas? Apestas.
-Since when don't you take showers? You suck.
-
-El día 17 hace tres años que nos conocemos.
-On the 17th we've known each other for three years.
-
-Dentro de unos días hace un ano que trabajo en la empresa.
-In a few days I've been working for the company for a year.
-
-El día 25 hace cinco años que nos casamos.
-On the 25th we got married five years ago.
-
-Luis regresa la semana que viene.
-Luis comes back next week.
-
-Ya llevamos tres semanas en Japón.
-We've been in Japan for three weeks now.
-
-Lola ya lleva dos años jubilada.
-Lola has been retired for two years now.
-
-Llevo aquí desde las cinco.
-I've been here since five.
-
-Llevan reunidos desde las ocho.
-They've been together since 8:00.
-
-Lleva enfermo desde que era joven.
-She has been sick since she was young.
-
-Luis lleva jubilado desde que lo conozco.
-Luis has been retired since I met him.
-
-Solo llevo una semana en esta empresa.
-I've only been in this company for a week.
-
-Solo llevo en esta empresa una semana.
-I've only been in this company for a week.
-
-Lleva durmiendo doce horas.
-He has been sleeping for twelve hours.
-
-Llevamos esperando desde las dos.
-We have been waiting since two o'clock.
-
-Lleva jugando al tenis desde que tenía cuatro años.
-He has been playing tennis since he was four years old.
-
-Llevo sin ir al cine más de un año.
-I haven't been to the movies in over a year.
-
-Llevo sin comer nada desde esta mañana.
-I haven't eaten anything since this morning.
-
-Marisa lleva sin escribir desde que se fue a Manila.
-Marisa has not written since she went to Manila.
-
-Lleva preparándose para el maratón seis meses.
-She has been preparing for the marathon for six months.
-
-Lleva seis meses preparándose para el maratón.
-She has been preparing for the marathon for six months.
-
-¿Cuánto lleva enferma Paz? Más de dos meses.
-How long has Peace been ill? More than two months.
-
-¿Cuánto tiempo llevamos esperando? Solo quince minutos.
-How long have we been waiting? Only fifteen minutes.
-
-¿Cuántas horas llevan durmiendo? Diez por lo menos.
-How many hours have you been sleeping? At least ten.
-
-¿Cuánto tiempo llevan jugando? Más de cinco horas.
-How long have you been playing? More than five hours.
-
-¿Qué haces aquí? Estoy esperando a Julia.
-What are you doing here? I'm waiting for Julia.
-
-Le estamos cuidando los gatos a Clara mientras esta de vacaciones.
-We're taking care of Clara's cats while she's on vacation.
-
-Alberto pasa la pelota a Ramazzoti. Se adentra por la banda, regatea a un defensa y centra a Totó.
-Alberto passes the ball to Ramazzoti. He goes into the band, dribbles a defender and centers Totò.
-
-Estáis todo el día escuchando música. A ver si estudiáis.
-You're listening to music all day. Let's see if you study.
-
-Álvaro es muy cariñoso. Está siempre cogiéndome la mano.
-Álvaro is very affectionate. He's always holding my hand.
-
-Estás siempre pidiendo dinero. Pero nunca me prestas nada.
-You are always asking for money. But you never lend me anything.
-
-No ayudas nunca a poner la mesa.
-You never help to set the table.
-
-¿Qué haces? Nada especial. Estoy viendo la tele.
-What are you doing? Nothing special. I'm watching TV.
-
-¿De dónde vienes? Del médico. Estoy un poco resfriado. 
-Where do you come from? From the doctor. I have a bit of a cold. 
-
-¿Y adónde vas? A la farmacia. Necesito unas pastillas.
-And where are you going? To the pharmacy. I need some pills.
-
-¿Oyes algo? No oigo nada. Están muy lejos.
-Do you hear anything? I don't hear anything. They're very far away.
-
-¿Qué haces? Estoy oyendo las noticias.
-What are you doing? I'm listening to the news.
-
-¿Te gusta la película? No, es un poco infantil.
-Do you like the film? No, it's a little childish.
-
-Esta carne sabe a pescado. ¿Con qué aceite la has frito?
-This meat tastes like fish. What oil did you fry it with?
-
-¿Qué te pasa? Me duele la cabeza.
-What's the matter with you? My head hurts.
-
-¿Desea algo? No, gracias. Solo estoy mirando.
-Do you want something? No, thank you. I'm just looking.
-
-Eres extraordinaria. Te admiro.
-You are extraordinary. I admire you.
-
-¿Qué deseas? Nada. Gracias.
-What do you wish for? Nothing. Thank you.
-
-¡Qué mala está esta sopa! No me gusta.
-How bad this soup is! I don't like it.
-
-¡Qué bien huelen estas flores!
-These flowers smell good!
-
-Lo siento. No tengo ese libro.
-I'm sorry. I don't have that book.
-
-Este libro cuesta 40 euros.
-This book costs 40 euros.
-
-¿Qué te pasa? ¿Te duelen las muelas?
-What's the matter, do your teeth hurt?
-
-Tengo gripe. No me siento bien.
-I have the flu. I don't feel well.
-
-¿Qué haces? Estoy admirando este cuadro.
-What are you doing? I'm admiring this painting.
-
-¡Qué frío! Estoy deseando llegar a casa.
-It's cold! I can't wait to get home.
-
-El libro que me has prestado no me está gustando mucho.
-I'm not liking the book you lent me very much.
-
-Estoy oliendo este perfume nuevo y me encanta.
-I'm smelling this new perfume and I love it.
-
-Este año no estamos teniendo suerte. Perdemos todos los partidos.
-We're not getting lucky this year. We lose every game.
-
-Me está costando terminar este libro.
-I'm having a hard time finishing this book.
-
-Todavía me está doliendo el golpe de ayer.
-Yesterday's blow is still hurting.
-
-Estoy sintiendo pasos en el piso de arriba.
-I'm feeling footsteps upstairs.
-
-De pequeño, comía chocolate todos los días.
-When I was a kid, I ate chocolate every day.
-
-De joven, Roberto tenía muchísimos amigos.
-When I was young, Roberto had a lot of friends.
-
-Cuando estudiaba ruso, fui dos veces a Rusia.
-When I was studying Russian, I went to Russia twice.
-
-El incendio comenzó mientras dormíamos.
-The fire started while we slept.
-
-La madre de Arturo era muy alta.
-Arthur's mother was very tall.
-
-El pueblo de mis tíos tenía las casas de adobe.
-My uncles' village had adobe houses.
-
-Ana y Tim se casaron el 10 de junio. Hacía un día espléndido y la iglesia estaba llena de gente.
-Ana and Tim were married on June 10. It was a splendid day and the church was full of people.
-
-Buenos días. Quería hablar con el director.
-Good morning. I wanted to talk to the director.
-
-Llamaba para preguntar por el puesto de traductor.
-I was calling to ask about the translator position.
-
-Eras tú. Menos mal. Creía que era la jefa.
-It was you. Thank goodness. I thought she was the boss.
-
-¿Qué haces comiendo jamón? Si no te gustaba.
-What are you doing eating ham? If you didn't like it.
-
-¿Qué haces aquí? ¿No estabas en Marruecos?
-What are you doing here? Weren't you in Morocco?
-
-¿Qué haces viendo la tele? ¿No tenías que estudiar?
-What are you doing watching TV? Didn't you have to study?
-
-Lo siento. No sabía que estabas durmiendo.
-I'm sorry. I didn't know you were sleeping.
-
-Disculpen. Creía que este asiento no estaba ocupado.
-Excuse me. I thought this seat wasn't occupied.
-
-Perdón pensaba que no había nadie.
-I'm sorry. I thought there was no one here.
-
-Me comía solo toda esta tarta.
-I ate all this cake all by myself.
-
-¡Qué ganas tengo de vacaciones! Dejaba ahora mismo todo y me iba a una isla del Caribe descansar.
-I can't wait for a vacation! I was leaving everything right now and going to a Caribbean island to rest.
-
-He tirado eh jarrón sin querer. Había poca luz.
-I have thrown eh vase without wanting. There was little light.
-
-¿Por qué le has puesto tanta sal en la carne? Lo ponía en la receta.
-Why did you put so much salt in the meat? I put it in the recipe.
-
-Lo siento. No es culpa mía. El paquete venía así.
-I'm sorry. It's not my fault. The package came like this.
-
-Hans y Gretel se fueron ayer a Munich. Creo que iban de avión.
-Hans and Gretel went to Munich yesterday. I think they were on a plane.
-
-Al parecer, se mudaban de piso mañana.
-Apparently, they were moving tomorrow.
-
-Creo que examinaban hoy, pero no estoy segura.
-I think they were examining today, but I'm not sure.
-
-Ana duerme siete horas al día.
-Ana sleeps seven hours a day.
-
-¿Cuál de vosotros habla russo?
-Which of you speaks russian?
-
-Le he regalado una corbata.
-I gave him a tie.
-
-Anoche vi a Sofia.
-I saw Sofia last night.
-
-Susana acabó la carrera en junio.
-Susana finished the race in June.
-
-¿Cuándo comprasteis el piso? Hace dos años. Tuvimos suerte.
-When did you buy the flat? Two years ago. We were lucky.
-
-Anoche no me encontraba bien. Llegué a casa, me tomé una aspirina y me acosté.
-I didn't feel well last night. I came home, took an aspirin and went to bed.
-
-¿Qué hicisteis el sábado pasado? Salimos con Rosa y Carlos. Primero fuimos al teatro y luego cenamos en un restaurante indio.
-What did you do last Saturday? We went out with Rosa and Carlos. First we went to the theater and then we had dinner in an Indian restaurant.
-
-Arnaldo se despertó y miró al reloj: las siete y veinte.
-Arnaldo woke up and looked at the clock: 7:20.
-
-Se levantó rápido, se puso lo primero que encontró y salió a la calle.
-He got up quickly, put on the first thing he found and went out into the street.
-
+# ¿Por qué sonríes? Es que estoy me acordando de la película de anoche.
+# Why are you smiling? I'm just remembering last night's movie.
+# 
+# Estudio chino desde hace dos años.
+# I've been studying Chinese for two years.
+# 
+# Marieta vive con unos amigos desde el verano pasado.
+# Marieta has been living with friends since last summer.
+# 
+# No sé nada de mis primas desde Nochevieja.
+# I haven't heard from my cousins since New Year's Eve.
+# 
+# No como jamón desde que me lo prohibió el médico.
+# I haven't eaten ham since the doctor told me not to.
+# 
+# Trabaja con su padre desde que acabó la carrera.
+# She has been working with her father since she finished her studies.
+# 
+# ¿Cuánto tiempo hace que tienes ese móvil?
+# How long have you had that mobile phone?
+# 
+# ¿Desde cuándo no te duchas? Apestas.
+# Since when don't you take showers? You suck.
+# 
+# El día 17 hace tres años que nos conocemos.
+# On the 17th we've known each other for three years.
+# 
+# Dentro de unos días hace un ano que trabajo en la empresa.
+# In a few days I've been working for the company for a year.
+# 
+# El día 25 hace cinco años que nos casamos.
+# On the 25th we got married five years ago.
+# 
+# Luis regresa la semana que viene.
+# Luis comes back next week.
+# 
+# Ya llevamos tres semanas en Japón.
+# We've been in Japan for three weeks now.
+# 
+# Lola ya lleva dos años jubilada.
+# Lola has been retired for two years now.
+# 
+# Llevo aquí desde las cinco.
+# I've been here since five.
+# 
+# Llevan reunidos desde las ocho.
+# They've been together since 8:00.
+# 
+# Lleva enfermo desde que era joven.
+# She has been sick since she was young.
+# 
+# Luis lleva jubilado desde que lo conozco.
+# Luis has been retired since I met him.
+# 
+# Solo llevo una semana en esta empresa.
+# I've only been in this company for a week.
+# 
+# Solo llevo en esta empresa una semana.
+# I've only been in this company for a week.
+# 
+# Lleva durmiendo doce horas.
+# He has been sleeping for twelve hours.
+# 
+# Llevamos esperando desde las dos.
+# We have been waiting since two o'clock.
+# 
+# Lleva jugando al tenis desde que tenía cuatro años.
+# He has been playing tennis since he was four years old.
+# 
+# Llevo sin ir al cine más de un año.
+# I haven't been to the movies in over a year.
+# 
+# Llevo sin comer nada desde esta mañana.
+# I haven't eaten anything since this morning.
+# 
+# Marisa lleva sin escribir desde que se fue a Manila.
+# Marisa has not written since she went to Manila.
+# 
+# Lleva preparándose para el maratón seis meses.
+# She has been preparing for the marathon for six months.
+# 
+# Lleva seis meses preparándose para el maratón.
+# She has been preparing for the marathon for six months.
+# 
+# ¿Cuánto lleva enferma Paz? Más de dos meses.
+# How long has Peace been ill? More than two months.
+# 
+# ¿Cuánto tiempo llevamos esperando? Solo quince minutos.
+# How long have we been waiting? Only fifteen minutes.
+# 
+# ¿Cuántas horas llevan durmiendo? Diez por lo menos.
+# How many hours have you been sleeping? At least ten.
+# 
+# ¿Cuánto tiempo llevan jugando? Más de cinco horas.
+# How long have you been playing? More than five hours.
+# 
+# ¿Qué haces aquí? Estoy esperando a Julia.
+# What are you doing here? I'm waiting for Julia.
+# 
+# Le estamos cuidando los gatos a Clara mientras esta de vacaciones.
+# We're taking care of Clara's cats while she's on vacation.
+# 
+# Alberto pasa la pelota a Ramazzoti. Se adentra por la banda, regatea a un defensa y centra a Totó.
+# Alberto passes the ball to Ramazzoti. He goes into the band, dribbles a defender and centers Totò.
+# 
+# Estáis todo el día escuchando música. A ver si estudiáis.
+# You're listening to music all day. Let's see if you study.
+# 
+# Álvaro es muy cariñoso. Está siempre cogiéndome la mano.
+# Álvaro is very affectionate. He's always holding my hand.
+# 
+# Estás siempre pidiendo dinero. Pero nunca me prestas nada.
+# You are always asking for money. But you never lend me anything.
+# 
+# No ayudas nunca a poner la mesa.
+# You never help to set the table.
+# 
+# ¿Qué haces? Nada especial. Estoy viendo la tele.
+# What are you doing? Nothing special. I'm watching TV.
+# 
+# ¿De dónde vienes? Del médico. Estoy un poco resfriado. 
+# Where do you come from? From the doctor. I have a bit of a cold. 
+# 
+# ¿Y adónde vas? A la farmacia. Necesito unas pastillas.
+# And where are you going? To the pharmacy. I need some pills.
+# 
+# ¿Oyes algo? No oigo nada. Están muy lejos.
+# Do you hear anything? I don't hear anything. They're very far away.
+# 
+# ¿Qué haces? Estoy oyendo las noticias.
+# What are you doing? I'm listening to the news.
+# 
+# ¿Te gusta la película? No, es un poco infantil.
+# Do you like the film? No, it's a little childish.
+# 
+# Esta carne sabe a pescado. ¿Con qué aceite la has frito?
+# This meat tastes like fish. What oil did you fry it with?
+# 
+# ¿Qué te pasa? Me duele la cabeza.
+# What's the matter with you? My head hurts.
+# 
+# ¿Desea algo? No, gracias. Solo estoy mirando.
+# Do you want something? No, thank you. I'm just looking.
+# 
+# Eres extraordinaria. Te admiro.
+# You are extraordinary. I admire you.
+# 
+# ¿Qué deseas? Nada. Gracias.
+# What do you wish for? Nothing. Thank you.
+# 
+# ¡Qué mala está esta sopa! No me gusta.
+# How bad this soup is! I don't like it.
+# 
+# ¡Qué bien huelen estas flores!
+# These flowers smell good!
+# 
+# Lo siento. No tengo ese libro.
+# I'm sorry. I don't have that book.
+# 
+# Este libro cuesta 40 euros.
+# This book costs 40 euros.
+# 
+# ¿Qué te pasa? ¿Te duelen las muelas?
+# What's the matter, do your teeth hurt?
+# 
+# Tengo gripe. No me siento bien.
+# I have the flu. I don't feel well.
+# 
+# ¿Qué haces? Estoy admirando este cuadro.
+# What are you doing? I'm admiring this painting.
+# 
+# ¡Qué frío! Estoy deseando llegar a casa.
+# It's cold! I can't wait to get home.
+# 
+# El libro que me has prestado no me está gustando mucho.
+# I'm not liking the book you lent me very much.
+# 
+# Estoy oliendo este perfume nuevo y me encanta.
+# I'm smelling this new perfume and I love it.
+# 
+# Este año no estamos teniendo suerte. Perdemos todos los partidos.
+# We're not getting lucky this year. We lose every game.
+# 
+# Me está costando terminar este libro.
+# I'm having a hard time finishing this book.
+# 
+# Todavía me está doliendo el golpe de ayer.
+# Yesterday's blow is still hurting.
+# 
+# Estoy sintiendo pasos en el piso de arriba.
+# I'm feeling footsteps upstairs.
+# 
+# De pequeño, comía chocolate todos los días.
+# When I was a kid, I ate chocolate every day.
+# 
+# De joven, Roberto tenía muchísimos amigos.
+# When I was young, Roberto had a lot of friends.
+# 
+# Cuando estudiaba ruso, fui dos veces a Rusia.
+# When I was studying Russian, I went to Russia twice.
+# 
+# El incendio comenzó mientras dormíamos.
+# The fire started while we slept.
+# 
+# La madre de Arturo era muy alta.
+# Arthur's mother was very tall.
+# 
+# El pueblo de mis tíos tenía las casas de adobe.
+# My uncles' village had adobe houses.
+# 
+# Ana y Tim se casaron el 10 de junio. Hacía un día espléndido y la iglesia estaba llena de gente.
+# Ana and Tim were married on June 10. It was a splendid day and the church was full of people.
+# 
+# Buenos días. Quería hablar con el director.
+# Good morning. I wanted to talk to the director.
+# 
+# Llamaba para preguntar por el puesto de traductor.
+# I was calling to ask about the translator position.
+# 
+# Eras tú. Menos mal. Creía que era la jefa.
+# It was you. Thank goodness. I thought she was the boss.
+# 
+# ¿Qué haces comiendo jamón? Si no te gustaba.
+# What are you doing eating ham? If you didn't like it.
+# 
+# ¿Qué haces aquí? ¿No estabas en Marruecos?
+# What are you doing here? Weren't you in Morocco?
+# 
+# ¿Qué haces viendo la tele? ¿No tenías que estudiar?
+# What are you doing watching TV? Didn't you have to study?
+# 
+# Lo siento. No sabía que estabas durmiendo.
+# I'm sorry. I didn't know you were sleeping.
+# 
+# Disculpen. Creía que este asiento no estaba ocupado.
+# Excuse me. I thought this seat wasn't occupied.
+# 
+# Perdón pensaba que no había nadie.
+# I'm sorry. I thought there was no one here.
+# 
+# Me comía solo toda esta tarta.
+# I ate all this cake all by myself.
+# 
+# ¡Qué ganas tengo de vacaciones! Dejaba ahora mismo todo y me iba a una isla del Caribe descansar.
+# I can't wait for a vacation! I was leaving everything right now and going to a Caribbean island to rest.
+# 
+# He tirado eh jarrón sin querer. Había poca luz.
+# I have thrown eh vase without wanting. There was little light.
+# 
+# ¿Por qué le has puesto tanta sal en la carne? Lo ponía en la receta.
+# Why did you put so much salt in the meat? I put it in the recipe.
+# 
+# Lo siento. No es culpa mía. El paquete venía así.
+# I'm sorry. It's not my fault. The package came like this.
+# 
+# Hans y Gretel se fueron ayer a Munich. Creo que iban de avión.
+# Hans and Gretel went to Munich yesterday. I think they were on a plane.
+# 
+# Al parecer, se mudaban de piso mañana.
+# Apparently, they were moving tomorrow.
+# 
+# Creo que examinaban hoy, pero no estoy segura.
+# I think they were examining today, but I'm not sure.
+# 
+# Ana duerme siete horas al día.
+# Ana sleeps seven hours a day.
+# 
+# ¿Cuál de vosotros habla russo?
+# Which of you speaks russian?
+# 
+# Le he regalado una corbata.
+# I gave him a tie.
+# 
+# Anoche vi a Sofia.
+# I saw Sofia last night.
+# 
+# Susana acabó la carrera en junio.
+# Susana finished the race in June.
+# 
+# ¿Cuándo comprasteis el piso? Hace dos años. Tuvimos suerte.
+# When did you buy the flat? Two years ago. We were lucky.
+# 
+# Anoche no me encontraba bien. Llegué a casa, me tomé una aspirina y me acosté.
+# I didn't feel well last night. I came home, took an aspirin and went to bed.
+# 
+# ¿Qué hicisteis el sábado pasado? Salimos con Rosa y Carlos. Primero fuimos al teatro y luego cenamos en un restaurante indio.
+# What did you do last Saturday? We went out with Rosa and Carlos. First we went to the theater and then we had dinner in an Indian restaurant.
+# 
+# Arnaldo se despertó y miró al reloj: las siete y veinte.
+# Arnaldo woke up and looked at the clock: 7:20.
+# 
+# Se levantó rápido, se puso lo primero que encontró y salió a la calle.
+# He got up quickly, put on the first thing he found and went out into the street.
+# 
 La madre de Alberto murió a los noventa y dos años.
 Alberto's mother died at the age of ninety-two.
 
