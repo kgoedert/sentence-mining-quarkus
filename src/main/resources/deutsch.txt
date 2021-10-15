@@ -7498,6 +7498,9 @@
 # Lernt ihr?
 # Are you guys studying?
 # 
+Wo hast du die Gläser hingestellt?
+Where did you put the glasses? 
+
 Der Schlüssel ist bei Florian.
 The key is at Florian's place.
 

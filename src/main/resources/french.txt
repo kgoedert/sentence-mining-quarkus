@@ -10786,319 +10786,319 @@
 # 
 # La classe commence tout de suite.
 # The class starts right away.
+# # 
+# # La classe commence plus tard.
+# # The class starts later.
+# # 
+# # La classe commence cet après-midi.
+# # Class starts this afternoon.
+# # 
+# # La classe commence maintenant.
+# # The class starts now.
+# # 
+# # À quelle heure est-ce que nous devons aller à l'hôtel?
+# # What time do we have to go to the hotel?
+# # 
+# Les carottes seront bientôt cuites.
+# The carrots will be cooked soon.
 # 
-# La classe commence plus tard.
-# The class starts later.
+# Elle a un ami très sympa.
+# She's got a very nice friend.
 # 
-# La classe commence cet après-midi.
-# Class starts this afternoon.
+# J'ai des animaux de compagnie chez moi.
+# I've got some pets at home.
 # 
-# La classe commence maintenant.
-# The class starts now.
+# Tu peux me prêter trois euros pour acheter ce magazine?
+# Can you lend me three euros so I can buy this magazine?
+# 
+# J'ai quelques informations sur ce cas.
+# I have some information about this case.
+# 
+# C'est son anniversaire aujourd'hui.
+# It's his/her birthday today.
+# 
+# Les pompiers sont des héros du quotidien.
+# Firefighters are ordinary life heros.
+# 
+# Il y a de très belles images dans ce livre.
+# There are some pretty pictures in this book.
+# 
+# Il fait de gros efforts.
+# He makes some big efforts.
+# 
+# Luc est un étudiant intelligent.
+# Luc is a smart student.
+# 
+# C'est un courrier important.
+# It's an important mail.
+# 
+# On a frappé à la porte.
+# Someone knocked at the door.
+# 
+# Vous avez du courrier.
+# You've got some mail.
+# 
+# Ils adorent le cinéma.
+# They love cinema.
+# 
+# Elles aiment la littérature.
+# They enjoy literature.
+# 
+# Les étudiant arrivent toujours en retard en classe.
+# The students always arrive late for class.
+# 
+# Le garçon a lancé la balle.
+# The boy threw the ball.
+# 
+# Le chien est parti en courant.
+# The dog left running.
+# 
+# Tu veux un café?
+# Do you want a coffee?
+# 
+# Elle prend une douche.
+# She's having a shower.
+# 
+# Je pars avec lui.
+# I'm leaving with him.
+# 
+# Il est très intelligent.
+# He is very smart.
+# 
+# Il est beaucoup plus optimiste que je pensais.
+# He is much more optimistic than I thought.
+# 
+# On s'est bien entendu avec ton amie.
+# We got on well with your friend.
+# 
+# C'était vraiment intéressant.
+# It was very interesting.
+# 
+# Quand elle viendra, je lui donnerai son cadeau.
+# When she comes, I'll give her her present.
+# 
+# De temps en temps, j'aime aller à la piscine.
+# From time to time, I like to go to the swimming pool.
+# 
+# Les élèves ont-ils compris quand ils doivent faire les liaisons?
+# Have the students understood when they have to do the liaisons?
+# 
+# Je vais chez un ami.
+# I'm going to a friend's house.
+# 
+# Il habite dans une grande maison, sans animaux de compagnie, en Île-de-France.
+# He lives in a big house, with no pets, in Île-de-France.
+# 
+# J'ai commencé le français il y a trois années.
+# I've been learning french for three full years. (o foco esta no periodo)
+# 
+# J'ai commencé le français il y a trois ans.
+# I started learning frenh three years ago. (o foco nao esta no periodo)
+# 
+# Je travaille souvent le matin.
+# I often work in the morning (o foco nao esta no periodo)
+# 
+# Je travaille plutôt la matinée.
+# I'd rather work in the morning. (o foco esta no periodo)
+# 
+# J'ai passé deux jours au lit.
+# I spent two days in bed. (o foco nao esta no periodo)
+# 
+# J'avais la grippe.
+# I had the flu.
+# 
+# J'ai passé deux journées au lit.
+# I spent two full days in bed (o foco esta no periodo)
+# 
+# La voyage a duré deux jours.
+# The trip lasted two days. (o foco nao esta no periodo)
+# 
+# Après dix ans en couple, ils se séparent.
+# After ten years of relationship, they split up. (o foco nao esta no periodo)
+# 
+# Après dix années en couple, ils se séparent.
+# After ten years of relationship, they split up. (o foco esta no periodo)
+# 
+# À quelle heure est-ce que nous devons aller à l'aéroport?
+# What time do we have to go to the airport?
+# 
+# À quelle heure est-ce que nous devons arriver à l'aéroport?
+# What time should we arrive at the airport?
+# 
+# Quand est-ce que nous devons arriver à l'aéroport?
+# When do we have to arrive at the airport?
+# 
+# Quand est-ce que nous devons arriver à la gare?
+# When do we have to arrive at the station?
+# 
+# Quand est-ce que nous devons être à la gare?
+# When do we have to be at the station?
+# 
+# Pourquoi est-ce que nous devons être à la gare?
+# Why do we have to be at the station?
+# 
+# Pourquoi est-ce que nous devons être à l'hôtel?
+# Why do we have to be at the hotel?
+# 
+# Pourquoi est-ce que nous devons aller à l'hôtel?
+# Why do we have to go to a hotel?
 # 
 # À quelle heure est-ce que nous devons aller à l'hôtel?
 # What time do we have to go to the hotel?
 # 
-Les carottes seront bientôt cuites.
-The carrots will be cooked soon.
-
-Elle a un ami très sympa.
-She's got a very nice friend.
-
-J'ai des animaux de compagnie chez moi.
-I've got some pets at home.
-
-Tu peux me prêter trois euros pour acheter ce magazine?
-Can you lend me three euros so I can buy this magazine?
-
-J'ai quelques informations sur ce cas.
-I have some information about this case.
-
-C'est son anniversaire aujourd'hui.
-It's his/her birthday today.
-
-Les pompiers sont des héros du quotidien.
-Firefighters are ordinary life heros.
-
-Il y a de très belles images dans ce livre.
-There are some pretty pictures in this book.
-
-Il fait de gros efforts.
-He makes some big efforts.
-
-Luc est un étudiant intelligent.
-Luc is a smart student.
-
-C'est un courrier important.
-It's an important mail.
-
-On a frappé à la porte.
-Someone knocked at the door.
-
-Vous avez du courrier.
-You've got some mail.
-
-Ils adorent le cinéma.
-They love cinema.
-
-Elles aiment la littérature.
-They enjoy literature.
-
-Les étudiant arrivent toujours en retard en classe.
-The students always arrive late for class.
-
-Le garçon a lancé la balle.
-The boy threw the ball.
-
-Le chien est parti en courant.
-The dog left running.
-
-Tu veux un café?
-Do you want a coffee?
-
-Elle prend une douche.
-She's having a shower.
-
-Je pars avec lui.
-I'm leaving with him.
-
-Il est très intelligent.
-He is very smart.
-
-Il est beaucoup plus optimiste que je pensais.
-He is much more optimistic than I thought.
-
-On s'est bien entendu avec ton amie.
-We got on well with your friend.
-
-C'était vraiment intéressant.
-It was very interesting.
-
-Quand elle viendra, je lui donnerai son cadeau.
-When she comes, I'll give her her present.
-
-De temps en temps, j'aime aller à la piscine.
-From time to time, I like to go to the swimming pool.
-
-Les élèves ont-ils compris quand ils doivent faire les liaisons?
-Have the students understood when they have to do the liaisons?
-
-Je vais chez un ami.
-I'm going to a friend's house.
-
-Il habite dans une grande maison, sans animaux de compagnie, en Île-de-France.
-He lives in a big house, with no pets, in Île-de-France.
-
-J'ai commencé le français il y a trois années.
-I've been learning french for three full years. (o foco esta no periodo)
-
-J'ai commencé le français il y a trois ans.
-I started learning frenh three years ago. (o foco nao esta no periodo)
-
-Je travaille souvent le matin.
-I often work in the morning (o foco nao esta no periodo)
-
-Je travaille plutôt la matinée.
-I'd rather work in the morning. (o foco esta no periodo)
-
-J'ai passé deux jours au lit.
-I spent two days in bed. (o foco nao esta no periodo)
-
-J'avais la grippe.
-I had the flu.
-
-J'ai passé deux journées au lit.
-I spent two full days in bed (o foco esta no periodo)
-
-La voyage a duré deux jours.
-The trip lasted two days. (o foco nao esta no periodo)
-
-Après dix ans en couple, ils se séparent.
-After ten years of relationship, they split up. (o foco nao esta no periodo)
-
-Après dix années en couple, ils se séparent.
-After ten years of relationship, they split up. (o foco esta no periodo)
-
-À quelle heure est-ce que nous devons aller à l'aéroport?
-What time do we have to go to the airport?
-
-À quelle heure est-ce que nous devons arriver à l'aéroport?
-What time should we arrive at the airport?
-
-Quand est-ce que nous devons arriver à l'aéroport?
-When do we have to arrive at the airport?
-
-Quand est-ce que nous devons arriver à la gare?
-When do we have to arrive at the station?
-
-Quand est-ce que nous devons être à la gare?
-When do we have to be at the station?
-
-Pourquoi est-ce que nous devons être à la gare?
-Why do we have to be at the station?
-
-Pourquoi est-ce que nous devons être à l'hôtel?
-Why do we have to be at the hotel?
-
-Pourquoi est-ce que nous devons aller à l'hôtel?
-Why do we have to go to a hotel?
-
-À quelle heure est-ce que nous devons aller à l'hôtel?
-What time do we have to go to the hotel?
-
-C'est de l'autre côté de l'ascenseur.
-It's on the other side of the elevator.
-
-C'est de l'autre côté de l'hôtel.
-It's on the other side of the hotel.
-
-C'est de l'autre côté du restaurant.
-It's on the other side of the restaurant.
-
-C'est de l'autre côté des escaliers.
-It's on the other side of the stairs.
-
-C'est de l'autre côté de la porte.
-It's on the other side of the door.
-
-C'est de l'autre côté de la voiture.
-It's on the other side of the car.
-
-C'est de l'autre côté de la chambre.
-It's on the other side of the room.
-
-C'est de l'autre côté des bagages.
-It's on the other side of the luggage.
-
-C'est de l'autre côté des sacs.
-It's on the other side of the bags.
-
-C'est de l'autre côté de la gare.
-It's on the other side of the station.
-
-Vous allez à l'hôtel ce soir?
-Are you going to the hotel tonight?
-
-Où est votre famille?
-Where is your family?
-
-Combien de chambres avez-vous?
-How many rooms do you have?
-
-Vous déjeunez avec votre famille à une heure?
-Do you have lunch with your family at one o'clock?
-
-Où est-ce que vous allez déjeuner?
-Where are you going to have lunch?
-
-À quelle heure est-ce que la classe commence?
-What time does the class start?
-
-À quelle heure est-ce que vous êtes libre?
-What time are you available?
-
-Est-ce que vous avez la monnaie pour vingt euros?
-Do you have change for twenty euros?
-
-Est-ce que vous avez plusieurs sœurs?
-Do you have several sisters?
-
-Est-ce que vous avez plusieurs frères?
-Do you have several brothers?
-
-À quelle heure est-ce qu'on va déjeuner?
-What time are we going to lunch?
-
-Est-ce que vous allez au restaurant?
-Do you go to the restaurant?
-
-Est-ce que vous allez changer de chambre?
-Are you going to change rooms?
-
-Pourquoi est-ce que vous allez changer de chambre?
-Why are you going to change rooms?
-
-Demandez s'il a des amis ici. Vous avez des amis ici?
-Ask if he has any friends here. Do you have any friends here?
-
-J'ai plusieurs amis.
-I have several friends.
-
-J'ai un ami français.
-I have a French friend.
-
-Mon ami est en vacances.
-My friend is on vacation.
-
-Vous avez une fiche?
-Do you have a card?
-
-Vous allez remplir la fiche?
-Are you going to fill out the form?
-
-Vous êtes seul?
-Are you alone?
-
-Vous êtes à l'hôtel?
-Are you at the hotel?
-
-Vous êtes libre le soir?
-Are you free in the evening?
-
-Ma chambre est petite mais très jolie.
-My room is small but very nice.
-
-Elle me convient tout à fait.
-She's fine with me.
-
-Ma famille n'est pas ici.
-My family is not here.
-
-Où est-ce que vous allez déjeuner?
-Where are you going to have lunch?
-
-La femme de chambre est très jolie
-The maid is very pretty.
-
-Je vais déjeuner à une heure et quart.
-I'm going to lunch at 1:15.
-
-Comment allez-vous?
-How are you doing? How are you?
-
-Je vais dans ma chambre.
-I'm going to my room.
-
-Ma chambre est au premier étage.
-My room is on the first floor.
-
-Avez-vous la chambre douze?
-Do you have room twelve?
-
-Je n'ai pas la monnaie pour vingt euros.
-I don't have change for twenty euros.
-
-Nous avons une jolie chambre au premier étage.
-We have a nice room on the first floor.
-
-Je voudrais une jolie chambre au premier étage.
-I would like a nice room on the first floor.
-
-Ils ont une jolie chambre au premier étage.
-They have a nice room on the first floor.
-
-Voici une jolie chambre au premier étage.
-This is a nice room on the first floor.
-
-Vous avez une jolie chambre au premier étage.
-You have a nice room on the first floor.
-
-Il y a une jolie chambre au premier étage.
-There's a nice room on the first floor.
-
-C'est une jolie chambre au premier étage.
-It's a nice room on the first floor.
-
+# C'est de l'autre côté de l'ascenseur.
+# It's on the other side of the elevator.
+# 
+# C'est de l'autre côté de l'hôtel.
+# It's on the other side of the hotel.
+# 
+# C'est de l'autre côté du restaurant.
+# It's on the other side of the restaurant.
+# 
+# C'est de l'autre côté des escaliers.
+# It's on the other side of the stairs.
+# 
+# C'est de l'autre côté de la porte.
+# It's on the other side of the door.
+# 
+# C'est de l'autre côté de la voiture.
+# It's on the other side of the car.
+# 
+# C'est de l'autre côté de la chambre.
+# It's on the other side of the room.
+# 
+# C'est de l'autre côté des bagages.
+# It's on the other side of the luggage.
+# 
+# C'est de l'autre côté des sacs.
+# It's on the other side of the bags.
+# 
+# C'est de l'autre côté de la gare.
+# It's on the other side of the station.
+# 
+# Vous allez à l'hôtel ce soir?
+# Are you going to the hotel tonight?
+# 
+# Où est votre famille?
+# Where is your family?
+# 
+# Combien de chambres avez-vous?
+# How many rooms do you have?
+# 
+# Vous déjeunez avec votre famille à une heure?
+# Do you have lunch with your family at one o'clock?
+# 
+# Où est-ce que vous allez déjeuner?
+# Where are you going to have lunch?
+# 
+# À quelle heure est-ce que la classe commence?
+# What time does the class start?
+# 
+# À quelle heure est-ce que vous êtes libre?
+# What time are you available?
+# 
+# Est-ce que vous avez la monnaie pour vingt euros?
+# Do you have change for twenty euros?
+# 
+# Est-ce que vous avez plusieurs sœurs?
+# Do you have several sisters?
+# 
+# Est-ce que vous avez plusieurs frères?
+# Do you have several brothers?
+# 
+# À quelle heure est-ce qu'on va déjeuner?
+# What time are we going to lunch?
+# 
+# Est-ce que vous allez au restaurant?
+# Do you go to the restaurant?
+# 
+# Est-ce que vous allez changer de chambre?
+# Are you going to change rooms?
+# 
+# Pourquoi est-ce que vous allez changer de chambre?
+# Why are you going to change rooms?
+# 
+# Demandez s'il a des amis ici. Vous avez des amis ici?
+# Ask if he has any friends here. Do you have any friends here?
+# 
+# J'ai plusieurs amis.
+# I have several friends.
+# 
+# J'ai un ami français.
+# I have a French friend.
+# 
+# Mon ami est en vacances.
+# My friend is on vacation.
+# 
+# Vous avez une fiche?
+# Do you have a card?
+# 
+# Vous allez remplir la fiche?
+# Are you going to fill out the form?
+# 
+# Vous êtes seul?
+# Are you alone?
+# 
+# Vous êtes à l'hôtel?
+# Are you at the hotel?
+# 
+# Vous êtes libre le soir?
+# Are you free in the evening?
+# 
+# Ma chambre est petite mais très jolie.
+# My room is small but very nice.
+# 
+# Elle me convient tout à fait.
+# She's fine with me.
+# 
+# Ma famille n'est pas ici.
+# My family is not here.
+# 
+# Où est-ce que vous allez déjeuner?
+# Where are you going to have lunch?
+# 
+# La femme de chambre est très jolie
+# The maid is very pretty.
+# 
+# Je vais déjeuner à une heure et quart.
+# I'm going to lunch at 1:15.
+# 
+# Comment allez-vous?
+# How are you doing? How are you?
+# 
+# Je vais dans ma chambre.
+# I'm going to my room.
+# 
+# Ma chambre est au premier étage.
+# My room is on the first floor.
+# 
+# Avez-vous la chambre douze?
+# Do you have room twelve?
+# 
+# Je n'ai pas la monnaie pour vingt euros.
+# I don't have change for twenty euros.
+# 
+# Nous avons une jolie chambre au premier étage.
+# We have a nice room on the first floor.
+# 
+# Je voudrais une jolie chambre au premier étage.
+# I would like a nice room on the first floor.
+# 
+# Ils ont une jolie chambre au premier étage.
+# They have a nice room on the first floor.
+# 
+# Voici une jolie chambre au premier étage.
+# This is a nice room on the first floor.
+# 
+# Vous avez une jolie chambre au premier étage.
+# You have a nice room on the first floor.
+# 
+# Il y a une jolie chambre au premier étage.
+# There's a nice room on the first floor.
+# 
+# C'est une jolie chambre au premier étage.
+# It's a nice room on the first floor.
+# 
 Est-ce qu'il a la monnaie pour cent euros?
 Does he have change for a hundred euros?
 
