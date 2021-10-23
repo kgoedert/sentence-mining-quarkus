@@ -7488,172 +7488,316 @@
 # 
 # Der Hund geht nach drauẞen.
 # The dog is going outside.
+# # 
+# # Ich gehe in die Küche.
+# # I am going into the kitchen.
+# # 
+# # Lernst du?
+# # Are you studying?
+# # 
+# # Lernt ihr?
+# # Are you guys studying?
+# # 
+# Ich bin bei meinen Eltern.
+# I am at my parent's place. 
 # 
-# Ich gehe in die Küche.
-# I am going into the kitchen.
+# Ich habe bei Amazon ein Buch bestellt.
+# I ordered a book at amazon.
 # 
-# Lernst du?
-# Are you studying?
+# der Junge, stirb Jungs
+# the boy, die boys
 # 
-# Lernt ihr?
-# Are you guys studying?
+# Ich muss mein Deutsch verbessern.
+# I have to improve my german.
 # 
-Wo hast du die Gläser hingestellt?
-Where did you put the glasses? 
-
-Der Schlüssel ist bei Florian.
-The key is at Florian's place.
-
-Lernt ihr heute?
-Are you guys studying today?
-
-Lernt Maria für die Prüfung?
-Is Maria studying for the exam?
-
-Machst du Kaffee?
-Are you making coffee?
-
-Machen Sie Kaffee?
-Are you making coffee?
-
-Macht Frank Überstunden?
-Is Frank doing overtime?
-
-Machst du die Hausaufgaben?
-Are you doing the homework?
-
-Machen Karl und Susane eine Pause?
-Are Karl and Susanne taking a break?
-
-Geht er nach Hause?
-Is he going home?
-
-Gehst du ins Bett?
-Are you going to bed?
-
-Geht sie zur Apotheke?
-Is she going to the pharmacy?
-
-Geht das Kind ins Haus?
-Is the child going into the house?
-
-Geht das Kind nach drauẞen?
-Is the child going outside?
-
-Das Fenster ist auf.
-The window is open.
-
-Die Tür ist zu.
-The door is closed.
-
-Der Computer ist an.
-The computer is on.
-
-Die Lampe ist aus.
-The lamp is off.
-
-Maria ist oben.
-Maria is upstairs.
-
-Klaus ist unten.
-Klaus is downstairs.
-
-Stephanie ist hier.
-Stephanie is here.
-
-Bis nächste Woche ist er in China.
-Until next week, he is in China.
-
-Ist Klaus da?
-Is Klaus there?
-
-Der Kühlschrank ist voll.
-The refrigerator is full.
-
-Der Karton ist leer.
-The box is empty.
-
-Die Kinder sind weg.
-The kids are gone.
-
-Die Treppe ist da hinten.
-The stairs are back there.
-
-Der Aufzug ist da vorne.
-The elevator is over there.
-
-Das Mädchen ist drauẞen.
-The girl is outside.
-
-Der Junge ist drinnen.
-The boy is inside.
-
-Was sind Sie von Beruf?
-What is your profession? - formal
-
-Was bist du von Beruf?
-What is your profession? - informal
-
-Was machen Sie beruflich? 
-What do you do professionally? - formal
-
-Was machst du beruflich?
-What do you do professionally? - informal
-
-Er ist Architekt.
-He is an architect
-
-Er ist Immobilienmakler.
-He is a real state agent.
-
-Sie ist Busfahrerin.
-She is a bus driver.
-
-Ich bin Programmierer.
-I am a computer programmer.
-
-Ich bin Koch.
-I am a cook. - M
-
-Ich bin Köchin.
-I am a cook. - F
-
-Sie ist Journalistin.
-She is a journalist.
-
-Sie ist Krankenschwester.
-She is a nurse.
-
-Er ist Krankenpfleger.
-He is a nurse.
-
-Ich bin Bankangestellte.
-I am a bank employee. - F
-
-Ich bin Bankangestellter.
-I am a bank employee. - M
-
-Er ist Fotograf.
-He is a photographer.
-
-Sie ist Schülerin.
-She is a student.
-
-Ich bin Arzt.
-I am a doctor. - M
-
-Ich bin Ärtztin.
-I am a doctor - F
-
-Er ist Taxifahrer.
-He is a taxi driver.
-
-Sie ist Lehrerin.
-She is a teacher.
-
-Er ist Kellner.
-He is a waiter.
-
+# Ich möchte mein Deutsch verbessern.
+# I would like to improve my german.
+# 
+# Ich will mein Deutsch verbessern.
+# I want to improve my german.
+# 
+# Ich muss meine Aussprache verbessern.
+# I have to to improve my pronouciation.
+# 
+# Mein Deutsch muss besser werden.
+# My german has to get better.
+# 
+# Dein Deutsch ist schon viel besser geworden.
+# Your german has gotten a lot better.
+# 
+# Dein Deutsch hat sich enorm verbessert.
+# Your german has improved tremendously.
+# 
+# Dein Deutsch wird sich mit der Zeit verbessern.
+# Your german will improve over time.
+# 
+# Du sprichst schon gut Deutsch.
+# You already speak german well.
+# 
+# Ich spreche nur ein bisschen Deutsch.
+# I only speak a little german.
+# 
+# Sie spricht fließend Deutsch.
+# She speaks german fluently.
+# 
+# Ich möchte fließend Deutsch sprechen.
+# I would like to speak german fluently.
+# 
+# Sprechen Sie Deutsch?
+# Do you speak german? - formal
+# 
+# Sprechen Sie Englisch?
+# Do you speak english?
+# 
+# Könnten Sie das bitte wiederholen? Mein Deutsch is noch nicht so gut.
+# Could you please repeat that? My german is not that good yet. - formal
+# 
+# Mein Ziel ist es, fließend Deutsch zu sprechen.
+# It's my goal to speak german fluently.
+# 
+# Ich habe gerade erst angefangen, Deutsch zu lernen.
+# I only started to learn german.
+# 
+# Ich mag Deutsch.
+# I like german.
+# 
+# Was machen Sie beruflich?
+# What do you do professionally? - formal
+# 
+# Was machst du beruflich?
+# What do you do professionally? informal
+# 
+# Ich habe eine neue Stelle.
+# I have a new position.
+# 
+# Wie läuft die Arbeit?
+# How's work?
+# 
+# Ich suche einen Job.
+# I'm looking for a job.
+# 
+# Ich hasse meinen Job.
+# I hate my job.
+# 
+# Ich mag meinen Job.
+# I like my job.
+# 
+# Ich habe einen Job gefunden.
+# I found a job.
+# 
+# Ich arbeite bei Siemens.
+# I work at siemens.
+# 
+# Ich arbeite in München.
+# I work in Munich.
+# 
+# Tom ist arbeitlos.
+# Tom is unemployed.
+# 
+# Ich bin auf Jobsuche.
+# Estou na busca de um emprego.
+# 
+# Ich werde gut bezahlt.
+# I'm well-paid.
+# 
+# Ich verdiene nicht viel.
+# I don't earn much.
+# 
+# Ich hätte gern eine Gehaltserhöhung.
+# I'd like a salary raise.
+# 
+# Die Bezahlung ist ganz gut.
+# The payment is pretty good.
+# 
+# Ich habe keine Berufserfahrung.
+# I have no professional experience.
+# 
+# Ich habe drei Jahre Berufserfahrung.
+# I have three years of professional experience.
+# 
+# Ich arbeite Teilzeit.
+# I work part-time.
+# 
+# Sie arbeitet Vollzeit.
+# She works full-time.
+# 
+# Sie macht Karriere.
+# She is climbing the career ladder.
+# 
+# Ich muss Überstunden machen.
+# I have to do overtime.
+# 
+# Ich bin selbständig.
+# I am self-employed.
+# 
+# Er ist angestellt.
+# He is employed.
+# 
+# Meine Kollegen sind nett.
+# My co-workers are nice.
+# 
+# Meine Firma hat 50 Mitarbeiter.
+# My company has 50 employees.
+# 
+# Ich will endlich einen Job finden.
+# I finally want to find a job.
+# 
+# Wo hast du die Gläser hingestellt?
+# Where did you put the glasses? 
+# 
+# Der Schlüssel ist bei Florian.
+# The key is at Florian's place.
+# 
+# Lernt ihr heute?
+# Are you guys studying today?
+# 
+# Lernt Maria für die Prüfung?
+# Is Maria studying for the exam?
+# 
+# Machst du Kaffee?
+# Are you making coffee?
+# 
+# Machen Sie Kaffee?
+# Are you making coffee?
+# 
+# Macht Frank Überstunden?
+# Is Frank doing overtime?
+# 
+# Machst du die Hausaufgaben?
+# Are you doing the homework?
+# 
+# Machen Karl und Susane eine Pause?
+# Are Karl and Susanne taking a break?
+# 
+# Geht er nach Hause?
+# Is he going home?
+# 
+# Gehst du ins Bett?
+# Are you going to bed?
+# 
+# Geht sie zur Apotheke?
+# Is she going to the pharmacy?
+# 
+# Geht das Kind ins Haus?
+# Is the child going into the house?
+# 
+# Geht das Kind nach drauẞen?
+# Is the child going outside?
+# 
+# Das Fenster ist auf.
+# The window is open.
+# 
+# Die Tür ist zu.
+# The door is closed.
+# 
+# Der Computer ist an.
+# The computer is on.
+# 
+# Die Lampe ist aus.
+# The lamp is off.
+# 
+# Maria ist oben.
+# Maria is upstairs.
+# 
+# Klaus ist unten.
+# Klaus is downstairs.
+# 
+# Stephanie ist hier.
+# Stephanie is here.
+# 
+# Bis nächste Woche ist er in China.
+# Until next week, he is in China.
+# 
+# Ist Klaus da?
+# Is Klaus there?
+# 
+# Der Kühlschrank ist voll.
+# The refrigerator is full.
+# 
+# Der Karton ist leer.
+# The box is empty.
+# 
+# Die Kinder sind weg.
+# The kids are gone.
+# 
+# Die Treppe ist da hinten.
+# The stairs are back there.
+# 
+# Der Aufzug ist da vorne.
+# The elevator is over there.
+# 
+# Das Mädchen ist drauẞen.
+# The girl is outside.
+# 
+# Der Junge ist drinnen.
+# The boy is inside.
+# 
+# Was sind Sie von Beruf?
+# What is your profession? - formal
+# 
+# Was bist du von Beruf?
+# What is your profession? - informal
+# 
+# Was machen Sie beruflich? 
+# What do you do professionally? - formal
+# 
+# Was machst du beruflich?
+# What do you do professionally? - informal
+# 
+# Er ist Architekt.
+# He is an architect
+# 
+# Er ist Immobilienmakler.
+# He is a real state agent.
+# 
+# Sie ist Busfahrerin.
+# She is a bus driver.
+# 
+# Ich bin Programmierer.
+# I am a computer programmer.
+# 
+# Ich bin Koch.
+# I am a cook. - M
+# 
+# Ich bin Köchin.
+# I am a cook. - F
+# 
+# Sie ist Journalistin.
+# She is a journalist.
+# 
+# Sie ist Krankenschwester.
+# She is a nurse.
+# 
+# Er ist Krankenpfleger.
+# He is a nurse.
+# 
+# Ich bin Bankangestellte.
+# I am a bank employee. - F
+# 
+# Ich bin Bankangestellter.
+# I am a bank employee. - M
+# 
+# Er ist Fotograf.
+# He is a photographer.
+# 
+# Sie ist Schülerin.
+# She is a student.
+# 
+# Ich bin Arzt.
+# I am a doctor. - M
+# 
+# Ich bin Ärtztin.
+# I am a doctor - F
+# 
+# Er ist Taxifahrer.
+# He is a taxi driver.
+# 
+# Sie ist Lehrerin.
+# She is a teacher.
+# 
+# Er ist Kellner.
+# He is a waiter.
+# 
 Er ist Automechaniker.
 He is a car mechanic.
 
