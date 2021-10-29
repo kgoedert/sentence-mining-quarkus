@@ -9298,6 +9298,12 @@
 # Se levantó rápido, se puso lo primero que encontró y salió a la calle.
 # He got up quickly, put on the first thing he found and went out into the street.
 # 
+Hay tanta gente en la fiesta que prefiero irme.
+There is so many people at the party, that I'd rather go. 
+
+He tirado el jarrón sin querer. Había poca luz.
+I have thrown eh vase without wanting. There was little light.
+
 La madre de Alberto murió a los noventa y dos años.
 Alberto's mother died at the age of ninety-two.
 

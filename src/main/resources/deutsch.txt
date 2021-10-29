@@ -7798,6 +7798,63 @@
 # Er ist Kellner.
 # He is a waiter.
 # 
+Ich fahre nach Deutschland. (I’m going to Germany.)
+
+Ich fahre nach Berlin. (I’m going to Berlin.)
+Wir fliegen in die Schweiz. (We are going to Switzerland.)
+
+Letzte Woche sind wir in die Türkei gefahren. (Last week, we went to Turkey.)
+Ich fahre nach Norden/Osten/Süden/Westen. (I’m going North/East/South/West.)
+
+Ich gehe nach links/rechts/oben/unten. (I’m going left/right/up/down.)
+
+Ich gehe ins Kino. (I’m going to the movies.)
+
+Ich gehe ins Fitnessstudio.
+Ich gehe in die Kneipe.
+Wir fahren in die Berge. (We are going to the mountains.)
+
+Wir fahren in die Stadt. (We are going to town.)
+
+Ich gehe auf die Straße. (LT: I walk onto the street.)
+
+Ich klettere auf das Dach. (LT: I climb onto the roof.)
+
+Das Kind geht auf die Toilette. (LT: The child goes onto the toilette.)
+
+Sie geht auf eine Party. (She is going to a party.) - auf para eventos formais
+Er geht auf eine Hochzeit. (He is going to a wedding.) - auf para eventos formais
+Der Junge geht auf die Bank. (The boy is going to the bank.) - auf para espaços publicos
+Das Mädchen geht auf den Markt. (The girl is going to the market.) - auf para espaços publicos
+Der Mann geht an die Bar. (The man is going to the bar.) - esta indo em direcao a
+Gehen wir ans Fenster. (Let’s sit by the window.).
+Die Polizistin geht an den Tatort. (The police officer walks to the crime scene.)
+
+Gehen Sie an die Kreuzung. (Go to the intersection.)
+
+Die Touristen gehen an den Strand. (The tourists go to the beach. – The beach is on the side of the ocean.)
+Die Kinder gehen an die Wand. (The children are going to the wall.)
+
+Kommst du an die Tür? (Are you coming to the door?)
+
+Ich gehe ins Kino (I’m going to the movies)
+Ich bin im Kino (I’m at the movies)
+Wir gehen auf den Alexander Platz (We’re going to Alexander square) 
+
+Wir snd auf dem Alexander Platz (We are on Alexander place)
+Meine Mutter geht an den Strand (My mom is going to the beach) 
+Meine Mutter ist am Strand (My mum is at/on the beach)
+
+
+
+
+
+
+
+
+
+
+
 Er ist Automechaniker.
 He is a car mechanic.
 

@@ -11099,6 +11099,12 @@
 # C'est une jolie chambre au premier étage.
 # It's a nice room on the first floor.
 # 
+Beaucoup d'enfants de cette école ont été malades.
+Many of the children of this school were ill 
+
+Tu vas faire les courses demain? Je pense.
+Are you going shopping tomorrow? I think so.
+
 Est-ce qu'il a la monnaie pour cent euros?
 Does he have change for a hundred euros?
 
