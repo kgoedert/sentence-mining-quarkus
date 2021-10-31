@@ -9289,243 +9289,315 @@
 # Anoche no me encontraba bien. Llegué a casa, me tomé una aspirina y me acosté.
 # I didn't feel well last night. I came home, took an aspirin and went to bed.
 # 
-# ¿Qué hicisteis el sábado pasado? Salimos con Rosa y Carlos. Primero fuimos al teatro y luego cenamos en un restaurante indio.
-# What did you do last Saturday? We went out with Rosa and Carlos. First we went to the theater and then we had dinner in an Indian restaurant.
+# # ¿Qué hicisteis el sábado pasado? Salimos con Rosa y Carlos. Primero fuimos al teatro y luego cenamos en un restaurante indio.
+# # What did you do last Saturday? We went out with Rosa and Carlos. First we went to the theater and then we had dinner in an Indian restaurant.
+# # 
+# # Arnaldo se despertó y miró al reloj: las siete y veinte.
+# # Arnaldo woke up and looked at the clock: 7:20.
+# # 
+# # Se levantó rápido, se puso lo primero que encontró y salió a la calle.
+# # He got up quickly, put on the first thing he found and went out into the street.
+# # 
+# Carlos canta muy mal
+# Carlos sings very badly
 # 
-# Arnaldo se despertó y miró al reloj: las siete y veinte.
-# Arnaldo woke up and looked at the clock: 7:20.
+# Mi vecino es un hombre muy malo 
+# My neighbor is a very bad man
 # 
-# Se levantó rápido, se puso lo primero que encontró y salió a la calle.
-# He got up quickly, put on the first thing he found and went out into the street.
+# Juan es un mal hombre, no hables con él
+# Juan is a bad man, don’t talk to him
 # 
-Hay tanta gente en la fiesta que prefiero irme.
-There is so many people at the party, that I'd rather go. 
-
-He tirado el jarrón sin querer. Había poca luz.
-I have thrown eh vase without wanting. There was little light.
-
-La madre de Alberto murió a los noventa y dos años.
-Alberto's mother died at the age of ninety-two.
-
-Los dinosaurios se extinguieron por el cambio climático.
-Dinosaurs became extinct due to climate change.
-
-El partido duró dos horas.
-The game lasted two hours.
-
-Ana tardó seis años en hacer la carrera.
-Ana took six years to make the race.
-
-Sonia nació en Albacete en 1989. En 2003 se trasladó a Granada con sus padres.
-Sonia was born in Albacete in 1989. In 2003 she moved to Granada with her parents.
-
-Allí hizo el Bachillerato y empezó la carrera de medicina, pero en 2009 dejó la carrera y se fue a Brasil.
-There she did her Bachillerato and started her medical career, but in 2009 she left and went to Brazil.
-
-Fue imposible encontrar entradas para el concierto.
-It was impossible to find tickets for the concert.
-
-Tus amigos no fueron muy amables con el camarero.
-Your friends weren't very nice to the waiter.
-
-No fue difícil escapar de la fiesta de Blas.
-It wasn't hard to get away from Blas' party.
-
-Hoy llegué tarde.
-Today I was late.
-
-Este año no tuvimos vacaciones.
-We didn't have a vacation this year.
-
-Este verano vinieron menos turistas acá al Machu Picchu.
-This summer fewer tourists came here to Machu Picchu.
-
-Cuando estudiaba alemán, fui dos veces a Alemania.
-When I was studying German, I went to Germany twice.
-
-Alberto se cayó del caballo mientras practicaba saltos.
-Alberto fell from his horse while jumping.
-
-A Juan lo atracaron cuando paseaba por el parque.
-Juan was mugged while walking in the park.
-
-Veíamos la tele mientras comíamos.
-We watched TV while we ate.
-
-Mientras Alberto preparaba el desayuno, yo hacía las camas.
-While Albert made breakfast, I made the beds.
-
-Mí primer hijo nació el 13 de diciembre de 2007. Estaba todo nevado y hacía un frío tremendo.
-My first child was born on December 13, 2007. It was all snowy and cold.
-
-Era noche y llovía. Marta y yo estábamos en la cama, estábamos durmiendo.
-It was night and it was raining. Marta and I were in bed, we were sleeping.
-
-De repente oímos un grito. Me levanté, me puse la bata y bajé a mirar.
-Suddenly we heard a scream. I got up, put on my robe and went down to look.
-
-Cuando me encontré con Yago, iba a clase.
-When I met Yago, I was going to class.
-
-Hacía semanas que tenía el carné cuando tuve el accidente.
-I had my license weeks ago when I had the accident.
-
-Llevaba un año en la empresa cuando me ofrecieron un puesto en Seúl.
-I had been with the company for a year when I was offered a position in Seoul.
-
-Cuanto me encontré con Akiro en Osaka, hacía mucho que no nos veíamos.
-When I met Akiro in Osaka, we hadn't seen each other in a long time.
-
-¿Qué has hecho hoy? Nada interesante. Ha sido un día aburrido.
-What did you do today? Nothing interesting. It has been a boring day.
-
-No podemos ver el partido. Se ha roto la tele.
-We can't watch the match. The TV broke.
-
-¿Has hecho alguna vez senderismo?
-Have you ever hiked?
-
-Alfredo ha vivido muchos años en Ecuador.
-Alfredo has lived in Ecuador for many years.
-
-No he probado nunca la comida mexicana.
-I have never tasted Mexican food.
-
-Ayer por la mañana hice gimnasia.
-Yesterday morning I did gymnastics.
-
-Yo nací en 1955. ¿Y tú?
-I was born in 1955. And you?
-
-Conocí a Ricardo cuando estuve en Brasil.
-I met Ricardo when I was in Brazil.
-
-¿Cuándo acabas la carrera?
-When do you finish the race?
-
-Fleming descubrió la penicilina por azar.
-Fleming discovered penicillin by chance.
-
-Cuando era joven, hacía gimnasia todas las mañanas.
-When I was young, I did gymnastics every morning.
-
-Cuando entré en la habitación, Lola dormía profundamente.
-When I entered the room, Lola slept soundly.
-
-El otro día pensé en ti.
-The other day I thought of you.
-
-Anoche dormí mal.
-I slept badly last night.
-
-Cuando estaba en Chile, pensaba en ti todos los días.
-When I was in Chile, I thought about you every day.
-
-Apagaron el televisor mientras dormíamos.
-They turned off the TV while we slept.
-
-Alberto llamó cuando estábamos comiendo.
-Alberto called when we were eating.
-
-Cuando Ian tuvo el accidente hacía seis días que tenía el coche.
-When Ian had the accident he had the car for six days.
-
-Conocía a Luisa en 1978.
-I knew Luisa in 1978.
-
-Lucas murió en 2007. Nos conocíamos desde que éramos niños.
-Lucas died in 2007. We knew each other since we were kids.
-
-Cuando me avisó Alberto, ya había firmado el contrato.
-When Alberto told me, he had already signed the contract.
-
-Cuando la policía lo detuvo, se había gastado todo el dinero.
-When the police stopped him, he had spent all the money.
-
-¿Por qué te detuvieron? Había robado en una tienda.
-Why were you arrested? He had robbed a store.
-
-No había luz porque se había averiado un enchufe.
-There was no light because a plug had broken down.
-
-Como llegamos de madrugada las cafeterías ya habían cerrado.
-As we arrived at dawn the cafeterias had already closed.
-
-¿A qué hora regresó Lucía? No sé, pero a las doce ya se había acostado.
-What time did Lucia return? I don't know, but by twelve o'clock she had gone to bed.
-
-No los acompañé al cine porque ya había visto la película. 
-I didn't go with them to the cinema because I had already seen the film. 
-
-Tuvimos suerte. Aunque llegamos tarde todavía no se habían agotado las entradas para el concierto de Barenboim.
-We were lucky. Although we were late, the tickets for Barenboim's concert had not yet been sold out.
-
-No pusimos cadenas para las ruedas porque no se había helado todavía la nieve.
-We didn't put chains on the wheels because the snow hadn't frozen yet.
-
-Cuando nació Julia, sus padres ya se habían separado.
-When Julia was born, her parents had already separated.
-
-Cuando llamó Sonia, ya me había comprometido con Pilar.
-When Sonia called, I was already engaged to Pilar.
-
-Cuando salimos del cine, regresamos a casa de Pati.
-When we left the cinema, we went back to Pati's house.
-
-Tan pronto como bajamos del tren, buscamos un hotel.
-As soon as we got off the train, we looked for a hotel.
-
-Cuando acabé la carrera ya había encontrado trabajo.
-When I finished my degree I had already found a job.
-
-Cuando acabé la carrera encontré trabajo.
-When I finished my degree I found a job.
-
-¿Me habías llamado, Andrés? Sí, quería comentarte algo.
-Did you call me, Andrés? Yes, I wanted to tell you something.
-
-¿Habían reservado mesa, señores?
-Had you booked a table, gentlemen?
-
-¿Todavía eres profesor auxiliar? ¿No te habían hecho profesor titular?
-Are you still an assistant professor? Haven't they made you a tenured professor?
-
-¿Por qué te quejas? ¿No te había dicho que no te compraras ese coche?
-Why are you complaining? Didn't I tell you not to buy that car?
-
-Hacía tres años que conocía a Sonia cuando nos casamos.
-I'd known Sonia for three years when we got married.
-
-¡Qué alegría, Ricardo! Hacía un siglo que no nos veíamos.
-What a joy, Ricardo! It's been a century since we've seen each other.
-
-¿Cuánto tiempo hacía que no tenías vacaciones? Desde que abrí la tienda.
-How long has it been since you had a vacation? Since I opened the store.
-
-¡Qué buena está la comida! No comíamos en un restaurante desde hacía casi un año.
-How good the food is! We hadn't eaten in a restaurant in almost a year.
-
-Yo no sabía que Tomás no visitaba a sus padres desde Navidad.
-I didn't know that Tomás hadn't visited his parents since Christmas.
-
-Esa librería existía desde que acabó la guerra.
-That bookstore had existed since the end of the war.
-
-Mis hermanos no se hablaban desde que murió mi padre.
-My brothers haven't spoken to each other since my father died.
-
-¡Qué rico está! No comía regaliz desde que era pequeña.
-It's so good! I haven't eaten licorice since I was little.
-
-Cuando me puse enfermo, llevábamos dos días en Sevilla.
-When I got sick, we had been in Seville for two days.
-
-Cuando Lidia murió, llevaba ya diez años jubilada.
-When Lidia died, she had been retired for ten years.
-
-Cuando llegó Ruiz, llevaban reunidos desde las ocho.
-When Ruiz arrived, they had been meeting since eight o'clock.
-
+# ¡No seas malo, Julieta solo quiere ayudarte!
+# Don’t be mean! Julieta just wants to help you!
+# 
+# Carlos canta mal
+# Carlos sings badly 
+# 
+# ¡No! Lo estás haciendo mal
+# No! You’re doing it wrong 
+# 
+# Creo que estás mal, eso no se dice así en español
+# I think you’re wrong, you don’t say that in Spanish
+# 
+# ¿Probaste la leche antes de tomartela? Creo que huele mal
+# Did you test the milk before drinking it? I think it smells bad 
+# 
+# Klauss habla muy mal francés, pero es muy bueno en español
+# Klauss speaks french very badly, but he’s very good in Spanish
+# 
+# ¡Qué mal que no viniste el sábado!
+# It’s too bad that you didn’t come on Saturday!
+# 
+# ¡Qué mal te ves! ¿Te sientes bien?
+# You look terrible! Are you feeling well?
+# 
+# Carlos es un mal cantante 
+# Carlos is a bad singer
+# 
+# Pablo tiene mal carácter
+# Pablo has a bad character
+# 
+# Ese restaurante tiene un muy mal servicio
+# That restaurant has pretty bad service  
+# 
+# Creo que Lucas es un mal amigo para mi hermano
+# I think Lucas is a bad friend for my brother
+# 
+# Julián es un mal hombre, no deberías hablar con él
+# Julián is a bad man, you shouldn’t talk to him
+# 
+# Comer tanta azúcar es malo
+# Eating so much sugar is bad 
+# 
+# El cigarro es muy malo para la salud
+# Smokes are bad for your health 
+# 
+# Julián es muy malo, no deberías hablar con él
+# Julian is evil, you shouldn’t talk to him
+# 
+# Fabián es muy malo: no quiso ayudarme a estudiar
+# Fabián is very mean: he didn’t want to help me study 
+# 
+# Carlos es malo para hablar con la gente
+# Carlos is very bad at talking to people 
+# 
+# Marisol y Rebeca son muy malas para escuchar 
+# Marisol and Rebeca are very bad at listening 
+# 
+# Patricio está malo
+# Patricio is sick
+# 
+# Los tacos están malos
+# The tacos are bad
+# 
+# Hay tanta gente en la fiesta que prefiero irme.
+# There is so many people at the party, that I'd rather go. 
+# 
+# He tirado el jarrón sin querer. Había poca luz.
+# I have thrown eh vase without wanting. There was little light.
+# 
+# La madre de Alberto murió a los noventa y dos años.
+# Alberto's mother died at the age of ninety-two.
+# 
+# Los dinosaurios se extinguieron por el cambio climático.
+# Dinosaurs became extinct due to climate change.
+# 
+# El partido duró dos horas.
+# The game lasted two hours.
+# 
+# Ana tardó seis años en hacer la carrera.
+# Ana took six years to make the race.
+# 
+# Sonia nació en Albacete en 1989. En 2003 se trasladó a Granada con sus padres.
+# Sonia was born in Albacete in 1989. In 2003 she moved to Granada with her parents.
+# 
+# Allí hizo el Bachillerato y empezó la carrera de medicina, pero en 2009 dejó la carrera y se fue a Brasil.
+# There she did her Bachillerato and started her medical career, but in 2009 she left and went to Brazil.
+# 
+# Fue imposible encontrar entradas para el concierto.
+# It was impossible to find tickets for the concert.
+# 
+# Tus amigos no fueron muy amables con el camarero.
+# Your friends weren't very nice to the waiter.
+# 
+# No fue difícil escapar de la fiesta de Blas.
+# It wasn't hard to get away from Blas' party.
+# 
+# Hoy llegué tarde.
+# Today I was late.
+# 
+# Este año no tuvimos vacaciones.
+# We didn't have a vacation this year.
+# 
+# Este verano vinieron menos turistas acá al Machu Picchu.
+# This summer fewer tourists came here to Machu Picchu.
+# 
+# Cuando estudiaba alemán, fui dos veces a Alemania.
+# When I was studying German, I went to Germany twice.
+# 
+# Alberto se cayó del caballo mientras practicaba saltos.
+# Alberto fell from his horse while jumping.
+# 
+# A Juan lo atracaron cuando paseaba por el parque.
+# Juan was mugged while walking in the park.
+# 
+# Veíamos la tele mientras comíamos.
+# We watched TV while we ate.
+# 
+# Mientras Alberto preparaba el desayuno, yo hacía las camas.
+# While Albert made breakfast, I made the beds.
+# 
+# Mí primer hijo nació el 13 de diciembre de 2007. Estaba todo nevado y hacía un frío tremendo.
+# My first child was born on December 13, 2007. It was all snowy and cold.
+# 
+# Era noche y llovía. Marta y yo estábamos en la cama, estábamos durmiendo.
+# It was night and it was raining. Marta and I were in bed, we were sleeping.
+# 
+# De repente oímos un grito. Me levanté, me puse la bata y bajé a mirar.
+# Suddenly we heard a scream. I got up, put on my robe and went down to look.
+# 
+# Cuando me encontré con Yago, iba a clase.
+# When I met Yago, I was going to class.
+# 
+# Hacía semanas que tenía el carné cuando tuve el accidente.
+# I had my license weeks ago when I had the accident.
+# 
+# Llevaba un año en la empresa cuando me ofrecieron un puesto en Seúl.
+# I had been with the company for a year when I was offered a position in Seoul.
+# 
+# Cuanto me encontré con Akiro en Osaka, hacía mucho que no nos veíamos.
+# When I met Akiro in Osaka, we hadn't seen each other in a long time.
+# 
+# ¿Qué has hecho hoy? Nada interesante. Ha sido un día aburrido.
+# What did you do today? Nothing interesting. It has been a boring day.
+# 
+# No podemos ver el partido. Se ha roto la tele.
+# We can't watch the match. The TV broke.
+# 
+# ¿Has hecho alguna vez senderismo?
+# Have you ever hiked?
+# 
+# Alfredo ha vivido muchos años en Ecuador.
+# Alfredo has lived in Ecuador for many years.
+# 
+# No he probado nunca la comida mexicana.
+# I have never tasted Mexican food.
+# 
+# Ayer por la mañana hice gimnasia.
+# Yesterday morning I did gymnastics.
+# 
+# Yo nací en 1955. ¿Y tú?
+# I was born in 1955. And you?
+# 
+# Conocí a Ricardo cuando estuve en Brasil.
+# I met Ricardo when I was in Brazil.
+# 
+# ¿Cuándo acabas la carrera?
+# When do you finish the race?
+# 
+# Fleming descubrió la penicilina por azar.
+# Fleming discovered penicillin by chance.
+# 
+# Cuando era joven, hacía gimnasia todas las mañanas.
+# When I was young, I did gymnastics every morning.
+# 
+# Cuando entré en la habitación, Lola dormía profundamente.
+# When I entered the room, Lola slept soundly.
+# 
+# El otro día pensé en ti.
+# The other day I thought of you.
+# 
+# Anoche dormí mal.
+# I slept badly last night.
+# 
+# Cuando estaba en Chile, pensaba en ti todos los días.
+# When I was in Chile, I thought about you every day.
+# 
+# Apagaron el televisor mientras dormíamos.
+# They turned off the TV while we slept.
+# 
+# Alberto llamó cuando estábamos comiendo.
+# Alberto called when we were eating.
+# 
+# Cuando Ian tuvo el accidente hacía seis días que tenía el coche.
+# When Ian had the accident he had the car for six days.
+# 
+# Conocía a Luisa en 1978.
+# I knew Luisa in 1978.
+# 
+# Lucas murió en 2007. Nos conocíamos desde que éramos niños.
+# Lucas died in 2007. We knew each other since we were kids.
+# 
+# Cuando me avisó Alberto, ya había firmado el contrato.
+# When Alberto told me, he had already signed the contract.
+# 
+# Cuando la policía lo detuvo, se había gastado todo el dinero.
+# When the police stopped him, he had spent all the money.
+# 
+# ¿Por qué te detuvieron? Había robado en una tienda.
+# Why were you arrested? He had robbed a store.
+# 
+# No había luz porque se había averiado un enchufe.
+# There was no light because a plug had broken down.
+# 
+# Como llegamos de madrugada las cafeterías ya habían cerrado.
+# As we arrived at dawn the cafeterias had already closed.
+# 
+# ¿A qué hora regresó Lucía? No sé, pero a las doce ya se había acostado.
+# What time did Lucia return? I don't know, but by twelve o'clock she had gone to bed.
+# 
+# No los acompañé al cine porque ya había visto la película. 
+# I didn't go with them to the cinema because I had already seen the film. 
+# 
+# Tuvimos suerte. Aunque llegamos tarde todavía no se habían agotado las entradas para el concierto de Barenboim.
+# We were lucky. Although we were late, the tickets for Barenboim's concert had not yet been sold out.
+# 
+# No pusimos cadenas para las ruedas porque no se había helado todavía la nieve.
+# We didn't put chains on the wheels because the snow hadn't frozen yet.
+# 
+# Cuando nació Julia, sus padres ya se habían separado.
+# When Julia was born, her parents had already separated.
+# 
+# Cuando llamó Sonia, ya me había comprometido con Pilar.
+# When Sonia called, I was already engaged to Pilar.
+# 
+# Cuando salimos del cine, regresamos a casa de Pati.
+# When we left the cinema, we went back to Pati's house.
+# 
+# Tan pronto como bajamos del tren, buscamos un hotel.
+# As soon as we got off the train, we looked for a hotel.
+# 
+# Cuando acabé la carrera ya había encontrado trabajo.
+# When I finished my degree I had already found a job.
+# 
+# Cuando acabé la carrera encontré trabajo.
+# When I finished my degree I found a job.
+# 
+# ¿Me habías llamado, Andrés? Sí, quería comentarte algo.
+# Did you call me, Andrés? Yes, I wanted to tell you something.
+# 
+# ¿Habían reservado mesa, señores?
+# Had you booked a table, gentlemen?
+# 
+# ¿Todavía eres profesor auxiliar? ¿No te habían hecho profesor titular?
+# Are you still an assistant professor? Haven't they made you a tenured professor?
+# 
+# ¿Por qué te quejas? ¿No te había dicho que no te compraras ese coche?
+# Why are you complaining? Didn't I tell you not to buy that car?
+# 
+# Hacía tres años que conocía a Sonia cuando nos casamos.
+# I'd known Sonia for three years when we got married.
+# 
+# ¡Qué alegría, Ricardo! Hacía un siglo que no nos veíamos.
+# What a joy, Ricardo! It's been a century since we've seen each other.
+# 
+# ¿Cuánto tiempo hacía que no tenías vacaciones? Desde que abrí la tienda.
+# How long has it been since you had a vacation? Since I opened the store.
+# 
+# ¡Qué buena está la comida! No comíamos en un restaurante desde hacía casi un año.
+# How good the food is! We hadn't eaten in a restaurant in almost a year.
+# 
+# Yo no sabía que Tomás no visitaba a sus padres desde Navidad.
+# I didn't know that Tomás hadn't visited his parents since Christmas.
+# 
+# Esa librería existía desde que acabó la guerra.
+# That bookstore had existed since the end of the war.
+# 
+# Mis hermanos no se hablaban desde que murió mi padre.
+# My brothers haven't spoken to each other since my father died.
+# 
+# ¡Qué rico está! No comía regaliz desde que era pequeña.
+# It's so good! I haven't eaten licorice since I was little.
+# 
+# Cuando me puse enfermo, llevábamos dos días en Sevilla.
+# When I got sick, we had been in Seville for two days.
+# 
+# Cuando Lidia murió, llevaba ya diez años jubilada.
+# When Lidia died, she had been retired for ten years.
+# 
+# Cuando llegó Ruiz, llevaban reunidos desde las ocho.
+# When Ruiz arrived, they had been meeting since eight o'clock.
+# 
 Ha muerto Lolo. Llevaba enfermo desde que era joven.
 Lolo has died. He had been ill since he was young.
 
