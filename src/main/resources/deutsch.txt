@@ -7798,6 +7798,10 @@
 # Er ist Kellner.
 # He is a waiter.
 # 
+Mein Wochenende war schön.
+My weekend was nice.
+
+
 Ich fahre nach Deutschland. (I’m going to Germany.)
 
 Ich fahre nach Berlin. (I’m going to Berlin.)
