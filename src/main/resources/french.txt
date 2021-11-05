@@ -11097,308 +11097,308 @@
 # There's a nice room on the first floor.
 # 
 # C'est une jolie chambre au premier étage.
-# It's a nice room on the first floor.
+# # It's a nice room on the first floor.
+# # 
+# Molière est un écrivain français célèbre.
+# Molière is a famous french writer.
 # 
-Molière est un écrivain français célèbre.
-Molière is a famous french writer.
-
-Les comptables gèrent l'argent de l'entreprise.
-The accoutants manage the company's money.
-
-Mon grand-père a besoin d'un aide soignant au quotidien.
-My grandfather needs a caregiver daily.
-
-Ma soeur est infirmière.
-My sister is a nurse.
-
-Mon docteur part bietôt à la retraite.
-My doctor will soon retire.
-
-Ma professeur d'allemand est très gentille.
-My german teacher is very nice.
-
-Demande à la vendeuse s'il existe ce t-shirt en blanc.
-Ask the saleswoman if they have this t-shirt in white.
-
-Mon frère est cuisinier dans cet hôtel.
-My brother is a cook at this hotel.
-
-La réalisatrice de ce documentaire a reçu un Oscar.
-The director of this documentary received an Oscar.
-
-Le producteur s'occupe de l'organisation du tournage d'un film.
-The producer handles the organization of shooting a movie.
-
-Jim Carrey est mon acteur préféré/
-Jim Carrey is my favorite actor.
-
-Le plombier a réparé la fuite dans la salle de bain.
-The plumber fixed the leak in the bathroom.
-
-Les star ont souvent un chauffeur privé.
-Stars often have a private chauffeur.
-
-Marie veut devenir avocate.
-Marie wants to become a lawyer.
-
-Être un athlète est un travail très rigoureux.
-Being an athlete is a very rigourous job.
-
-Leonardo de Vinci est un des plus grands artistes au monde.
-Leonardo da Vince is one of the biggest artists in the world.
-
-Céline Dion est la chanteuse préférée de ma tante.
-Celine Dion is my aunt's favorite singer.
-
-Elle a fait une licence en physique pour devenir ingénieure.
-She did a bachelor's in physics to become an engineer.
-
-Le président a besoin d'un garde du corps.
-The president needs a bodyguard.
-
-Le travail d'un agriculteur dépend beaucoup de la méteo.
-A farmer's work depends a lot on the weather.
-
-Ma grand-mère prépare son thé dans une bouilloire en cuivre.
-My grandmother prepares her tea in a copper kettle.
-
-J'ai acheté une nouvelle bouilloire électrique.
-I bought a new electric kettle.
-
-Mes yeux sont rouges à cause de mes allergies.
-My eyes are red because of my allergies.
-
-Son oeil droit est très sensible.
-His/her right eye is very sensitive.
-
-Le coeur est un organe très complexe.
-The heart is a very complex organ.
-
-Son appartement est situé au coeur de la ville.
-His/her appartment is located in the heart of the village.
-
-Ils vivent à Paris mais ils veulent déménager ailleurs.
-They live in Paris but they want to move somewhere else.
-
-J'ai laissé ma voiture ailleurs, à proximité de l'aéroport.
-I left my car elsewhere, close to the airport.
-
-Il pose beaucoup de questions au chirurgien avant son opération.
-He asks the surgeon a lot of questions before his operation.
-
-Il a fait dix ans d'études pour devenir chirurgien-dentiste.
-He studied to become dental surgeon for ten years.
-
-Les français sont les plus grands consommateurs de cuisses de grenouille au monde.
-The french are the biggest consumers of frog legs in the world.
-
-Les grenouilles vivent entre dix et douze ans en moyenne.
-Frogs live between 10 and 12 years on average.
-
-Elle est très heureuse de rentrer à la maison pour Noel.
-She is very happy to go back home for Christmas.
-
-Il est hereux d'aller à la fête.
-He is happy to go to the party.
-
-Peux-tu acheter des oeufs au supermarché?
-Can you buy some eggs at the supermarket?
-
-Je prépare un oeuf dur pour la salade.
-I'm preparing a hard-boiled egg for the salad.
-
-Quand je vais au parc, je vois souvent des écureuils.
-When I go to the park, I often see squirrels.
-
-Les écureuils vivent principalement dans les arbres.
-Squirrels mostly live in trees.
-
-Je dois lire un livre pour l'école, mais ils est si ennuyeux!
-I have to read a book for school, but it is so boring!
-
-Depuis le début, elle trouve son travail ennuyeux.
-She found her job boring from the beginning.
-
-Beaucoup d'enfants de cette école ont été malades.
-Many of the children of this school were ill 
-
-Tu vas faire les courses demain? Je pense.
-Are you going shopping tomorrow? I think so.
-
-Est-ce qu'il a la monnaie pour cent euros?
-Does he have change for a hundred euros?
-
-Est-ce qu'ils ont la monnaie pour cent euros?
-Do they have change for a hundred euros?
-
-Est-ce que vous voulez la monnaie pour cent euros?
-Do you want change for a hundred euros?
-
-Est-ce qu'elle a la monnaie pour cent euros?
-Does she have change for a hundred euros?
-
-Est-ce que nous avons la monnaie pour cent euros?
-Do we have change for a hundred euros?
-
-Est-ce qu'elles ont la monnaie pour cent euros?
-Do they have change for a hundred euros?
-
-Est-ce que vous avez la monnaie pour cent euros?
-Do you have change for a hundred euros?
-
-Il en a plusieurs de libres aujourd'hui.
-There are several of them available today.
-
-On en a plusieurs de libres aujourd'hui.
-We have several of them available today.
-
-Ils en ont plusieurs de libres aujourd'hui.
-They have several of them available today.
-
-Elle en a plusieurs de libres aujourd'hui.
-She has several of them available today.
-
-J'en ai plusieurs de libres aujourd'hui.
-I have several of them available today.
-
-Vous en avez plusieurs de libres aujourd'hui.
-You have several of them available today.
-
-Nous en avons plusieurs de libres aujourd'hui.
-We have several of them available today.
-
-Il est à l'hôtel; il a une jolie chambre.
-He's at the hotel; he has a nice room.
-
-Elles sont à l'hôtel; elles ont une jolie chambre.
-They're at the hotel; they have a nice room.
-
-Nous sommes à l'hôtel; nous avons une jolie chambre.
-We're at the hotel; we have a nice room.
-
-Je suis à l'hôtel; j'ai une jolie chambre.
-I'm at the hotel; I have a nice room.
-
-Elle est à l'hôtel; elle a une jolie chambre.
-She's at the hotel; she has a nice room.
-
-Ils sont à l'hôtel; ils ont une jolie chambre.
-They're at the hotel; they have a nice room.
-
-Vous êtes à l'hôtel; vous avez une jolie chambre.
-You're at the hotel; you have a nice room.
-
-Il est à l'hôtel; il a une jolie chambre.
-He's at the hotel; he has a nice room.
-
-Je ne suis pas libre; j'ai plusieurs choses à faire.
-I'm not free; I have several things to do.
-
-Nous ne sommes pas libres; nous avons plusieurs choses à faire.
-We are not free; we have several things to do.
-
-Ils ne sont pas libres; ils ont plusieurs choses à faire.
-They are not free; they have several things to do.
-
-Elle n'est pas libre; elle a plusieurs choses à faire.
-She is not free; she has several things to do.
-
-Vous n'êtes pas libre; vous avez plusieurs choses à faire.
-You are not free; you have several things to do.
-
-Il n'est pas libre; il a plusieurs choses à faire.
-He is not free; he has several things to do.
-
-Ils ne sont pas libres; ils ont plusieurs choses à faire.
-They are not free; they have several things to do.
-
-Je ne suis pas libre; j'ai plusieurs choses à faire.
-I'm not free; I have several things to do.
-
-je veux des chaussures
-I want shoes
-
-Vous allez dans la chambre? Oui, je vais dans la chambre.
-Are you going to the room? Yes, I'm going to the bedroom.
-
-Vous êtes dans la chambre douze? Oui, je suis dans la chambre douze.
-Are you in room twelve? Yes, I'm in room twelve.
-
-Vous avez des bagages? Oui, j'ai des bagages.
-Do you have any luggage? Yes, I have luggage.
-
-Vous allez à l'hôtel? Oui, je vais à l'hôtel.
-Are you going to the hotel? Yes, I'm going to the hotel.
-
-Vous êtes à l'hôtel? Oui, je suis à l'hôtel.
-Are you at the hotel? Yes, I'm at the hotel.
-
-Vous allez à Paris? Oui, je vais à Paris.
-Are you going to Paris? Yes, I'm going to Paris.
-
-Vous êtes au premier étage? Oui, je suis au premier étage.
-Are you on the first floor? Yes, I'm on the first floor.
-
-Vous allez au restaurant? Oui, je vais au restaurant.
-Yes, I'm going to the restaurant.
-
-Vous avez des nouvelles? Oui, j'ai des nouvelles.
-Do you have any news? Yes, I have some news.
-
-Pourquoi est-ce qu'ils sont à l'hôtel? Ils sont à l'hôtel parce qu'ils sont en vacances.
-Why are they at the hotel? They're at the hotel because they're on vacation.
-
-Pourquoi est-ce qu'il est à l'hôtel? Il est à l'hôtel parce qu'il est en vacances.
-Why is he at the hotel? He's at the hotel because he's on vacation.
-
-Pourquoi est-ce que vous êtes à l'hôtel? Je suis à l'hôtel parce que je suis en vacances.
-Why are you at the hotel? I'm at the hotel because I'm on vacation.
-
-Pourquoi est-ce qu'elle est à l'hôtel? Elle est à l'hôtel parce qu'elle est en vacances.
-Why is she at the hotel? She's at the hotel because she's on vacation.
-
-Pourquoi est-ce qu'ils sont à l'hôtel? Ils sont à l'hôtel parce qu'ils sont en vacances.
-Why are they at the hotel? They're at the hotel because they're on vacation.
-
-Pourquoi est-ce qu'elle est à l'hôtel? Elle est à l'hôtel parce qu'elle est en vacances.
-Why is she at the hotel? She's at the hotel because she's on vacation.
-
-Pourquoi est-ce qu'elles sont à l'hôtel? Elles sont à l'hôtel parce qu'elles sont en vacances.
-Why are they at the hotel? They're at the hotel because they're on vacation.
-
-Pourquoi est-ce que vous êtes à l'hôtel? Je suis à l'hôtel parce que je suis en vacances.
-Why are you at the hotel? I'm at the hotel because I'm on vacation.
-
-Vous êtes seul? Oui, je suis seul.
-Are you alone? Yes, I'm alone.
-
-Vous êtes à Paris? Oui, je suis à Paris.
-Are you in Paris? Yes, I'm in Paris.
-
-Vous êtes à l'hôtel? Oui, je suis à l'hôtel.
-Are you at the hotel? Yes, I'm at the hotel.
-
-L'hôtel est près d'ici? Oui, il est près d'ici.
-Is the hotel near here? Yes, he's near here.
-
-Y a-t-il plusieurs chambres? Oui, il y a plusieurs chambres.
-Are there several rooms? Yes, there are several rooms.
-
-Les chambres sont-elles jolies? Oui, elles sont jolies.
-Are the rooms pretty? Yes, they're pretty.
-
-Avez-vous une jolie chambre? Oui, j'ai une jolie chambre.
-Do you have a nice room? Yes, I have a nice room.
-
-Vous avez la monnaie pour dix euros?
-Can you get change for ten euros?
-
-Il a la monnaie pour dix euros?
-Does he have change for ten euros?
-
-Ils ont la monnaie pour dix euros?
-Do they have change for ten euros?
-
+# Les comptables gèrent l'argent de l'entreprise.
+# The accoutants manage the company's money.
+# 
+# Mon grand-père a besoin d'un aide soignant au quotidien.
+# My grandfather needs a caregiver daily.
+# 
+# Ma soeur est infirmière.
+# My sister is a nurse.
+# 
+# Mon docteur part bietôt à la retraite.
+# My doctor will soon retire.
+# 
+# Ma professeur d'allemand est très gentille.
+# My german teacher is very nice.
+# 
+# Demande à la vendeuse s'il existe ce t-shirt en blanc.
+# Ask the saleswoman if they have this t-shirt in white.
+# 
+# Mon frère est cuisinier dans cet hôtel.
+# My brother is a cook at this hotel.
+# 
+# La réalisatrice de ce documentaire a reçu un Oscar.
+# The director of this documentary received an Oscar.
+# 
+# Le producteur s'occupe de l'organisation du tournage d'un film.
+# The producer handles the organization of shooting a movie.
+# 
+# Jim Carrey est mon acteur préféré/
+# Jim Carrey is my favorite actor.
+# 
+# Le plombier a réparé la fuite dans la salle de bain.
+# The plumber fixed the leak in the bathroom.
+# 
+# Les star ont souvent un chauffeur privé.
+# Stars often have a private chauffeur.
+# 
+# Marie veut devenir avocate.
+# Marie wants to become a lawyer.
+# 
+# Être un athlète est un travail très rigoureux.
+# Being an athlete is a very rigourous job.
+# 
+# Leonardo de Vinci est un des plus grands artistes au monde.
+# Leonardo da Vince is one of the biggest artists in the world.
+# 
+# Céline Dion est la chanteuse préférée de ma tante.
+# Celine Dion is my aunt's favorite singer.
+# 
+# Elle a fait une licence en physique pour devenir ingénieure.
+# She did a bachelor's in physics to become an engineer.
+# 
+# Le président a besoin d'un garde du corps.
+# The president needs a bodyguard.
+# 
+# Le travail d'un agriculteur dépend beaucoup de la méteo.
+# A farmer's work depends a lot on the weather.
+# 
+# Ma grand-mère prépare son thé dans une bouilloire en cuivre.
+# My grandmother prepares her tea in a copper kettle.
+# 
+# J'ai acheté une nouvelle bouilloire électrique.
+# I bought a new electric kettle.
+# 
+# Mes yeux sont rouges à cause de mes allergies.
+# My eyes are red because of my allergies.
+# 
+# Son oeil droit est très sensible.
+# His/her right eye is very sensitive.
+# 
+# Le coeur est un organe très complexe.
+# The heart is a very complex organ.
+# 
+# Son appartement est situé au coeur de la ville.
+# His/her appartment is located in the heart of the village.
+# 
+# Ils vivent à Paris mais ils veulent déménager ailleurs.
+# They live in Paris but they want to move somewhere else.
+# 
+# J'ai laissé ma voiture ailleurs, à proximité de l'aéroport.
+# I left my car elsewhere, close to the airport.
+# 
+# Il pose beaucoup de questions au chirurgien avant son opération.
+# He asks the surgeon a lot of questions before his operation.
+# 
+# Il a fait dix ans d'études pour devenir chirurgien-dentiste.
+# He studied to become dental surgeon for ten years.
+# 
+# Les français sont les plus grands consommateurs de cuisses de grenouille au monde.
+# The french are the biggest consumers of frog legs in the world.
+# 
+# Les grenouilles vivent entre dix et douze ans en moyenne.
+# Frogs live between 10 and 12 years on average.
+# 
+# Elle est très heureuse de rentrer à la maison pour Noel.
+# She is very happy to go back home for Christmas.
+# 
+# Il est hereux d'aller à la fête.
+# He is happy to go to the party.
+# 
+# Peux-tu acheter des oeufs au supermarché?
+# Can you buy some eggs at the supermarket?
+# 
+# Je prépare un oeuf dur pour la salade.
+# I'm preparing a hard-boiled egg for the salad.
+# 
+# Quand je vais au parc, je vois souvent des écureuils.
+# When I go to the park, I often see squirrels.
+# 
+# Les écureuils vivent principalement dans les arbres.
+# Squirrels mostly live in trees.
+# 
+# Je dois lire un livre pour l'école, mais ils est si ennuyeux!
+# I have to read a book for school, but it is so boring!
+# 
+# Depuis le début, elle trouve son travail ennuyeux.
+# She found her job boring from the beginning.
+# 
+# Beaucoup d'enfants de cette école ont été malades.
+# Many of the children of this school were ill 
+# 
+# Tu vas faire les courses demain? Je pense.
+# Are you going shopping tomorrow? I think so.
+# 
+# Est-ce qu'il a la monnaie pour cent euros?
+# Does he have change for a hundred euros?
+# 
+# Est-ce qu'ils ont la monnaie pour cent euros?
+# Do they have change for a hundred euros?
+# 
+# Est-ce que vous voulez la monnaie pour cent euros?
+# Do you want change for a hundred euros?
+# 
+# Est-ce qu'elle a la monnaie pour cent euros?
+# Does she have change for a hundred euros?
+# 
+# Est-ce que nous avons la monnaie pour cent euros?
+# Do we have change for a hundred euros?
+# 
+# Est-ce qu'elles ont la monnaie pour cent euros?
+# Do they have change for a hundred euros?
+# 
+# Est-ce que vous avez la monnaie pour cent euros?
+# Do you have change for a hundred euros?
+# 
+# Il en a plusieurs de libres aujourd'hui.
+# There are several of them available today.
+# 
+# On en a plusieurs de libres aujourd'hui.
+# We have several of them available today.
+# 
+# Ils en ont plusieurs de libres aujourd'hui.
+# They have several of them available today.
+# 
+# Elle en a plusieurs de libres aujourd'hui.
+# She has several of them available today.
+# 
+# J'en ai plusieurs de libres aujourd'hui.
+# I have several of them available today.
+# 
+# Vous en avez plusieurs de libres aujourd'hui.
+# You have several of them available today.
+# 
+# Nous en avons plusieurs de libres aujourd'hui.
+# We have several of them available today.
+# 
+# Il est à l'hôtel; il a une jolie chambre.
+# He's at the hotel; he has a nice room.
+# 
+# Elles sont à l'hôtel; elles ont une jolie chambre.
+# They're at the hotel; they have a nice room.
+# 
+# Nous sommes à l'hôtel; nous avons une jolie chambre.
+# We're at the hotel; we have a nice room.
+# 
+# Je suis à l'hôtel; j'ai une jolie chambre.
+# I'm at the hotel; I have a nice room.
+# 
+# Elle est à l'hôtel; elle a une jolie chambre.
+# She's at the hotel; she has a nice room.
+# 
+# Ils sont à l'hôtel; ils ont une jolie chambre.
+# They're at the hotel; they have a nice room.
+# 
+# Vous êtes à l'hôtel; vous avez une jolie chambre.
+# You're at the hotel; you have a nice room.
+# 
+# Il est à l'hôtel; il a une jolie chambre.
+# He's at the hotel; he has a nice room.
+# 
+# Je ne suis pas libre; j'ai plusieurs choses à faire.
+# I'm not free; I have several things to do.
+# 
+# Nous ne sommes pas libres; nous avons plusieurs choses à faire.
+# We are not free; we have several things to do.
+# 
+# Ils ne sont pas libres; ils ont plusieurs choses à faire.
+# They are not free; they have several things to do.
+# 
+# Elle n'est pas libre; elle a plusieurs choses à faire.
+# She is not free; she has several things to do.
+# 
+# Vous n'êtes pas libre; vous avez plusieurs choses à faire.
+# You are not free; you have several things to do.
+# 
+# Il n'est pas libre; il a plusieurs choses à faire.
+# He is not free; he has several things to do.
+# 
+# Ils ne sont pas libres; ils ont plusieurs choses à faire.
+# They are not free; they have several things to do.
+# 
+# Je ne suis pas libre; j'ai plusieurs choses à faire.
+# I'm not free; I have several things to do.
+# 
+# je veux des chaussures
+# I want shoes
+# 
+# Vous allez dans la chambre? Oui, je vais dans la chambre.
+# Are you going to the room? Yes, I'm going to the bedroom.
+# 
+# Vous êtes dans la chambre douze? Oui, je suis dans la chambre douze.
+# Are you in room twelve? Yes, I'm in room twelve.
+# 
+# Vous avez des bagages? Oui, j'ai des bagages.
+# Do you have any luggage? Yes, I have luggage.
+# 
+# Vous allez à l'hôtel? Oui, je vais à l'hôtel.
+# Are you going to the hotel? Yes, I'm going to the hotel.
+# 
+# Vous êtes à l'hôtel? Oui, je suis à l'hôtel.
+# Are you at the hotel? Yes, I'm at the hotel.
+# 
+# Vous allez à Paris? Oui, je vais à Paris.
+# Are you going to Paris? Yes, I'm going to Paris.
+# 
+# Vous êtes au premier étage? Oui, je suis au premier étage.
+# Are you on the first floor? Yes, I'm on the first floor.
+# 
+# Vous allez au restaurant? Oui, je vais au restaurant.
+# Yes, I'm going to the restaurant.
+# 
+# Vous avez des nouvelles? Oui, j'ai des nouvelles.
+# Do you have any news? Yes, I have some news.
+# 
+# Pourquoi est-ce qu'ils sont à l'hôtel? Ils sont à l'hôtel parce qu'ils sont en vacances.
+# Why are they at the hotel? They're at the hotel because they're on vacation.
+# 
+# Pourquoi est-ce qu'il est à l'hôtel? Il est à l'hôtel parce qu'il est en vacances.
+# Why is he at the hotel? He's at the hotel because he's on vacation.
+# 
+# Pourquoi est-ce que vous êtes à l'hôtel? Je suis à l'hôtel parce que je suis en vacances.
+# Why are you at the hotel? I'm at the hotel because I'm on vacation.
+# 
+# Pourquoi est-ce qu'elle est à l'hôtel? Elle est à l'hôtel parce qu'elle est en vacances.
+# Why is she at the hotel? She's at the hotel because she's on vacation.
+# 
+# Pourquoi est-ce qu'ils sont à l'hôtel? Ils sont à l'hôtel parce qu'ils sont en vacances.
+# Why are they at the hotel? They're at the hotel because they're on vacation.
+# 
+# Pourquoi est-ce qu'elle est à l'hôtel? Elle est à l'hôtel parce qu'elle est en vacances.
+# Why is she at the hotel? She's at the hotel because she's on vacation.
+# 
+# Pourquoi est-ce qu'elles sont à l'hôtel? Elles sont à l'hôtel parce qu'elles sont en vacances.
+# Why are they at the hotel? They're at the hotel because they're on vacation.
+# 
+# Pourquoi est-ce que vous êtes à l'hôtel? Je suis à l'hôtel parce que je suis en vacances.
+# Why are you at the hotel? I'm at the hotel because I'm on vacation.
+# 
+# Vous êtes seul? Oui, je suis seul.
+# Are you alone? Yes, I'm alone.
+# 
+# Vous êtes à Paris? Oui, je suis à Paris.
+# Are you in Paris? Yes, I'm in Paris.
+# 
+# Vous êtes à l'hôtel? Oui, je suis à l'hôtel.
+# Are you at the hotel? Yes, I'm at the hotel.
+# 
+# L'hôtel est près d'ici? Oui, il est près d'ici.
+# Is the hotel near here? Yes, he's near here.
+# 
+# Y a-t-il plusieurs chambres? Oui, il y a plusieurs chambres.
+# Are there several rooms? Yes, there are several rooms.
+# 
+# Les chambres sont-elles jolies? Oui, elles sont jolies.
+# Are the rooms pretty? Yes, they're pretty.
+# 
+# Avez-vous une jolie chambre? Oui, j'ai une jolie chambre.
+# Do you have a nice room? Yes, I have a nice room.
+# 
+# Vous avez la monnaie pour dix euros?
+# Can you get change for ten euros?
+# 
+# Il a la monnaie pour dix euros?
+# Does he have change for ten euros?
+# 
+# Ils ont la monnaie pour dix euros?
+# Do they have change for ten euros?
+# 
 Vous voulez la monnaie pour dix euros?
 Do you want change for ten euros?
 

@@ -7798,6 +7798,9 @@
 # Er ist Kellner.
 # He is a waiter.
 # 
+Könntest du mich morgen von der Arbeit abholen?
+Could you pick me up from work tomorrow?
+
 Mein Wochenende war schön.
 My weekend was nice.
 
