@@ -7789,312 +7789,315 @@
 # Ich bin Ärtztin.
 # I am a doctor - F
 # 
-# Er ist Taxifahrer.
-# He is a taxi driver.
+# # Er ist Taxifahrer.
+# # He is a taxi driver.
+# # 
+# # Sie ist Lehrerin.
+# # She is a teacher.
+# # 
+# # Er ist Kellner.
+# # He is a waiter.
+# # 
+# der Junge, die Jungs
+# the boy, die boys
 # 
-# Sie ist Lehrerin.
-# She is a teacher.
+# Könntest du mich morgen von der Arbeit abholen?
+# Could you pick me up from work tomorrow?
 # 
-# Er ist Kellner.
-# He is a waiter.
+# Mein Wochenende war schön.
+# My weekend was nice.
 # 
-Könntest du mich morgen von der Arbeit abholen?
-Could you pick me up from work tomorrow?
-
-Mein Wochenende war schön.
-My weekend was nice.
-
-Ich fahre nach Deutschland. 
-I’m going to Germany.
-
-Ich fahre nach Berlin. 
-I’m going to Berlin.
-
-Wir fliegen in die Schweiz. 
-We are going to Switzerland.
-
-Letzte Woche sind wir in die Türkei gefahren. 
-Last week, we went to Turkey.
-
-Ich fahre nach Norden/Osten/Süden/Westen. 
-I’m going North/East/South/West.
-
-Ich gehe nach links/rechts/oben/unten. 
-I’m going left/right/up/down.
-
-Ich gehe ins Kino. 
-I’m going to the movies.
-
-Ich gehe ins Fitnessstudio.
-I am going to the fitness center.
-
-Ich gehe in die Kneipe.
-I go to the pub. 
-
-Wir fahren in die Berge. 
-We are going to the mountains.
-
-Wir fahren in die Stadt. 
-We are going to town.
-
-Ich gehe auf die Straße. 
-I walk onto the street.
-
-Ich klettere auf das Dach. 
-I climb onto the roof.
-
-Das Kind geht auf die Toilette. 
-The child goes onto the toilette.
-
-Sie geht auf eine Party. 
-She is going to a party. - auf para eventos formais
-
-Er geht auf eine Hochzeit. 
-He is going to a wedding. - auf para eventos formais
-
-Der Junge geht auf die Bank. 
-The boy is going to the bank. - auf para espaços publicos
-
-Das Mädchen geht auf den Markt. 
-The girl is going to the market. - auf para espaços publicos
-
-Der Mann geht an die Bar. 
-The man is going to the bar. - esta indo em direcao a
-
-Gehen wir ans Fenster. 
-Let’s sit by the window.
-
-Die Polizistin geht an den Tatort. 
-The police officer walks to the crime scene.
-
-Gehen Sie an die Kreuzung. 
-Go to the intersection.
-
-Die Touristen gehen an den Strand. 
-The tourists go to the beach. – The beach is on the side of the ocean.
-
-Die Kinder gehen an die Wand. 
-The children are going to the wall.
-
-Kommst du an die Tür? 
-Are you coming to the door?
-
-Ich gehe ins Kino 
-I’m going to the movies
-
-Ich bin im Kino 
-I’m at the movies
-
-Wir gehen auf den Alexander Platz 
-We’re going to Alexander square
-
-Wir snd auf dem Alexander Platz 
-We are on Alexander place
-
-Meine Mutter geht an den Strand 
-My mom is going to the beach
-
-Meine Mutter ist am Strand 
-My mum is at/on the beach
-
-Ich fahre nach Deutschland 
-I’m going to Germany
-
-Ich bin in Deutschland 
-I am in Germany
-
-Ich fahre zu meinem Bruder 
-I’m going to my brother’s house
-
-Ich bin bei meinem Bruder 
-I’m at my brother’s house
-
-Ich gehe in die Bank.
-I’m going to the bank.
-
-Ich gehe zur Bank. 
-I’m going to the bank.
-
-Die Freunde gehen in die Kneipe.
-The friends are going to the pub.
-
-Die Freunde gehen zur Kneipe. 
-The friends are going to the pub.
-
-Die Frauen gehen ins Fitnessstudio.
-The women are going to the gym.
-
-Die Frauen gehen zum Fitnessstudio. 
-The women are going to the gym.
-
-Er klettert auf das Dach.
-He’s climbing to the roof.
-
-Er klettert zum Dach. 
-He’s climbing to the roof.
-
-Sie darf auf die Party gehen.
-She’s allowed to go to the party.
-
-Sie darf zur Party gehen. 
-She’s allowed to go to the party.
-
-Die Mütter gehen an den Strand.
-The mothers are going to the beach.
-
-Die Mütter gehen zum Strand. 
-The mothers are going to the beach.
-
-Lass uns ans Fenster gehen.
-Let’s go stand by the window.
-
-Lass uns zum Fenster gehen. 
-Let’s go stand by the window.
-
-Willst du nachher noch zu Hans? 
-Want you later also to Hans?
-
-Sie wollen später zu Google gehen. 
-They want later to Google to go.
-
-Ich gehe heute Abend zu meiner Mutter. 
-I go tonight to my mum.
-
-Er fährt zu seinen Eltern. 
-He’s going to his parents’ house.
-
-Die Kinder gehen zu ihren Großeltern. 
-The children are going to their grandparents’ house.
-
-Sie fährt zu Peter. 
-She is going to Peter’s house.
-
-Ich gehe nach Hause. 
-I’m going home.
-
-Ich bin zu Hause.
-I’m home.
-
-Ich bin zuhause. 
-I’m home.
-
-Er ist Automechaniker.
-He is a car mechanic.
-
-Ich bin Ingenieurin.
-I am an engineer.
-
-Er ist Elektroingenieur.
-He is an electrical engineer.
-
-Sie ist Polizistin.
-She is a police officer.
-
-Ich bin Geschäftsführerin.
-I am a CEO
-
-Ich bin Buchhalterin.
-I am an accountant.
-
-Ich bin Forscher.
-I am a researcher.
-
-Ich bin Informatiker.
-I am a computer scientist.
-
-Er ist Designer.
-He is a designer.
-
-Ich bin Projektmanagerin.
-I am a project manager.
-
-Ich bin Apothekerin.
-I am a pharmacist.
-
-Ich bin selbständig.
-I am self-employed.
-
-Ich bin arbeitslos.
-I am unemployed.
-
-Das ist ein Tisch.
-This is a table.
-
-Der Tisch ist rund.
-The table is round.
-
-Das ist ein Haus.
-This is a house.
-
-Der Tisch ist rund. Er ist rund.
-The table is round. It is round.
-
-Das Haus ist groẞ. Es ist groẞ.
-The house is big. It is big.
-
-Das sind Autos.
-These are cars.
-
-Die Autos sind schnell. Sie sind schnell.
-The cars are fast. They are fast.
-
-Das sind Bücher.
-These are books.
-
-Die Bücher sind alt. Sie sind alt.
-The books are old. They are old.
-
-Das ist ein Laptop.
-This is a laptop.
-
-Der Laptop ist kaputt. Er ist kapput.
-The laptop is broken. It is broken.
-
-Das ist ein Buch.
-This is a book.
-
-Das Buch ist interessant. Es ist interessant.
-The book is interesting. It is interesting.
-
-Das sind Unterlagen.
-These are documents.
-
-Die Unterlagen sind wichtig. Sie sind wichtig.
-The documents are important. They are important.
-
-Schauen Sie mal, die Haltestelle ist da. Ich sehe die Haltestelle nicht.
-Look, the station is there. I don't see the stop.
-
-Schauen Sie mal, der Bahnhof ist da. Ich sehe den Bahnhof nicht.
-Look, the station is there. I don't see the station.
-
-Schauen Sie mal, die Gabel ist da. Ich sehe die Gabel nicht.
-Look, the fork is there. I don't see the fork.
-
-Schauen Sie mal, das Papier ist da. Ich sehe das Papier nicht.
-Look, the paper is there. I don't see the paper.
-
-Hören Sie das Auto? Ja, es ist hier.
-Do you hear the car? Yes, it's here.
-
-Hören Sie den Zug? Ja, er ist hier.
-Do you hear the train? Yes, it's here.
-
-Hören Sie die Katze? Ja, sie ist hier.
-Do you hear the cat? Yes, it is here.
-
-Hören Sie das Pferd? Ja, es ist hier.
-Do you hear the horse? Yes, it is here.
-
-Hören Sie die Maus? Ja, sie ist hier.
-Do you hear the mouse? Yes, it is here.
-
-Hören Sie den Vogel? Ja, er ist hier.
-Do you hear the bird? Yes, he is here.
-
-Sehen Sie das Haus? Ja, das Haus ist dort.
-Do you see the house? Yes, the house is there.
-
+# Ich fahre nach Deutschland. 
+# I’m going to Germany.
+# 
+# Ich fahre nach Berlin. 
+# I’m going to Berlin.
+# 
+# Wir fliegen in die Schweiz. 
+# We are going to Switzerland.
+# 
+# Letzte Woche sind wir in die Türkei gefahren. 
+# Last week, we went to Turkey.
+# 
+# Ich fahre nach Norden/Osten/Süden/Westen. 
+# I’m going North/East/South/West.
+# 
+# Ich gehe nach links/rechts/oben/unten. 
+# I’m going left/right/up/down.
+# 
+# Ich gehe ins Kino. 
+# I’m going to the movies.
+# 
+# Ich gehe ins Fitnessstudio.
+# I am going to the fitness center.
+# 
+# Ich gehe in die Kneipe.
+# I go to the pub. 
+# 
+# Wir fahren in die Berge. 
+# We are going to the mountains.
+# 
+# Wir fahren in die Stadt. 
+# We are going to town.
+# 
+# Ich gehe auf die Straße. 
+# I walk onto the street.
+# 
+# Ich klettere auf das Dach. 
+# I climb onto the roof.
+# 
+# Das Kind geht auf die Toilette. 
+# The child goes onto the toilette.
+# 
+# Sie geht auf eine Party. 
+# She is going to a party. - auf para eventos formais
+# 
+# Er geht auf eine Hochzeit. 
+# He is going to a wedding. - auf para eventos formais
+# 
+# Der Junge geht auf die Bank. 
+# The boy is going to the bank. - auf para espaços publicos
+# 
+# Das Mädchen geht auf den Markt. 
+# The girl is going to the market. - auf para espaços publicos
+# 
+# Der Mann geht an die Bar. 
+# The man is going to the bar. - esta indo em direcao a
+# 
+# Gehen wir ans Fenster. 
+# Let’s sit by the window.
+# 
+# Die Polizistin geht an den Tatort. 
+# The police officer walks to the crime scene.
+# 
+# Gehen Sie an die Kreuzung. 
+# Go to the intersection.
+# 
+# Die Touristen gehen an den Strand. 
+# The tourists go to the beach. – The beach is on the side of the ocean.
+# 
+# Die Kinder gehen an die Wand. 
+# The children are going to the wall.
+# 
+# Kommst du an die Tür? 
+# Are you coming to the door?
+# 
+# Ich gehe ins Kino 
+# I’m going to the movies
+# 
+# Ich bin im Kino 
+# I’m at the movies
+# 
+# Wir gehen auf den Alexander Platz 
+# We’re going to Alexander square
+# 
+# Wir snd auf dem Alexander Platz 
+# We are on Alexander place
+# 
+# Meine Mutter geht an den Strand 
+# My mom is going to the beach
+# 
+# Meine Mutter ist am Strand 
+# My mum is at/on the beach
+# 
+# Ich fahre nach Deutschland 
+# I’m going to Germany
+# 
+# Ich bin in Deutschland 
+# I am in Germany
+# 
+# Ich fahre zu meinem Bruder 
+# I’m going to my brother’s house
+# 
+# Ich bin bei meinem Bruder 
+# I’m at my brother’s house
+# 
+# Ich gehe in die Bank.
+# I’m going to the bank.
+# 
+# Ich gehe zur Bank. 
+# I’m going to the bank.
+# 
+# Die Freunde gehen in die Kneipe.
+# The friends are going to the pub.
+# 
+# Die Freunde gehen zur Kneipe. 
+# The friends are going to the pub.
+# 
+# Die Frauen gehen ins Fitnessstudio.
+# The women are going to the gym.
+# 
+# Die Frauen gehen zum Fitnessstudio. 
+# The women are going to the gym.
+# 
+# Er klettert auf das Dach.
+# He’s climbing to the roof.
+# 
+# Er klettert zum Dach. 
+# He’s climbing to the roof.
+# 
+# Sie darf auf die Party gehen.
+# She’s allowed to go to the party.
+# 
+# Sie darf zur Party gehen. 
+# She’s allowed to go to the party.
+# 
+# Die Mütter gehen an den Strand.
+# The mothers are going to the beach.
+# 
+# Die Mütter gehen zum Strand. 
+# The mothers are going to the beach.
+# 
+# Lass uns ans Fenster gehen.
+# Let’s go stand by the window.
+# 
+# Lass uns zum Fenster gehen. 
+# Let’s go stand by the window.
+# 
+# Willst du nachher noch zu Hans? 
+# Want you later also to Hans?
+# 
+# Sie wollen später zu Google gehen. 
+# They want later to Google to go.
+# 
+# Ich gehe heute Abend zu meiner Mutter. 
+# I go tonight to my mum.
+# 
+# Er fährt zu seinen Eltern. 
+# He’s going to his parents’ house.
+# 
+# Die Kinder gehen zu ihren Großeltern. 
+# The children are going to their grandparents’ house.
+# 
+# Sie fährt zu Peter. 
+# She is going to Peter’s house.
+# 
+# Ich gehe nach Hause. 
+# I’m going home.
+# 
+# Ich bin zu Hause.
+# I’m home.
+# 
+# Ich bin zuhause. 
+# I’m home.
+# 
+# Er ist Automechaniker.
+# He is a car mechanic.
+# 
+# Ich bin Ingenieurin.
+# I am an engineer.
+# 
+# Er ist Elektroingenieur.
+# He is an electrical engineer.
+# 
+# Sie ist Polizistin.
+# She is a police officer.
+# 
+# Ich bin Geschäftsführerin.
+# I am a CEO
+# 
+# Ich bin Buchhalterin.
+# I am an accountant.
+# 
+# Ich bin Forscher.
+# I am a researcher.
+# 
+# Ich bin Informatiker.
+# I am a computer scientist.
+# 
+# Er ist Designer.
+# He is a designer.
+# 
+# Ich bin Projektmanagerin.
+# I am a project manager.
+# 
+# Ich bin Apothekerin.
+# I am a pharmacist.
+# 
+# Ich bin selbständig.
+# I am self-employed.
+# 
+# Ich bin arbeitslos.
+# I am unemployed.
+# 
+# Das ist ein Tisch.
+# This is a table.
+# 
+# Der Tisch ist rund.
+# The table is round.
+# 
+# Das ist ein Haus.
+# This is a house.
+# 
+# Der Tisch ist rund. Er ist rund.
+# The table is round. It is round.
+# 
+# Das Haus ist groẞ. Es ist groẞ.
+# The house is big. It is big.
+# 
+# Das sind Autos.
+# These are cars.
+# 
+# Die Autos sind schnell. Sie sind schnell.
+# The cars are fast. They are fast.
+# 
+# Das sind Bücher.
+# These are books.
+# 
+# Die Bücher sind alt. Sie sind alt.
+# The books are old. They are old.
+# 
+# Das ist ein Laptop.
+# This is a laptop.
+# 
+# Der Laptop ist kaputt. Er ist kapput.
+# The laptop is broken. It is broken.
+# 
+# Das ist ein Buch.
+# This is a book.
+# 
+# Das Buch ist interessant. Es ist interessant.
+# The book is interesting. It is interesting.
+# 
+# Das sind Unterlagen.
+# These are documents.
+# 
+# Die Unterlagen sind wichtig. Sie sind wichtig.
+# The documents are important. They are important.
+# 
+# Schauen Sie mal, die Haltestelle ist da. Ich sehe die Haltestelle nicht.
+# Look, the station is there. I don't see the stop.
+# 
+# Schauen Sie mal, der Bahnhof ist da. Ich sehe den Bahnhof nicht.
+# Look, the station is there. I don't see the station.
+# 
+# Schauen Sie mal, die Gabel ist da. Ich sehe die Gabel nicht.
+# Look, the fork is there. I don't see the fork.
+# 
+# Schauen Sie mal, das Papier ist da. Ich sehe das Papier nicht.
+# Look, the paper is there. I don't see the paper.
+# 
+# Hören Sie das Auto? Ja, es ist hier.
+# Do you hear the car? Yes, it's here.
+# 
+# Hören Sie den Zug? Ja, er ist hier.
+# Do you hear the train? Yes, it's here.
+# 
+# Hören Sie die Katze? Ja, sie ist hier.
+# Do you hear the cat? Yes, it is here.
+# 
+# Hören Sie das Pferd? Ja, es ist hier.
+# Do you hear the horse? Yes, it is here.
+# 
+# Hören Sie die Maus? Ja, sie ist hier.
+# Do you hear the mouse? Yes, it is here.
+# 
+# Hören Sie den Vogel? Ja, er ist hier.
+# Do you hear the bird? Yes, he is here.
+# 
+# Sehen Sie das Haus? Ja, das Haus ist dort.
+# Do you see the house? Yes, the house is there.
+# 
 Sehen Sie den Bahnhof? Ja, der Bahnhof ist dort.
 Do you see the station? Yes, the station is there.
 
