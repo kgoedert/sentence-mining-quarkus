@@ -11399,6 +11399,12 @@
 # Ils ont la monnaie pour dix euros?
 # Do they have change for ten euros?
 # 
+Jim Carrey est mon acteur préféré.
+Jim Carrey is my favorite actor.
+
+Il est heureux d'aller à la fête.
+He is happy to go to the party.
+
 Mon docteur part bientôt à la retraite.
 My doctor will soon retire.
 

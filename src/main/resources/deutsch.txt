@@ -8098,6 +8098,12 @@
 # Sehen Sie das Haus? Ja, das Haus ist dort.
 # Do you see the house? Yes, the house is there.
 # 
+Ich gehe nach links. Rechts. Oben. Unten.
+I’m going left/right/up/down.
+
+Wir sind auf dem Alexander Platz
+We are on Alexander place
+
 Sehen Sie den Bahnhof? Ja, der Bahnhof ist dort.
 Do you see the station? Yes, the station is there.
 

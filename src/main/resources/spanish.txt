@@ -9588,313 +9588,316 @@
 # 
 # ¡Qué rico está! No comía regaliz desde que era pequeña.
 # It's so good! I haven't eaten licorice since I was little.
+# # 
+# # Cuando me puse enfermo, llevábamos dos días en Sevilla.
+# # When I got sick, we had been in Seville for two days.
+# # 
+# # Cuando Lidia murió, llevaba ya diez años jubilada.
+# # When Lidia died, she had been retired for ten years.
+# # 
+# # Cuando llegó Ruiz, llevaban reunidos desde las ocho.
+# # When Ruiz arrived, they had been meeting since eight o'clock.
+# # 
+# Cuando me encontré con Akiro en Osaka, hacía mucho que no nos veíamos.
+# When I met Akiro in Osaka, we hadn't seen each other in a long time.
 # 
-# Cuando me puse enfermo, llevábamos dos días en Sevilla.
-# When I got sick, we had been in Seville for two days.
+# Ha muerto Lolo. Llevaba enfermo desde que era joven.
+# Lolo has died. He had been ill since he was young.
 # 
-# Cuando Lidia murió, llevaba ya diez años jubilada.
-# When Lidia died, she had been retired for ten years.
+# Cuando me despertaste, llevaba durmiendo diez horas.
+# When you woke me up, I had been sleeping for ten hours.
 # 
-# Cuando llegó Ruiz, llevaban reunidos desde las ocho.
-# When Ruiz arrived, they had been meeting since eight o'clock.
+# Ayer recibimos tu paquete. Llevábamos esperándolo desde Navidad.
+# Yesterday we received your package. We had been waiting for it since Christmas.
 # 
-Ha muerto Lolo. Llevaba enfermo desde que era joven.
-Lolo has died. He had been ill since he was young.
-
-Cuando me despertaste, llevaba durmiendo diez horas.
-When you woke me up, I had been sleeping for ten hours.
-
-Ayer recibimos tu paquete. Llevábamos esperándolo desde Navidad.
-Yesterday we received your package. We had been waiting for it since Christmas.
-
-Se ha retirado Agassi. Llevaba jugando al tenis desde que tenía dos años.
-Agassi has retired. He had been playing tennis since he was two years old.
-
-Hoy ha vuelto a coger el coche. Llevaba sin conducir más de tres meses.
-Today he took the car again. He had not driven for more than three months.
-
-¡Qué rico está este bocadillo! Llevaba sin comer nada desde ayer.
-This sandwich is so good! I had not eaten anything since yesterday.
-
-Ayer vi a Carla. Llevaba sin verla desde que se fue de aquí.
-Yesterday I saw Carla. I hadn't seen her since she left here.
-
-Lleva preparándose para el maratón seis meses. 
-She has been preparing for the marathon for six months. 
-
-He vuelto a estudiar chino. Llevaba más de un año sin ir a clases.
-I've gone back to studying Chinese. I hadn't been to class in over a year.
-
-Luis ha regalado un reloj a Chus.
-Luis gave a watch to Chus.
-
-Mí padre y yo somos buenos amigos.
-My father and I are good friends.
-
-A nosotros no nos ven.
-They don't see us.
-
-Me ha regalado un reloj.
-He gave me a watch.
-
-¿Qué te ha regalado Luis?
-What did Luis give you?
-
-La semana que viene llegarán los nuevos ordenadores.
-Next week the new computers will arrive.
-
-No te preocupes. Encontrarás empleo y te irá muy bien.
-Don't worry. You'll find a job and you'll do very well.
-
-Se pondrá bien muy pronto.
-It will be fine very soon.
-
-¿Cuándo vas a recoger tu habitación? Ya la recoger Hay tiempo.
-When are you going to pick up your room? There is time.
-
-¿Cuándo quieres empezar las clases de informática? Ya te avisará. Ahora estoy muy ocupada.
-When do you want to start computer classes? He will let you know. I'm very busy now.
-
-Nevará en el Norte a partir de 600 metros de altitud.
-It will snow in the North from 600 meters of altitude.
-
-En el futuro, viviremos más de cien años.
-In the future, we will live more than a hundred years.
-
-No te preocupes. Te compraré una nueva.
-Don't worry. I will buy you a new one.
-
-Te prometo que no volveré a usar tu cámara.
-I promise I will never use your camera again.
-
-No os preocupéis. Os invitaré cuando sea mi cumpleaños.
-Do not worry. I will invite you when it is my birthday.
-
-¿Quién va a venir a la fiesta? No sé. Vendrán todos los amigos de Clara. Vienen siempre.
-Who's coming to the party? I don't know. All Clara's friends will come. They always come.
-
-¿Qué vais a hacer este verano? No sé. Iremos a Tenerife como todos los años.
-What are you going to do this summer? I don't know. We will go to Tenerife as we do every year.
-
-Creo que ganaremos las elecciones.
-I think we will win the elections.
-
-Estoy seguro de que pronto habrá elecciones.
-I'm sure there will be elections soon.
-
-Me imagino que tendréis que alquilar un coche para recorrer la isla.
-I imagine you will have to rent a car to tour the island.
-
-Supongo que nos darán los resultados mañana.
-I guess we'll get the results tomorrow.
-
-Probablemente saldré de hospital mañana.
-I will probably leave the hospital tomorrow.
-
-Probablemente iremos a verte el domingo, Roni.
-We'll probably come to see you on Sunday, Roni.
-
-Seguramente el Ayuntamiento convocará oposiciones este mismo mes.
-Surely the City Council will call competitive examinations this month.
-
-Os quedaréis toda la semana hasta las ocho.
-You will stay the whole week until eight o'clock.
-
-Y tú, ¿qué le has reglado a él?
-And you, what did you give him.
-
-Dice Luisa que los bombones son solo para ella. ¡Será egoísta!
-Luisa says chocolates are just for her. She'll be selfish!
-
-Mañana no voy a clase. 
-I'm not going to class tomorrow. 
-
-¡Tú verás! El examen es dentro de dos semanas.
-You'll see! The exam is in two weeks.
-
-Hace mucho frío. Probablemente estaremos bajo cero.
-It's very cold. We'll probably be below zero.
-
-Ese piso costará una barbaridad. Tiene 400 metros cuadrados.
-That floor is going to cost a lot of money. It's 400 square meters.
-
-No ha venido Rodriguez. Tendrá gripe.
-Rodriguez is not here. He'll have the flu.
-
-Está todo cerrado. Aquí no hay nadie. Estarán de vacaciones.
-It's all closed. There's no one here. They'll be on vacation.
-
-Francisco es muy listo, pero no consigue acabar la carrera.
-Francisco is very smart, but he can't finish the race.
-
-Julia no conduce muy bien. No conducirá bien, pero no ha tenido nunca un accidente.
-Julia doesn't drive very well. She won't drive well, but she's never had an accident.
-
-Valverde puede ganar la carrera. Podrá, pero no tiene muchas posibilidades. Contador está mucho mejor situado.
-Valverde can win the race. He can, but he doesn't have much chance. Contador is much better off.
-
-Creo que este partido lo va a ganar Alemania. Ganarán, pero no están jugando bien.
-I think Germany will win this match. They will win, but they are not playing well.
-
-Voy a pedirle a mi suegro el coche. ¡No tendrás valor!
-I'm going to ask my father-in-law for the car. You won't have any courage!
-
-Voy a pedirle a Clara que se case conmigo. ¡No lo dirás en serio!
-I'm going to ask Clara to marry me. You can't be serious!
-
-¿Viste a Laura en la fiesta? Sí, ¿y querrás creer que ni me saludó?
-Did you see Laura at the party? Yes, and you want to believe that she didn't even greet me?
-
-La vida está muy cara. ¡Si lo sabré yo, que no llego nunca a fin de mes!
-Life is very expensive, I'll know, I'll never make it to the end of the month!
-
-La vida está muy cara. ¡No lo sabré yo!
-Life is very expensive. I won't know!
-
-Esos nunca saludan. ¡Si los conoceremos! Son unos maleducados!
-They never say hello, we will know them! They're rude!
-
-¿Cuándo viene el fontanero? ¡Luis sabrá! Él cogió el teléfono.
-When's the plumber coming? Luis will know! He picked up the phone.
-
-Prefieren venir mañana. Ellos sabrán, pero a lo mejor mañana no estoy yo.
-They prefer to come tomorrow. They'll know, but maybe tomorrow I'm not here.
-
-No me interesa ese empleo. Tú verás, pero a lo mejor no te sale otro.
-I'm not interested in that job. You'll see, but maybe you won't get another one.
-
-En diciembre, ya habrá nacido el niño.
-In December, the child will be born.
-
-Cuando vengáis, habré arreglado toda la casa.
-When you come, I will have fixed the whole house.
-
-No te preocupes. Dentro de unos años ya habrás olvido todo.
-Don't worry. In a few years you will have forgotten everything.
-
-En 2040 todavía no habremos pagado el piso.
-In 2040 we will still not have paid for the flat.
-
-Arturo está de mal humor. Habrá tenido problemas en la oficina.
-Arthur is in a bad mood. He must have had problems in the office.
-
-Hace mucho viento. Supongo que habrás cerrado bien las ventanas del salón.
-It's very windy. I suppose you've closed the living room windows well.
-
-¿Quién habrá roto la puerta?
-Who broke the door?
-
-El suelo está muy mojado. Habrá llovido.
-The floor is very wet. It must have rained.
-
-He adelgazado cinco kilos.
-I lost five kilos.
-
-Habrás adelgazado pero no se nota mucho.
-You may have lost some weight, but you can't tell.
-
-Pobre Julian. Ha estudiado mucho.
-Poor Julian. He has studied a lot.
-
-Habrá estudiado mucho, pero le han puesto un uno en el examen.
-He must have studied a lot, but they put one in the exam.
-
-¿No me habré olvidado de nada?
-Didn't I forget anything?
-
-Creo que no me he olvidado de nada.
-I don't think I've forgotten anything.
-
-¿No te habrá engañado Sonia en lo del piso?
-Didn't Sonia fool you about the flat?
-
-Le he pedido el coche a mi suegro. ¿No habrás tenido el valor?
-I asked my father-in-law for the car. Didn't you have the courage?
-
-Raúl, me ha desaparecido dinero de la cartera. ¿No habrás pensado que he sido yo?
-Raúl, money has disappeared from my wallet. You didn't think it was me?
-
-Habréis vacunado el perro, ¿no? Si no, no entro.
-You vaccinated the dog, didn't you? If not, I don't go in.
-
-Habrás echado el cerrojo, Blanca. Ya no volvemos hasta el lunes.
-You must have locked the door, Blanca. We won't be back until Monday.
-
-¿Que no conoces esa tienda? ¡Habrás pasado veces por esa calle!
-You don't know that shop? You must have walked down that street!
-
-Roberto ha tenido un accidente con la moto. Sabía que pasaría. ¡No se lo habré advertido yo veces!
-Roberto had a motorcycle accident. I knew it would happen. I didn't warn him sometimes!
-
-¿Qué no conoces a Ángel? ¡Lo habrás visto lo menos diez veces!
-Don't you know Angel? You've seen him at least ten times!
-
-No he estado nunca en casa de Jorge. ¡Bueno! ¡Si habrás estado veces tú allí!
-I've never been to Jorge's house. Well, you've been there before!
-
-Prepararé la cena cuando regreses de clase.
-I'll make dinner when you get back from class.
-
-Cuando lleguemos a Santiago, habremos recorrido más de quinientos kilómetros.
-By the time we get to Santiago, we will have covered more than five hundred kilometers.
-
-Creo que acabaré la carrera dentro de dos años.
-I think I'll finish the race in two years.
-
-El año que viene arreglaré la casa.
-Next year I will fix the house.
-
-Cuando vengas, te daré los regalos.
-When you come, I'll give you the presents.
-
-Cuando mi hermano empiece la universidad, yo ya habré acabado la carrera.
-When my brother starts college, I'll have finished my degree.
-
-El año que viene habré arreglado la casa.
-Next year I will have fixed the house.
-
-Cuando vengas, ya habremos dado los regalos.
-When you come, we'll have given the presents.
-
-Eva dice que no puede salir mañana.
-Eva says she can't leave tomorrow.
-
-Tendrá problemas con sus padres.
-She will have problems with her parents.
-
-¡Qué frío hace! Habrá nevado en la sierra.
-It's cold in here! It must have snowed in the mountains.
-
-Marcos no ha podido abrir el restaurante.
-Marcos has not been able to open the restaurant.
-
-Habrá tenido problemas.
-He must have had problems.
-
-Sofía es muy guapa. Será guapa, pero es muy antipática.
-Sofia is very pretty. She may be pretty, but she's very unpleasant.
-
-¡Vamos a ganar! Ganaréis, pero sois muy malos.
-We're going to win! You will win, but you are very bad.
-
-He trabajado mucho en mi vida. Habrás trabajado mucho, pero...
-I've worked a lot in my life. You must have worked a lot, but...
-
-El Colo Colo ha ganado. Habrán ganado, pero han jugado muy mal.
-The Colo Colo has won. They will have won, but they have played very badly.
-
-Luisa no quiere salir con nosotras.
-Luisa doesn't want to go out with us.
-
-¡Será antipática!
-She will be unpleasant!
-
-Voy a pedirle aumento de sueldo al director. ¡No serás capaz!
-I'm going to ask the director for a salary increase. You won't be able to!
-
-Me han cogido 50 euros de la caja. ¿No habrás sido tú?
-I got 50 euros from the box. You didn't do it?
-
+# Se ha retirado Agassi. Llevaba jugando al tenis desde que tenía dos años.
+# Agassi has retired. He had been playing tennis since he was two years old.
+# 
+# Hoy ha vuelto a coger el coche. Llevaba sin conducir más de tres meses.
+# Today he took the car again. He had not driven for more than three months.
+# 
+# ¡Qué rico está este bocadillo! Llevaba sin comer nada desde ayer.
+# This sandwich is so good! I had not eaten anything since yesterday.
+# 
+# Ayer vi a Carla. Llevaba sin verla desde que se fue de aquí.
+# Yesterday I saw Carla. I hadn't seen her since she left here.
+# 
+# Lleva preparándose para el maratón seis meses. 
+# She has been preparing for the marathon for six months. 
+# 
+# He vuelto a estudiar chino. Llevaba más de un año sin ir a clases.
+# I've gone back to studying Chinese. I hadn't been to class in over a year.
+# 
+# Luis ha regalado un reloj a Chus.
+# Luis gave a watch to Chus.
+# 
+# Mí padre y yo somos buenos amigos.
+# My father and I are good friends.
+# 
+# A nosotros no nos ven.
+# They don't see us.
+# 
+# Me ha regalado un reloj.
+# He gave me a watch.
+# 
+# ¿Qué te ha regalado Luis?
+# What did Luis give you?
+# 
+# La semana que viene llegarán los nuevos ordenadores.
+# Next week the new computers will arrive.
+# 
+# No te preocupes. Encontrarás empleo y te irá muy bien.
+# Don't worry. You'll find a job and you'll do very well.
+# 
+# Se pondrá bien muy pronto.
+# It will be fine very soon.
+# 
+# ¿Cuándo vas a recoger tu habitación? Ya la recoger Hay tiempo.
+# When are you going to pick up your room? There is time.
+# 
+# ¿Cuándo quieres empezar las clases de informática? Ya te avisará. Ahora estoy muy ocupada.
+# When do you want to start computer classes? He will let you know. I'm very busy now.
+# 
+# Nevará en el Norte a partir de 600 metros de altitud.
+# It will snow in the North from 600 meters of altitude.
+# 
+# En el futuro, viviremos más de cien años.
+# In the future, we will live more than a hundred years.
+# 
+# No te preocupes. Te compraré una nueva.
+# Don't worry. I will buy you a new one.
+# 
+# Te prometo que no volveré a usar tu cámara.
+# I promise I will never use your camera again.
+# 
+# No os preocupéis. Os invitaré cuando sea mi cumpleaños.
+# Do not worry. I will invite you when it is my birthday.
+# 
+# ¿Quién va a venir a la fiesta? No sé. Vendrán todos los amigos de Clara. Vienen siempre.
+# Who's coming to the party? I don't know. All Clara's friends will come. They always come.
+# 
+# ¿Qué vais a hacer este verano? No sé. Iremos a Tenerife como todos los años.
+# What are you going to do this summer? I don't know. We will go to Tenerife as we do every year.
+# 
+# Creo que ganaremos las elecciones.
+# I think we will win the elections.
+# 
+# Estoy seguro de que pronto habrá elecciones.
+# I'm sure there will be elections soon.
+# 
+# Me imagino que tendréis que alquilar un coche para recorrer la isla.
+# I imagine you will have to rent a car to tour the island.
+# 
+# Supongo que nos darán los resultados mañana.
+# I guess we'll get the results tomorrow.
+# 
+# Probablemente saldré de hospital mañana.
+# I will probably leave the hospital tomorrow.
+# 
+# Probablemente iremos a verte el domingo, Roni.
+# We'll probably come to see you on Sunday, Roni.
+# 
+# Seguramente el Ayuntamiento convocará oposiciones este mismo mes.
+# Surely the City Council will call competitive examinations this month.
+# 
+# Os quedaréis toda la semana hasta las ocho.
+# You will stay the whole week until eight o'clock.
+# 
+# Y tú, ¿qué le has reglado a él?
+# And you, what did you give him.
+# 
+# Dice Luisa que los bombones son solo para ella. ¡Será egoísta!
+# Luisa says chocolates are just for her. She'll be selfish!
+# 
+# Mañana no voy a clase. 
+# I'm not going to class tomorrow. 
+# 
+# ¡Tú verás! El examen es dentro de dos semanas.
+# You'll see! The exam is in two weeks.
+# 
+# Hace mucho frío. Probablemente estaremos bajo cero.
+# It's very cold. We'll probably be below zero.
+# 
+# Ese piso costará una barbaridad. Tiene 400 metros cuadrados.
+# That floor is going to cost a lot of money. It's 400 square meters.
+# 
+# No ha venido Rodriguez. Tendrá gripe.
+# Rodriguez is not here. He'll have the flu.
+# 
+# Está todo cerrado. Aquí no hay nadie. Estarán de vacaciones.
+# It's all closed. There's no one here. They'll be on vacation.
+# 
+# Francisco es muy listo, pero no consigue acabar la carrera.
+# Francisco is very smart, but he can't finish the race.
+# 
+# Julia no conduce muy bien. No conducirá bien, pero no ha tenido nunca un accidente.
+# Julia doesn't drive very well. She won't drive well, but she's never had an accident.
+# 
+# Valverde puede ganar la carrera. Podrá, pero no tiene muchas posibilidades. Contador está mucho mejor situado.
+# Valverde can win the race. He can, but he doesn't have much chance. Contador is much better off.
+# 
+# Creo que este partido lo va a ganar Alemania. Ganarán, pero no están jugando bien.
+# I think Germany will win this match. They will win, but they are not playing well.
+# 
+# Voy a pedirle a mi suegro el coche. ¡No tendrás valor!
+# I'm going to ask my father-in-law for the car. You won't have any courage!
+# 
+# Voy a pedirle a Clara que se case conmigo. ¡No lo dirás en serio!
+# I'm going to ask Clara to marry me. You can't be serious!
+# 
+# ¿Viste a Laura en la fiesta? Sí, ¿y querrás creer que ni me saludó?
+# Did you see Laura at the party? Yes, and you want to believe that she didn't even greet me?
+# 
+# La vida está muy cara. ¡Si lo sabré yo, que no llego nunca a fin de mes!
+# Life is very expensive, I'll know, I'll never make it to the end of the month!
+# 
+# La vida está muy cara. ¡No lo sabré yo!
+# Life is very expensive. I won't know!
+# 
+# Esos nunca saludan. ¡Si los conoceremos! Son unos maleducados!
+# They never say hello, we will know them! They're rude!
+# 
+# ¿Cuándo viene el fontanero? ¡Luis sabrá! Él cogió el teléfono.
+# When's the plumber coming? Luis will know! He picked up the phone.
+# 
+# Prefieren venir mañana. Ellos sabrán, pero a lo mejor mañana no estoy yo.
+# They prefer to come tomorrow. They'll know, but maybe tomorrow I'm not here.
+# 
+# No me interesa ese empleo. Tú verás, pero a lo mejor no te sale otro.
+# I'm not interested in that job. You'll see, but maybe you won't get another one.
+# 
+# En diciembre, ya habrá nacido el niño.
+# In December, the child will be born.
+# 
+# Cuando vengáis, habré arreglado toda la casa.
+# When you come, I will have fixed the whole house.
+# 
+# No te preocupes. Dentro de unos años ya habrás olvido todo.
+# Don't worry. In a few years you will have forgotten everything.
+# 
+# En 2040 todavía no habremos pagado el piso.
+# In 2040 we will still not have paid for the flat.
+# 
+# Arturo está de mal humor. Habrá tenido problemas en la oficina.
+# Arthur is in a bad mood. He must have had problems in the office.
+# 
+# Hace mucho viento. Supongo que habrás cerrado bien las ventanas del salón.
+# It's very windy. I suppose you've closed the living room windows well.
+# 
+# ¿Quién habrá roto la puerta?
+# Who broke the door?
+# 
+# El suelo está muy mojado. Habrá llovido.
+# The floor is very wet. It must have rained.
+# 
+# He adelgazado cinco kilos.
+# I lost five kilos.
+# 
+# Habrás adelgazado pero no se nota mucho.
+# You may have lost some weight, but you can't tell.
+# 
+# Pobre Julian. Ha estudiado mucho.
+# Poor Julian. He has studied a lot.
+# 
+# Habrá estudiado mucho, pero le han puesto un uno en el examen.
+# He must have studied a lot, but they put one in the exam.
+# 
+# ¿No me habré olvidado de nada?
+# Didn't I forget anything?
+# 
+# Creo que no me he olvidado de nada.
+# I don't think I've forgotten anything.
+# 
+# ¿No te habrá engañado Sonia en lo del piso?
+# Didn't Sonia fool you about the flat?
+# 
+# Le he pedido el coche a mi suegro. ¿No habrás tenido el valor?
+# I asked my father-in-law for the car. Didn't you have the courage?
+# 
+# Raúl, me ha desaparecido dinero de la cartera. ¿No habrás pensado que he sido yo?
+# Raúl, money has disappeared from my wallet. You didn't think it was me?
+# 
+# Habréis vacunado el perro, ¿no? Si no, no entro.
+# You vaccinated the dog, didn't you? If not, I don't go in.
+# 
+# Habrás echado el cerrojo, Blanca. Ya no volvemos hasta el lunes.
+# You must have locked the door, Blanca. We won't be back until Monday.
+# 
+# ¿Que no conoces esa tienda? ¡Habrás pasado veces por esa calle!
+# You don't know that shop? You must have walked down that street!
+# 
+# Roberto ha tenido un accidente con la moto. Sabía que pasaría. ¡No se lo habré advertido yo veces!
+# Roberto had a motorcycle accident. I knew it would happen. I didn't warn him sometimes!
+# 
+# ¿Qué no conoces a Ángel? ¡Lo habrás visto lo menos diez veces!
+# Don't you know Angel? You've seen him at least ten times!
+# 
+# No he estado nunca en casa de Jorge. ¡Bueno! ¡Si habrás estado veces tú allí!
+# I've never been to Jorge's house. Well, you've been there before!
+# 
+# Prepararé la cena cuando regreses de clase.
+# I'll make dinner when you get back from class.
+# 
+# Cuando lleguemos a Santiago, habremos recorrido más de quinientos kilómetros.
+# By the time we get to Santiago, we will have covered more than five hundred kilometers.
+# 
+# Creo que acabaré la carrera dentro de dos años.
+# I think I'll finish the race in two years.
+# 
+# El año que viene arreglaré la casa.
+# Next year I will fix the house.
+# 
+# Cuando vengas, te daré los regalos.
+# When you come, I'll give you the presents.
+# 
+# Cuando mi hermano empiece la universidad, yo ya habré acabado la carrera.
+# When my brother starts college, I'll have finished my degree.
+# 
+# El año que viene habré arreglado la casa.
+# Next year I will have fixed the house.
+# 
+# Cuando vengas, ya habremos dado los regalos.
+# When you come, we'll have given the presents.
+# 
+# Eva dice que no puede salir mañana.
+# Eva says she can't leave tomorrow.
+# 
+# Tendrá problemas con sus padres.
+# She will have problems with her parents.
+# 
+# ¡Qué frío hace! Habrá nevado en la sierra.
+# It's cold in here! It must have snowed in the mountains.
+# 
+# Marcos no ha podido abrir el restaurante.
+# Marcos has not been able to open the restaurant.
+# 
+# Habrá tenido problemas.
+# He must have had problems.
+# 
+# Sofía es muy guapa. Será guapa, pero es muy antipática.
+# Sofia is very pretty. She may be pretty, but she's very unpleasant.
+# 
+# ¡Vamos a ganar! Ganaréis, pero sois muy malos.
+# We're going to win! You will win, but you are very bad.
+# 
+# He trabajado mucho en mi vida. Habrás trabajado mucho, pero...
+# I've worked a lot in my life. You must have worked a lot, but...
+# 
+# El Colo Colo ha ganado. Habrán ganado, pero han jugado muy mal.
+# The Colo Colo has won. They will have won, but they have played very badly.
+# 
+# Luisa no quiere salir con nosotras.
+# Luisa doesn't want to go out with us.
+# 
+# ¡Será antipática!
+# She will be unpleasant!
+# 
+# Voy a pedirle aumento de sueldo al director. ¡No serás capaz!
+# I'm going to ask the director for a salary increase. You won't be able to!
+# 
+# Me han cogido 50 euros de la caja. ¿No habrás sido tú?
+# I got 50 euros from the box. You didn't do it?
+# 
 Le he pedido aumento de sueldo a don Matías. ¡No habrás sido capaz!
 I asked Don Matías for a raise. You couldn't have done it!
 
