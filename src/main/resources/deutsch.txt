@@ -8098,6 +8098,12 @@
 # Sehen Sie das Haus? Ja, das Haus ist dort.
 # Do you see the house? Yes, the house is there.
 # 
+Hast du schon darüber nachgedacht, ob du morgen kommst? Ja. Und? Ich überlege noch.
+Did you already think about/give it some thoughts, if you're going to come tomorrow? Yes. And? I am still pondering/in the process of deciding
+
+Hast du dir schon überlegt, ob du morgen kommst? Nein. Dann denk mal darüber nach.
+Did you already think about/decided, whether you're going to come tomorrow? No. Then think about it/give it some thoughts.
+
 Ich gehe nach links. Rechts. Oben. Unten.
 I’m going left/right/up/down.
 

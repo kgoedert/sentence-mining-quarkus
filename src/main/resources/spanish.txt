@@ -9898,6 +9898,9 @@
 # Me han cogido 50 euros de la caja. ¿No habrás sido tú?
 # I got 50 euros from the box. You didn't do it?
 # 
+Los ladrones asaltaron al portero, quien acababa de abrir la puerta del edificio.
+The thieves assaulted the doorman, who had just opened the door to the building. 
+
 Le he pedido aumento de sueldo a don Matías. ¡No habrás sido capaz!
 I asked Don Matías for a raise. You couldn't have done it!
 
