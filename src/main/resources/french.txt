@@ -11696,11 +11696,29 @@
 # Elle avait fini de dîner, quand il a appelé.
 # She'd finished dinner when he called.
 # 
+Je dois lire un livre pour l'école, mais il est si ennuyeux!
+I have to read a book for school, but it is so boring!
+
+Vous adorez bien son style
+You love her style
+
+Quand je suis rentré à la pièce, un homme jouait de la guitare.
+When I entered the room, a man was playing the guitar.
+
+Elle est constamment en train d'écouter de la musique, même quand elle lit.
+She's constantly listening to music, even when she reads.
+
+Quand je m'entraîne à la salle, j'utilise des poids pour dessiner mes muscles.
+When I work out at the gym, I use free weights to define my muscles.
+
+Mais pour la majorité de gens, le petit-déjeuner reste le repas le plus important de la journée.
+But for the majority of people, breakfast is still the most important meal of the day.
+
 Nous avions étudié le français, avant de partir en France l'année dernière.
 We had already studied french before going to France last year.
 
 Vous voulez la monnaie pour dix euros?
-Do you want change for ten euros?
+Do you want change for ten euros? 
 
 Elle a la monnaie pour dix euros?
 Does she have change for ten euros?
