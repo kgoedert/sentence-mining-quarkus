@@ -8398,6 +8398,9 @@
 # Die Schwestern sehen es. 
 # The sisters see it.
 # 
+Dieser Wein kommt aus Südafrika.
+This wine is from South Africa.
+
 Die Brüder sehen uns. 
 The brothers see us.
 
