@@ -8398,6 +8398,126 @@
 # Die Schwestern sehen es. 
 # The sisters see it.
 # 
+Ich komme aus Berlin.
+I am from Berlin.
+
+Haben Sie Zeit?
+Do you have time? - formal
+
+Haben Sie heute Zeit?
+Do you have time today? - formal
+
+Haben Sie heute Abend Zeit?
+Do you have time tonight?
+
+Haben Sie Kinder?
+Do you have kids?
+
+Hast du Haustiere?
+Do you have pets?
+
+Habt ihr Fragen?
+Do you guys have questions?
+
+Haben Sie Berufserfahrung?
+Do you have professional experience?
+
+Hast du Geschwister?
+Do you have siblings?
+
+Haben Sie Fieber?
+Do you have a fever? - formal
+
+Hast du Geld?
+Do you have money? - inf
+
+Haben Sie Deutschkenntnisse?
+Do you have knowledge of german? - formal
+
+Haben Sie Kopfschmerzen?
+Do you have a headache? - formal
+
+Hast du einen Stift?
+Do you have a pen? - inf
+
+Hast du Kaugummis?
+Do you have a gum? - inf
+
+Habt ihr alles?
+Do you guys have everything?
+
+Hast du Angst?
+Are you afraid? - inf
+
+Haben Sie Kleingeld?
+Do you have change? - formal
+
+Haben Sie Enkelkinder?
+Do you have grandchildren? - formal
+
+Haben Sie Sonnenmilch?
+Do you have sunscreen? - formal
+
+Hast du die Unterlagen?
+Do you have the documents? - inf
+
+Haben Sie Durst?
+Are you thirsty? - formal
+
+Habt ihr Hunger?
+Are you guys hungry? - inf
+
+Haben Sie ein Doppelzimmer frei?
+Do you have a double room available? - formal
+
+Haben Sie ein Einzelzimmer frei?
+Do you have a single room available? - formal
+
+Haben Sie einen Termin?
+Do you have an appointment? - formal
+
+Haben Sie eine Kundenkarte?
+Do you have a customer card?
+
+Haben Sie einen Führerschein?
+Do you have a driver's livcense? - formal
+
+Haben Sie Allergien?
+Do you have allergies? - formal
+
+Haben Sie Ihren Personalausweis dabei?
+Do you have your ID with you? - formal
+
+Haben Sie eine Adresse?
+Do you have an address? - formal
+
+Hast du ein Problem?
+Do you have a problem? - inf
+
+Haben Sie eine Krankenversicherung?
+Do you have health insurance? - formal
+
+Haben Sie französischen Wein?
+Do you have frech wine? - formal
+
+Haben Sie hobbys?
+Do you have hobbies? - formal
+
+Haben Sie Bekannte in Deutschland?
+Do you have friends in Germany? - formal
+
+Haben Sie eine Kreditkarte?
+Do you have a credit card? - formal
+
+Hast du viel Freizeit?
+Do you have a lot of free time? - inf
+
+Hast du Fahrpraxis?
+Do you have driving experience?
+
+Habt ihr Verwandte in Deutschland?
+Do you guys have relatives in Germany? 
+
 Dieser Wein kommt aus Südafrika.
 This wine is from South Africa.
 
