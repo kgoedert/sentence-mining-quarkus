@@ -8392,309 +8392,312 @@
 # Sie sieht ihn. 
 # She sees him.
 # 
-# Er sieht sie. 
-# He sees her.
+# # Er sieht sie. 
+# # He sees her.
+# # 
+# # Die Schwestern sehen es. 
+# # The sisters see it.
+# # 
+# Sie geht noch zur Schule. 
+# Sie still goes to school.(institution)
 # 
-# Die Schwestern sehen es. 
-# The sisters see it.
+# Ich war zu Hause.
+# I was at home.
 # 
-Ich war zu Hause.
-I was at home.
-
-Ich war gestern zu Hause.
-I was at home yesterday.
-
-Ich war gestern nicht zu Hause.
-I was not at home yesterday.
-
-Warst du gestern zu Hause?
-Were you at home yesterday?
-
-Waren Sie gestern zu Hause?
-Were you at home yesterday? - formal
-
-Richard war gestern auf der Arbeit.
-Richard was at work yesterday.
-
-Susanne war gestern nicht auf der Arbeit.
-Susanne was not at work yesterday.
-
-Warst du gestern im Buro?
-Were you at the office yesterday? - inf
-
-Waren Sie gestern im Buro?
-Were you at the office yesterday?
-
-Wo warst du?
-Where were you? - inf
-
-Wo waren Sie?
-Where were you? -  formal
-
-Wo waren Sie gestern?
-Where were you yesterday? - formal
-
-Wir waren im Urlaub.
-We were on vacation.
-
-Wir waren in der Schweiz.
-We were in Switzerland.
-
-Wir waren in Deutschland.
-We were in Germany.
-
-Warst du allein?
-Were you alone? - inf
-
-War er alleine?
-Was he alone?
-
-Sie war gestern nicht da.
-She was not there yesterday.
-
-Waren Sie gestern da?
-Were you there yesterday? - formal
-
-Ich war krank
-I was sick.
-
-Ich war beim Arzt.
-I was at the doctor.
-
-Ich war bei meiner Tante.
-I was at my aunt's.
-
-Ich war gestern bei meiner Tante.
-I was at my aunt's yesterday.
-
-Ich war im Auto.
-I was in the car.
-
-Er war im Zug.
-He was in the train.
-
-Sabine war in der U-Bahn.
-Sabine was in the subway.
-
-Sie war im Krankenhaus.
-She was in the hospital.
-
-Wir waren in im Supermarkt.
-We were in the supermarket.
-
-Er war im Fitnessstudio.
-He was at the gym.
-
-Herr Schmidt war auf Dienstreise.
-Mr Schmidt was on a business trip.
-
-Herr Schmidt war auf Geschäftsreise.
-Mr Schmidt was on a business trip.
-
-Ich komme aus Berlin.
-I am from Berlin.
-
-Haben Sie Zeit?
-Do you have time? - formal
-
-Haben Sie heute Zeit?
-Do you have time today? - formal
-
-Haben Sie heute Abend Zeit?
-Do you have time tonight?
-
-Haben Sie Kinder?
-Do you have kids?
-
-Hast du Haustiere?
-Do you have pets?
-
-Habt ihr Fragen?
-Do you guys have questions?
-
-Haben Sie Berufserfahrung?
-Do you have professional experience?
-
-Hast du Geschwister?
-Do you have siblings?
-
-Haben Sie Fieber?
-Do you have a fever? - formal
-
-Hast du Geld?
-Do you have money? - inf
-
-Haben Sie Deutschkenntnisse?
-Do you have knowledge of german? - formal
-
-Haben Sie Kopfschmerzen?
-Do you have a headache? - formal
-
-Hast du einen Stift?
-Do you have a pen? - inf
-
-Hast du Kaugummis?
-Do you have a gum? - inf
-
-Habt ihr alles?
-Do you guys have everything?
-
-Hast du Angst?
-Are you afraid? - inf
-
-Haben Sie Kleingeld?
-Do you have change? - formal
-
-Haben Sie Enkelkinder?
-Do you have grandchildren? - formal
-
-Haben Sie Sonnenmilch?
-Do you have sunscreen? - formal
-
-Hast du die Unterlagen?
-Do you have the documents? - inf
-
-Haben Sie Durst?
-Are you thirsty? - formal
-
-Habt ihr Hunger?
-Are you guys hungry? - inf
-
-Haben Sie ein Doppelzimmer frei?
-Do you have a double room available? - formal
-
-Haben Sie ein Einzelzimmer frei?
-Do you have a single room available? - formal
-
-Haben Sie einen Termin?
-Do you have an appointment? - formal
-
-Haben Sie eine Kundenkarte?
-Do you have a customer card?
-
-Haben Sie einen Führerschein?
-Do you have a driver's livcense? - formal
-
-Haben Sie Allergien?
-Do you have allergies? - formal
-
-Haben Sie Ihren Personalausweis dabei?
-Do you have your ID with you? - formal
-
-Haben Sie eine Adresse?
-Do you have an address? - formal
-
-Hast du ein Problem?
-Do you have a problem? - inf
-
-Haben Sie eine Krankenversicherung?
-Do you have health insurance? - formal
-
-Haben Sie französischen Wein?
-Do you have frech wine? - formal
-
-Haben Sie hobbys?
-Do you have hobbies? - formal
-
-Haben Sie Bekannte in Deutschland?
-Do you have friends in Germany? - formal
-
-Haben Sie eine Kreditkarte?
-Do you have a credit card? - formal
-
-Hast du viel Freizeit?
-Do you have a lot of free time? - inf
-
-Hast du Fahrpraxis?
-Do you have driving experience?
-
-Habt ihr Verwandte in Deutschland?
-Do you guys have relatives in Germany? 
-
-Dieser Wein kommt aus Südafrika.
-This wine is from South Africa.
-
-Die Brüder sehen uns. 
-The brothers see us.
-
-Ich sehe Sie. 
-I see you (formal).
-
-Ich sehe sie. 
-I see them.
-
-Er hat einen Job. 
-He has a job.
-
-Das ist ein richtiger Job. 
-That is a real job.
-
-Sie hat einen richtigen Job. 
-She has a real job.
-
-Ich habe eine Arbeit. 
-I have a job.
-
-Das ist eine richtige Arbeit. 
-That is a real job.
-
-Er hat eine richtige Arbeit. 
-He has a real job.
-
-Wir haben ein Ticket. 
-We have a ticket.
-
-Ich habe einen Bleistift.
-I have a pencil.
-
-Ich sehe einen Mann.
-I see a man.
-
-Ich sehe einen Zug.
-I see a train.
-
-Ich sehe ein Haus.
-I see a house.
-
-Ich sehe eine Frau.
-I see a woman.
-
-Ich sehe einen Wagen.
-I see a car.
-
-Ich sehe ein Hotel.
-I see a hotel.
-
-Hans verkauft ein Haus.
-Hans is selling a house.
-
-Hans verkauft einen Hund.
-Hans is selling a dog.
-
-Hans verkauft ein Auto.
-Hans sells a car.
-
-Hans verkauft einen Stuhl.
-Hans sells a chair.
-
-Hans verkauft ein Hemd.
-Hans sells a shirt.
-
-Hans verkauft eine Hose.
-Hans sells a pair of trousers.
-
-Hans verkauft ein Steak.
-Hans sells a steak.
-
-Hans verkauft eine Blume.
-Hans sells a flower.
-
-Hans verkauft ein Ticket. 
-Hans sells a ticket. 
-
-Katharina hört ein Auto.
-Katharina hears a car.
-
+# Ich war gestern zu Hause.
+# I was at home yesterday.
+# 
+# Ich war gestern nicht zu Hause.
+# I was not at home yesterday.
+# 
+# Warst du gestern zu Hause?
+# Were you at home yesterday?
+# 
+# Waren Sie gestern zu Hause?
+# Were you at home yesterday? - formal
+# 
+# Richard war gestern auf der Arbeit.
+# Richard was at work yesterday.
+# 
+# Susanne war gestern nicht auf der Arbeit.
+# Susanne was not at work yesterday.
+# 
+# Warst du gestern im Buro?
+# Were you at the office yesterday? - inf
+# 
+# Waren Sie gestern im Buro?
+# Were you at the office yesterday?
+# 
+# Wo warst du?
+# Where were you? - inf
+# 
+# Wo waren Sie?
+# Where were you? -  formal
+# 
+# Wo waren Sie gestern?
+# Where were you yesterday? - formal
+# 
+# Wir waren im Urlaub.
+# We were on vacation.
+# 
+# Wir waren in der Schweiz.
+# We were in Switzerland.
+# 
+# Wir waren in Deutschland.
+# We were in Germany.
+# 
+# Warst du allein?
+# Were you alone? - inf
+# 
+# War er alleine?
+# Was he alone?
+# 
+# Sie war gestern nicht da.
+# She was not there yesterday.
+# 
+# Waren Sie gestern da?
+# Were you there yesterday? - formal
+# 
+# Ich war krank
+# I was sick.
+# 
+# Ich war beim Arzt.
+# I was at the doctor.
+# 
+# Ich war bei meiner Tante.
+# I was at my aunt's.
+# 
+# Ich war gestern bei meiner Tante.
+# I was at my aunt's yesterday.
+# 
+# Ich war im Auto.
+# I was in the car.
+# 
+# Er war im Zug.
+# He was in the train.
+# 
+# Sabine war in der U-Bahn.
+# Sabine was in the subway.
+# 
+# Sie war im Krankenhaus.
+# She was in the hospital.
+# 
+# Wir waren in im Supermarkt.
+# We were in the supermarket.
+# 
+# Er war im Fitnessstudio.
+# He was at the gym.
+# 
+# Herr Schmidt war auf Dienstreise.
+# Mr Schmidt was on a business trip.
+# 
+# Herr Schmidt war auf Geschäftsreise.
+# Mr Schmidt was on a business trip.
+# 
+# Ich komme aus Berlin.
+# I am from Berlin.
+# 
+# Haben Sie Zeit?
+# Do you have time? - formal
+# 
+# Haben Sie heute Zeit?
+# Do you have time today? - formal
+# 
+# Haben Sie heute Abend Zeit?
+# Do you have time tonight?
+# 
+# Haben Sie Kinder?
+# Do you have kids?
+# 
+# Hast du Haustiere?
+# Do you have pets?
+# 
+# Habt ihr Fragen?
+# Do you guys have questions?
+# 
+# Haben Sie Berufserfahrung?
+# Do you have professional experience?
+# 
+# Hast du Geschwister?
+# Do you have siblings?
+# 
+# Haben Sie Fieber?
+# Do you have a fever? - formal
+# 
+# Hast du Geld?
+# Do you have money? - inf
+# 
+# Haben Sie Deutschkenntnisse?
+# Do you have knowledge of german? - formal
+# 
+# Haben Sie Kopfschmerzen?
+# Do you have a headache? - formal
+# 
+# Hast du einen Stift?
+# Do you have a pen? - inf
+# 
+# Hast du Kaugummis?
+# Do you have a gum? - inf
+# 
+# Habt ihr alles?
+# Do you guys have everything?
+# 
+# Hast du Angst?
+# Are you afraid? - inf
+# 
+# Haben Sie Kleingeld?
+# Do you have change? - formal
+# 
+# Haben Sie Enkelkinder?
+# Do you have grandchildren? - formal
+# 
+# Haben Sie Sonnenmilch?
+# Do you have sunscreen? - formal
+# 
+# Hast du die Unterlagen?
+# Do you have the documents? - inf
+# 
+# Haben Sie Durst?
+# Are you thirsty? - formal
+# 
+# Habt ihr Hunger?
+# Are you guys hungry? - inf
+# 
+# Haben Sie ein Doppelzimmer frei?
+# Do you have a double room available? - formal
+# 
+# Haben Sie ein Einzelzimmer frei?
+# Do you have a single room available? - formal
+# 
+# Haben Sie einen Termin?
+# Do you have an appointment? - formal
+# 
+# Haben Sie eine Kundenkarte?
+# Do you have a customer card?
+# 
+# Haben Sie einen Führerschein?
+# Do you have a driver's livcense? - formal
+# 
+# Haben Sie Allergien?
+# Do you have allergies? - formal
+# 
+# Haben Sie Ihren Personalausweis dabei?
+# Do you have your ID with you? - formal
+# 
+# Haben Sie eine Adresse?
+# Do you have an address? - formal
+# 
+# Hast du ein Problem?
+# Do you have a problem? - inf
+# 
+# Haben Sie eine Krankenversicherung?
+# Do you have health insurance? - formal
+# 
+# Haben Sie französischen Wein?
+# Do you have frech wine? - formal
+# 
+# Haben Sie hobbys?
+# Do you have hobbies? - formal
+# 
+# Haben Sie Bekannte in Deutschland?
+# Do you have friends in Germany? - formal
+# 
+# Haben Sie eine Kreditkarte?
+# Do you have a credit card? - formal
+# 
+# Hast du viel Freizeit?
+# Do you have a lot of free time? - inf
+# 
+# Hast du Fahrpraxis?
+# Do you have driving experience?
+# 
+# Habt ihr Verwandte in Deutschland?
+# Do you guys have relatives in Germany? 
+# 
+# Dieser Wein kommt aus Südafrika.
+# This wine is from South Africa.
+# 
+# Die Brüder sehen uns. 
+# The brothers see us.
+# 
+# Ich sehe Sie. 
+# I see you (formal).
+# 
+# Ich sehe sie. 
+# I see them.
+# 
+# Er hat einen Job. 
+# He has a job.
+# 
+# Das ist ein richtiger Job. 
+# That is a real job.
+# 
+# Sie hat einen richtigen Job. 
+# She has a real job.
+# 
+# Ich habe eine Arbeit. 
+# I have a job.
+# 
+# Das ist eine richtige Arbeit. 
+# That is a real job.
+# 
+# Er hat eine richtige Arbeit. 
+# He has a real job.
+# 
+# Wir haben ein Ticket. 
+# We have a ticket.
+# 
+# Ich habe einen Bleistift.
+# I have a pencil.
+# 
+# Ich sehe einen Mann.
+# I see a man.
+# 
+# Ich sehe einen Zug.
+# I see a train.
+# 
+# Ich sehe ein Haus.
+# I see a house.
+# 
+# Ich sehe eine Frau.
+# I see a woman.
+# 
+# Ich sehe einen Wagen.
+# I see a car.
+# 
+# Ich sehe ein Hotel.
+# I see a hotel.
+# 
+# Hans verkauft ein Haus.
+# Hans is selling a house.
+# 
+# Hans verkauft einen Hund.
+# Hans is selling a dog.
+# 
+# Hans verkauft ein Auto.
+# Hans sells a car.
+# 
+# Hans verkauft einen Stuhl.
+# Hans sells a chair.
+# 
+# Hans verkauft ein Hemd.
+# Hans sells a shirt.
+# 
+# Hans verkauft eine Hose.
+# Hans sells a pair of trousers.
+# 
+# Hans verkauft ein Steak.
+# Hans sells a steak.
+# 
+# Hans verkauft eine Blume.
+# Hans sells a flower.
+# 
+# Hans verkauft ein Ticket. 
+# Hans sells a ticket. 
+# 
+# Katharina hört ein Auto.
+# Katharina hears a car.
+# 
 Katharina hört einen Hund.
 Katharina hears a dog.
 
