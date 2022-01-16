@@ -9891,292 +9891,313 @@
 # 
 # ¡Será antipática!
 # She will be unpleasant!
+# # 
+# # Voy a pedirle aumento de sueldo al director. ¡No serás capaz!
+# # I'm going to ask the director for a salary increase. You won't be able to!
+# # 
+# # Me han cogido 50 euros de la caja. ¿No habrás sido tú?
+# # I got 50 euros from the box. You didn't do it?
+# # 
+# Dejaré aun si está lloviendo. 
+# I will leave even if it’s raining.
 # 
-# Voy a pedirle aumento de sueldo al director. ¡No serás capaz!
-# I'm going to ask the director for a salary increase. You won't be able to!
+# Élcanta en voz alta, aunque su vozno es muy grande. 
+# He sings loudly even if his voice is not great.
 # 
-# Me han cogido 50 euros de la caja. ¿No habrás sido tú?
-# I got 50 euros from the box. You didn't do it?
+# Ella quierebeber más, aun si yaestá borracho. 
+# She wants to drink more even if she’s already drunk.
 # 
-No te preocupes. Dentro de unos años ya habrás olvidado todo.
-Don't worry. In a few years you will have forgotten everything.
-
-Los ladrones asaltaron al portero, quien acababa de abrir la puerta del edificio.
-The thieves assaulted the doorman, who had just opened the door to the building. 
-
-Le he pedido aumento de sueldo a don Matías. ¡No habrás sido capaz!
-I asked Don Matías for a raise. You couldn't have done it!
-
-Sonia es bastante antipática. ¡Vaya! ¡Si lo sabré yo!
-Sonia is quite disagreeable. Wow, I'll know!
-
-¿Qué no sabes hacer una paella? Pero si habrás hecho miles en tu vida.
-Don't you know how to make a paella? But you've done thousands in your life.
-
-Estoy segura de que viviríamos más a gusto en el campo.
-I'm sure we'd live more comfortably in the country.
-
-Creo que estaría mejor con el pelo corto.
-I think it would be better with short hair.
-
-¿Qué harías en mi lugar? Yo que tú reduciría la velocidad.
-What would you do in my place? I'd slow down if I were you.
-
-Sería mejor que lo hicieras tú mismo.
-It would be better if you did it yourself.
-
-Deberías engordar un poco. Te veo muy delgado.
-You should gain some weight. You look very thin.
-
-Me gustaría dar la vuelta al mundo.
-I'd like to go around the world.
-
-Yo viviría en el extranjero, pero no puedo.
-I would live abroad, but I can't.
-
-¿Podría decirme dónde está la sección de ropa de niño?
-Could you tell me where the children's clothing section is?
-
-¿Le importaría mostrarme el carné de identidad?
-Would you mind showing me your identity card?
-
-Necesitaría algo de dinero para la compra. ¿Cuánto tienes tú?
-I would need some money to buy it. How much do you have?
-
-Podríamos llamar a Ana y Carlos.
-We could call Ana and Carlos.
-
-Rodolfo es un maleducado. Yo diría más bien que es un grosero.
-Rodolfo is rude. I'd rather say he's rude.
-
-Según las últimas noticias, el Partido Central sería el ganador de las elecciones.
-According to the latest news, the Central Party would be the winner of the elections.
-
-Al parecer, Lola sería enfermera.
-Apparently, Lola would be a nurse.
-
-Según Alfonso, Mercedes tendría más de cuarenta años.
-According to Alfonso, Mercedes would be more than forty years old.
-
-Esta mañana estaban agotados. Se acostarían tardísimo anoche.
-This morning they were exhausted. They would go to bed very late last night.
-
-Te llamé ayer y no cogiste el teléfono. Me estaría duchando.
-I called you yesterday and you didn't pick up the phone. I would be taking a shower.
-
-Ayer no vino Rodríguez. Tendría gripe.
-Rodriguez didn't come yesterday. I would have the flu.
-
-Mis hijos eran muy listos. Serían muy listos, pero ninguno acabó la carrera.
-My kids were smart. They would be very smart, but none of them finished the race.
-
-A mí no me importó que no nos invitara a su boda. A ti te daría igual, pero a mí no.
-I didn't care if he didn't invite us to his wedding. You wouldn't care, but I wouldn't.
-
-¿No pensarías que fui yo?
-You didn't think it was me?
-
-¿No echarías el cerrojo? No tengo la llave.
-Wouldn't you lock the door? I don't have the key.
-
-Nos casamos en 2008 y un año después nacería nuestra hija.
-We got married in 2008 and a year later our daughter would be born.
-
-Mi abuelo emigró a Caracas en 1930. Al año siguiente conocería a Matilde, su esposa, y ya se quedaría y moriría allí.
-My grandfather emigrated to Caracas in 1930. The following year he would meet Matilde, his wife, and he would stay and die there.
-
-Las cigüeñas vienen a España en primavera.
-The storks come to Spain during spring.
-
-Nunca pudimos hacerlo, pero estoy segura de que habríamos vivido más a gusto en el campo.
-We never could, but I'm sure we would have lived more comfortably in the countryside.
-
-De no haber sido por el piloto, habríamos muerto todos.
-If it hadn't been for the pilot, we would all have died.
-
-Con otro entrenador no habríamos ganado el partido.
-With another coach we wouldn't have won the match.
-
-No pude estudiar medicina, pero creo que habría sido un buen médico.
-I couldn't study medicine, but I think I would have made a good doctor.
-
-¡Qué elegante iba Elena! Sí, pero habría estado mejor con el pelo corto.
-How elegant Elena was! Yes, but I would have been better with short hair.
-
-Rosa ha aceptado el traslado a Seúl. Ha hecho bien. Yo también habría aceptado.
-Rosa has accepted the move to Seoul. She did well. I would have accepted too.
-
-Agustín ha vendido el coche por poco dinero. Ha hecho mal. Yo no habría vendido.
-Agustín has sold the car for little money. He did wrong. I wouldn't have sold.
-
-No pude evitar el accidente. No supe reaccionar. ¿Qué habrías hechos tú en mi lugar? Yo no habría reducido la velocidad antes.
-I couldn't avoid the accident. I didn't know how to react. What would you have done in my place? I wouldn't have slowed down before.
-
-¿Qué te ha pintado la casa? Está fatal. Habría sido mejor que lo hubieras hecho tú misma.
-What has the house painted for you? It's fatal. It would have been better if you had done it yourself.
-
-Me habría gustado dar la vuelta al mundo, pero nunca tuve ni tempo ni dinero.
-I would have liked to go around the world, but I never had time or money.
-
-Yo habría vivido en el extranjero, pero mi familia no quería irse de España.
-I would have lived abroad, but my family didn't want to leave Spain.
-
-Ayer el jefe estaba de mal humor. Habría tenido problemas con algún cliente.
-Yesterday the boss was in a bad mood. I would have had problems with a client.
-
-Vi a Julio y tenía toda la cara hinchada. Se habría dado un golpe.
-I saw Julio and his face was all puffy. He would have hit himself.
-
-Había estudiado mucho, pero se salió del examen a los diez minutos.
-He had studied a lot, but he left the exam after ten minutes...
-
-Según el comunicado, los atentados se habrían producido entre las dos y las tres da madrugada.
-According to the communiqué, the attacks would have taken place between two and three o'clock in the morning.
-
-Según la Agencia Nueva Voz, el Primer Ministro habría dimitido esta mañana.
-According to the New Voice Agency, the Prime Minister had resigned this morning.
-
-¿Me acompañas al súper? Te acompañaría, pero tengo que ir al dentista con mi madre.
-Will you walk me to the supermarket? I would go with you, but I have to go to the dentist with my mother.
-
-Ayer estuve en la ópera. ¿Por qué no me lo dijisteis? Te habría acompañado.
-Yesterday I was at the opera. Why didn't you tell me? I would have gone with you.
-
-No me gusta la ciudad. Viviríamos más a gusto en el campo. No tendríamos tanto estrés.
-I don't like the city. We would live more comfortably in the countryside. We wouldn't have so much stress.
-
-Vamos segundos, pero con otro entrenador, ganaríamos la Liga.
-We go second, but with another coach, we would win the League.
-
-¡Qué pena que no esté Lotta aquí! Practicaríamos mucho alemán.
-Too bad Lotta isn't here! We would practice a lot of German.
-
-Me gustaría dar la vuelta al mundo. Tiene que ser muy interesante.
-I'd like to go around the world. It has to be very interesting.
-
-Me vendría bien un aumento de sueldo. Me han subido la hipoteca.
-I could use a raise. My mortgage has been raised.
-
-Sería mejor que lo hicieras tú misma.
-It would be better if you did it yourself.
-
-Yo compraría este cuadro. Es una buena inversión.
-I would buy this painting. It's a good investment.
-
-Nunca pudimos hacerlo, pero habríamos vivido más a gusto en el campo. No habríamos tenido tanto estrés.
-We could never do it, but we would have lived more comfortably in the countryside. We wouldn't have had so much stress.
-
-Hemos terminado cuartos, pero con otro entrenador, habríamos ganado la Liga.
-We finished fourth, but with another coach, we would have won the league.
-
-¡Qué pena que no viniera Lotti! Habríamos practicado mucho alemán.
-What a pity that Lotti didn't come! We would have practiced a lot of German.
-
-Me habría gustado dar la vuelta al mundo, pero nunca tuve tiempo ni dinero para hacerlo.
-I would have liked to go around the world, but I never had the time or money to do it.
-
-Me habría venido muy bien un aumento de sueldo, pero el jefe ni quería hablar de ello.
-I could have used a raise, but the boss didn't even want to talk about it.
-
-Habría sido mejor que lo hubieras hecho tú.
-It would have been better if you had.
-
-Yo habría comprado el cuadro. Era una buena inversión.
-I would have bought the painting. It was a good investment.
-
-Según Antena 8, las elecciones se celebrarían dentro de dos meses.
-According to Antena 8, the elections would be held within two months.
-
-Según la policía, los asesinos serían delincuentes comunes.
-According to the police, the killers would be common criminals.
-
-Ayer no vino Luis. Estaría enfermo.
-Luis didn't come yesterday. He would be sick.
-
-Ana era muy educada de pequeña. Sería muy educada, pero no quería cuidarle nadie.
-Ana was very polite as a child. She would be very polite, but no one wanted to take care of her.
-
-Según Antena 8, el Presidente se lo habría comunicado al jefe de la Oposición hace una semana.
-According to Antena 8, the President told the head of the Opposition a week ago.
-
-Según la policía, los asesinos habrían sido detenidos cerca de la frontera.
-According to the police, the killers were arrested near the border.
-
-Cuando vino tenía toda la cara hinchada. Habría tenido un accidente.
-When he came, his face was all swollen. He would have had an accident.
-
-Adolfo conocía muy bien Egipto. Había vivido muchos años en El Cairo.
-Adolfo knew Egypt very well. He had lived in Cairo for many years.
-
-Habría vivido en El Cairo, pero no hablaba ni una palabra de árabe.
-He would have lived in Cairo, but he didn't speak a word of Arabic.
-
-Rut viste a los niños después de desayunar.
-Rut dresses the kids after having breakfast.
-
-¿Qué horas es, por favor?
-What time is it, please?
-
-Escuchad ahora. Luego tomáis notas.
-Listen now. Then you take notes.
-
-Llámame mañana. Estaré en casa.
-Call me tomorrow. I will be home.
-
-Aplique el champú con el pelo mojado.
-Apply shampoo with wet hair.
-
-No toque la herida con las manos sucias.
-Don't touch the wound with dirty hands.
-
-Portaos bien, niños. Si no, os llevo a casa.
-Behave yourselves, children. If not, I'll take you home.
-
-Salid de aquí inmediatamente.
-Get out of here immediately.
-
-Callaos. Va a empezar el concierto.
-Be quiet. The concert is about to begin.
-
-Ayúdame a tirar estas cajas.
-Help me throw these boxes away.
-
-Déjame algo de dinero hasta fin de mes.
-Leave me some money until the end of the month.
-
-Tomad un paco más de helado.
-Have one more paco of ice cream.
-
-Prueba estos bombones. Seguro que te gustan.
-Try these chocolates. I'm sure you like them.
-
-¿Podemos pasar? Sí, pasen.
-Can we come in? Yes, come in.
-
-Cámbiate la silla. Estarás más cómodo.
-Change your chair. You'll be more comfortable.
-
-No hagas caso a Andrés. Siempre está de broma.
-Don't listen to Andrés. He's always joking.
-
-Vuele con aertojet a cualquier rincón del mundo.
-Fly with aertojet to any corner of the world.
-
-No lo piense más. Bancomás le da más por su dinero.
-Don't think about it anymore. Bancomás gives you more for your money.
-
-No entre ahora, por favor. El doctor está ocupado.
-Do not enter now, please. The doctor is busy.
-
-Bebed, bebed. Si hay mucha leche.
-Drink, drink. If there is a lot of milk.
-
-¿Puedo preguntarle algo? Cómo no, pregunta, pregunta.
-May I ask you something? Of course, ask, ask.
-
-Callad, callad que llega el jefe.
-Shut up, shut up, the boss is coming.
-
+# Charle todavía se irá a casa esta noch. Charle aún se irá a casa esta noche.
+# Charlie will still go home tonight.
+# 
+# Jen todavía le gusta tomar leche. OR Jen aún le gusta tomar leche.
+# Jen still likes to drink milk.
+# 
+# Todavía te amaré. OR Aún te amaré.
+# I will still love you.
+# 
+# Todavía no había comenzado a nevar cuando ocurrió el accidente. OR Aún no había comenzado a nevar cuando ocurrió el accidente.
+# It hadn’t started snowing yet when the accident happened.
+# 
+# No te preocupes. Dentro de unos años ya habrás olvidado todo.
+# Don't worry. In a few years you will have forgotten everything.
+# 
+# Los ladrones asaltaron al portero, quien acababa de abrir la puerta del edificio.
+# The thieves assaulted the doorman, who had just opened the door to the building. 
+# 
+# Le he pedido aumento de sueldo a don Matías. ¡No habrás sido capaz!
+# I asked Don Matías for a raise. You couldn't have done it!
+# 
+# Sonia es bastante antipática. ¡Vaya! ¡Si lo sabré yo!
+# Sonia is quite disagreeable. Wow, I'll know!
+# 
+# ¿Qué no sabes hacer una paella? Pero si habrás hecho miles en tu vida.
+# Don't you know how to make a paella? But you've done thousands in your life.
+# 
+# Estoy segura de que viviríamos más a gusto en el campo.
+# I'm sure we'd live more comfortably in the country.
+# 
+# Creo que estaría mejor con el pelo corto.
+# I think it would be better with short hair.
+# 
+# ¿Qué harías en mi lugar? Yo que tú reduciría la velocidad.
+# What would you do in my place? I'd slow down if I were you.
+# 
+# Sería mejor que lo hicieras tú mismo.
+# It would be better if you did it yourself.
+# 
+# Deberías engordar un poco. Te veo muy delgado.
+# You should gain some weight. You look very thin.
+# 
+# Me gustaría dar la vuelta al mundo.
+# I'd like to go around the world.
+# 
+# Yo viviría en el extranjero, pero no puedo.
+# I would live abroad, but I can't.
+# 
+# ¿Podría decirme dónde está la sección de ropa de niño?
+# Could you tell me where the children's clothing section is?
+# 
+# ¿Le importaría mostrarme el carné de identidad?
+# Would you mind showing me your identity card?
+# 
+# Necesitaría algo de dinero para la compra. ¿Cuánto tienes tú?
+# I would need some money to buy it. How much do you have?
+# 
+# Podríamos llamar a Ana y Carlos.
+# We could call Ana and Carlos.
+# 
+# Rodolfo es un maleducado. Yo diría más bien que es un grosero.
+# Rodolfo is rude. I'd rather say he's rude.
+# 
+# Según las últimas noticias, el Partido Central sería el ganador de las elecciones.
+# According to the latest news, the Central Party would be the winner of the elections.
+# 
+# Al parecer, Lola sería enfermera.
+# Apparently, Lola would be a nurse.
+# 
+# Según Alfonso, Mercedes tendría más de cuarenta años.
+# According to Alfonso, Mercedes would be more than forty years old.
+# 
+# Esta mañana estaban agotados. Se acostarían tardísimo anoche.
+# This morning they were exhausted. They would go to bed very late last night.
+# 
+# Te llamé ayer y no cogiste el teléfono. Me estaría duchando.
+# I called you yesterday and you didn't pick up the phone. I would be taking a shower.
+# 
+# Ayer no vino Rodríguez. Tendría gripe.
+# Rodriguez didn't come yesterday. I would have the flu.
+# 
+# Mis hijos eran muy listos. Serían muy listos, pero ninguno acabó la carrera.
+# My kids were smart. They would be very smart, but none of them finished the race.
+# 
+# A mí no me importó que no nos invitara a su boda. A ti te daría igual, pero a mí no.
+# I didn't care if he didn't invite us to his wedding. You wouldn't care, but I wouldn't.
+# 
+# ¿No pensarías que fui yo?
+# You didn't think it was me?
+# 
+# ¿No echarías el cerrojo? No tengo la llave.
+# Wouldn't you lock the door? I don't have the key.
+# 
+# Nos casamos en 2008 y un año después nacería nuestra hija.
+# We got married in 2008 and a year later our daughter would be born.
+# 
+# Mi abuelo emigró a Caracas en 1930. Al año siguiente conocería a Matilde, su esposa, y ya se quedaría y moriría allí.
+# My grandfather emigrated to Caracas in 1930. The following year he would meet Matilde, his wife, and he would stay and die there.
+# 
+# Las cigüeñas vienen a España en primavera.
+# The storks come to Spain during spring.
+# 
+# Nunca pudimos hacerlo, pero estoy segura de que habríamos vivido más a gusto en el campo.
+# We never could, but I'm sure we would have lived more comfortably in the countryside.
+# 
+# De no haber sido por el piloto, habríamos muerto todos.
+# If it hadn't been for the pilot, we would all have died.
+# 
+# Con otro entrenador no habríamos ganado el partido.
+# With another coach we wouldn't have won the match.
+# 
+# No pude estudiar medicina, pero creo que habría sido un buen médico.
+# I couldn't study medicine, but I think I would have made a good doctor.
+# 
+# ¡Qué elegante iba Elena! Sí, pero habría estado mejor con el pelo corto.
+# How elegant Elena was! Yes, but I would have been better with short hair.
+# 
+# Rosa ha aceptado el traslado a Seúl. Ha hecho bien. Yo también habría aceptado.
+# Rosa has accepted the move to Seoul. She did well. I would have accepted too.
+# 
+# Agustín ha vendido el coche por poco dinero. Ha hecho mal. Yo no habría vendido.
+# Agustín has sold the car for little money. He did wrong. I wouldn't have sold.
+# 
+# No pude evitar el accidente. No supe reaccionar. ¿Qué habrías hechos tú en mi lugar? Yo no habría reducido la velocidad antes.
+# I couldn't avoid the accident. I didn't know how to react. What would you have done in my place? I wouldn't have slowed down before.
+# 
+# ¿Qué te ha pintado la casa? Está fatal. Habría sido mejor que lo hubieras hecho tú misma.
+# What has the house painted for you? It's fatal. It would have been better if you had done it yourself.
+# 
+# Me habría gustado dar la vuelta al mundo, pero nunca tuve ni tempo ni dinero.
+# I would have liked to go around the world, but I never had time or money.
+# 
+# Yo habría vivido en el extranjero, pero mi familia no quería irse de España.
+# I would have lived abroad, but my family didn't want to leave Spain.
+# 
+# Ayer el jefe estaba de mal humor. Habría tenido problemas con algún cliente.
+# Yesterday the boss was in a bad mood. I would have had problems with a client.
+# 
+# Vi a Julio y tenía toda la cara hinchada. Se habría dado un golpe.
+# I saw Julio and his face was all puffy. He would have hit himself.
+# 
+# Había estudiado mucho, pero se salió del examen a los diez minutos.
+# He had studied a lot, but he left the exam after ten minutes...
+# 
+# Según el comunicado, los atentados se habrían producido entre las dos y las tres da madrugada.
+# According to the communiqué, the attacks would have taken place between two and three o'clock in the morning.
+# 
+# Según la Agencia Nueva Voz, el Primer Ministro habría dimitido esta mañana.
+# According to the New Voice Agency, the Prime Minister had resigned this morning.
+# 
+# ¿Me acompañas al súper? Te acompañaría, pero tengo que ir al dentista con mi madre.
+# Will you walk me to the supermarket? I would go with you, but I have to go to the dentist with my mother.
+# 
+# Ayer estuve en la ópera. ¿Por qué no me lo dijisteis? Te habría acompañado.
+# Yesterday I was at the opera. Why didn't you tell me? I would have gone with you.
+# 
+# No me gusta la ciudad. Viviríamos más a gusto en el campo. No tendríamos tanto estrés.
+# I don't like the city. We would live more comfortably in the countryside. We wouldn't have so much stress.
+# 
+# Vamos segundos, pero con otro entrenador, ganaríamos la Liga.
+# We go second, but with another coach, we would win the League.
+# 
+# ¡Qué pena que no esté Lotta aquí! Practicaríamos mucho alemán.
+# Too bad Lotta isn't here! We would practice a lot of German.
+# 
+# Me gustaría dar la vuelta al mundo. Tiene que ser muy interesante.
+# I'd like to go around the world. It has to be very interesting.
+# 
+# Me vendría bien un aumento de sueldo. Me han subido la hipoteca.
+# I could use a raise. My mortgage has been raised.
+# 
+# Sería mejor que lo hicieras tú misma.
+# It would be better if you did it yourself.
+# 
+# Yo compraría este cuadro. Es una buena inversión.
+# I would buy this painting. It's a good investment.
+# 
+# Nunca pudimos hacerlo, pero habríamos vivido más a gusto en el campo. No habríamos tenido tanto estrés.
+# We could never do it, but we would have lived more comfortably in the countryside. We wouldn't have had so much stress.
+# 
+# Hemos terminado cuartos, pero con otro entrenador, habríamos ganado la Liga.
+# We finished fourth, but with another coach, we would have won the league.
+# 
+# ¡Qué pena que no viniera Lotti! Habríamos practicado mucho alemán.
+# What a pity that Lotti didn't come! We would have practiced a lot of German.
+# 
+# Me habría gustado dar la vuelta al mundo, pero nunca tuve tiempo ni dinero para hacerlo.
+# I would have liked to go around the world, but I never had the time or money to do it.
+# 
+# Me habría venido muy bien un aumento de sueldo, pero el jefe ni quería hablar de ello.
+# I could have used a raise, but the boss didn't even want to talk about it.
+# 
+# Habría sido mejor que lo hubieras hecho tú.
+# It would have been better if you had.
+# 
+# Yo habría comprado el cuadro. Era una buena inversión.
+# I would have bought the painting. It was a good investment.
+# 
+# Según Antena 8, las elecciones se celebrarían dentro de dos meses.
+# According to Antena 8, the elections would be held within two months.
+# 
+# Según la policía, los asesinos serían delincuentes comunes.
+# According to the police, the killers would be common criminals.
+# 
+# Ayer no vino Luis. Estaría enfermo.
+# Luis didn't come yesterday. He would be sick.
+# 
+# Ana era muy educada de pequeña. Sería muy educada, pero no quería cuidarle nadie.
+# Ana was very polite as a child. She would be very polite, but no one wanted to take care of her.
+# 
+# Según Antena 8, el Presidente se lo habría comunicado al jefe de la Oposición hace una semana.
+# According to Antena 8, the President told the head of the Opposition a week ago.
+# 
+# Según la policía, los asesinos habrían sido detenidos cerca de la frontera.
+# According to the police, the killers were arrested near the border.
+# 
+# Cuando vino tenía toda la cara hinchada. Habría tenido un accidente.
+# When he came, his face was all swollen. He would have had an accident.
+# 
+# Adolfo conocía muy bien Egipto. Había vivido muchos años en El Cairo.
+# Adolfo knew Egypt very well. He had lived in Cairo for many years.
+# 
+# Habría vivido en El Cairo, pero no hablaba ni una palabra de árabe.
+# He would have lived in Cairo, but he didn't speak a word of Arabic.
+# 
+# Rut viste a los niños después de desayunar.
+# Rut dresses the kids after having breakfast.
+# 
+# ¿Qué horas es, por favor?
+# What time is it, please?
+# 
+# Escuchad ahora. Luego tomáis notas.
+# Listen now. Then you take notes.
+# 
+# Llámame mañana. Estaré en casa.
+# Call me tomorrow. I will be home.
+# 
+# Aplique el champú con el pelo mojado.
+# Apply shampoo with wet hair.
+# 
+# No toque la herida con las manos sucias.
+# Don't touch the wound with dirty hands.
+# 
+# Portaos bien, niños. Si no, os llevo a casa.
+# Behave yourselves, children. If not, I'll take you home.
+# 
+# Salid de aquí inmediatamente.
+# Get out of here immediately.
+# 
+# Callaos. Va a empezar el concierto.
+# Be quiet. The concert is about to begin.
+# 
+# Ayúdame a tirar estas cajas.
+# Help me throw these boxes away.
+# 
+# Déjame algo de dinero hasta fin de mes.
+# Leave me some money until the end of the month.
+# 
+# Tomad un paco más de helado.
+# Have one more paco of ice cream.
+# 
+# Prueba estos bombones. Seguro que te gustan.
+# Try these chocolates. I'm sure you like them.
+# 
+# ¿Podemos pasar? Sí, pasen.
+# Can we come in? Yes, come in.
+# 
+# Cámbiate la silla. Estarás más cómodo.
+# Change your chair. You'll be more comfortable.
+# 
+# No hagas caso a Andrés. Siempre está de broma.
+# Don't listen to Andrés. He's always joking.
+# 
+# Vuele con aertojet a cualquier rincón del mundo.
+# Fly with aertojet to any corner of the world.
+# 
+# No lo piense más. Bancomás le da más por su dinero.
+# Don't think about it anymore. Bancomás gives you more for your money.
+# 
+# No entre ahora, por favor. El doctor está ocupado.
+# Do not enter now, please. The doctor is busy.
+# 
+# Bebed, bebed. Si hay mucha leche.
+# Drink, drink. If there is a lot of milk.
+# 
+# ¿Puedo preguntarle algo? Cómo no, pregunta, pregunta.
+# May I ask you something? Of course, ask, ask.
+# 
+# Callad, callad que llega el jefe.
+# Shut up, shut up, the boss is coming.
+# 
 Engrasa la cerradura y abrirás mejor.
 Grease the lock and you'll open it better.
 
