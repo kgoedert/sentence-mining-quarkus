@@ -8698,6 +8698,117 @@
 # Katharina hört ein Auto.
 # Katharina hears a car.
 # 
+Ich tanze gern.
+I like to dance.
+
+Ich spiele gern Basketball.
+I like to play basketball.
+
+Ich schwimme gern.
+I like to swim.
+
+Ich mache gern Urlaub.
+I like to go on vacation.
+
+Ich tauche gern.
+I like to dive.
+
+Ich gehe gern ins Kino.
+I like to go to the movies.
+
+Kochst du gern?
+Do you like cooking? - inf
+
+Tanzt du gern?
+Do you like to dance? - inf
+
+Schwimmst du gern?
+Do you like to swim? - inf
+
+Tauchen Sie gern?
+Do you like to dive? - formal
+
+Gehen Sie gern ins Kino?
+Do you like to go to the movies? - formal
+
+Gehen Sie gern zum Friseur?
+Do you like to go to the hairdresser? - formal
+
+Kommst du mit uns ins Kino? Nein, ich bleibe lieber zu Hause.
+Are you coming with us to the movies? No, I prefer to stay at home.
+
+Gehst du gern spazieren? Ja, Aber ich fahre lieber Fahrrad.
+Do you like to take walks? Yes, but I prefer riding a bike.
+
+Ich würde gerne mitkommen.
+I'd like to come along.
+
+Ich würde gerne Tennis spielen.
+I'd like to play tennis.
+
+Ich würde gerne schwimmen gehen.
+I'd like to go swimming.
+
+Ich würde gerne etwas essen.
+I'd like to eat something.
+
+Ich würde gerne etwas trinken.
+I'd like to drink something.
+
+Wir würden gerne in Urlaub fahren.
+We'd like to go on vacation.
+
+Wir würden gerne in die Karibik fliegen.
+We'd like to fly to the caribean.
+
+Er würde gerne Skiurlaub machen.
+He'd like to go on a ski vacation.
+
+Er würde gerne mit dir sprechen.
+He'd like to talk to you.
+
+Ich würde dich gerne besuchen.
+I'd like to visit you.
+
+Ich würde Ihnen gerne helfen.
+I'd like to help you.
+
+Ich würde gerne mit Kreditkarte bezahlen.
+I'd like to play with credit card.
+
+Ich würde gerne diese Schuhe anprobieren.
+I'd like to try on these shoes.
+
+Ich würde gerne ein Sparkonto eröffnen.
+I'd like to open a savings account.
+
+Ich würde gerne ein Doppelzimmer reservieren.
+I'd like to book a double room.
+
+Wir würden gerne ein Auto mieten.
+We'd like to rent a car.
+
+Ich würde gerne in einem groSen Unternehmen arbeiten.
+I'd like to work in a big company.
+
+Sabine würde gerne eine Weltreise machen.
+Sabine would like to go on a trip around the world.
+
+Sebastian würde gerne ein Auslandssemester machen.
+Sebastian would like to study abroad for one semester.
+
+Er würde gerne in Deutschland einen Job finden.
+He'd like to find a job in Germany.
+
+Sie würde gerne in Deutschland arbeiten.
+She'd like to work in Germany.
+
+Er würde gerne flieSend Deutsch sprechen.
+He'd like to speak german fluently.
+
+Ich würde gerne mehr Zeit mit dir verbringen.
+I'd like to spend more time wirh you. - inf
+
 Katharina hört einen Hund.
 Katharina hears a dog.
 
