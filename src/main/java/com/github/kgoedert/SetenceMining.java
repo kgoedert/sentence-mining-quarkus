@@ -196,7 +196,7 @@ public class SetenceMining implements QuarkusApplication {
 
             switch (args[1]) {
                 case "de":
-                    this.targetLanguage = Languages.German;
+                    this.targetLanguage = Languages.German_Germany;
                     break;
                 case "fr":
                     this.targetLanguage = Languages.French_France;
