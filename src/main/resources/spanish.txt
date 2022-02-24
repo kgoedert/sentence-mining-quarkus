@@ -10190,314 +10190,314 @@
 # Do not enter now, please. The doctor is busy.
 # 
 # Bebed, bebed. Si hay mucha leche.
-# Drink, drink. If there is a lot of milk.
+# # Drink, drink. If there is a lot of milk.
+# # 
+# # ¿Puedo preguntarle algo? Cómo no, pregunta, pregunta.
+# # May I ask you something? Of course, ask, ask.
+# # 
+# # Callad, callad que llega el jefe.
+# # Shut up, shut up, the boss is coming.
+# # 
+# Charle todavía se irá a casa esta noche. Charle aún se irá a casa esta noche.
+# Charlie will still go home tonight. Charlie will still go home tonight. 
 # 
-# ¿Puedo preguntarle algo? Cómo no, pregunta, pregunta.
-# May I ask you something? Of course, ask, ask.
+# Ella quiere beber más, aun si ya está borracha.
+# She wants to drink more even if she’s already drunk.
 # 
-# Callad, callad que llega el jefe.
-# Shut up, shut up, the boss is coming.
+# Engrasa la cerradura y abrirás mejor.
+# Grease the lock and you'll open it better.
 # 
-Charle todavía se irá a casa esta noche. Charle aún se irá a casa esta noche.
-Charlie will still go home tonight. Charlie will still go home tonight. 
-
-Ella quiere beber más, aun si ya está borracha.
-She wants to drink more even if she’s already drunk.
-
-Engrasa la cerradura y abrirás mejor.
-Grease the lock and you'll open it better.
-
-Estudiad más y aprobaréis.
-Study more and you will pass.
-
-No me hagas caso y verás.
-Don't listen to me and you'll see.
-
-Ven pronto o me marcho.
-Come soon or I'll leave.
-
-Cómete todo y te llevo al parque.
-Eat everything and I'll take you to the park.
-
-Toca eso y se lo digo a mamá.
-Touch that and I'll tell Mom.
-
-Guardad los libros ya.
-Put the books away now.
-
-Un momento. No los guardéis todavía.
-Wait a minute. Don't put them away yet.
-
-Hagamos una pausa. Estoy un poco cansado.
-Let's pause. I'm a little tired.
-
-Divirtámonos ahora que podemos.
-Let's have fun now that we can.
-
-No nos despidamos ahora.
-Let us not say goodbye now.
-
-Midamos la habitación.
-Let us measure the room.
-
-Durmamos un rato. Mañana tenemos un largo camino.
-Let us sleep for a while. Tomorrow we have a long way to go.
-
-Levantemos esta mesa.
-Let us raise this table.
-
-Digamos la verdad.
-Let's tell the truth.
-
-Levantémonos.
-Let's get up.
-
-Digámosela.
-Let's tell it.
-
-Ese bar es muy cutre. Vamos a otro.
-That bar is very lame. Let's go to another one.
-
-Tengo hambre. Vamos a comer.
-I'm hungry. Let's eat.
-
-Aquí hay muy mal ambiente. Vámonos.
-There's a very bad atmosphere here. Let's go.
-
-Pensemos un momento. No nos precipitemos. ¿Es mejor que vayamos en coche a pie?
-Let's think for a moment. Let's not be hasty. Is it better to go by car on foot?
-
-Salvemos las ballenas.
-Let's save the whales.
-
-Cuidemos del medioambiente.
-Let's take care of the environment.
-
-Sentémonos aquí un rato. Estoy cansado.
-Let's sit here for a while. I'm tired.
-
-La tortilla está caliente. Comámosla ahora.
-The tortilla is hot. Let's eat it now.
-
-Digámosles la verdad. Tienen que saberla.
-Let's tell them the truth. You have to know it.
-
-Les gusta nuestro coche. Vendámoselo.
-They like our car. Let's sell it to them.
-
-No nos pongamos nerviosos.
-Let's not get nervous.
-
-No le hagamos nada.
-Let's not do anything to him.
-
-No se lo demos.
-Let's not give it to them.
-
-Mira, creo que deberías cambiar tu actitud. Tienes que ser más amable.
-Look, I think you should change your attitude. You have to be nicer.
-
-Miren ustedes, a nosotros nos parece muy importante que no se fume en las reuniones.
-Look, we think it's very important not to smoke in meetings.
-
-No quiso ayudarnos, y mira, se arruinó completamente.
-He wouldn't help us, and look, it's completely ruined.
-
-¿Así que no estaba averiada la bañera? Pues miren, ahora han mojado el dormitorio.
-So the bathtub wasn't broken? Well, look, now you've wet the bedroom.
-
-El padre de Andrés criticaba mucho a mis hijos, y mire usted, el suyo no logró acabar la carrera.
-Andres' father was very critical of my children, and look at you, yours didn't finish the race.
-
-Mi hijo vuelve de Nueva York este sábado. Mire qué bien, doña Concha. Todos lo echábamos de menos.
-My son is coming back from New York this Saturday. Look how good, Doña Concha. We all missed him.
-
-Jorge ha acabado la carrera. Mira qué bien. Me alegro muchísimo.
-Jorge has finished the race. Look how good it is. I'm very happy.
-
-¡Increíble! Pablo está saliendo con Teresa. Mira qué bien.
-Unbelievable! Pablo is dating Teresa. Look how good it is.
-
-Mire que se lo he dicho. No puede usted salir solo.
-I told you. You can't go out alone.
-
-Mira que tenéis cara.
-You have a face.
-
-Mire que son ustedes exagerados.
-Look how exaggerated you are.
-
-Mira que sois cabezones. Ese armario no cabe por la puerta.
-Look how stubborn you are. That closet doesn't fit through the door.
-
-Mira que si nos toca la lotería.
-Look if we get the lottery.
-
-¡Qué casualidad! ¡Mire que si su señora fuera prima de mi vecina!
-What a coincidence! If your wife were my neighbor's cousin!
-
-Mire que si Emilia tiene algo grave. No quiero ni pensarlo.
-Look if Emilia has something serious. I don't even want to think about it.
-
-Mira que si hubiera sido Raúl el que ha tenido el accidente.
-Look, if it had been Raúl who had the accident.
-
-Mira que si Alicia gana el concurso.
-See if Alicia wins the contest.
-
-Oye, Alfredo. Avísame cuando llegue don Antonio.
-Hey, Alfredo. Let me know when Don Antonio arrives.
-
-Oiga, ¿Podría decirme dónde está el departamento de Historia de América?
-Hey, could you tell me where the Department of American History is?
-
-Oye, qué guapa estás con este sombrero.
-Hey, how beautiful you look in this hat.
-
-Oiga, este asiento está ocupado.
-Hey, this seat is taken.
-
-Por favor, baje el volumen de la televisión.
-Please turn the TV down.
-
-Oiga usted, en mi casa hago lo que quiero.
-Listen, in my house I do what I want.
-
-¡Oigan, aquí no se puede fumar!
-Hey, you can't smoke in here!
-
-Anda, pero si estás aquí. Creía que estabas en Italia.
-Come on, if you're here. I thought you were in Italy.
-
-Anda este tío. Se cree que es guapo.
-Look at this guy. He thinks he's handsome.
-
-¡Anda, pero si ya han inaugurado la nueva pizzeria!
-Come on, they've already inaugurated the new pizzeria!
-
-¡Anda, esta película ya la habíamos visto!
-Come on, we've seen this film before!
-
-¡Anda, cuánto han crecido tus plantas!
-Gosh, how your plants have grown!
-
-Déjame diez euros, anda.
-Leave me ten euros, come on.
-
-Anda. Acompañame a la farmacia.
-Go on. Take me to the pharmacy.
-
-Anda, llévame a los toros, Manuel.
-Go on, take me to the bulls, Manuel.
-
-Papá, apárcame el coche, anda.
-Dad, park my car, go on.
-
-Anda, mamá, déjame el coche.
-Come on, Mom, let me have the car.
-
-Se casa Lola. ¡Anda ya! Eso es imposible.
-Lola's getting married. Come on! That's impossible.
-
-Hemos visto a Almodóvar en el bar. ¿A Almodóvar? ¡Anda ya!
-We saw Almodóvar in the bar. Almodóvar? Come on!
-
-¿Que le has dejado el ordenador a Julian? ¡Anda que! Ya verás cómo te lo devuelve.
-You left Julian's computer? Come on! You'll see how he gives it back to you.
-
-Anda que si te espero, no llego nunca a casa.
-If I wait for you, I'll never get home.
-
-Anda que si llego a saberlo, no me molesto en traer helado. Tenéis de sobra.
-If I find out, I don't bother to bring ice cream. You've got plenty.
-
-Anda que si ganamos todos los partidos.
-Anda that if we win all the parties.
-
-Anda que no son listos.
-They're not clever.
-
-Anda que no tiene usted cara.
-Come on, you don't have a face.
-
-Venga. Podéis ganar.
-Come on. You can win.
-
-Venga, levántate. Son las diez.
-Come on, get up. It's ten o'clock.
-
-Mañana viene el Presidente. Sí, aquí va a venir. Venga ya.
-Tomorrow the President is coming. Yes, here he will come. Come on.
-
-¡Venga ya! Tú estás loco. El Santander no puede ganar esta liga.
-Come on! You're crazy. Santander can't win this league.
-
-¡Vamos, despierta ya!
-Come on, wake up now!
-
-Venga, María, que el partido es tuyo.
-Come on, Maria, the match is yours.
-
-Elena dice que tiene mucho trabajo. Vamos, que no quiere ayudarnos.
-Elena says she has a lot of work. Come on, she doesn't want to help us.
-
-No he ido nunca a ese museo, pero, vamos, sé dónde está.
-I've never been to that museum, but, come on, I know where it is.
-
-Y quería que yo lo pagara el viaje. ¡Vamos, hombre!
-And he wanted me to pay for the trip. Come on, man!
-
-Vamos, no me vas a decir que no sabes freír un ovo.
-Come on, you're not going to tell me you don't know how to fry an ovo.
-
-He tenido una vida intensa.
-I have had an intense life.
-
-El verano pasado una tormenta destruyó la iglesia del pueblo.
-Last summer a storm destroyed the church of the village.
-
-En Guatemala hay ruinas muy antigas.
-In Guatemala there are very ancient ruines.
-
-¡Vaya! Ahora no encuentro las gafas.
-Wow! Now I can't find the glasses.
-
-¡Vaya! No sabía que tuvieras tan mal genio.
-I didn't know you had such a bad temper.
-
-¡Vaya! Por fin venís a verme.
-Wow, you're finally coming to see me.
-
-¡Vaya hotel! Es estupendo.
-What a hotel! It's great.
-
-¡Vaya amigos! No estáis nunca cuando se os necesita.
-What friends! You're never around when you're needed.
-
-¡Vaya con la niña! Parecía buena.
-Vaya with the girl! She seemed good.
-
-¿Hace frío? Vaya si hace frío.
-Is it cold? It's cold.
-
-¿Y no le dijiste nada? Vaya si le dije.
-And you didn't say anything to her? Well, I told her.
-
-¿Quieres que comamos algo? ¡Vaya si quiero!
-Do you want us to eat something? Yes, I do!
-
-¡Te habrá gustado el regalo! ¡Fíjate! Era una pulsera de oro.
-You must have liked the present! Look at that! It was a gold bracelet.
-
-Fíjese, don Anselmo. Hemos encontrado el libro que usted tanto buscaba.
-Look at that, Don Anselmo. We found the book you were looking for so much.
-
-¿Te llamo Luisa? Sí, y fíjate, quería que le presentara al hermano de Manuel.
-Shall I call you Luisa? Yes, and look, I wanted you to meet Manuel's brother.
-
-A mí, fíjate, me llena mucho más el teatro que al cine.
-Look at me, theatre fills me much more than cinema.
-
+# Estudiad más y aprobaréis.
+# Study more and you will pass.
+# 
+# No me hagas caso y verás.
+# Don't listen to me and you'll see.
+# 
+# Ven pronto o me marcho.
+# Come soon or I'll leave.
+# 
+# Cómete todo y te llevo al parque.
+# Eat everything and I'll take you to the park.
+# 
+# Toca eso y se lo digo a mamá.
+# Touch that and I'll tell Mom.
+# 
+# Guardad los libros ya.
+# Put the books away now.
+# 
+# Un momento. No los guardéis todavía.
+# Wait a minute. Don't put them away yet.
+# 
+# Hagamos una pausa. Estoy un poco cansado.
+# Let's pause. I'm a little tired.
+# 
+# Divirtámonos ahora que podemos.
+# Let's have fun now that we can.
+# 
+# No nos despidamos ahora.
+# Let us not say goodbye now.
+# 
+# Midamos la habitación.
+# Let us measure the room.
+# 
+# Durmamos un rato. Mañana tenemos un largo camino.
+# Let us sleep for a while. Tomorrow we have a long way to go.
+# 
+# Levantemos esta mesa.
+# Let us raise this table.
+# 
+# Digamos la verdad.
+# Let's tell the truth.
+# 
+# Levantémonos.
+# Let's get up.
+# 
+# Digámosela.
+# Let's tell it.
+# 
+# Ese bar es muy cutre. Vamos a otro.
+# That bar is very lame. Let's go to another one.
+# 
+# Tengo hambre. Vamos a comer.
+# I'm hungry. Let's eat.
+# 
+# Aquí hay muy mal ambiente. Vámonos.
+# There's a very bad atmosphere here. Let's go.
+# 
+# Pensemos un momento. No nos precipitemos. ¿Es mejor que vayamos en coche a pie?
+# Let's think for a moment. Let's not be hasty. Is it better to go by car on foot?
+# 
+# Salvemos las ballenas.
+# Let's save the whales.
+# 
+# Cuidemos del medioambiente.
+# Let's take care of the environment.
+# 
+# Sentémonos aquí un rato. Estoy cansado.
+# Let's sit here for a while. I'm tired.
+# 
+# La tortilla está caliente. Comámosla ahora.
+# The tortilla is hot. Let's eat it now.
+# 
+# Digámosles la verdad. Tienen que saberla.
+# Let's tell them the truth. You have to know it.
+# 
+# Les gusta nuestro coche. Vendámoselo.
+# They like our car. Let's sell it to them.
+# 
+# No nos pongamos nerviosos.
+# Let's not get nervous.
+# 
+# No le hagamos nada.
+# Let's not do anything to him.
+# 
+# No se lo demos.
+# Let's not give it to them.
+# 
+# Mira, creo que deberías cambiar tu actitud. Tienes que ser más amable.
+# Look, I think you should change your attitude. You have to be nicer.
+# 
+# Miren ustedes, a nosotros nos parece muy importante que no se fume en las reuniones.
+# Look, we think it's very important not to smoke in meetings.
+# 
+# No quiso ayudarnos, y mira, se arruinó completamente.
+# He wouldn't help us, and look, it's completely ruined.
+# 
+# ¿Así que no estaba averiada la bañera? Pues miren, ahora han mojado el dormitorio.
+# So the bathtub wasn't broken? Well, look, now you've wet the bedroom.
+# 
+# El padre de Andrés criticaba mucho a mis hijos, y mire usted, el suyo no logró acabar la carrera.
+# Andres' father was very critical of my children, and look at you, yours didn't finish the race.
+# 
+# Mi hijo vuelve de Nueva York este sábado. Mire qué bien, doña Concha. Todos lo echábamos de menos.
+# My son is coming back from New York this Saturday. Look how good, Doña Concha. We all missed him.
+# 
+# Jorge ha acabado la carrera. Mira qué bien. Me alegro muchísimo.
+# Jorge has finished the race. Look how good it is. I'm very happy.
+# 
+# ¡Increíble! Pablo está saliendo con Teresa. Mira qué bien.
+# Unbelievable! Pablo is dating Teresa. Look how good it is.
+# 
+# Mire que se lo he dicho. No puede usted salir solo.
+# I told you. You can't go out alone.
+# 
+# Mira que tenéis cara.
+# You have a face.
+# 
+# Mire que son ustedes exagerados.
+# Look how exaggerated you are.
+# 
+# Mira que sois cabezones. Ese armario no cabe por la puerta.
+# Look how stubborn you are. That closet doesn't fit through the door.
+# 
+# Mira que si nos toca la lotería.
+# Look if we get the lottery.
+# 
+# ¡Qué casualidad! ¡Mire que si su señora fuera prima de mi vecina!
+# What a coincidence! If your wife were my neighbor's cousin!
+# 
+# Mire que si Emilia tiene algo grave. No quiero ni pensarlo.
+# Look if Emilia has something serious. I don't even want to think about it.
+# 
+# Mira que si hubiera sido Raúl el que ha tenido el accidente.
+# Look, if it had been Raúl who had the accident.
+# 
+# Mira que si Alicia gana el concurso.
+# See if Alicia wins the contest.
+# 
+# Oye, Alfredo. Avísame cuando llegue don Antonio.
+# Hey, Alfredo. Let me know when Don Antonio arrives.
+# 
+# Oiga, ¿Podría decirme dónde está el departamento de Historia de América?
+# Hey, could you tell me where the Department of American History is?
+# 
+# Oye, qué guapa estás con este sombrero.
+# Hey, how beautiful you look in this hat.
+# 
+# Oiga, este asiento está ocupado.
+# Hey, this seat is taken.
+# 
+# Por favor, baje el volumen de la televisión.
+# Please turn the TV down.
+# 
+# Oiga usted, en mi casa hago lo que quiero.
+# Listen, in my house I do what I want.
+# 
+# ¡Oigan, aquí no se puede fumar!
+# Hey, you can't smoke in here!
+# 
+# Anda, pero si estás aquí. Creía que estabas en Italia.
+# Come on, if you're here. I thought you were in Italy.
+# 
+# Anda este tío. Se cree que es guapo.
+# Look at this guy. He thinks he's handsome.
+# 
+# ¡Anda, pero si ya han inaugurado la nueva pizzeria!
+# Come on, they've already inaugurated the new pizzeria!
+# 
+# ¡Anda, esta película ya la habíamos visto!
+# Come on, we've seen this film before!
+# 
+# ¡Anda, cuánto han crecido tus plantas!
+# Gosh, how your plants have grown!
+# 
+# Déjame diez euros, anda.
+# Leave me ten euros, come on.
+# 
+# Anda. Acompañame a la farmacia.
+# Go on. Take me to the pharmacy.
+# 
+# Anda, llévame a los toros, Manuel.
+# Go on, take me to the bulls, Manuel.
+# 
+# Papá, apárcame el coche, anda.
+# Dad, park my car, go on.
+# 
+# Anda, mamá, déjame el coche.
+# Come on, Mom, let me have the car.
+# 
+# Se casa Lola. ¡Anda ya! Eso es imposible.
+# Lola's getting married. Come on! That's impossible.
+# 
+# Hemos visto a Almodóvar en el bar. ¿A Almodóvar? ¡Anda ya!
+# We saw Almodóvar in the bar. Almodóvar? Come on!
+# 
+# ¿Que le has dejado el ordenador a Julian? ¡Anda que! Ya verás cómo te lo devuelve.
+# You left Julian's computer? Come on! You'll see how he gives it back to you.
+# 
+# Anda que si te espero, no llego nunca a casa.
+# If I wait for you, I'll never get home.
+# 
+# Anda que si llego a saberlo, no me molesto en traer helado. Tenéis de sobra.
+# If I find out, I don't bother to bring ice cream. You've got plenty.
+# 
+# Anda que si ganamos todos los partidos.
+# Anda that if we win all the parties.
+# 
+# Anda que no son listos.
+# They're not clever.
+# 
+# Anda que no tiene usted cara.
+# Come on, you don't have a face.
+# 
+# Venga. Podéis ganar.
+# Come on. You can win.
+# 
+# Venga, levántate. Son las diez.
+# Come on, get up. It's ten o'clock.
+# 
+# Mañana viene el Presidente. Sí, aquí va a venir. Venga ya.
+# Tomorrow the President is coming. Yes, here he will come. Come on.
+# 
+# ¡Venga ya! Tú estás loco. El Santander no puede ganar esta liga.
+# Come on! You're crazy. Santander can't win this league.
+# 
+# ¡Vamos, despierta ya!
+# Come on, wake up now!
+# 
+# Venga, María, que el partido es tuyo.
+# Come on, Maria, the match is yours.
+# 
+# Elena dice que tiene mucho trabajo. Vamos, que no quiere ayudarnos.
+# Elena says she has a lot of work. Come on, she doesn't want to help us.
+# 
+# No he ido nunca a ese museo, pero, vamos, sé dónde está.
+# I've never been to that museum, but, come on, I know where it is.
+# 
+# Y quería que yo lo pagara el viaje. ¡Vamos, hombre!
+# And he wanted me to pay for the trip. Come on, man!
+# 
+# Vamos, no me vas a decir que no sabes freír un ovo.
+# Come on, you're not going to tell me you don't know how to fry an ovo.
+# 
+# He tenido una vida intensa.
+# I have had an intense life.
+# 
+# El verano pasado una tormenta destruyó la iglesia del pueblo.
+# Last summer a storm destroyed the church of the village.
+# 
+# En Guatemala hay ruinas muy antigas.
+# In Guatemala there are very ancient ruines.
+# 
+# ¡Vaya! Ahora no encuentro las gafas.
+# Wow! Now I can't find the glasses.
+# 
+# ¡Vaya! No sabía que tuvieras tan mal genio.
+# I didn't know you had such a bad temper.
+# 
+# ¡Vaya! Por fin venís a verme.
+# Wow, you're finally coming to see me.
+# 
+# ¡Vaya hotel! Es estupendo.
+# What a hotel! It's great.
+# 
+# ¡Vaya amigos! No estáis nunca cuando se os necesita.
+# What friends! You're never around when you're needed.
+# 
+# ¡Vaya con la niña! Parecía buena.
+# Vaya with the girl! She seemed good.
+# 
+# ¿Hace frío? Vaya si hace frío.
+# Is it cold? It's cold.
+# 
+# ¿Y no le dijiste nada? Vaya si le dije.
+# And you didn't say anything to her? Well, I told her.
+# 
+# ¿Quieres que comamos algo? ¡Vaya si quiero!
+# Do you want us to eat something? Yes, I do!
+# 
+# ¡Te habrá gustado el regalo! ¡Fíjate! Era una pulsera de oro.
+# You must have liked the present! Look at that! It was a gold bracelet.
+# 
+# Fíjese, don Anselmo. Hemos encontrado el libro que usted tanto buscaba.
+# Look at that, Don Anselmo. We found the book you were looking for so much.
+# 
+# ¿Te llamo Luisa? Sí, y fíjate, quería que le presentara al hermano de Manuel.
+# Shall I call you Luisa? Yes, and look, I wanted you to meet Manuel's brother.
+# 
+# A mí, fíjate, me llena mucho más el teatro que al cine.
+# Look at me, theatre fills me much more than cinema.
+# 
 Mi hermano no quiere prestarme dinero para la tienda. Date cuenta. Con todo lo que tiene.
 My brother doesn't want to lend me money for the store. Realize it. With everything he has.
 
