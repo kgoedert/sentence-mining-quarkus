@@ -8680,324 +8680,324 @@
 # Hans verkauft einen Stuhl.
 # Hans sells a chair.
 # 
-# Hans verkauft ein Hemd.
-# Hans sells a shirt.
+# # Hans verkauft ein Hemd.
+# # Hans sells a shirt.
+# # 
+# # Hans verkauft eine Hose.
+# # Hans sells a pair of trousers.
+# # 
+# # Hans verkauft ein Steak.
+# # Hans sells a steak.
+# # 
+# # Hans verkauft eine Blume.
+# # Hans sells a flower.
+# # 
+# # Hans verkauft ein Ticket. 
+# # Hans sells a ticket. 
+# # 
+# # Katharina hört ein Auto.
+# # Katharina hears a car.
+# # 
+# Ich tanze gern.
+# I like to dance.
 # 
-# Hans verkauft eine Hose.
-# Hans sells a pair of trousers.
+# Ich spiele gern Basketball.
+# I like to play basketball.
 # 
-# Hans verkauft ein Steak.
-# Hans sells a steak.
+# Ich schwimme gern.
+# I like to swim.
 # 
-# Hans verkauft eine Blume.
-# Hans sells a flower.
+# Ich mache gern Urlaub.
+# I like to go on vacation.
 # 
-# Hans verkauft ein Ticket. 
-# Hans sells a ticket. 
+# Ich tauche gern.
+# I like to dive.
 # 
-# Katharina hört ein Auto.
-# Katharina hears a car.
+# Ich gehe gern ins Kino.
+# I like to go to the movies.
 # 
-Ich tanze gern.
-I like to dance.
-
-Ich spiele gern Basketball.
-I like to play basketball.
-
-Ich schwimme gern.
-I like to swim.
-
-Ich mache gern Urlaub.
-I like to go on vacation.
-
-Ich tauche gern.
-I like to dive.
-
-Ich gehe gern ins Kino.
-I like to go to the movies.
-
-Kochst du gern?
-Do you like cooking? - inf
-
-Tanzt du gern?
-Do you like to dance? - inf
-
-Schwimmst du gern?
-Do you like to swim? - inf
-
-Tauchen Sie gern?
-Do you like to dive? - formal
-
-Gehen Sie gern ins Kino?
-Do you like to go to the movies? - formal
-
-Gehen Sie gern zum Friseur?
-Do you like to go to the hairdresser? - formal
-
-Kommst du mit uns ins Kino? Nein, ich bleibe lieber zu Hause.
-Are you coming with us to the movies? No, I prefer to stay at home.
-
-Gehst du gern spazieren? Ja, Aber ich fahre lieber Fahrrad.
-Do you like to take walks? Yes, but I prefer riding a bike.
-
-Ich würde gerne mitkommen.
-I'd like to come along.
-
-Ich würde gerne Tennis spielen.
-I'd like to play tennis.
-
-Ich würde gerne schwimmen gehen.
-I'd like to go swimming.
-
-Ich würde gerne etwas essen.
-I'd like to eat something.
-
-Ich würde gerne etwas trinken.
-I'd like to drink something.
-
-Wir würden gerne in Urlaub fahren.
-We'd like to go on vacation.
-
-Wir würden gerne in die Karibik fliegen.
-We'd like to fly to the caribean.
-
-Er würde gerne Skiurlaub machen.
-He'd like to go on a ski vacation.
-
-Er würde gerne mit dir sprechen.
-He'd like to talk to you.
-
-Ich würde dich gerne besuchen.
-I'd like to visit you.
-
-Ich würde Ihnen gerne helfen.
-I'd like to help you.
-
-Ich würde gerne mit Kreditkarte bezahlen.
-I'd like to play with credit card.
-
-Ich würde gerne diese Schuhe anprobieren.
-I'd like to try on these shoes.
-
-Ich würde gerne ein Sparkonto eröffnen.
-I'd like to open a savings account.
-
-Ich würde gerne ein Doppelzimmer reservieren.
-I'd like to book a double room.
-
-Wir würden gerne ein Auto mieten.
-We'd like to rent a car.
-
-Ich würde gerne in einem groSen Unternehmen arbeiten.
-I'd like to work in a big company.
-
-Sabine würde gerne eine Weltreise machen.
-Sabine would like to go on a trip around the world.
-
-Sebastian würde gerne ein Auslandssemester machen.
-Sebastian would like to study abroad for one semester.
-
-Er würde gerne in Deutschland einen Job finden.
-He'd like to find a job in Germany.
-
-Sie würde gerne in Deutschland arbeiten.
-She'd like to work in Germany.
-
-Er würde gerne flieSend Deutsch sprechen.
-He'd like to speak german fluently.
-
-Ich würde gerne mehr Zeit mit dir verbringen.
-I'd like to spend more time wirh you. - inf
-
-Katharina hört einen Hund.
-Katharina hears a dog.
-
-Katharina hört eine U-Bahn.
-Katharina hears a subway.
-
-Katharina hört einen Vogel.
-Katharina hears a bird.
-
-Katharina hört eine Katze.
-Katharina hears a cat.
-
-Katharina hört ein Pferd.
-Katharina hears a horse.
-
-Katharina hört einen Wagen.
-Katharina hears a carriage.
-
-Katharina hört eine S-Bahn.
-Katharina hears an S-Bahn.
-
-Katharina hört einen Zug.
-Katharina hears a train.
-
-Nein, es gibt nur ein Auto.
-No, there's only one car.
-
-Nein, es gibt nur einen Schlüssel.
-No, there is only one key.
-
-Nein, es gibt nur ein Messer.
-No, there is only one knife.
-
-Nein, es gibt nur eine Blume.
-No, there is only one flower.
-
-Nein, es gibt nur ein Kind.
-No, there is only one child.
-
-Nein, es gibt nur einen Stuhl.
-No, there is only one chair.
-
-Nein, es gibt nur eine Hose.
-No, there is only one pair of trousers.
-
-Nein, es gibt nur ein Haus.
-No, there is only one house.
-
-Nein, es gibt nur einen Stift.
-No, there is only one pen.
-
-Nein, es gibt nur eine S-Bahn Station.
-No, there is only one S-Bahn station.
-
-Nein, es gibt nur einen Tisch.
-No, there is only one table.
-
-Greta serviert einen Apfel.
-Greta serves an apple.
-
-Greta serviert eine Banane.
-Greta serves a banana.
-
-Greta serviert ein Steak.
-Greta serves a steak.
-
-Greta serviert eine Wurst.
-Greta serves a sausage.
-
-Greta serviert ein Sandwich.
-Greta serves a sandwich.
-
-Greta serviert eine Orange.
-Greta serves an orange.
-
-Greta serviert einen Hamburger.
-Greta serves a hamburger.
-
-Wir schneiden eine Pampelmuse.
-We cut a grapefruit.
-
-Wir schneiden ein Steak.
-We cut a steak.
-
-Wir schneiden eine Orange.
-We cut an orange.
-
-Wir schneiden ein Brot.
-We cut a bread.
-
-Wir schneiden einen Hamburger.
-We cut a hamburger.
-
-Wir schneiden eine Tomate.
-We cut a tomato.
-
-Wir schneiden ein Hähnchen.
-We cut a chicken.
-
-Jakob grillt eine Wurst.
-Jakob grills a sausage.
-
-Jakob grillt einen Hamburger.
-Jakob grills a hamburger.
-
-Jakob grillt ein Hähnchen.
-Jakob grills a chicken.
-
-Jakob grillt eine Tomate.
-Jakob grills a tomato.
-
-Jakob grillt ein Steak.
-Jakob grills a steak.
-
-Suchen Sie einen Stuhl?
-Looking for a chair?
-
-Suchen Sie eine Freundin?
-Are you looking for a girlfriend?
-
-Suchen Sie einen Schlüssel?
-Are you looking for a key?
-
-Suchen Sie eine Katze?
-Are you looking for a cat?
-
-Suchen Sie einen Vogel?
-Are you looking for a bird?
-
-Suchen Sie ein Haus?
-Are you looking for a house?
-
-Suchen Sie einen Mann?
-Are you looking for a man?
-
-Suchen Sie ein Hemd?
-Are you looking for a shirt?
-
-Suchen Sie einen Tisch?
-Are you looking for a table?
-
-Suchen Sie ein Kind?
-Are you looking for a child?
-
-Suchen Sie eine Frau?
-Are you looking for a woman?
-
-Suchen Sie einen Freund?
-Are you looking for a friend?
-
-Er verkauft das Steak. Er verkauft ein Steak.
-He's selling the steak. He sells a steak.
-
-Wir verkaufen das Auto. Wir verkaufen ein Auto.
-We sell the car. We sell a car.
-
-Sie verkauft den Stuhl. Sie verkauft einen Stuhl.
-She sells the chair. She sells a chair.
-
-Ich verkaufe die Hose. Ich verkaufe eine Hose.
-I sell the pants. I sell a pair of trousers.
-
-Sie verkauft das Haus. Sie verkauft ein Haus.
-She sells the house. She sells a house.
-
-Wir verkaufen den Hund. Wir verkaufen einen Hund.
-We sell the dog. We sell a dog.
-
-Er verkauft das Hemd. Er verkauft ein Hemd.
-He sells the shirt. He sells a shirt.
-
-Sie verkauft die Blume. Sie verkauft eine Blume.
-She sells the flower. She sells a flower.
-
-Wir verkaufen das Ticket. Wir verkaufen ein Ticket.
-We sell the ticket. We sell a ticket.
-
-Er hört einen Hund. Er hört den Hund.
-He hears a dog. He hears the dog.
-
-Sie hört einen Vogel. Sie hört den Vogel.
-She hears a bird. She hears the bird.
-
-Wir hören eine Katze. Wir hören die Katze.
-We hear a cat. We hear the cat.
-
-Ich höre ein Pferd. Ich höre das Pferd.
-I hear a horse. I hear the horse.
-
+# Kochst du gern?
+# Do you like cooking? - inf
+# 
+# Tanzt du gern?
+# Do you like to dance? - inf
+# 
+# Schwimmst du gern?
+# Do you like to swim? - inf
+# 
+# Tauchen Sie gern?
+# Do you like to dive? - formal
+# 
+# Gehen Sie gern ins Kino?
+# Do you like to go to the movies? - formal
+# 
+# Gehen Sie gern zum Friseur?
+# Do you like to go to the hairdresser? - formal
+# 
+# Kommst du mit uns ins Kino? Nein, ich bleibe lieber zu Hause.
+# Are you coming with us to the movies? No, I prefer to stay at home.
+# 
+# Gehst du gern spazieren? Ja, Aber ich fahre lieber Fahrrad.
+# Do you like to take walks? Yes, but I prefer riding a bike.
+# 
+# Ich würde gerne mitkommen.
+# I'd like to come along.
+# 
+# Ich würde gerne Tennis spielen.
+# I'd like to play tennis.
+# 
+# Ich würde gerne schwimmen gehen.
+# I'd like to go swimming.
+# 
+# Ich würde gerne etwas essen.
+# I'd like to eat something.
+# 
+# Ich würde gerne etwas trinken.
+# I'd like to drink something.
+# 
+# Wir würden gerne in Urlaub fahren.
+# We'd like to go on vacation.
+# 
+# Wir würden gerne in die Karibik fliegen.
+# We'd like to fly to the caribean.
+# 
+# Er würde gerne Skiurlaub machen.
+# He'd like to go on a ski vacation.
+# 
+# Er würde gerne mit dir sprechen.
+# He'd like to talk to you.
+# 
+# Ich würde dich gerne besuchen.
+# I'd like to visit you.
+# 
+# Ich würde Ihnen gerne helfen.
+# I'd like to help you.
+# 
+# Ich würde gerne mit Kreditkarte bezahlen.
+# I'd like to play with credit card.
+# 
+# Ich würde gerne diese Schuhe anprobieren.
+# I'd like to try on these shoes.
+# 
+# Ich würde gerne ein Sparkonto eröffnen.
+# I'd like to open a savings account.
+# 
+# Ich würde gerne ein Doppelzimmer reservieren.
+# I'd like to book a double room.
+# 
+# Wir würden gerne ein Auto mieten.
+# We'd like to rent a car.
+# 
+# Ich würde gerne in einem groSen Unternehmen arbeiten.
+# I'd like to work in a big company.
+# 
+# Sabine würde gerne eine Weltreise machen.
+# Sabine would like to go on a trip around the world.
+# 
+# Sebastian würde gerne ein Auslandssemester machen.
+# Sebastian would like to study abroad for one semester.
+# 
+# Er würde gerne in Deutschland einen Job finden.
+# He'd like to find a job in Germany.
+# 
+# Sie würde gerne in Deutschland arbeiten.
+# She'd like to work in Germany.
+# 
+# Er würde gerne flieSend Deutsch sprechen.
+# He'd like to speak german fluently.
+# 
+# Ich würde gerne mehr Zeit mit dir verbringen.
+# I'd like to spend more time wirh you. - inf
+# 
+# Katharina hört einen Hund.
+# Katharina hears a dog.
+# 
+# Katharina hört eine U-Bahn.
+# Katharina hears a subway.
+# 
+# Katharina hört einen Vogel.
+# Katharina hears a bird.
+# 
+# Katharina hört eine Katze.
+# Katharina hears a cat.
+# 
+# Katharina hört ein Pferd.
+# Katharina hears a horse.
+# 
+# Katharina hört einen Wagen.
+# Katharina hears a carriage.
+# 
+# Katharina hört eine S-Bahn.
+# Katharina hears an S-Bahn.
+# 
+# Katharina hört einen Zug.
+# Katharina hears a train.
+# 
+# Nein, es gibt nur ein Auto.
+# No, there's only one car.
+# 
+# Nein, es gibt nur einen Schlüssel.
+# No, there is only one key.
+# 
+# Nein, es gibt nur ein Messer.
+# No, there is only one knife.
+# 
+# Nein, es gibt nur eine Blume.
+# No, there is only one flower.
+# 
+# Nein, es gibt nur ein Kind.
+# No, there is only one child.
+# 
+# Nein, es gibt nur einen Stuhl.
+# No, there is only one chair.
+# 
+# Nein, es gibt nur eine Hose.
+# No, there is only one pair of trousers.
+# 
+# Nein, es gibt nur ein Haus.
+# No, there is only one house.
+# 
+# Nein, es gibt nur einen Stift.
+# No, there is only one pen.
+# 
+# Nein, es gibt nur eine S-Bahn Station.
+# No, there is only one S-Bahn station.
+# 
+# Nein, es gibt nur einen Tisch.
+# No, there is only one table.
+# 
+# Greta serviert einen Apfel.
+# Greta serves an apple.
+# 
+# Greta serviert eine Banane.
+# Greta serves a banana.
+# 
+# Greta serviert ein Steak.
+# Greta serves a steak.
+# 
+# Greta serviert eine Wurst.
+# Greta serves a sausage.
+# 
+# Greta serviert ein Sandwich.
+# Greta serves a sandwich.
+# 
+# Greta serviert eine Orange.
+# Greta serves an orange.
+# 
+# Greta serviert einen Hamburger.
+# Greta serves a hamburger.
+# 
+# Wir schneiden eine Pampelmuse.
+# We cut a grapefruit.
+# 
+# Wir schneiden ein Steak.
+# We cut a steak.
+# 
+# Wir schneiden eine Orange.
+# We cut an orange.
+# 
+# Wir schneiden ein Brot.
+# We cut a bread.
+# 
+# Wir schneiden einen Hamburger.
+# We cut a hamburger.
+# 
+# Wir schneiden eine Tomate.
+# We cut a tomato.
+# 
+# Wir schneiden ein Hähnchen.
+# We cut a chicken.
+# 
+# Jakob grillt eine Wurst.
+# Jakob grills a sausage.
+# 
+# Jakob grillt einen Hamburger.
+# Jakob grills a hamburger.
+# 
+# Jakob grillt ein Hähnchen.
+# Jakob grills a chicken.
+# 
+# Jakob grillt eine Tomate.
+# Jakob grills a tomato.
+# 
+# Jakob grillt ein Steak.
+# Jakob grills a steak.
+# 
+# Suchen Sie einen Stuhl?
+# Looking for a chair?
+# 
+# Suchen Sie eine Freundin?
+# Are you looking for a girlfriend?
+# 
+# Suchen Sie einen Schlüssel?
+# Are you looking for a key?
+# 
+# Suchen Sie eine Katze?
+# Are you looking for a cat?
+# 
+# Suchen Sie einen Vogel?
+# Are you looking for a bird?
+# 
+# Suchen Sie ein Haus?
+# Are you looking for a house?
+# 
+# Suchen Sie einen Mann?
+# Are you looking for a man?
+# 
+# Suchen Sie ein Hemd?
+# Are you looking for a shirt?
+# 
+# Suchen Sie einen Tisch?
+# Are you looking for a table?
+# 
+# Suchen Sie ein Kind?
+# Are you looking for a child?
+# 
+# Suchen Sie eine Frau?
+# Are you looking for a woman?
+# 
+# Suchen Sie einen Freund?
+# Are you looking for a friend?
+# 
+# Er verkauft das Steak. Er verkauft ein Steak.
+# He's selling the steak. He sells a steak.
+# 
+# Wir verkaufen das Auto. Wir verkaufen ein Auto.
+# We sell the car. We sell a car.
+# 
+# Sie verkauft den Stuhl. Sie verkauft einen Stuhl.
+# She sells the chair. She sells a chair.
+# 
+# Ich verkaufe die Hose. Ich verkaufe eine Hose.
+# I sell the pants. I sell a pair of trousers.
+# 
+# Sie verkauft das Haus. Sie verkauft ein Haus.
+# She sells the house. She sells a house.
+# 
+# Wir verkaufen den Hund. Wir verkaufen einen Hund.
+# We sell the dog. We sell a dog.
+# 
+# Er verkauft das Hemd. Er verkauft ein Hemd.
+# He sells the shirt. He sells a shirt.
+# 
+# Sie verkauft die Blume. Sie verkauft eine Blume.
+# She sells the flower. She sells a flower.
+# 
+# Wir verkaufen das Ticket. Wir verkaufen ein Ticket.
+# We sell the ticket. We sell a ticket.
+# 
+# Er hört einen Hund. Er hört den Hund.
+# He hears a dog. He hears the dog.
+# 
+# Sie hört einen Vogel. Sie hört den Vogel.
+# She hears a bird. She hears the bird.
+# 
+# Wir hören eine Katze. Wir hören die Katze.
+# We hear a cat. We hear the cat.
+# 
+# Ich höre ein Pferd. Ich höre das Pferd.
+# I hear a horse. I hear the horse.
+# 
 Sie hört einen Wagen. Sie hört den Wagen.
 She hears a wagon. She hears the wagon.
 

@@ -12299,6 +12299,9 @@
 # Tu me promets qu'il n'y a rien?
 # Do you promise me that there is nothing between you?
 # 
+J'accueille mes amis ce week-end.
+I am hosting my friends this weekend.
+
 J'adorerais vivre au soleil toute l'année.
 I would love to live in the sun all year long.
 

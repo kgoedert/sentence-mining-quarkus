@@ -10498,6 +10498,9 @@
 # A mí, fíjate, me llena mucho más el teatro que al cine.
 # Look at me, theatre fills me much more than cinema.
 # 
+A mí, fíjate, me llena mucho más el teatro que el cine.
+Look at me, theatre fills me much more than cinema. 
+
 Mi hermano no quiere prestarme dinero para la tienda. Date cuenta. Con todo lo que tiene.
 My brother doesn't want to lend me money for the store. Realize it. With everything he has.
 
