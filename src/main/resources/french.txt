@@ -12599,6 +12599,90 @@
 # Tu as vu l'heure?
 # Have you seen the time?
 # 
+Je le trouve très beau.
+I find him very handsome.
+
+Elle a révélé, qu'elle le trouvais très beau.
+She revelead, that she found him very handsome.
+
+Nous n'avons pas aimé son discours.
+We didn't like his/her speech.
+
+Ils ont dit, qu'ils n'avaient pas aimé son discours.
+They said, that they did not like his/her speech.
+
+Julien portait un pantalon noir.
+Julien was wearing black trousers.
+
+Vous avez confirmé, qu'il portait un pantalon noir.
+You confirmed that he was wearing a pair of black trousers.
+
+Marie n'ira pas au ciné avec lui.
+Marie won't go to the cinema with him.
+
+Nous avons affirmé que Marie n'irait pas au ciné avec lui.
+We affirmed that Marie wouldn't go to the cinema with him.
+
+Tais-toi!
+Cala boca!
+
+Assieds-toi!
+Sit down!
+
+Ouvrez votre livre!
+Open your book!
+
+Il lui a ordonné de se taire.
+He ordered him/her to shut up.
+
+Il lui a ordonné de s'asseoir.
+He ordered him/her to sit down.
+
+Elle nous a dit d'ouvrir notre livre.
+She told us to open our books.
+
+Tu prends quoi? 
+What are you having?
+
+Ma mère m'a demandé ce que je prenais.
+My mom asked me what I was having.
+
+Il a pris quoi?
+What did he have?
+
+Elle a demnadé ce qu'il avait pris.
+She asked what he had chosen.
+
+Tu aimes le poisson? Oui/Non.
+Do you like fish? Yes/No.
+
+Elle m'a demandé si j'aimais le poisson.
+She asked me if I liked fish.
+
+Tu avais faim?
+Were you hungry?
+
+Il a demandé si elle avait faim.
+He asked if she was hungry.
+
+Le garçon mange la pomme.
+The boy eats the apple.
+
+La pomme est mangée par le garçon.
+The apple is eaten by the boy. 
+
+La voisine a perdu les clés de la maison.
+The neighbour lost the keys of the house.
+
+Les clés ont été perdu par la voisine.
+The house keys were lost by the neighbour.
+
+L'oiseau construisait un nid douillet.
+The birds was building a cosy nest.
+
+Un nid douillet était construit par l'oiseau.
+A cosy nest was buit by the bird.
+
 Depuis que tu es rentré du travail, tu joues en fait!
 Since you came home from work, you're actually playing!
 
