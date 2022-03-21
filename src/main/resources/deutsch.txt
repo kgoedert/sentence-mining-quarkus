@@ -8998,6 +8998,9 @@
 # Ich höre ein Pferd. Ich höre das Pferd.
 # I hear a horse. I hear the horse.
 # 
+die Flasche, die Flaschen
+a garrafa, as garrafas
+
 Sie hört einen Wagen. Sie hört den Wagen.
 She hears a wagon. She hears the wagon.
 
