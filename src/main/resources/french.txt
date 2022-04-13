@@ -12599,6 +12599,9 @@
 # Tu as vu l'heure?
 # Have you seen the time?
 # 
+Le mur est vert.
+The wall is green.
+
 Je le trouve très beau.
 I find him very handsome.
 

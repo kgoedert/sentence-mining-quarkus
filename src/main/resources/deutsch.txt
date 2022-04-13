@@ -8995,309 +8995,309 @@
 # Wir hören eine Katze. Wir hören die Katze.
 # We hear a cat. We hear the cat.
 # 
-# Ich höre ein Pferd. Ich höre das Pferd.
-# I hear a horse. I hear the horse.
+# # Ich höre ein Pferd. Ich höre das Pferd.
+# # I hear a horse. I hear the horse.
+# # 
+# die Flasche, die Flaschen
+# a garrafa, as garrafas
 # 
-die Flasche, die Flaschen
-a garrafa, as garrafas
-
-Sie hört einen Wagen. Sie hört den Wagen.
-She hears a wagon. She hears the wagon.
-
-Er hört ein Auto. Er hört das Auto.
-He hears a car. He hears the car.
-
-Wir hören eine U-Bahn. Wir hören die U-Bahn.
-We hear a subway. We hear the subway.
-
-Ich höre einen Zug. Ich höre den Zug.
-I hear a train. I hear the train.
-
-Sie hört eine S-Bahn. Sie hört die S-Bahn.
-She hears a suburban train. She hears the S-Bahn.
-
-Gibt es viele Kinder? Nein, es gibt nur ein Kind.
-Are there many children? No, there is only one child.
-
-Gibt es viele Autos? Nein, es gibt nur ein Auto.
-Are there many cars? No, there is only one car.
-
-Gibt es viele Stühle? Nein, es gibt nur einen Stuhl.
-Are there many chairs? No, there is only one chair.
-
-Gibt es viele Häuser? Nein, es gibt nur ein Haus.
-Are there many houses? No, there is only one house.
-
-Gibt es viele Schlüssel? Nein, es gibt nur einen Schlüssel.
-Are there many keys? No, there is only one key.
-
-Gibt es viele Blumen? Nein, es gibt nur eine Blume.
-Are there many flowers? No, there is only one flower.
-
-Gibt es viele Messer? Nein, es gibt nur ein Messer.
-Are there many knives? No, there is only one knife.
-
-Gibt es viele Stifte? Nein, es gibt nur einen Stift.
-Are there many pens? No, there is only one pen.
-
-Wir grillen den Hamburger.
-We're barbecuing the hamburger.
-
-Markus grillt den Hamburger.
-Markus grills the hamburger.
-
-Die Brüder grillen den Hamburger.
-The brothers grill the hamburger.
-
-Ich grille den Hamburger.
-I grill the hamburger.
-
-Frau Müller grillt den Hamburger.
-Mrs. Müller grills the hamburger.
-
-Wir grillen den Hamburger.
-We grill the hamburger.
-
-Ich sehe einen Zug. Ist das der richtige Zug?
-I see a train. Is this the right train?
-
-Ich sehe eine Frau. Ist das die richtige Frau?
-I see a woman. Is that the right woman?
-
-Ich sehe einen Wagen. Ist das der richtige Wagen?
-I see a car. Is that the right car?
-
-Ich sehe ein Haus. Ist das das richtige Haus?
-I see a house. Is that the right house?
-
-Ich sehe einen Mann. Ist das der richtige Mann?
-I see a man. Is that the right man?
-
-Ich sehe ein Hotel. Ist das das richtige Hotel?
-I see a hotel. Is this the right hotel?
-
-Johannes serviert eine Banane.
-Johannes serves a banana.
-
-Johannes serviert einen Apfel.
-Johannes serves an apple.
-
-Johannes serviert ein Steak.
-Johannes serves a steak.
-
-Johannes serviert eine Wurst.
-Johannes serves a sausage.
-
-Johannes serviert ein Sandwich.
-Johannes serves a sandwich.
-
-Johannes serviert eine Orange.
-Johannes serves an orange.
-
-Johannes serviert einen Hamburger.
-Johannes serves a hamburger.
-
-Der schwarze Ball ist hier.
-The black ball is here.
-
-Eine schöne gelbe Blume ist da.
-There is a beautiful yellow flower there.
-
-Wir schneiden ein Hähnchen.
-We cut a chicken.
-
-Sophie grillt einen Hamburger.
-Sophie grills a hamburger.
-
-Sophie grillt eine Wurst.
-Sophie grills a sausage.
-
-Sophie grillt ein Hähnchen.
-Sophie grills a chicken.
-
-Sophie grillt eine Tomate.
-Sophie grills a tomato.
-
-Sophie grillt ein Steak.
-Sophie grills a steak.
-
-Sophie grillt eine Kartoffel.
-Sophie grills a potato.
-
-Sophie grillt einen Hamburger.
-Sophie grills a hamburger.
-
-Sophie grillt eine Zwiebel.
-Sophie grills an onion.
-
-die Züge, ein Zug
-the trains, one train
-
-die Restaurants, ein Restaurant
-the restaurants, a restaurant
-
-die Brote, ein Brot
-the loaves, a loaf of bread
-
-die Läden, ein Laden
-the shops, a shop
-
-die Haltestellen, eine Haltestelle
-the stops, one stop
-
-die Gabeln, eine Gabel
-forks, a fork
-
-die Hunde, ein Hund
-the dogs, a dog
-
-die Straßen, eine Straße
-the streets, a street
-
-die Löffel, ein Löffel
-the spoons, one spoon
-
-Hier ist kein braunes Auto
-There's no brown car here.
-
-Mein Bruder sucht zwei Schlüssel; er findet jedoch nur einen Schlüssel.
-My brother is looking for two keys, but he only finds one key.
-
-Mein Bruder sucht zwei Restaurants; er findet jedoch nur ein Restaurant.
-My brother is looking for two restaurants, but he only finds one.
-
-Mein Bruder sucht zwei Hemden; er findet jedoch nur ein Hemd.
-My brother is looking for two shirts; but he only finds one shirt.
-
-Mein Bruder sucht zwei Stühle; er findet jedoch nur einen Stuhl.
-My brother is looking for two chairs; but he only finds one chair.
-
-Mein Bruder sucht zwei Katzen; er findet jedoch nur eine Katze.
-My brother is looking for two cats, but he only finds one cat.
-
-Mein Bruder sucht zwei Hunde; er findet jedoch nur einen Hund.
-My brother is looking for two dogs; but he only finds one dog.
-
-Mein Bruder sucht zwei Hosen; er findet jedoch nur eine Hose.
-My brother is looking for two trousers; he only finds one.
-
-Sie suchen drei Hemden; wir haben aber nur ein Hemd.
-They are looking for three shirts; but we only have one shirt.
-
-Sie suchen drei Hosen; wir haben aber nur eine Hose.
-They are looking for three trousers; but we only have one pair of trousers.
-
-Sie suchen drei Hämmer; wir haben aber nur einen Hammer.
-They are looking for three hammers; but we only have one hammer.
-
-Sie suchen drei Schraubenzieher; wir haben aber nur einen Schraubenzieher.
-You're looking for three screwdrivers; but we only have one screwdriver.
-
-Sie suchen drei Pampelmusen; wir haben aber nur eine Pampelmuse.
-You are looking for three grapefruits; but we only have one grapefruit.
-
-Sie suchen drei Vögel; wir haben aber nur einen Vogel.
-You are looking for three birds; but we only have one bird.
-
-Sie suchen drei Fahrräder; wir haben aber nur ein Fahrrad.
-You are looking for three bicycles; but we only have one bicycle.
-
-Suchen Sie einen Schlüssel? Ich hoffe, dass Sie ihn finden.
-Are you looking for a key? I hope you find it.
-
-Suchen Sie eine Katze? Ich hoffe, dass Sie sie finden.
-Are you looking for a cat? I hope you find it.
-
-Suchen Sie einen Vogel? Ich hoffe, dass Sie ihn finden.
-Are you looking for a bird? I hope you find it.
-
-Suchen Sie ein Haus? Ich hoffe, dass Sie es finden.
-Are you looking for a house? I hope you find it.
-
-Suchen Sie einen Stuhl? Ich hoffe, dass Sie ihn finden.
-Are you looking for a chair? I hope you find it.
-
-Suchen Sie ein Hemd? Ich hoffe, dass Sie es finden.
-Looking for a shirt? I hope you find it.
-
-Suchen Sie einen Tisch? Ich hoffe, dass Sie ihn finden.
-Looking for a table? I hope you find it.
-
-Suchen Sie eine Frau? Ich hoffe, dass Sie sie finden.
-Are you looking for a woman? I hope you find it.
-
-Suchen Sie einen Mann? Ich hoffe, dass Sie ihn finden.
-Are you looking for a man? I hope you find him.
-
-Suchen Sie eine Freundin? Ich hoffe, dass Sie sie finden.
-Are you looking for a girlfriend? I hope you find her.
-
-Suchen Sie einen Freund? Ich hoffe, dass Sie ihn finden.
-Are you looking for a friend? I hope you find him.
-
-Suchen Sie ein Kind? Ich hoffe, dass Sie es finden.
-Are you looking for a child? I hope you find it.
-
-Möchten Sie eine Pampelmuse oder einen Apfel? Ich hätte gerne die Pampelmuse.
-Would you like a grapefruit or an apple? I would like the grapefruit.
-
-Möchten Sie einen Hund oder eine Katze? Ich hätte gerne den Hund.
-Would you like a dog or a cat? I would like the dog.
-
-Möchten Sie ein Pferd oder eine Maus? Ich hätte gerne das Pferd.
-Would you like a horse or a mouse? I would like the horse.
-
-Möchten Sie einen Hammer oder einen Schraubenzieher? Ich hätte gerne den Hammer.
-Would you like a hammer or a screwdriver? I would like the hammer.
-
-Möchten Sie einen Salat oder eine Wurst? Ich hätte gerne den Salat.
-Would you like a salad or a sausage? I would like the salad.
-
-Möchten Sie ein Bier oder einen Wein? Ich hätte gerne das Bier.
-Would you like a beer or a wine? I would like the beer.
-
-Möchten Sie einen Wein oder ein Wasser? Ich hätte gerne den Wein.
-Would you like a wine or a water? I would like the wine.
-
-Ich sehe das weiße Auto. I see the white car.
-I see the white car. I see the white car.
-
-Mein Vater sieht das grüne Gras. My father sees the green grass.
-My father sees the green grass. My father sees the green grass.
-
-Die Familie sieht den großen Zug. The family sees the large train.
-The family sees the big train. The family sees the large train.
-
-Wir sehen den langen Zug. We see the long train.
-We see the long train. We see the long train.
-
-Ich sehe die gelbe Blume. I see the yellow flower.
-I see the yellow flower. I see the yellow flower.
-
-Er sieht die schnelle Maus. He sees the quick mouse.
-He sees the fast mouse. He sees the quick mouse.
-
-Herr und Frau Wagner sehen das schnelle Pferd. Mr. and Mrs. Wagner see the quick horse.
-Mr and Mrs Wagner see the fast horse. Mr. and Mrs. Wagner see the quick horse.
-
-Er hört einen lauten Zug. He hears a loud train.
-He hears a loud train. He hears a loud train.
-
-Meine Mutter hört ein lautes Auto. My mother hears a loud car.
-My mother hears a loud car. My mother hears a loud car.
-
-Meine Mutter und ich hören eine große Katze. My mother and I hear a large cat.
-My mother and I hear a big cat. My mother and I hear a large cat.
-
-Sie hört einen lauten Wagen. She hears a loud car.
-She hears a loud car. She hears a loud car.
-
-Mein Vater und ich hören ein lautes Flugzeug. My father and I hear a loud airplane.
-My father and I hear a loud plane. My father and I hear a loud airplane.
-
-Sie hören ein lautes Kind. You (formal) hear a loud/noisy child.
-You hear a loud child. You (formal) hear a loud/noisy child.
-
+# Sie hört einen Wagen. Sie hört den Wagen.
+# She hears a wagon. She hears the wagon.
+# 
+# Er hört ein Auto. Er hört das Auto.
+# He hears a car. He hears the car.
+# 
+# Wir hören eine U-Bahn. Wir hören die U-Bahn.
+# We hear a subway. We hear the subway.
+# 
+# Ich höre einen Zug. Ich höre den Zug.
+# I hear a train. I hear the train.
+# 
+# Sie hört eine S-Bahn. Sie hört die S-Bahn.
+# She hears a suburban train. She hears the S-Bahn.
+# 
+# Gibt es viele Kinder? Nein, es gibt nur ein Kind.
+# Are there many children? No, there is only one child.
+# 
+# Gibt es viele Autos? Nein, es gibt nur ein Auto.
+# Are there many cars? No, there is only one car.
+# 
+# Gibt es viele Stühle? Nein, es gibt nur einen Stuhl.
+# Are there many chairs? No, there is only one chair.
+# 
+# Gibt es viele Häuser? Nein, es gibt nur ein Haus.
+# Are there many houses? No, there is only one house.
+# 
+# Gibt es viele Schlüssel? Nein, es gibt nur einen Schlüssel.
+# Are there many keys? No, there is only one key.
+# 
+# Gibt es viele Blumen? Nein, es gibt nur eine Blume.
+# Are there many flowers? No, there is only one flower.
+# 
+# Gibt es viele Messer? Nein, es gibt nur ein Messer.
+# Are there many knives? No, there is only one knife.
+# 
+# Gibt es viele Stifte? Nein, es gibt nur einen Stift.
+# Are there many pens? No, there is only one pen.
+# 
+# Wir grillen den Hamburger.
+# We're barbecuing the hamburger.
+# 
+# Markus grillt den Hamburger.
+# Markus grills the hamburger.
+# 
+# Die Brüder grillen den Hamburger.
+# The brothers grill the hamburger.
+# 
+# Ich grille den Hamburger.
+# I grill the hamburger.
+# 
+# Frau Müller grillt den Hamburger.
+# Mrs. Müller grills the hamburger.
+# 
+# Wir grillen den Hamburger.
+# We grill the hamburger.
+# 
+# Ich sehe einen Zug. Ist das der richtige Zug?
+# I see a train. Is this the right train?
+# 
+# Ich sehe eine Frau. Ist das die richtige Frau?
+# I see a woman. Is that the right woman?
+# 
+# Ich sehe einen Wagen. Ist das der richtige Wagen?
+# I see a car. Is that the right car?
+# 
+# Ich sehe ein Haus. Ist das das richtige Haus?
+# I see a house. Is that the right house?
+# 
+# Ich sehe einen Mann. Ist das der richtige Mann?
+# I see a man. Is that the right man?
+# 
+# Ich sehe ein Hotel. Ist das das richtige Hotel?
+# I see a hotel. Is this the right hotel?
+# 
+# Johannes serviert eine Banane.
+# Johannes serves a banana.
+# 
+# Johannes serviert einen Apfel.
+# Johannes serves an apple.
+# 
+# Johannes serviert ein Steak.
+# Johannes serves a steak.
+# 
+# Johannes serviert eine Wurst.
+# Johannes serves a sausage.
+# 
+# Johannes serviert ein Sandwich.
+# Johannes serves a sandwich.
+# 
+# Johannes serviert eine Orange.
+# Johannes serves an orange.
+# 
+# Johannes serviert einen Hamburger.
+# Johannes serves a hamburger.
+# 
+# Der schwarze Ball ist hier.
+# The black ball is here.
+# 
+# Eine schöne gelbe Blume ist da.
+# There is a beautiful yellow flower there.
+# 
+# Wir schneiden ein Hähnchen.
+# We cut a chicken.
+# 
+# Sophie grillt einen Hamburger.
+# Sophie grills a hamburger.
+# 
+# Sophie grillt eine Wurst.
+# Sophie grills a sausage.
+# 
+# Sophie grillt ein Hähnchen.
+# Sophie grills a chicken.
+# 
+# Sophie grillt eine Tomate.
+# Sophie grills a tomato.
+# 
+# Sophie grillt ein Steak.
+# Sophie grills a steak.
+# 
+# Sophie grillt eine Kartoffel.
+# Sophie grills a potato.
+# 
+# Sophie grillt einen Hamburger.
+# Sophie grills a hamburger.
+# 
+# Sophie grillt eine Zwiebel.
+# Sophie grills an onion.
+# 
+# die Züge, ein Zug
+# the trains, one train
+# 
+# die Restaurants, ein Restaurant
+# the restaurants, a restaurant
+# 
+# die Brote, ein Brot
+# the loaves, a loaf of bread
+# 
+# die Läden, ein Laden
+# the shops, a shop
+# 
+# die Haltestellen, eine Haltestelle
+# the stops, one stop
+# 
+# die Gabeln, eine Gabel
+# forks, a fork
+# 
+# die Hunde, ein Hund
+# the dogs, a dog
+# 
+# die Straßen, eine Straße
+# the streets, a street
+# 
+# die Löffel, ein Löffel
+# the spoons, one spoon
+# 
+# Hier ist kein braunes Auto
+# There's no brown car here.
+# 
+# Mein Bruder sucht zwei Schlüssel; er findet jedoch nur einen Schlüssel.
+# My brother is looking for two keys, but he only finds one key.
+# 
+# Mein Bruder sucht zwei Restaurants; er findet jedoch nur ein Restaurant.
+# My brother is looking for two restaurants, but he only finds one.
+# 
+# Mein Bruder sucht zwei Hemden; er findet jedoch nur ein Hemd.
+# My brother is looking for two shirts; but he only finds one shirt.
+# 
+# Mein Bruder sucht zwei Stühle; er findet jedoch nur einen Stuhl.
+# My brother is looking for two chairs; but he only finds one chair.
+# 
+# Mein Bruder sucht zwei Katzen; er findet jedoch nur eine Katze.
+# My brother is looking for two cats, but he only finds one cat.
+# 
+# Mein Bruder sucht zwei Hunde; er findet jedoch nur einen Hund.
+# My brother is looking for two dogs; but he only finds one dog.
+# 
+# Mein Bruder sucht zwei Hosen; er findet jedoch nur eine Hose.
+# My brother is looking for two trousers; he only finds one.
+# 
+# Sie suchen drei Hemden; wir haben aber nur ein Hemd.
+# They are looking for three shirts; but we only have one shirt.
+# 
+# Sie suchen drei Hosen; wir haben aber nur eine Hose.
+# They are looking for three trousers; but we only have one pair of trousers.
+# 
+# Sie suchen drei Hämmer; wir haben aber nur einen Hammer.
+# They are looking for three hammers; but we only have one hammer.
+# 
+# Sie suchen drei Schraubenzieher; wir haben aber nur einen Schraubenzieher.
+# You're looking for three screwdrivers; but we only have one screwdriver.
+# 
+# Sie suchen drei Pampelmusen; wir haben aber nur eine Pampelmuse.
+# You are looking for three grapefruits; but we only have one grapefruit.
+# 
+# Sie suchen drei Vögel; wir haben aber nur einen Vogel.
+# You are looking for three birds; but we only have one bird.
+# 
+# Sie suchen drei Fahrräder; wir haben aber nur ein Fahrrad.
+# You are looking for three bicycles; but we only have one bicycle.
+# 
+# Suchen Sie einen Schlüssel? Ich hoffe, dass Sie ihn finden.
+# Are you looking for a key? I hope you find it.
+# 
+# Suchen Sie eine Katze? Ich hoffe, dass Sie sie finden.
+# Are you looking for a cat? I hope you find it.
+# 
+# Suchen Sie einen Vogel? Ich hoffe, dass Sie ihn finden.
+# Are you looking for a bird? I hope you find it.
+# 
+# Suchen Sie ein Haus? Ich hoffe, dass Sie es finden.
+# Are you looking for a house? I hope you find it.
+# 
+# Suchen Sie einen Stuhl? Ich hoffe, dass Sie ihn finden.
+# Are you looking for a chair? I hope you find it.
+# 
+# Suchen Sie ein Hemd? Ich hoffe, dass Sie es finden.
+# Looking for a shirt? I hope you find it.
+# 
+# Suchen Sie einen Tisch? Ich hoffe, dass Sie ihn finden.
+# Looking for a table? I hope you find it.
+# 
+# Suchen Sie eine Frau? Ich hoffe, dass Sie sie finden.
+# Are you looking for a woman? I hope you find it.
+# 
+# Suchen Sie einen Mann? Ich hoffe, dass Sie ihn finden.
+# Are you looking for a man? I hope you find him.
+# 
+# Suchen Sie eine Freundin? Ich hoffe, dass Sie sie finden.
+# Are you looking for a girlfriend? I hope you find her.
+# 
+# Suchen Sie einen Freund? Ich hoffe, dass Sie ihn finden.
+# Are you looking for a friend? I hope you find him.
+# 
+# Suchen Sie ein Kind? Ich hoffe, dass Sie es finden.
+# Are you looking for a child? I hope you find it.
+# 
+# Möchten Sie eine Pampelmuse oder einen Apfel? Ich hätte gerne die Pampelmuse.
+# Would you like a grapefruit or an apple? I would like the grapefruit.
+# 
+# Möchten Sie einen Hund oder eine Katze? Ich hätte gerne den Hund.
+# Would you like a dog or a cat? I would like the dog.
+# 
+# Möchten Sie ein Pferd oder eine Maus? Ich hätte gerne das Pferd.
+# Would you like a horse or a mouse? I would like the horse.
+# 
+# Möchten Sie einen Hammer oder einen Schraubenzieher? Ich hätte gerne den Hammer.
+# Would you like a hammer or a screwdriver? I would like the hammer.
+# 
+# Möchten Sie einen Salat oder eine Wurst? Ich hätte gerne den Salat.
+# Would you like a salad or a sausage? I would like the salad.
+# 
+# Möchten Sie ein Bier oder einen Wein? Ich hätte gerne das Bier.
+# Would you like a beer or a wine? I would like the beer.
+# 
+# Möchten Sie einen Wein oder ein Wasser? Ich hätte gerne den Wein.
+# Would you like a wine or a water? I would like the wine.
+# 
+# Ich sehe das weiße Auto. I see the white car.
+# I see the white car. I see the white car.
+# 
+# Mein Vater sieht das grüne Gras. My father sees the green grass.
+# My father sees the green grass. My father sees the green grass.
+# 
+# Die Familie sieht den großen Zug. The family sees the large train.
+# The family sees the big train. The family sees the large train.
+# 
+# Wir sehen den langen Zug. We see the long train.
+# We see the long train. We see the long train.
+# 
+# Ich sehe die gelbe Blume. I see the yellow flower.
+# I see the yellow flower. I see the yellow flower.
+# 
+# Er sieht die schnelle Maus. He sees the quick mouse.
+# He sees the fast mouse. He sees the quick mouse.
+# 
+# Herr und Frau Wagner sehen das schnelle Pferd. Mr. and Mrs. Wagner see the quick horse.
+# Mr and Mrs Wagner see the fast horse. Mr. and Mrs. Wagner see the quick horse.
+# 
+# Er hört einen lauten Zug. He hears a loud train.
+# He hears a loud train. He hears a loud train.
+# 
+# Meine Mutter hört ein lautes Auto. My mother hears a loud car.
+# My mother hears a loud car. My mother hears a loud car.
+# 
+# Meine Mutter und ich hören eine große Katze. My mother and I hear a large cat.
+# My mother and I hear a big cat. My mother and I hear a large cat.
+# 
+# Sie hört einen lauten Wagen. She hears a loud car.
+# She hears a loud car. She hears a loud car.
+# 
+# Mein Vater und ich hören ein lautes Flugzeug. My father and I hear a loud airplane.
+# My father and I hear a loud plane. My father and I hear a loud airplane.
+# 
+# Sie hören ein lautes Kind. You (formal) hear a loud/noisy child.
+# You hear a loud child. You (formal) hear a loud/noisy child.
+# 
 Mein Vater hört eine leise Maus. My father hears a quiet mouse.
 My father hears a soft mouse. My father hears a quiet mouse.
 
