@@ -9298,6 +9298,12 @@
 # Sie hören ein lautes Kind. You (formal) hear a loud/noisy child.
 # You hear a loud child. You (formal) hear a loud/noisy child.
 # 
+Ich sehe die gelbe Blume. 
+I see the yellow flower. 
+
+Die Familie sieht den großen Zug.
+The family sees the big train.
+
 Ich habe Kopfschmerzen
 I have a headache
 
