@@ -9292,285 +9292,312 @@
 # Sie hört einen lauten Wagen. She hears a loud car.
 # She hears a loud car. She hears a loud car.
 # 
-# Mein Vater und ich hören ein lautes Flugzeug. My father and I hear a loud airplane.
-# My father and I hear a loud plane. My father and I hear a loud airplane.
+# # Mein Vater und ich hören ein lautes Flugzeug. My father and I hear a loud airplane.
+# # My father and I hear a loud plane. My father and I hear a loud airplane.
+# # 
+# # Sie hören ein lautes Kind. You (formal) hear a loud/noisy child.
+# # You hear a loud child. You (formal) hear a loud/noisy child.
+# #
+# Sie hört einen lauten Wagen. 
+# She hears a loud car. - Wagen
 # 
-# Sie hören ein lautes Kind. You (formal) hear a loud/noisy child.
-# You hear a loud child. You (formal) hear a loud/noisy child.
+# Mein Vater sieht das grüne Gras. 
+# My father sees the green grass.
 # 
-Ich sehe die gelbe Blume. 
-I see the yellow flower. 
-
-Die Familie sieht den großen Zug.
-The family sees the big train.
-
-Ich habe Kopfschmerzen
-I have a headache
-
-Ich habe Halsschmerzen.
-I have a sore throat.
-
-Ich habe Rückenschmerzen.
-I have back pain.
-
-Ich habe Zahnschmerzen.
-I have a toothache.
-
-Ich habe Ohrenschmerzen.
-I have an earache.
-
-Ich habe Bauchschmerzen.
-I have a stomachache.
-
-Ich habe Unterleibsschmerzen.
-I have abdominal pain.
-
-Mein Kopf tut mir weh.
-My head hurts.
-
-Mein Hals tut mir weh.
-My throat hurts.
-
-Mein Zahn tut mir weh.
-My tooth hurts.
-
-Mein Bein tut mir weh.
-My leg hurts.
-
-Mein Rücken tut mir weh.
-My back hurts.
-
-Mein Bauch tut mir weh.
-My stomach hurts.
-
-Mein Fuß tut mir weh.
-My foot hurts.
-
-Mir tut alles weh.
-Everything hurts.
-
-Ich habe Muskelkater.
-I have sore muscles.
-
-Mir geht es nicht gut.
-I am not doing well.
-
-Ich fühle mich nicht wohl.
-I don't feel well.
-
-Ich bin krank.
-I am sick.
-
-Ich habe geschlafen.
-I slept.
-
-Ich bin eingeschlafen.
-I fell asleep.
-
-Mein Ex-Freund war immer sauer auf mich, weil ich eingeschlafen bin, wenn wir einen Film geguckt haben.
-My ex-boyfriend was always mad at me because I always fell asleep, when we were watching a movie.
-
-Ich glaube ich gehe jetzt pennen. Bis morgen.
-I think I am going to sleep now. See you tomorrow.
-
-Du bist so ein Penner!
-You are such a jerk!
-
-Ich schlafe nicht, Ich döse nur.
-I'm not sleeping. I'm just dozing.
-
-Früher bin ich mit der Straßenbahn zur Schule gefahren. Und während der Fahrt bin ich immer eingenickt.
-Eu costumava pegar o bonde para a escola. E eu sempre cochilava durante a viagem.
-
-Und dann bin ich mit dem Kopf gegen die Fensterscheibe geknallt. Das war immer ziemlich peinlich.
-E então eu batia minha cabeça contra o vidro da janela. Isso sempre foi muito embaraçoso.
-
-Sonntags will ich ausschlafen.
-On sundays I want to sleep in.
-
-Bis du ausgeschlafen?
-Did you get enough sleep?
-
-Ich bin heute zu spät gekommen, weil ich verschlafen habe.
-I was late today because I overslept.
-
-Heute bin ich um 3 Uhr nachts aufgewacht. Zum Glück bin ich eine halbe Stunde später wieder eingeschlafen.
-Today I woke up at 3 am. Fortunetely, I fell asleep again half an hour later.
-
-Leider konnte ich nicht wieder einschlafen.
-Unfortunetely, I could not fall asleep again.
-
-Hat Sophia durchgeschlafen?
-Did Sofia sleep through the night?
-
-Ich habe acht Stunden durchgeschlafen. Ich fühle mich super.
-I slept eight hours straight. I feel great.
-
-Ich habe neun Stunden geschlafen. Ich bin hellwach.
-I slept for nine hours. I am wide awake.
-
-Er hat seine Kinder um sieben Uhr geweckt.
-He woke up his kids at 7 am.
-
-Ich bin um sechs Uhr aufgewacht.
-I woke up at 6 am.
-
-Bist du ein Morgenmuffel?
-Are you a morning grouch? - inf
-
-Ich hatte so einen schönen Traum. Ich habe geträumt, dass ich im Lotto gewonnen habe.
-I had such a nice dream. I dreamed that I won the lottery.
-
-Ich hatte einen Albtraum.
-I had a nightmare.
-
-Ich habe von dir geträumt.
-I dreamed of you.
-
-Mein Vater hört eine leise Maus. My father hears a quiet mouse.
-My father hears a soft mouse. My father hears a quiet mouse.
-
-Ich mag grünes Gras. 
-I like green grass.
-
-Er mag warme Milch. 
-He likes warm milk.
-
-Wir mögen großes Abenteuer. 
-We like lots of adventure.
-
-Das Kind mag kalte Milch. 
-The child likes cold milk.
-
-Herr Wagner mag warmes Brot. 
-Mr. Wagner likes warm bread.
-
-Frau Wagner mag scharfen Käse. 
-Mrs. Wagner likes sharp spicy cheese.
-
-Herr und Frau Müller mögen kaltes Wasser. 
-Mr. and Mrs. Müller like cold water.
-
-Ihr Bruder möchte gerne einen Wein trinken. 
-Her brother would like to drink a glass of wine.
-
-Seine Schwester möchte gerne ein Wasser trinken. 
-His sister would like to drink a glass of water.
-
-Wir möchten gerne ein Brot backen. 
-We would like to bake a bread.
-
-Ich möchte gerne ein Stück Käse essen. 
-I would like to eat a piece of cheese.
-
-Ich möchte gerne ein Sandwich essen. 
-I would like to eat a sandwich.
-
-Er möchte gerne einen Kuchen essen. 
-He would like to eat a piece of cake.
-
-Die Kinder möchten gerne ein Eis essen. 
-The children would like to eat ice cream.
-
-Ihr Vater würde gerne einen Brief schreiben. 
-Her Father would like to write a letter.
-
-Seine Mutter würde gerne einen Brief schicken. 
-His Mother would like to send a letter.
-
-Wir würden gerne das Brot schneiden. 
-We would like to cut the bread.
-
-Wir würden gerne den Baum schneiden. 
-We would like to cut the tree.
-
-Ich würde gerne die Küche sauber machen. 
-I would like to clean the kitchen.
-
-Markus würde gerne das Zimmer sauber machen. 
-Markus would like to clean the room.
-
-Sophie würde gerne den Wein einschenken. 
-Sophie would like to pour the wine.
-
-Markus und Sophie würden gerne das Wasser einschenken. 
-Markus and Sophie would like to pour the water.
-
-Wir hätten gerne einen kleinen Jungen.
-We would like to have a little boy.
-
-Wir hätten gerne ein kleines Mädchen. 
-We would like to have a little girl.
-
-Er hätte gerne eine schöne Ehefrau. 
-He would like to have a beautiful wife.
-
-Sie hätte gerne einen guten Ehemann. 
-She would like to have a good husband.
-
-Sie hätten gerne eine gute Arbeit. 
-You would like to have a good job.
-
-Ich hätte gerne ein schönes Haus. 
-I would like to have a nice house.
-
-Ich habe ein kleines Mädchen. 
-I have a little girl.
-
-Herr und Frau Wagner haben einen kleinen Jungen. 
-Mr. and Mrs. Wagner have a small (young) boy.
-
-Wir haben ein scharfes Messer. 
-We have a sharp knife.
-
-Er hat ein kleines Haus. 
-He has a small house.
-
-Sie hat eine süße Katze. 
-She has a sweet cat.
-
-Ihr habt eine gute Arbeit. 
-You (plural) have a good job.
-
-Ich habe ein großes Glas. 
-I have a large glass.
-
-Sie haben ein kaltes Bier. 
-You have a cold beer.
-
-Sie haben Recht. 
-You are correct.
-
-Die Eltern haben fünf Kinder. 
-The parents have five children.
-
-Wer macht die Küche sauber? 
-Who is going to clean the kitchen?
-
-Wen sehe ich? 
-Whom do I see?
-
-Eine schöne rosa Blume ist da.
-There is a beautiful pink flower there.
-
-Mein Vater hat ein großes Auto.
-My father has a big car.
-
-Mein Vater hat eine große Katze.
-My father has a big cat.
-
-Mein Vater hat einen großen Wagen.
-My father has a big car.
-
-Mein Vater hat ein großes Messer.
-My father has a big knife.
-
-Mein Vater hat eine große Gabel.
-My father has a big fork.
-
-Mein Vater hat einen großen Löffel.
-My father has a big spoon.
-
+# Ich sehe das weiße Auto. 
+# I see the white car.
+# 
+# Wir sehen den langen Zug. 
+# We see the long train.
+# 
+# Mein Vater und ich hören ein lautes Flugzeug. 
+# My father and I hear a loud airplane.
+# 
+# Sie hören ein lautes Kind. 
+# You hear a loud/noisy child. - formal
+# 
+# Meine Mutter und ich hören eine große Katze. 
+# My mother and I hear a large cat.
+# 
+# Er hört einen lauten Zug. 
+# He hears a loud train.
+# 
+# Herr und Frau Wagner sehen das schnelle Pferd. 
+# Mr. and Mrs. Wagner see the quick horse.
+# 
+# Ich sehe die gelbe Blume. 
+# I see the yellow flower. 
+# 
+# Die Familie sieht den großen Zug.
+# The family sees the big train.
+# 
+# Ich habe Kopfschmerzen
+# I have a headache
+# 
+# Ich habe Halsschmerzen.
+# I have a sore throat.
+# 
+# Ich habe Rückenschmerzen.
+# I have back pain.
+# 
+# Ich habe Zahnschmerzen.
+# I have a toothache.
+# 
+# Ich habe Ohrenschmerzen.
+# I have an earache.
+# 
+# Ich habe Bauchschmerzen.
+# I have a stomachache.
+# 
+# Ich habe Unterleibsschmerzen.
+# I have abdominal pain.
+# 
+# Mein Kopf tut mir weh.
+# My head hurts.
+# 
+# Mein Hals tut mir weh.
+# My throat hurts.
+# 
+# Mein Zahn tut mir weh.
+# My tooth hurts.
+# 
+# Mein Bein tut mir weh.
+# My leg hurts.
+# 
+# Mein Rücken tut mir weh.
+# My back hurts.
+# 
+# Mein Bauch tut mir weh.
+# My stomach hurts.
+# 
+# Mein Fuß tut mir weh.
+# My foot hurts.
+# 
+# Mir tut alles weh.
+# Everything hurts.
+# 
+# Ich habe Muskelkater.
+# I have sore muscles.
+# 
+# Mir geht es nicht gut.
+# I am not doing well.
+# 
+# Ich fühle mich nicht wohl.
+# I don't feel well.
+# 
+# Ich bin krank.
+# I am sick.
+# 
+# Ich habe geschlafen.
+# I slept.
+# 
+# Ich bin eingeschlafen.
+# I fell asleep.
+# 
+# Mein Ex-Freund war immer sauer auf mich, weil ich eingeschlafen bin, wenn wir einen Film geguckt haben.
+# My ex-boyfriend was always mad at me because I always fell asleep, when we were watching a movie.
+# 
+# Ich glaube ich gehe jetzt pennen. Bis morgen.
+# I think I am going to sleep now. See you tomorrow.
+# 
+# Du bist so ein Penner!
+# You are such a jerk!
+# 
+# Ich schlafe nicht, Ich döse nur.
+# I'm not sleeping. I'm just dozing.
+# 
+# Früher bin ich mit der Straßenbahn zur Schule gefahren. Und während der Fahrt bin ich immer eingenickt.
+# Eu costumava pegar o bonde para a escola. E eu sempre cochilava durante a viagem.
+# 
+# Und dann bin ich mit dem Kopf gegen die Fensterscheibe geknallt. Das war immer ziemlich peinlich.
+# E então eu batia minha cabeça contra o vidro da janela. Isso sempre foi muito embaraçoso.
+# 
+# Sonntags will ich ausschlafen.
+# On sundays I want to sleep in.
+# 
+# Bis du ausgeschlafen?
+# Did you get enough sleep?
+# 
+# Ich bin heute zu spät gekommen, weil ich verschlafen habe.
+# I was late today because I overslept.
+# 
+# Heute bin ich um 3 Uhr nachts aufgewacht. Zum Glück bin ich eine halbe Stunde später wieder eingeschlafen.
+# Today I woke up at 3 am. Fortunetely, I fell asleep again half an hour later.
+# 
+# Leider konnte ich nicht wieder einschlafen.
+# Unfortunetely, I could not fall asleep again.
+# 
+# Hat Sophia durchgeschlafen?
+# Did Sofia sleep through the night?
+# 
+# Ich habe acht Stunden durchgeschlafen. Ich fühle mich super.
+# I slept eight hours straight. I feel great.
+# 
+# Ich habe neun Stunden geschlafen. Ich bin hellwach.
+# I slept for nine hours. I am wide awake.
+# 
+# Er hat seine Kinder um sieben Uhr geweckt.
+# He woke up his kids at 7 am.
+# 
+# Ich bin um sechs Uhr aufgewacht.
+# I woke up at 6 am.
+# 
+# Bist du ein Morgenmuffel?
+# Are you a morning grouch? - inf
+# 
+# Ich hatte so einen schönen Traum. Ich habe geträumt, dass ich im Lotto gewonnen habe.
+# I had such a nice dream. I dreamed that I won the lottery.
+# 
+# Ich hatte einen Albtraum.
+# I had a nightmare.
+# 
+# Ich habe von dir geträumt.
+# I dreamed of you.
+# 
+# Mein Vater hört eine leise Maus. My father hears a quiet mouse.
+# My father hears a soft mouse. My father hears a quiet mouse.
+# 
+# Ich mag grünes Gras. 
+# I like green grass.
+# 
+# Er mag warme Milch. 
+# He likes warm milk.
+# 
+# Wir mögen großes Abenteuer. 
+# We like lots of adventure.
+# 
+# Das Kind mag kalte Milch. 
+# The child likes cold milk.
+# 
+# Herr Wagner mag warmes Brot. 
+# Mr. Wagner likes warm bread.
+# 
+# Frau Wagner mag scharfen Käse. 
+# Mrs. Wagner likes sharp spicy cheese.
+# 
+# Herr und Frau Müller mögen kaltes Wasser. 
+# Mr. and Mrs. Müller like cold water.
+# 
+# Ihr Bruder möchte gerne einen Wein trinken. 
+# Her brother would like to drink a glass of wine.
+# 
+# Seine Schwester möchte gerne ein Wasser trinken. 
+# His sister would like to drink a glass of water.
+# 
+# Wir möchten gerne ein Brot backen. 
+# We would like to bake a bread.
+# 
+# Ich möchte gerne ein Stück Käse essen. 
+# I would like to eat a piece of cheese.
+# 
+# Ich möchte gerne ein Sandwich essen. 
+# I would like to eat a sandwich.
+# 
+# Er möchte gerne einen Kuchen essen. 
+# He would like to eat a piece of cake.
+# 
+# Die Kinder möchten gerne ein Eis essen. 
+# The children would like to eat ice cream.
+# 
+# Ihr Vater würde gerne einen Brief schreiben. 
+# Her Father would like to write a letter.
+# 
+# Seine Mutter würde gerne einen Brief schicken. 
+# His Mother would like to send a letter.
+# 
+# Wir würden gerne das Brot schneiden. 
+# We would like to cut the bread.
+# 
+# Wir würden gerne den Baum schneiden. 
+# We would like to cut the tree.
+# 
+# Ich würde gerne die Küche sauber machen. 
+# I would like to clean the kitchen.
+# 
+# Markus würde gerne das Zimmer sauber machen. 
+# Markus would like to clean the room.
+# 
+# Sophie würde gerne den Wein einschenken. 
+# Sophie would like to pour the wine.
+# 
+# Markus und Sophie würden gerne das Wasser einschenken. 
+# Markus and Sophie would like to pour the water.
+# 
+# Wir hätten gerne einen kleinen Jungen.
+# We would like to have a little boy.
+# 
+# Wir hätten gerne ein kleines Mädchen. 
+# We would like to have a little girl.
+# 
+# Er hätte gerne eine schöne Ehefrau. 
+# He would like to have a beautiful wife.
+# 
+# Sie hätte gerne einen guten Ehemann. 
+# She would like to have a good husband.
+# 
+# Sie hätten gerne eine gute Arbeit. 
+# You would like to have a good job.
+# 
+# Ich hätte gerne ein schönes Haus. 
+# I would like to have a nice house.
+# 
+# Ich habe ein kleines Mädchen. 
+# I have a little girl.
+# 
+# Herr und Frau Wagner haben einen kleinen Jungen. 
+# Mr. and Mrs. Wagner have a small (young) boy.
+# 
+# Wir haben ein scharfes Messer. 
+# We have a sharp knife.
+# 
+# Er hat ein kleines Haus. 
+# He has a small house.
+# 
+# Sie hat eine süße Katze. 
+# She has a sweet cat.
+# 
+# Ihr habt eine gute Arbeit. 
+# You (plural) have a good job.
+# 
+# Ich habe ein großes Glas. 
+# I have a large glass.
+# 
+# Sie haben ein kaltes Bier. 
+# You have a cold beer.
+# 
+# Sie haben Recht. 
+# You are correct.
+# 
+# Die Eltern haben fünf Kinder. 
+# The parents have five children.
+# 
+# Wer macht die Küche sauber? 
+# Who is going to clean the kitchen?
+# 
+# Wen sehe ich? 
+# Whom do I see?
+# 
+# Eine schöne rosa Blume ist da.
+# There is a beautiful pink flower there.
+# 
+# Mein Vater hat ein großes Auto.
+# My father has a big car.
+# 
+# Mein Vater hat eine große Katze.
+# My father has a big cat.
+# 
+# Mein Vater hat einen großen Wagen.
+# My father has a big car.
+# 
+# Mein Vater hat ein großes Messer.
+# My father has a big knife.
+# 
+# Mein Vater hat eine große Gabel.
+# My father has a big fork.
+# 
+# Mein Vater hat einen großen Löffel.
+# My father has a big spoon.
+# 
 Meine Mutter hört einen lauten Vogel.
 My mother hears a loud bird.
 
