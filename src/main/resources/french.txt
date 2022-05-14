@@ -12883,322 +12883,322 @@
 # 
 # Vous avez la fiche?
 # Do you have the card?
+# # 
+# # J'ai un ami français.
+# # I have a French friend.
+# # 
+# # J'ai neuf euros.
+# # I have nine euros.
+# # 
+# # Pourquoi n'avez-vous pas de chambre?
+# # Why don't you have a room?
+# # 
+# # Désirez vous quelque chose?
+# # Do you need anything?
+# # 
+# # Vos bagages sont jolis.
+# # Your luggage is nice.
+# # 
+# Elle a demandé ce qu'il avait pris.
+# She asked what he had chosen.
 # 
-# J'ai un ami français.
-# I have a French friend.
+# J'aime faire du vélo les week-ends.
+# I enjoy bike riding on weekends.
 # 
-# J'ai neuf euros.
-# I have nine euros.
+# C'est souvent le week-end que l'on fait la grasse matinée.
+# We often sleep in at the weekend.
 # 
-# Pourquoi n'avez-vous pas de chambre?
-# Why don't you have a room?
+# Ce matin, j'ai fait la grasse matinée. Je me suis réveillé à 10h30.
+# This morning, I slept in. I woke up at 10.30 am.
 # 
-# Désirez vous quelque chose?
-# Do you need anything?
+# Tu peux faire les courses pour le dîner de ce soir?
+# Can you go grocery shopping for tonight's dinner?
 # 
-# Vos bagages sont jolis.
-# Your luggage is nice.
+# Ils font la queue devant la boulangerie pour manger un croissant chaud.
+# They are waiting in line in front of the bakery to eat a warm croissant.
 # 
-Elle a demandé ce qu'il avait pris.
-She asked what he had chosen.
-
-J'aime faire du vélo les week-ends.
-I enjoy bike riding on weekends.
-
-C'est souvent le week-end que l'on fait la grasse matinée.
-We often sleep in at the weekend.
-
-Ce matin, j'ai fait la grasse matinée. Je me suis réveillé à 10h30.
-This morning, I slept in. I woke up at 10.30 am.
-
-Tu peux faire les courses pour le dîner de ce soir?
-Can you go grocery shopping for tonight's dinner?
-
-Ils font la queue devant la boulangerie pour manger un croissant chaud.
-They are waiting in line in front of the bakery to eat a warm croissant.
-
-Elle fait la tête à son frère parce qu'il est méchant avec elle.
-She's mad at her brother because he is being mean to her.
-
-Cette fois-ci, ne me ramène pas ta fraise, tu me laisses parler!
-Desta vez, não te mete, me deixa falar!
-
-Depuis qu'il a gagné la course, il a pris le melon!
-Desde que ele ganhou a corrida, ele está se achando!
-
-Et la cerise sur le gâteau, c'est qu'il a m'a quittée pour ma meilleure amie!
-And the icing on the cake is that he left me for my best friend!
-
-Je ne sais pas ce qui lui prend, mais il a la pêche ce matin.
-Eu não sei o que deu nele, mas ele está com um baita bom humor essa manhã.
-
-Quand il a appris qu'il allait être papa, il est tombé dans les pommes.
-When he found out that he's going to be a father, he passed out.
-
-J'ai beaucoup de tee-shirts, mais je ne les porte même pas.
-I have a lot of t-shirts, but I don't even wear them.
-
-Mon vieux tee-shirt a beaucoup de trous.
-My old t-shirt has a lot of holes.
-
-Il a taché sa chemise avec du café.
-He stained his shirt with coffee.
-
-Il doit porter une chemise au travail.
-He has to wear a shirt at work.
-
-J'ai mis un pull car il fait froid.
-Eu pus um sweater porque está frio.
-
-Mon pull commence à s'abîmer.
-My sweater is starting to get worn out.
-
-J'ai acheté une nouvelle veste.
-I bought a new jacket.
-
-Elle porte une veste en jean.
-She's wearing a denim jacket.
-
-L'été, c'est la saison des shorts.
-Summer is the season for wearing shorts.
-
-Il met son short pour aller à la plage.
-He's wearing shorts to go to the beach.
-
-Il fait des pantalons sur-mesure.
-He makes tailor-made pants.
-
-Elle a maigri donc son pantalon ne lui va plus.
-She lost weight so her pants don't fit her anymore.
-
-Sa jupe est trop serrée.
-Her skirt is too tight.
-
-Les jupes en jean sont à la mode.
-Denim skirts are trendy.
-
-Les chaussures à talons sont mes chaussures préférées.
-High heels are my favorite shoes.
-
-J'ai besoin de nouvelles chaussures de sport.
-I need new sport shoes.
-
-J'ai fillé mes collants.
-I have a run in my pantyhose.
-
-Elle porte des collants à pois.
-She's wearing polka dot tights.
-
-Il met ses bottes de pluie.
-He is putting his rain boots on.
-
-Ses bottes ne lui vont plus.
-Her/His boots don't fit her/him anymore.
-
-Il a perdu ses baskets dans le vestiaire.
-He host his sneakers in the locker room.
-
-J'aime porter des baskets pour faire de la randonnée.
-I like to wear sneakers to go on hikes.
-
-J'ai eu un manteau por Noël.
-I got a coat for Christmas.
-
-Mon manteau me tient chaud.
-My coat keeps me warm.
-
-Ma grand-mère me tricote une écharpe.
-My grandmother is knitting me a scarf.
-
-J'ai besoin d'une écharpe bleue.
-I need a blue scarf.
-
-Je préfère les sous-vêtements en coton.
-I prefer cotton underwear.
-
-Tu dois mettre des sous-vêtements avant de t'habiller.
-You have to put underwear on before getting dressed.
-
-Ta cravate est trop serrée.
-Your tie is too tight.
-
-Il ne sait pas faire un noeud de cravate.
-He doesn't know how to put a tie on.
-
-La pluie a mouillé ses chaussettes.
-Her/his socks got wet in the rain.
-
-Je dois laver mes chaussettes.
-I have to wash my socks.
-
-Je préfère porter un jean au travail.
-I prefer to wear jeans to work.
-
-Il achète un nouveau jean sur internet.
-He bought new jeans online.
-
-Elle ne porte que des robes.
-She only wears dresses.
-
-J'ai choisi ma robe de mariée.
-I chose my wedding dress.
-
-Il porte un bonnet tous les jours en hiver.
-He wears a beanie hat every day in winter.
-
-Elle a mis un bonnet pour protéger ses cheveux.
-She put a beanie hat on to protect her hair.
-
-Mon maillot de bain préféré est jaune.
-My favorite swimsuit is yellow.
-
-J'ai perdu mon maillot de bain en vacances.
-I lost my swimsuit during my vacation.
-
-Je ne suis pas satisfait avec la chambre.
-I'm not satisfied with the room.
-
-Voulez-vous apporter vos bagages?
-Would you like to bring your luggage?
-
-Il arrive avec qui?
-Who's he coming with?
-
-Mais le restaurant n'est pas ici.
-But the restaurant is not here.
-
-nous avons eu peu de soleil
-We had little sunshine
-
-deux billets pour Lille 
-two tickets to Lille
-
-deux allers simples seulement 
-two one-way tickets only
-
-cela coûte cent-deux euros 
-that costs one hundred two euros
-
-où est-ce que je peux? 
-where can I?
-
-au dernier guichet 
-at the last ticket window
-
-je voudrais réserver 
-I would like to reserve
-
-deux places pour Lille 
-two seats to Lille
-
-je peux vous donner 
-I can give you
-
-deux places côté fenêtre 
-two seats next to the window
-
-dans un compartiment 
-in a compartment
-
-pour non-fumeurs 
-for non-smokers
-
-combien je vous dois? 
-how much do I owe you?
-
-je voudrais faire enregistrer mes bagages 
-I would like to have my luggage checked
-
-enregistrer mes bagages pour Lille 
-to check my luggage to Lille
-
-combien de boîtes? 
-how many boxes?
-
-cette boîte verte 
-this green box
-
-la valise à côté 
-the suitcase next to it
-
-les faire assurer en face 
-to have them insured across from here
-
-Deux billets pour Lille, première classe, s'il vous plaît. 
-Two tickets for Lille, first class, please.
-
-Aller-retour? 
-Round trip?
-
-Non, deux allers simples seulement. 
-No, two one-ways only.
-
-Pour quelle date? 
-For what date?
-
-Bien, ça fait cent-deux euros. 
-Fine, that's 102 euros.
-
-Où est-ce que je peux réserver mes places? 
-Where can I reserve my seats?
-
-Au dernier guichet à gauche.
-At the last window on the left.
-
-Je voudrais réserver deux places pour Lille. 
-I'd like to reserve two seats for Lille.
-
-Vos billets, s'il vous plaît.
-Your tickets, please
-
-Vous partez par quel train? Par celui de dix-neuf heures trente.
-What train are you taking? The 7:30 p.m. train.
-
-Je peux vous donner deux places côté fenêtre.
-I can give you two window seats.
-
-Dans un compartiment pour non-fumeurs?
-In a non-smoking compartment?
-
-Je ne peux pas décider entre ces deux robes. 
-I can't decide between these two dresses.
-
-Celle de soie est plus jolie mais aussi plus chère que celle de coton.
-The silk one is prettier but also more expensive than the cotton one.
-
-C'est parfait. Combien est-ce que je vous dois?
-That's fine. How much do I owe you?
-
-Je voudrais faire enregistrer mes bagages pour Lille.
-I'd like to have my bags checked through to Lille.
-
-C'est ici. Combien de boîtes avez-vous?
-Right here. How many boxes do you have?
-
-C'est ici. Combien de boîtes avez-vous?
-Right here. How many boxes do you have?
-
-Cette boîte verte là-bas, et la valise à côté.
-That green box over there and the suitcase next to it.
-
-Vous pouvez les faire assurer là-bas.
-You can have them insured over there.
-
-Non, ce n'est pas la peine.
-No, it's not necessary.
-
-Demandez si le train de 7 heures 20 est en retard.
-Ask if the 7:20 train is late.
-
-Demandez si on peut acheter des places côté fenêtre.
-Ask if one can purchase seats next to the window.
-
-Si vous voulez.
-If you wish.
-
-Je ne sais pas si les livres sont ici.
-I do not know if the books are here.
-
+# Elle fait la tête à son frère parce qu'il est méchant avec elle.
+# She's mad at her brother because he is being mean to her.
+# 
+# Cette fois-ci, ne me ramène pas ta fraise, tu me laisses parler!
+# Desta vez, não te mete, me deixa falar!
+# 
+# Depuis qu'il a gagné la course, il a pris le melon!
+# Desde que ele ganhou a corrida, ele está se achando!
+# 
+# Et la cerise sur le gâteau, c'est qu'il a m'a quittée pour ma meilleure amie!
+# And the icing on the cake is that he left me for my best friend!
+# 
+# Je ne sais pas ce qui lui prend, mais il a la pêche ce matin.
+# Eu não sei o que deu nele, mas ele está com um baita bom humor essa manhã.
+# 
+# Quand il a appris qu'il allait être papa, il est tombé dans les pommes.
+# When he found out that he's going to be a father, he passed out.
+# 
+# J'ai beaucoup de tee-shirts, mais je ne les porte même pas.
+# I have a lot of t-shirts, but I don't even wear them.
+# 
+# Mon vieux tee-shirt a beaucoup de trous.
+# My old t-shirt has a lot of holes.
+# 
+# Il a taché sa chemise avec du café.
+# He stained his shirt with coffee.
+# 
+# Il doit porter une chemise au travail.
+# He has to wear a shirt at work.
+# 
+# J'ai mis un pull car il fait froid.
+# Eu pus um sweater porque está frio.
+# 
+# Mon pull commence à s'abîmer.
+# My sweater is starting to get worn out.
+# 
+# J'ai acheté une nouvelle veste.
+# I bought a new jacket.
+# 
+# Elle porte une veste en jean.
+# She's wearing a denim jacket.
+# 
+# L'été, c'est la saison des shorts.
+# Summer is the season for wearing shorts.
+# 
+# Il met son short pour aller à la plage.
+# He's wearing shorts to go to the beach.
+# 
+# Il fait des pantalons sur-mesure.
+# He makes tailor-made pants.
+# 
+# Elle a maigri donc son pantalon ne lui va plus.
+# She lost weight so her pants don't fit her anymore.
+# 
+# Sa jupe est trop serrée.
+# Her skirt is too tight.
+# 
+# Les jupes en jean sont à la mode.
+# Denim skirts are trendy.
+# 
+# Les chaussures à talons sont mes chaussures préférées.
+# High heels are my favorite shoes.
+# 
+# J'ai besoin de nouvelles chaussures de sport.
+# I need new sport shoes.
+# 
+# J'ai fillé mes collants.
+# I have a run in my pantyhose.
+# 
+# Elle porte des collants à pois.
+# She's wearing polka dot tights.
+# 
+# Il met ses bottes de pluie.
+# He is putting his rain boots on.
+# 
+# Ses bottes ne lui vont plus.
+# Her/His boots don't fit her/him anymore.
+# 
+# Il a perdu ses baskets dans le vestiaire.
+# He host his sneakers in the locker room.
+# 
+# J'aime porter des baskets pour faire de la randonnée.
+# I like to wear sneakers to go on hikes.
+# 
+# J'ai eu un manteau por Noël.
+# I got a coat for Christmas.
+# 
+# Mon manteau me tient chaud.
+# My coat keeps me warm.
+# 
+# Ma grand-mère me tricote une écharpe.
+# My grandmother is knitting me a scarf.
+# 
+# J'ai besoin d'une écharpe bleue.
+# I need a blue scarf.
+# 
+# Je préfère les sous-vêtements en coton.
+# I prefer cotton underwear.
+# 
+# Tu dois mettre des sous-vêtements avant de t'habiller.
+# You have to put underwear on before getting dressed.
+# 
+# Ta cravate est trop serrée.
+# Your tie is too tight.
+# 
+# Il ne sait pas faire un noeud de cravate.
+# He doesn't know how to put a tie on.
+# 
+# La pluie a mouillé ses chaussettes.
+# Her/his socks got wet in the rain.
+# 
+# Je dois laver mes chaussettes.
+# I have to wash my socks.
+# 
+# Je préfère porter un jean au travail.
+# I prefer to wear jeans to work.
+# 
+# Il achète un nouveau jean sur internet.
+# He bought new jeans online.
+# 
+# Elle ne porte que des robes.
+# She only wears dresses.
+# 
+# J'ai choisi ma robe de mariée.
+# I chose my wedding dress.
+# 
+# Il porte un bonnet tous les jours en hiver.
+# He wears a beanie hat every day in winter.
+# 
+# Elle a mis un bonnet pour protéger ses cheveux.
+# She put a beanie hat on to protect her hair.
+# 
+# Mon maillot de bain préféré est jaune.
+# My favorite swimsuit is yellow.
+# 
+# J'ai perdu mon maillot de bain en vacances.
+# I lost my swimsuit during my vacation.
+# 
+# Je ne suis pas satisfait avec la chambre.
+# I'm not satisfied with the room.
+# 
+# Voulez-vous apporter vos bagages?
+# Would you like to bring your luggage?
+# 
+# Il arrive avec qui?
+# Who's he coming with?
+# 
+# Mais le restaurant n'est pas ici.
+# But the restaurant is not here.
+# 
+# nous avons eu peu de soleil
+# We had little sunshine
+# 
+# deux billets pour Lille 
+# two tickets to Lille
+# 
+# deux allers simples seulement 
+# two one-way tickets only
+# 
+# cela coûte cent-deux euros 
+# that costs one hundred two euros
+# 
+# où est-ce que je peux? 
+# where can I?
+# 
+# au dernier guichet 
+# at the last ticket window
+# 
+# je voudrais réserver 
+# I would like to reserve
+# 
+# deux places pour Lille 
+# two seats to Lille
+# 
+# je peux vous donner 
+# I can give you
+# 
+# deux places côté fenêtre 
+# two seats next to the window
+# 
+# dans un compartiment 
+# in a compartment
+# 
+# pour non-fumeurs 
+# for non-smokers
+# 
+# combien je vous dois? 
+# how much do I owe you?
+# 
+# je voudrais faire enregistrer mes bagages 
+# I would like to have my luggage checked
+# 
+# enregistrer mes bagages pour Lille 
+# to check my luggage to Lille
+# 
+# combien de boîtes? 
+# how many boxes?
+# 
+# cette boîte verte 
+# this green box
+# 
+# la valise à côté 
+# the suitcase next to it
+# 
+# les faire assurer en face 
+# to have them insured across from here
+# 
+# Deux billets pour Lille, première classe, s'il vous plaît. 
+# Two tickets for Lille, first class, please.
+# 
+# Aller-retour? 
+# Round trip?
+# 
+# Non, deux allers simples seulement. 
+# No, two one-ways only.
+# 
+# Pour quelle date? 
+# For what date?
+# 
+# Bien, ça fait cent-deux euros. 
+# Fine, that's 102 euros.
+# 
+# Où est-ce que je peux réserver mes places? 
+# Where can I reserve my seats?
+# 
+# Au dernier guichet à gauche.
+# At the last window on the left.
+# 
+# Je voudrais réserver deux places pour Lille. 
+# I'd like to reserve two seats for Lille.
+# 
+# Vos billets, s'il vous plaît.
+# Your tickets, please
+# 
+# Vous partez par quel train? Par celui de dix-neuf heures trente.
+# What train are you taking? The 7:30 p.m. train.
+# 
+# Je peux vous donner deux places côté fenêtre.
+# I can give you two window seats.
+# 
+# Dans un compartiment pour non-fumeurs?
+# In a non-smoking compartment?
+# 
+# Je ne peux pas décider entre ces deux robes. 
+# I can't decide between these two dresses.
+# 
+# Celle de soie est plus jolie mais aussi plus chère que celle de coton.
+# The silk one is prettier but also more expensive than the cotton one.
+# 
+# C'est parfait. Combien est-ce que je vous dois?
+# That's fine. How much do I owe you?
+# 
+# Je voudrais faire enregistrer mes bagages pour Lille.
+# I'd like to have my bags checked through to Lille.
+# 
+# C'est ici. Combien de boîtes avez-vous?
+# Right here. How many boxes do you have?
+# 
+# C'est ici. Combien de boîtes avez-vous?
+# Right here. How many boxes do you have?
+# 
+# Cette boîte verte là-bas, et la valise à côté.
+# That green box over there and the suitcase next to it.
+# 
+# Vous pouvez les faire assurer là-bas.
+# You can have them insured over there.
+# 
+# Non, ce n'est pas la peine.
+# No, it's not necessary.
+# 
+# Demandez si le train de 7 heures 20 est en retard.
+# Ask if the 7:20 train is late.
+# 
+# Demandez si on peut acheter des places côté fenêtre.
+# Ask if one can purchase seats next to the window.
+# 
+# Si vous voulez.
+# If you wish.
+# 
+# Je ne sais pas si les livres sont ici.
+# I do not know if the books are here.
+# 
 Demandez s'il achète des places pour Nice.
 Ask he is purchasing two seats for Nice.
 
