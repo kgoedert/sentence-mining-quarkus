@@ -9598,6 +9598,9 @@
 # Mein Vater hat einen großen Löffel.
 # My father has a big spoon.
 # 
+der Vogel, die Vögel
+o pássaro, os pássaros
+
 Hörst du mich?
 Do you hear me? - inf
 

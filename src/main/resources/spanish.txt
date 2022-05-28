@@ -11096,302 +11096,308 @@
 # I see Maria wasn't so bad.
 # 
 # Vimos que teníais unos cuadros preciosos.
-# We saw that you had some beautiful paintings.
+# # We saw that you had some beautiful paintings.
+# # 
+# Ayer visitamos a los Montoro. ¡Qué raro que estuviesen en casa! Están siempre fuera.
+# Yesterday we saw the Montoros. How strange that they were at home! They are always outside.
 # 
-Vi que tu amigo sabia mucho español.
-I saw that your friend knew a lot of Spanish.
-
-Pues yo no opino que fuera tan mala.
-Well, I don't think it was so bad.
-
-No estoy segura de que vinieron todos.
-I'm not sure they all came.
-
-Comimos muy bien, pero no recuerdo que pagase Andrés.
-We ate very well, but I don't remember Andrés paying.
-
-No creo que lo hicieron ellas.
-I don't think they did it.
-
-¿A qué hora llegó Miguel? No sé. No me pareció que fuera tarde.
-What time did Miguel arrive? I don't know. I didn't think it was too late.
-
-Todos culpaban a María, pero no veo que fuera tan mala.
-Everyone blamed Mary, but I don't see how bad it was.
-
-No vimos que tuvieran ningún cuadro.
-We didn't see any pictures.
-
-No vi que tu amigo supiese español.
-I didn't see that your friend knew Spanish.
-
-Vi que había una roca en medio de la carretera y me paré.
-I saw that there was a rock in the middle of the road and I stopped.
-
-Es cierto que Ángel estaba cansado.
-It's true that Angel was tired.
-
-Tengo constancia de que Enrique no quería ayudarnos.
-I know Enrique didn't want to help us.
-
-Me consta que Alfonso llegó tarde.
-I know Alfonso was late.
-
-No es cierto que Ángel estuviera cansado.
-It's not true that Angel was tired.
-
-Pues yo no tengo constancia de que no quisiese hacerlo.
-Well, I don't know that he didn't want to.
-
-Pues a mí no me consta que llegara tarde.
-Well, I don't know that he was late.
-
-Era falso que Ángel estuviera cansado.
-It was false that Angel was tired.
-
-Aquí dice que la función empezaba a las ocho.
-It says here that the show began at eight o'clock.
-
-Los médicos dicen que fue cáncer.
-The doctors say it was cancer.
-
-Reconozco que Julia tenía razón.
-I admit Julia was right.
-
-Ahí no dice que la función empezase a las ocho.
-It doesn't say that the show started at 8:00.
-
-Los médicos no dicen que fuera cáncer.
-The doctors don't say it was cancer.
-
-Pues yo no reconozco que tuviese razón.
-Well, I don't recognize that she was right.
-
-Ojalá hayan regresado ya mis padres. Me he olvidado las llaves.
-I hope my parents are back by now. I forgot my keys.
-
-¡Qué jarrón más bonito! Quizá lo haya hecho Rocío. Va a clases de cerámica.
-What a beautiful vase! Maybe Rocío did it. She goes to pottery classes.
-
-Luis y Pili no están en casa. Probablemente hayan salido.
-Luis and Pili are not at home. They've probably gone out.
-
-Es raro que Isabel no te haya llamado esta semana.
-It's strange that Isabel hasn't called you this week.
-
-Nacho habla muy bien chino. Quizá haya vivido en China.
-Nacho speaks very good Chinese. Maybe she lived in China.
-
-¡Ojalá hayan comprado comida! Tengo hambre.
-I hope they bought food! I'm hungry.
-
-¡Ojalá Jorge haya conseguido este empleo!
-I hope Jorge got this job!
-
-Ha habido un accidente en el vuelo en el que venía Clara. ¡Dios mío! ¡Que no le haya pasado nada!
-There was an accident on Clara's flight. Oh, my God, nothing happened to her!
-
-Ha habido una explosión en una casa del centro. ¡Qué no haya habido víctimas!
-There was an explosion in a house in the centre. There were no victims!
-
-¡Qué niño! ¡Cómo comía! ¡Así se le hayan indigestado los pasteles!
-What a child! How he ate! That's how the cakes made him indigestible!
-
-¡Vaya mujer! ¡Así le hayan dicho lo que se merece!
-What a woman! Even if they told him what he deserved!
-
-¡Qué alegría que todo haya salido bien!
-What a joy that everything went well!
-
-¡Qué extraño que tus tíos no te hayan felicitado este año!
-How strange that your uncles didn't congratulate you this year!
-
-¡Qué raro que María no haya estado nunca en la India! Con lo que ha viajado.
-How strange that Mary has never been to India! With what she has travelled.
-
-¿Te ha llamado Mario? No lo sé. Quizá me haya llamado, pero me he dejado el móvil en casa.
-Did Mario call you? I don't know. Maybe he called me, but I left my mobile at home.
-
-¿Quién tiene información sobre Colombia? Pregunta a Armando. Probablemente haya estado allí.
-Who has information about Colombia? Ask Armando. He's probably been there.
-
-Ya he terminado el informe. Espero que lo hayas hecho bien.
-I've already finished the report. I hope you did well.
-
-Dudo que Jorge haya estado hoy aquí.
-I doubt Jorge was here today.
-
-Dice que fue traductor de joven. Es imposible que haya sido traductor. Solo habla español.
-He says he was a translator when he was young. It's impossible that he was a translator. He only speaks Spanish.
-
-Espero que hayas reservado habitación. Hay muchísima gente.
-I hope you booked a room. There are so many people.
-
-Espero que hayas probado la cocina mexicana antes. Puede ser un poco fuerte.
-I hope you've tried Mexican cuisine before. It can be a bit strong.
-
-Prefiero que hayas venido tú. Eres más simpático que tu hermano.
-I prefer you to come. You're nicer than your brother.
-
-Para entrar en la universidad es imprescindible que hayáis aprobado la selectividad.
-In order to enter university, it is essential that you have passed the selectivity exam.
-
-Le agradezco que haya pensado en mí para el trabajo.
-I thank him for thinking of me for work.
-
-Para entrar en la empresa me exigen que haya hecho el servicio militar.
-To enter the company I am required to have done military service.
-
-Más vale que hayas estudiado. Los exámenes de este profesor son muy difíciles.
-You'd better have studied. This professor's exams are very difficult.
-
-¿Cómo puedes haber permitido que le hayan despedido a Antonio?
-How could you have allowed Antonio to be fired?
-
-Perdona que no haya podido llamarte, pero el móvil se quedó sin batería.
-I'm sorry I couldn't call you, but my cell phone ran out of battery.
-
-Has hecho que haya vuelto a pensar en mi infancia.
-You made me think about my childhood again.
-
-Me alegro de que hayáis podido venir a la fiesta.
-I'm glad you could come to the party.
-
-Siento que no hayas logrado el ascenso. Otra vez será.
-I'm sorry you didn't make the promotion. It will be another time.
-
-Tengo miedo de que me hayan visto.
-I'm afraid they saw me.
-
-Dudo que Reinaldo haya vivido en la India. No sabe quién es Gandhi.
-I doubt Reinaldo lived in India. He does not know who Gandhi is.
-
-Parece mentira que haya trabajado tanto y le haya quedado una pensión tan miserable.
-It seems a lie that he worked so hard and had such a miserable pension left.
-
-¿Cómo han quedado las elecciones? Puede que hayan ganado los Liberales, pero quedan muchos votos por recontar.
-What about the elections? The Liberals may have won, but many votes remain to be counted.
-
-No es posible que la inmobiliaria haya vendido todos los pisos.
-It is not possible that the real estate company has sold all the flats.
-
-Es imposible que lo haya hecho él.
-He couldn't have done it.
-
-Es normal que hayan ganado. Han jugado muy bien.
-It is normal that they have won. They played very well.
-
-Es lógico que hayan llegado tarde. Viven muy lejos.
-It's logical that they were late. They live far away.
-
-No me parece bien que Javi haya visto esa película. No es para niños.
-I don't think it's right for Javi to have seen that film. It's not for children.
-
-He oído que habéis contratado a una nueva secretaria.
-I hear you've hired a new secretary.
-
-Elene dice que ha estudiado mucho esta semana. No sé si creerla.
-Elene says she has studied a lot this week. I don't know whether to believe her.
-
-¿Es cierto que Julián ha trabajado mucho siempre? Sí, toda su vida.
-Is it true that Julián has always worked hard? Yes, all his life.
-
-Pues yo no he oído que hayamos contratado a nadie.
-Well, I haven't heard that we've hired anyone.
-
-Bueno, no dice que haya estudiado mucho esta semana, pero ha salido poco.
-Well, it doesn't say that he's studied a lot this week, but he hasn't come out much.
-
-Felipe es un vago. No creo que haya trabajado en su vida.
-Felipe is lazy. I don't think he's worked in his life.
-
-No es cierto que Ramiro se haya dejado bigote.
-It's not true that Ramiro has grown a moustache.
-
-Creo que se ha quedado dormido.
-I think he fell asleep.
-
-¿Crees que te ha visto alguien?
-Do you think anyone has seen you?
-
-Me han roto un cristal. Estoy seguro de que han sido tus hijos.
-They broke my glass. I am sure it was your children.
-
-Creo que ha trabajado muchos años en un banco.
-I think he worked in a bank for many years.
-
-Os han castigado una vez. Veo que habéis aprendido nada.
-You have been punished once. I see you have learned nothing.
-
-Veo que te ha crecido pelo.
-I see you have grown hair.
-
-¿He oído que te has casado, Juan?
-Did I hear you got married, John?
-
-No creo que se haya quedado dormido.
-I don't think he fell asleep.
-
-No creo que me haya visto nadie.
-I don't think anyone saw me.
-
-Bueno, yo no estoy seguro de que hayan sido ellos.
-Well, I'm not sure it was them.
-
-No creo que haya trabajado en su vida.
-I don't think he worked in his life.
-
-No veo que hayáis aprendido nada.
-I don't see that you've learned anything.
-
-No veo que me haya crecido nada el pelo.
-I don't see that my hair has grown at all.
-
-No he oído que Juan se haya casado.
-I haven't heard that Jim got married.
-
-No es cierto que Lucas haya sido catedrático.
-It's not true that Lucas was a professor.
-
-¿Es verdad que Rodrigo ha tenido mucho dinero?
-Is it true that Rodrigo had a lot of money?
-
-Sí, pero lo perdió todo en malas inversiones.
-Yes, but he lost everything in bad investments.
-
-Está claro que ha sido ella.
-It is clear that it was her.
-
-Ha sido profesor auxiliar.
-He has been an assistant professor.
-
-No es verdad que hayan querido raptarme. Se lo inventó Sonia.
-It's not true that they wanted to kidnap me. Sonia invented it.
-
-Es mentira que yo haya dicho nada contra ti.
-It is a lie that I said nothing against you.
-
-Dice que no lo ha hecho él, que fue un amigo suyo.
-He says that he didn't do it, that he was a friend of his.
-
-Comentan que han nombrado un nuevo ministro de Exteriores.
-They say that they have appointed a new foreign minister.
-
-No niega que lo haya hecho él, pero dice que fue en defensa propia.
-He doesn't deny that he did it, but he says it was in self-defense.
-
-No se comenta que hayan nombrado un nuevo ministro de Exteriores.
-It is not said that they have appointed a new foreign minister.
-
-No ha negado que ha visto a Carmen.
-He has not denied that he has seen Carmen.
-
-¡Ojalá hubiera aceptado ese empleo! Ahora no estaría en el paro.
-I wish I'd taken that job! I wouldn't be unemployed now.
-
-¡Ojalá hubiese ganado Pedro!
-I wish Pedro had won!
-
+# Ayer fui al médico. Me recomendó que no abusase del café.
+# Yesterday I went to the doctor. He advised me not to abuse coffee. 
+# 
+# Vi que tu amigo sabia mucho español.
+# I saw that your friend knew a lot of Spanish.
+# 
+# Pues yo no opino que fuera tan mala.
+# Well, I don't think it was so bad.
+# 
+# No estoy segura de que vinieron todos.
+# I'm not sure they all came.
+# 
+# Comimos muy bien, pero no recuerdo que pagase Andrés.
+# We ate very well, but I don't remember Andrés paying.
+# 
+# No creo que lo hicieron ellas.
+# I don't think they did it.
+# 
+# ¿A qué hora llegó Miguel? No sé. No me pareció que fuera tarde.
+# What time did Miguel arrive? I don't know. I didn't think it was too late.
+# 
+# Todos culpaban a María, pero no veo que fuera tan mala.
+# Everyone blamed Mary, but I don't see how bad it was.
+# 
+# No vimos que tuvieran ningún cuadro.
+# We didn't see any pictures.
+# 
+# No vi que tu amigo supiese español.
+# I didn't see that your friend knew Spanish.
+# 
+# Vi que había una roca en medio de la carretera y me paré.
+# I saw that there was a rock in the middle of the road and I stopped.
+# 
+# Es cierto que Ángel estaba cansado.
+# It's true that Angel was tired.
+# 
+# Tengo constancia de que Enrique no quería ayudarnos.
+# I know Enrique didn't want to help us.
+# 
+# Me consta que Alfonso llegó tarde.
+# I know Alfonso was late.
+# 
+# No es cierto que Ángel estuviera cansado.
+# It's not true that Angel was tired.
+# 
+# Pues yo no tengo constancia de que no quisiese hacerlo.
+# Well, I don't know that he didn't want to.
+# 
+# Pues a mí no me consta que llegara tarde.
+# Well, I don't know that he was late.
+# 
+# Era falso que Ángel estuviera cansado.
+# It was false that Angel was tired.
+# 
+# Aquí dice que la función empezaba a las ocho.
+# It says here that the show began at eight o'clock.
+# 
+# Los médicos dicen que fue cáncer.
+# The doctors say it was cancer.
+# 
+# Reconozco que Julia tenía razón.
+# I admit Julia was right.
+# 
+# Ahí no dice que la función empezase a las ocho.
+# It doesn't say that the show started at 8:00.
+# 
+# Los médicos no dicen que fuera cáncer.
+# The doctors don't say it was cancer.
+# 
+# Pues yo no reconozco que tuviese razón.
+# Well, I don't recognize that she was right.
+# 
+# Ojalá hayan regresado ya mis padres. Me he olvidado las llaves.
+# I hope my parents are back by now. I forgot my keys.
+# 
+# ¡Qué jarrón más bonito! Quizá lo haya hecho Rocío. Va a clases de cerámica.
+# What a beautiful vase! Maybe Rocío did it. She goes to pottery classes.
+# 
+# Luis y Pili no están en casa. Probablemente hayan salido.
+# Luis and Pili are not at home. They've probably gone out.
+# 
+# Es raro que Isabel no te haya llamado esta semana.
+# It's strange that Isabel hasn't called you this week.
+# 
+# Nacho habla muy bien chino. Quizá haya vivido en China.
+# Nacho speaks very good Chinese. Maybe she lived in China.
+# 
+# ¡Ojalá hayan comprado comida! Tengo hambre.
+# I hope they bought food! I'm hungry.
+# 
+# ¡Ojalá Jorge haya conseguido este empleo!
+# I hope Jorge got this job!
+# 
+# Ha habido un accidente en el vuelo en el que venía Clara. ¡Dios mío! ¡Que no le haya pasado nada!
+# There was an accident on Clara's flight. Oh, my God, nothing happened to her!
+# 
+# Ha habido una explosión en una casa del centro. ¡Qué no haya habido víctimas!
+# There was an explosion in a house in the centre. There were no victims!
+# 
+# ¡Qué niño! ¡Cómo comía! ¡Así se le hayan indigestado los pasteles!
+# What a child! How he ate! That's how the cakes made him indigestible!
+# 
+# ¡Vaya mujer! ¡Así le hayan dicho lo que se merece!
+# What a woman! Even if they told him what he deserved!
+# 
+# ¡Qué alegría que todo haya salido bien!
+# What a joy that everything went well!
+# 
+# ¡Qué extraño que tus tíos no te hayan felicitado este año!
+# How strange that your uncles didn't congratulate you this year!
+# 
+# ¡Qué raro que María no haya estado nunca en la India! Con lo que ha viajado.
+# How strange that Mary has never been to India! With what she has travelled.
+# 
+# ¿Te ha llamado Mario? No lo sé. Quizá me haya llamado, pero me he dejado el móvil en casa.
+# Did Mario call you? I don't know. Maybe he called me, but I left my mobile at home.
+# 
+# ¿Quién tiene información sobre Colombia? Pregunta a Armando. Probablemente haya estado allí.
+# Who has information about Colombia? Ask Armando. He's probably been there.
+# 
+# Ya he terminado el informe. Espero que lo hayas hecho bien.
+# I've already finished the report. I hope you did well.
+# 
+# Dudo que Jorge haya estado hoy aquí.
+# I doubt Jorge was here today.
+# 
+# Dice que fue traductor de joven. Es imposible que haya sido traductor. Solo habla español.
+# He says he was a translator when he was young. It's impossible that he was a translator. He only speaks Spanish.
+# 
+# Espero que hayas reservado habitación. Hay muchísima gente.
+# I hope you booked a room. There are so many people.
+# 
+# Espero que hayas probado la cocina mexicana antes. Puede ser un poco fuerte.
+# I hope you've tried Mexican cuisine before. It can be a bit strong.
+# 
+# Prefiero que hayas venido tú. Eres más simpático que tu hermano.
+# I prefer you to come. You're nicer than your brother.
+# 
+# Para entrar en la universidad es imprescindible que hayáis aprobado la selectividad.
+# In order to enter university, it is essential that you have passed the selectivity exam.
+# 
+# Le agradezco que haya pensado en mí para el trabajo.
+# I thank him for thinking of me for work.
+# 
+# Para entrar en la empresa me exigen que haya hecho el servicio militar.
+# To enter the company I am required to have done military service.
+# 
+# Más vale que hayas estudiado. Los exámenes de este profesor son muy difíciles.
+# You'd better have studied. This professor's exams are very difficult.
+# 
+# ¿Cómo puedes haber permitido que le hayan despedido a Antonio?
+# How could you have allowed Antonio to be fired?
+# 
+# Perdona que no haya podido llamarte, pero el móvil se quedó sin batería.
+# I'm sorry I couldn't call you, but my cell phone ran out of battery.
+# 
+# Has hecho que haya vuelto a pensar en mi infancia.
+# You made me think about my childhood again.
+# 
+# Me alegro de que hayáis podido venir a la fiesta.
+# I'm glad you could come to the party.
+# 
+# Siento que no hayas logrado el ascenso. Otra vez será.
+# I'm sorry you didn't make the promotion. It will be another time.
+# 
+# Tengo miedo de que me hayan visto.
+# I'm afraid they saw me.
+# 
+# Dudo que Reinaldo haya vivido en la India. No sabe quién es Gandhi.
+# I doubt Reinaldo lived in India. He does not know who Gandhi is.
+# 
+# Parece mentira que haya trabajado tanto y le haya quedado una pensión tan miserable.
+# It seems a lie that he worked so hard and had such a miserable pension left.
+# 
+# ¿Cómo han quedado las elecciones? Puede que hayan ganado los Liberales, pero quedan muchos votos por recontar.
+# What about the elections? The Liberals may have won, but many votes remain to be counted.
+# 
+# No es posible que la inmobiliaria haya vendido todos los pisos.
+# It is not possible that the real estate company has sold all the flats.
+# 
+# Es imposible que lo haya hecho él.
+# He couldn't have done it.
+# 
+# Es normal que hayan ganado. Han jugado muy bien.
+# It is normal that they have won. They played very well.
+# 
+# Es lógico que hayan llegado tarde. Viven muy lejos.
+# It's logical that they were late. They live far away.
+# 
+# No me parece bien que Javi haya visto esa película. No es para niños.
+# I don't think it's right for Javi to have seen that film. It's not for children.
+# 
+# He oído que habéis contratado a una nueva secretaria.
+# I hear you've hired a new secretary.
+# 
+# Elene dice que ha estudiado mucho esta semana. No sé si creerla.
+# Elene says she has studied a lot this week. I don't know whether to believe her.
+# 
+# ¿Es cierto que Julián ha trabajado mucho siempre? Sí, toda su vida.
+# Is it true that Julián has always worked hard? Yes, all his life.
+# 
+# Pues yo no he oído que hayamos contratado a nadie.
+# Well, I haven't heard that we've hired anyone.
+# 
+# Bueno, no dice que haya estudiado mucho esta semana, pero ha salido poco.
+# Well, it doesn't say that he's studied a lot this week, but he hasn't come out much.
+# 
+# Felipe es un vago. No creo que haya trabajado en su vida.
+# Felipe is lazy. I don't think he's worked in his life.
+# 
+# No es cierto que Ramiro se haya dejado bigote.
+# It's not true that Ramiro has grown a moustache.
+# 
+# Creo que se ha quedado dormido.
+# I think he fell asleep.
+# 
+# ¿Crees que te ha visto alguien?
+# Do you think anyone has seen you?
+# 
+# Me han roto un cristal. Estoy seguro de que han sido tus hijos.
+# They broke my glass. I am sure it was your children.
+# 
+# Creo que ha trabajado muchos años en un banco.
+# I think he worked in a bank for many years.
+# 
+# Os han castigado una vez. Veo que habéis aprendido nada.
+# You have been punished once. I see you have learned nothing.
+# 
+# Veo que te ha crecido pelo.
+# I see you have grown hair.
+# 
+# ¿He oído que te has casado, Juan?
+# Did I hear you got married, John?
+# 
+# No creo que se haya quedado dormido.
+# I don't think he fell asleep.
+# 
+# No creo que me haya visto nadie.
+# I don't think anyone saw me.
+# 
+# Bueno, yo no estoy seguro de que hayan sido ellos.
+# Well, I'm not sure it was them.
+# 
+# No creo que haya trabajado en su vida.
+# I don't think he worked in his life.
+# 
+# No veo que hayáis aprendido nada.
+# I don't see that you've learned anything.
+# 
+# No veo que me haya crecido nada el pelo.
+# I don't see that my hair has grown at all.
+# 
+# No he oído que Juan se haya casado.
+# I haven't heard that Jim got married.
+# 
+# No es cierto que Lucas haya sido catedrático.
+# It's not true that Lucas was a professor.
+# 
+# ¿Es verdad que Rodrigo ha tenido mucho dinero?
+# Is it true that Rodrigo had a lot of money?
+# 
+# Sí, pero lo perdió todo en malas inversiones.
+# Yes, but he lost everything in bad investments.
+# 
+# Está claro que ha sido ella.
+# It is clear that it was her.
+# 
+# Ha sido profesor auxiliar.
+# He has been an assistant professor.
+# 
+# No es verdad que hayan querido raptarme. Se lo inventó Sonia.
+# It's not true that they wanted to kidnap me. Sonia invented it.
+# 
+# Es mentira que yo haya dicho nada contra ti.
+# It is a lie that I said nothing against you.
+# 
+# Dice que no lo ha hecho él, que fue un amigo suyo.
+# He says that he didn't do it, that he was a friend of his.
+# 
+# Comentan que han nombrado un nuevo ministro de Exteriores.
+# They say that they have appointed a new foreign minister.
+# 
+# No niega que lo haya hecho él, pero dice que fue en defensa propia.
+# He doesn't deny that he did it, but he says it was in self-defense.
+# 
+# No se comenta que hayan nombrado un nuevo ministro de Exteriores.
+# It is not said that they have appointed a new foreign minister.
+# 
+# No ha negado que ha visto a Carmen.
+# He has not denied that he has seen Carmen.
+# 
+# ¡Ojalá hubiera aceptado ese empleo! Ahora no estaría en el paro.
+# I wish I'd taken that job! I wouldn't be unemployed now.
+# 
+# ¡Ojalá hubiese ganado Pedro!
+# I wish Pedro had won!
+# 
 ¡Ojalá te hubiera hecho caso!
 I wish I'd listened to you!
 
