@@ -9592,300 +9592,312 @@
 # Mein Vater hat ein großes Messer.
 # My father has a big knife.
 # 
-# Mein Vater hat eine große Gabel.
-# My father has a big fork.
+# # Mein Vater hat eine große Gabel.
+# # My father has a big fork.
+# # 
+# # Mein Vater hat einen großen Löffel.
+# # My father has a big spoon.
+# # 
+# My father hears a soft mouse. 
+# My father hears a quiet mouse.
 # 
-# Mein Vater hat einen großen Löffel.
-# My father has a big spoon.
+# der Stift, die Stifte
+# a caneta, as canetas
 # 
-der Vogel, die Vögel
-o pássaro, os pássaros
-
-Hörst du mich?
-Do you hear me? - inf
-
-Ich kann dich nicht hören?
-I can't hear you. - inf
-
-Ich höre dich nicht.
-I don't hear you. - inf
-
-Hast du das gehört?
-Did you hear that? - inf
-
-Ich höre Sie nicht gut.
-I don't hear you very well. - formal
-
-Ich höre Musik.
-I'm listening to music
-
-Hörst du gern Rockmusik?
-Do you like to listen to music? - inf
-
-Ich höre Radio.
-I'm listening to the radio.
-
-Kannst du mir bitte zuhören?
-Can you please listen to me? - inf
-
-Du hast gut zugehört.
-You listened well.  - inf. Estava ouvindo e prestando atencao
-
-Die Kinder haben mir die ganze Zeit aufmerksam zugehört.
-The kids listened to me attentively the whole time.
-
-Hast du mir nicht zugehört?
-Didn't you listen to me? - inf. Ouvir e prestar atencao
-
-Er hat sich meine Meinung angehört.
-He listened to my opinion. - ouviu, mas nao necessariamente com atencao
-
-Er hat mir zugehört.
-He listened to me. Ouviu e prestou atencao
-
-Ich habe mir dir Rede noch nicht angehört.
-I didn't listen to the speech yet. - ouvir, nao necessariamente com atencao
-
-Ich habe mir die neue Single von Rihanna angehört.
-I listened to Rihanna's new single. - ouvir, nao necessariamente com atencao
-
-Du musst auf deine Eltern hören.
-You have to listen to/to obey your parents.
-
-Er hat mir geraten, mein Studium abzuschließen. Zum Glück habe ich auf ihn gehört.
-He advised me to finish my university studies. Fortunately, I listened to him.
-
-Er hört nie auf das, was ich ihm sage.
-He never follows my advice. (He never listens to me)
-
-Sie wollte auf meinen Rat nicht hören.
-She didn't want to follow my advice./to listen to me.
-
-Hast du auf deine Mutter gehört?
-Did you listen to /obey your mother? - inf
-
-Ich habe das Gespräch zwischen Klaus und Sabine mitgehört.
-I listened in on the conversation between Klaus and Sabine (sem querer)
-
-Ich habe meninen Wecker überhört.
-I failed to listen to my alarm clock.
-
-Wir müssen am Samstag alle arbeiten kommen. Wusstest du das nicht?
-All of us have to come to work on saturday. Didn't you know that? - inf
-
-Nein. Das habe ich wohl überhört.
-No. I failed to hear that.
-
-Kennst du meine Schwester?
-Do you know my sister? - inf
-
-Kennst du den Weg?
-Do you know the way? - inf
-
-Ich kenne diese Stadt sehr gut.
-I know this city very well.
-
-Kennst du Til Schweiger?
-Do you know Til Schweiger? - inf
-
-Kennst du den neuen Film mit Nora Tschirner?
-Do you know the new movie with Nora Tschirner?
-
-Ich kenne dieses Wort.
-I know this word.
-
-Kennst du den neuen Nachbarn?
-Do you know the new neighbor? - inf
-
-Weißt du, wann es Mittagessen gibt?
-Do you know when luch is ready? - inf
-
-Weißt du, wann der Supermarkt aufmacht?
-Do you know when the supermarket opens? - inf
-
-Weißt du, wo wir sind?
-Do you know where we are? - inf
-
-Wusstest du, dass er verheiratet ist?
-Did you know that he is married? - inf
-
-Wusstet ihr, dass Blau meine Lieblingsfarbe ist?
-Did you guys know, that blue is my favorite color?
-
-Weißt du, wann der Chef aus dem Urlaub zurückkommt?
-Do you know when the boss is coming back from his vacation? - inf
-
-Wissen Sie, wer das geschrieben hat?
-Do you know who wrote that? - formal
-
-Wissen Sie, wo die Toilette ist?
-Do you know where the bathroom is? - formal
-
-Ich weiß das.
-I know that.
-
-Ich weiß es nicht.
-I don't know that.
-
-Ich weiß nicht.
-I don't know.
-
-Er kann gut Deutsch sprechen.
-He speaks german well.
-
-Er kann gut Deutsch.
-He speaks german well.
-
-Kannst du Englisch?
-Can you [speak] English? - inf
-
-Ich kann das nicht.
-I can't do that.
-
-Kannst du das?
-Can you do that? - inf
-
-Kennen Sie sich hier aus?
-Are you familiar with the area? - formal
-
-Ich kenne mich hier leider nicht aus.
-Unfortunately, I'm not familiar with the area.
-
-Er kennt sich in Berlin sehr gut aus.
-He knows his way around Berlin.
-
-Kennst du dich mit dieser Software aus?
-Do you know how to use this software? - inf
-
-Er kennt sich mit Pferden gut aus.
-He knows a lot about horses.
-
-Kennst du dich mit Versicherungen aus?
-Do you know a lot about insurances? - inf
-
-Ich weiß nicht, was ich machen soll.
-I don't know what to do.
-
-Meine Mutter hört einen lauten Vogel.
-My mother hears a loud bird.
-
-Meine Mutter hört eine laute Maus.
-My mother hears a loud mouse.
-
-Meine Mutter hört ein lautes Auto.
-My mother hears a loud car.
-
-Meine Mutter hört einen Lauten Wagen.
-My mother hears a loud car.
-
-Meine Mutter hört eine laute Katze.
-My mother hears a loud cat.
-
-Meine Mutter hört ein lautes Schiff.
-My mother hears a loud ship.
-
-Möchten Sie den blauen Stift?
-Would you like the blue pen?
-
-Möchten Sie das blaue Hemd?
-Would you like the blue shirt?
-
-Möchten Sie die blaue Hose?
-Would you like the blue trousers?
-
-Möchten Sie den blauen Schraubenzieher?
-Do you want the blue screwdriver?
-
-Möchten Sie das blaue Papier?
-Would you like the blue paper?
-
-Möchten Sie die blaue Flasche?
-Would you like the blue bottle?
-
-Wir hätten gerne die schöne Blume.
-We would like the beautiful flower.
-
-Wir hätten gerne das schöne Haus.
-We would like to have the beautiful house.
-
-Wir hätten gerne den schönen Wagen.
-We would like to have the beautiful car.
-
-Wir hätten gerne die schöne Hose.
-We would like the beautiful trousers.
-
-Wir hätten gerne das schöne Hemd.
-We would like to have the beautiful shirt.
-
-Wir hätten gerne den schönen Tisch.
-We would like to have the beautiful table.
-
-Ich möchte das weiße Hemd.
-I want the white shirt.
-
-Elmar möchte das weiße Hemd.
-Elmar wants the white shirt.
-
-Mein Bruder und ich möchten das weiße Hemd.
-My brother and I want the white shirt.
-
-Suse möchte das weiße Hemd.
-Suse wants the white shirt.
-
-Sie möchten das weiße Hemd. 
-You want the white shirt. 
-
-Meine Brüder möchten das weiße Hemd.
-My brothers want the white shirt.
-
-Ich möchte das weiße Hemd.
-I want the white shirt.
-
-Er hätte gerne einen braunen Hund.
-He would like a brown dog.
-
-Karin hätte gerne einen braunen Hund.
-Karin would like a brown dog.
-
-Meine Schwester und ich hätten gerne einen braunen Hund.
-My sister and I would like a brown dog.
-
-Johannes und Karin hätten gerne einen braunen Hund.
-Johannes and Karin would like a brown dog.
-
-Ich hätte gerne einen braunen Hund
-I would like a brown dog.
-
-Sie hätten gerne einen braunen Hund.
-You'd like a brown dog.
-
-Christoph hätte gerne einen braunen Hund.
-Christoph would like a brown dog.
-
-Die Eltern würden gerne die gelbe Blume kaufen.
-The parents would like to buy the yellow flower.
-
-Thomas würde gerne die gelbe Blume kaufen.
-Thomas would like to buy the yellow flower.
-
-Sie würden gerne die gelbe Blume kaufen.
-They would like to buy the yellow flower.
-
-Mein Bruder und ich würden gerne die gelbe Blume kaufen.
-My brother and I would like to buy the yellow flower.
-
-Meine Schwester würde gerne die gelbe Blume kaufen.
-My sister would like to buy the yellow flower.
-
-Die Schwestern würden gerne die gelbe Blume kaufen.
-The sisters would like to buy the yellow flower.
-
-Ich würde gerne die gelbe Blume kaufen.
-I would like to buy the yellow flower.
-
-Mag Johannes ein leckeres Brot schneiden?
-Does Johannes like to cut a delicious bread?
-
+# der Vogel, die Vögel
+# o pássaro, os pássaros
+# 
+# My mother hears a loud car. 
+# My mother hears a loud car. 
+# 
+# He sees the fast mouse. 
+# He sees the quick mouse. 
+# 
+# Hörst du mich?
+# Do you hear me? - inf
+# 
+# Ich kann dich nicht hören?
+# I can't hear you. - inf
+# 
+# Ich höre dich nicht.
+# I don't hear you. - inf
+# 
+# Hast du das gehört?
+# Did you hear that? - inf
+# 
+# Ich höre Sie nicht gut.
+# I don't hear you very well. - formal
+# 
+# Ich höre Musik.
+# I'm listening to music
+# 
+# Hörst du gern Rockmusik?
+# Do you like to listen to music? - inf
+# 
+# Ich höre Radio.
+# I'm listening to the radio.
+# 
+# Kannst du mir bitte zuhören?
+# Can you please listen to me? - inf
+# 
+# Du hast gut zugehört.
+# You listened well.  - inf. Estava ouvindo e prestando atencao
+# 
+# Die Kinder haben mir die ganze Zeit aufmerksam zugehört.
+# The kids listened to me attentively the whole time.
+# 
+# Hast du mir nicht zugehört?
+# Didn't you listen to me? - inf. Ouvir e prestar atencao
+# 
+# Er hat sich meine Meinung angehört.
+# He listened to my opinion. - ouviu, mas nao necessariamente com atencao
+# 
+# Er hat mir zugehört.
+# He listened to me. Ouviu e prestou atencao
+# 
+# Ich habe mir dir Rede noch nicht angehört.
+# I didn't listen to the speech yet. - ouvir, nao necessariamente com atencao
+# 
+# Ich habe mir die neue Single von Rihanna angehört.
+# I listened to Rihanna's new single. - ouvir, nao necessariamente com atencao
+# 
+# Du musst auf deine Eltern hören.
+# You have to listen to/to obey your parents.
+# 
+# Er hat mir geraten, mein Studium abzuschließen. Zum Glück habe ich auf ihn gehört.
+# He advised me to finish my university studies. Fortunately, I listened to him.
+# 
+# Er hört nie auf das, was ich ihm sage.
+# He never follows my advice. (He never listens to me)
+# 
+# Sie wollte auf meinen Rat nicht hören.
+# She didn't want to follow my advice./to listen to me.
+# 
+# Hast du auf deine Mutter gehört?
+# Did you listen to /obey your mother? - inf
+# 
+# Ich habe das Gespräch zwischen Klaus und Sabine mitgehört.
+# I listened in on the conversation between Klaus and Sabine (sem querer)
+# 
+# Ich habe meninen Wecker überhört.
+# I failed to listen to my alarm clock.
+# 
+# Wir müssen am Samstag alle arbeiten kommen. Wusstest du das nicht?
+# All of us have to come to work on saturday. Didn't you know that? - inf
+# 
+# Nein. Das habe ich wohl überhört.
+# No. I failed to hear that.
+# 
+# Kennst du meine Schwester?
+# Do you know my sister? - inf
+# 
+# Kennst du den Weg?
+# Do you know the way? - inf
+# 
+# Ich kenne diese Stadt sehr gut.
+# I know this city very well.
+# 
+# Kennst du Til Schweiger?
+# Do you know Til Schweiger? - inf
+# 
+# Kennst du den neuen Film mit Nora Tschirner?
+# Do you know the new movie with Nora Tschirner?
+# 
+# Ich kenne dieses Wort.
+# I know this word.
+# 
+# Kennst du den neuen Nachbarn?
+# Do you know the new neighbor? - inf
+# 
+# Weißt du, wann es Mittagessen gibt?
+# Do you know when luch is ready? - inf
+# 
+# Weißt du, wann der Supermarkt aufmacht?
+# Do you know when the supermarket opens? - inf
+# 
+# Weißt du, wo wir sind?
+# Do you know where we are? - inf
+# 
+# Wusstest du, dass er verheiratet ist?
+# Did you know that he is married? - inf
+# 
+# Wusstet ihr, dass Blau meine Lieblingsfarbe ist?
+# Did you guys know, that blue is my favorite color?
+# 
+# Weißt du, wann der Chef aus dem Urlaub zurückkommt?
+# Do you know when the boss is coming back from his vacation? - inf
+# 
+# Wissen Sie, wer das geschrieben hat?
+# Do you know who wrote that? - formal
+# 
+# Wissen Sie, wo die Toilette ist?
+# Do you know where the bathroom is? - formal
+# 
+# Ich weiß das.
+# I know that.
+# 
+# Ich weiß es nicht.
+# I don't know that.
+# 
+# Ich weiß nicht.
+# I don't know.
+# 
+# Er kann gut Deutsch sprechen.
+# He speaks german well.
+# 
+# Er kann gut Deutsch.
+# He speaks german well.
+# 
+# Kannst du Englisch?
+# Can you [speak] English? - inf
+# 
+# Ich kann das nicht.
+# I can't do that.
+# 
+# Kannst du das?
+# Can you do that? - inf
+# 
+# Kennen Sie sich hier aus?
+# Are you familiar with the area? - formal
+# 
+# Ich kenne mich hier leider nicht aus.
+# Unfortunately, I'm not familiar with the area.
+# 
+# Er kennt sich in Berlin sehr gut aus.
+# He knows his way around Berlin.
+# 
+# Kennst du dich mit dieser Software aus?
+# Do you know how to use this software? - inf
+# 
+# Er kennt sich mit Pferden gut aus.
+# He knows a lot about horses.
+# 
+# Kennst du dich mit Versicherungen aus?
+# Do you know a lot about insurances? - inf
+# 
+# Ich weiß nicht, was ich machen soll.
+# I don't know what to do.
+# 
+# Meine Mutter hört einen lauten Vogel.
+# My mother hears a loud bird.
+# 
+# Meine Mutter hört eine laute Maus.
+# My mother hears a loud mouse.
+# 
+# Meine Mutter hört ein lautes Auto.
+# My mother hears a loud car.
+# 
+# Meine Mutter hört einen Lauten Wagen.
+# My mother hears a loud car.
+# 
+# Meine Mutter hört eine laute Katze.
+# My mother hears a loud cat.
+# 
+# Meine Mutter hört ein lautes Schiff.
+# My mother hears a loud ship.
+# 
+# Möchten Sie den blauen Stift?
+# Would you like the blue pen?
+# 
+# Möchten Sie das blaue Hemd?
+# Would you like the blue shirt?
+# 
+# Möchten Sie die blaue Hose?
+# Would you like the blue trousers?
+# 
+# Möchten Sie den blauen Schraubenzieher?
+# Do you want the blue screwdriver?
+# 
+# Möchten Sie das blaue Papier?
+# Would you like the blue paper?
+# 
+# Möchten Sie die blaue Flasche?
+# Would you like the blue bottle?
+# 
+# Wir hätten gerne die schöne Blume.
+# We would like the beautiful flower.
+# 
+# Wir hätten gerne das schöne Haus.
+# We would like to have the beautiful house.
+# 
+# Wir hätten gerne den schönen Wagen.
+# We would like to have the beautiful car.
+# 
+# Wir hätten gerne die schöne Hose.
+# We would like the beautiful trousers.
+# 
+# Wir hätten gerne das schöne Hemd.
+# We would like to have the beautiful shirt.
+# 
+# Wir hätten gerne den schönen Tisch.
+# We would like to have the beautiful table.
+# 
+# Ich möchte das weiße Hemd.
+# I want the white shirt.
+# 
+# Elmar möchte das weiße Hemd.
+# Elmar wants the white shirt.
+# 
+# Mein Bruder und ich möchten das weiße Hemd.
+# My brother and I want the white shirt.
+# 
+# Suse möchte das weiße Hemd.
+# Suse wants the white shirt.
+# 
+# Sie möchten das weiße Hemd. 
+# You want the white shirt. 
+# 
+# Meine Brüder möchten das weiße Hemd.
+# My brothers want the white shirt.
+# 
+# Ich möchte das weiße Hemd.
+# I want the white shirt.
+# 
+# Er hätte gerne einen braunen Hund.
+# He would like a brown dog.
+# 
+# Karin hätte gerne einen braunen Hund.
+# Karin would like a brown dog.
+# 
+# Meine Schwester und ich hätten gerne einen braunen Hund.
+# My sister and I would like a brown dog.
+# 
+# Johannes und Karin hätten gerne einen braunen Hund.
+# Johannes and Karin would like a brown dog.
+# 
+# Ich hätte gerne einen braunen Hund
+# I would like a brown dog.
+# 
+# Sie hätten gerne einen braunen Hund.
+# You'd like a brown dog.
+# 
+# Christoph hätte gerne einen braunen Hund.
+# Christoph would like a brown dog.
+# 
+# Die Eltern würden gerne die gelbe Blume kaufen.
+# The parents would like to buy the yellow flower.
+# 
+# Thomas würde gerne die gelbe Blume kaufen.
+# Thomas would like to buy the yellow flower.
+# 
+# Sie würden gerne die gelbe Blume kaufen.
+# They would like to buy the yellow flower.
+# 
+# Mein Bruder und ich würden gerne die gelbe Blume kaufen.
+# My brother and I would like to buy the yellow flower.
+# 
+# Meine Schwester würde gerne die gelbe Blume kaufen.
+# My sister would like to buy the yellow flower.
+# 
+# Die Schwestern würden gerne die gelbe Blume kaufen.
+# The sisters would like to buy the yellow flower.
+# 
+# Ich würde gerne die gelbe Blume kaufen.
+# I would like to buy the yellow flower.
+# 
+# Mag Johannes ein leckeres Brot schneiden?
+# Does Johannes like to cut a delicious bread?
+# 
 Mögen Sie ein leckeres Brot schneiden?
 Do you like to cut a delicious bread?
 
