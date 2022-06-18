@@ -13192,313 +13192,313 @@
 # 
 # Demandez si on peut acheter des places côté fenêtre.
 # Ask if one can purchase seats next to the window.
+# # 
+# # Si vous voulez.
+# # If you wish.
+# # 
+# # Je ne sais pas si les livres sont ici.
+# # I do not know if the books are here.
+# # 
+# Et la cerise sur le gâteau, c'est qu'il m'a quittée pour ma meilleure amie!
+# And the icing on the cake is that he left me for my best friend! 
 # 
-# Si vous voulez.
-# If you wish.
+# Juliette, elle s'est encore séparée.
+# Juliette has broken up with her boyfriend again.
 # 
-# Je ne sais pas si les livres sont ici.
-# I do not know if the books are here.
+# Oh, mince, encore?
+# Oh dear, again?
 # 
-Et la cerise sur le gâteau, c'est qu'il m'a quittée pour ma meilleure amie!
-And the icing on the cake is that he left me for my best friend! 
-
-Juliette, elle s'est encore séparée.
-Juliette has broken up with her boyfriend again.
-
-Oh, mince, encore?
-Oh dear, again?
-
-Oui, elle venait à peine de se mettre avec son copain, et, c'est déjà fini!
-Yes, she had just started a relationship with her boyfriend, and, it's already over!
-
-C'est elle qui est partie? C'est lui? Pourquoi?
-Was it her who left? Was it him? Why?
-
-Je pense qu'elle est trop compliquée, et de coup, lui, il est parti.
-I think she's too complicated, and as a result, he left.
-
-Il ne lui a pas vraiment donné de raison.
-He didn't really giver her a reason.
-
-Mais ça faisait pas longtemps qu'ils étaient ensemble?
-But had they been together for a long time?
-
-Ça faisait six meses.
-Fazia seis meses.
-
-T'es pas gentil!
-You're being mean!
-
-Mais après c'est vrai que Juliette, elle est quand même très compliquée.
-But after all it's true that Juliette is very complicated.
-
-C'est sûr, elle n'est pas facile.
-Sure, she's not easy.
-
-Elles ne sont pas toutes comme toi.
-They are not all like you.
-
-Ça me fait de la peine, parce qu'elle se retrouve de nouveau toute seule.
-It makes me sad, because she's all alone again.
-
-Tu devrais l'inviter à venir manger à la maison samedi soir.
-You should invite her to come over for dinner on saturday evening.
-
-Samedi soir? D'accord. Par contre, essaie de na pas faire de gaffe.
-Saturday evening? All right. However, try not to put your foot in it.
-
-Je sais que tu l'aimais bien son nouveau copain
-I know you liked her new boyfriend
-
-On évitera de parler de copains.
-We will avoid talking about boyfriends.
-
-Ça m'embête pour elle, de tout recommencer à zéro.
-I feel sorry for her, starting from scratch again.
-
-Ça ne doit pas être évident à trent ans, de recommencer comme ça, à zéro.
-It can't be easy at 30 yo, to start all over again like that, from scratch.
-
-C'est encore jeune, trente ans.
-Thirty is still young.
-
-Faut voir le bon côté des choses, elle n'a pas d'enfants, donc c'est moins compliqué.
-You have to see the good side of it, she has no children so it's less complicated.
-
-Allez, je lui propose pour le samedi.
-Ok, eu vou sugerir no sábado.
-
-Il est où mon téléphone?
-Where's my phone?
-
-Au fait, tu ne sais pas quoi? On a un nouveau voisin.
-By the way, don't you know? We have a new neighbor.
-
-Il est jeune? Il est sympathique?
-Is he young? Is he nice?
-
-Crache le morceau!
-Fala de uma vez!
-
-Il est très sexy!
-He is very sexy!
-
-Tu ne perds pas le nord!
-You know what's up!
-
-Du coup, je vais aller me présenter, à plus tard!
-So, well, I'm going to introduce myself, see you!
-
-Bonne chance, je croise les doigts!
-Good luck, fingers crossed!
-
-Peut-tu mettre la table ce soir?
-Can you set the table tonight?
-
-Ma soeur a mis les voiles pour la Nouvelle-Zélande le mois dernier! Quelle chance!
-My sister set sail for New Zealand last month. How lucky!
-
-Il n'a pas bien travaillé, donc nous l'avons mis à la porte.
-He didn't work well, so we fired him.
-
-Si tu n'améliores pas ton comportement, ils te mettront à la porte.
-If you don't improve your behavior, they will kick you out.
-
-Je te dis de ranger ta chambre et tu mets encore plus le bazar!
-I tell you to tidy up your bedroom and you make even more of a mess!
-
-Il met un bazar incroyable dans son tiroir, parce qu'il ne trouve pas le t-shirt qu'il cherche.
-He is making an incredible mess in his drawer, because he can't find the t-shirt he's looking for.
-
-Je mets ce logiciel à jour à chaque fois qu'il y a une nouvelle version disponible.
-I update this software every time there's a new version available.
-
-Je mets à jour toute la comptabilité du trimestre, c'est un vrai casse-tête.
-I'm updating all the accounting for the trimester, it's such a headache.
-
-Demandez s'il achète des places pour Nice.
-Ask he is purchasing two seats for Nice.
-
-Où est M. Santerre? Il est à la gare.
-Where is Mr. Santerre? He's at the station.
-
-Qu'est-ce qu'il veut? Il veut des billets.
-What does he want? He wants tickets.
-
-Combien de billets est-ce qu'il veut? Il veut deux billets.
-How many tickets does he want? He wants two tickets.
-
-Pour Paris? Non, pour Lille.
-For Paris? No, for Lille.
-
-Est-ce qu'il va prendre des allers-retours? Non, il va prendre des allers simples seulement.
-Is he going to take a round trip? No, he's going to take one-way tickets only.
-
-Est-ce qu'il part le 5 juillet? Non, il part le 6 juillet.
-Does he leave on July 5th? No, he leaves on July 6th.
-
-Où est-ce qu'il va? Il va à Lille.
-Where is he going? Where is he going? He's going to Lille.
-
-Qu'est-ce qu'il va faire au dernier guichet à gauche? Il va réserver les places.
-What's he gonna do at the last window on the left? He's going to book the tickets.
-
-Quel train est-ce qu'il va prendre? Il va prendre celui de 19 heures 30.
-What train is he going to take? He's going to take the 7:30.
-
-Combien de places côté fenêtre est-ce qu'il va acheter? Il va acheter deux places côté fenêtre.
-How many places on the window side will he buy? He's going to buy two tickets on the window side.
-
-Dans quel compartiment? Dans un compartiment pour non-fumeurs.
-In which compartment? In a non-smoking compartment.
-
-Ça fait combien? Ça fait cinq euros.
-How many is that? That's five euros.
-
-Pour où est-ce qu'il va faire enregistrer ses bagages? Il va faire enregistrer ses bagages pour Lille.
-Where is he going to check in his luggage? He's going to check his luggage in for Lille.
-
-Est-ce qu'il a plusieurs boîtes? Non, il a une seule boîte.
-Does he have several boxes? No, he only has one box.
-
-Combien de valises est-ce qu'il a? Il a une valise.
-How many suitcases does he have? He has a suitcase.
-
-Est-ce que sa valise est verte? Non, elle n'est pas verte.
-Is his suitcase green? No, it's not green.
-
-Est-ce qu'il va faire assurer les bagages? Non, ce n'est pas la peine.
-Will he insure the luggage? No, you don't have to.
-
-Je peux vous donner deux places côté fenêtre.
-I can give you two places on the window side.
-
-On peut vous donner deux places côté fenêtre.
-We can give you two places on the window side.
-
-Je vais vous donner deux places côté fenêtre.
-I'll give you two places on the window side.
-
-Nous allons vous donner deux places côté fenêtre.
-We'll give you two places on the window side.
-
-Je voudrais vous donner deux places côté fenêtre.
-I would like to give you two places on the window side.
-
-Il va vous donner deux places côté fenêtre.
-He's going to give you two places on the window side.
-
-Je dois vous donner deux places côté fenêtre.
-I have to give you two places on the window side.
-
-Elle va vous donner deux places côté fenêtre.
-She'll give you two places on the window side.
-
-Je peux vous donner deux places côté fenêtre.
-I can give you two places on the window side.
-
-Pour quelle date?
-For what date?
-
-Pour quel jour?
-For what day?
-
-Pour quel après-midi?
-For what afternoon?
-
-Pour quelle heure?
-For what time?
-
-Pour quel mois?
-For which month?
-
-Pour quel soir?
-For what evening?
-
-Pour quelle semaine?
-For what week?
-
-Pour quelle date?
-For what date?
-
-Combien de boîtes avez-vous?
-How many boxes do you have?
-
-Combien de valises avez-vous?
-How many suitcases do you have?
-
-Combien de frères avez-vous?
-How many brothers do you have?
-
-Combien de sœurs avez-vous?
-How many sisters do you have?
-
-Combien de jours avez-vous?
-How many days do you have?
-
-Combien de places avez-vous?
-How many places do you have?
-
-Combien de livres avez-vous?
-How many books do you have?
-
-Combien de cafés avez-vous?
-How many coffees do you have?
-
-Combien de chambres avez-vous?
-How many rooms do you have?
-
-Combien de monnaie avez-vous?
-How much change do you have?
-
-Combien de fiches avez-vous?
-How many cards do you have?
-
-Où est le bureau de renseignements?
-Where is the information desk?
-
-Où est le restaurant français?
-Where is the French restaurant?
-
-Où est le wagon restaurant?
-Where's the dining car?
-
-Où est la gare?
-Where is the station?
-
-Où est le wagon-lit?
-Where's the sleeping car?
-
-Où est la sœur de Janine?
-Where is Janine's sister?
-
-Où est le compartiment pour non-fumeurs?
-Where is the non-smoking compartment?
-
-Où est ma couchette?
-Where's my bunk?
-
-Où est mon billet?
-Where is my ticket?
-
-Où est la femme de chambre?
-Where's the maid?
-
-Où est mon amie Janine?
-Where is my friend Janine?
-
-Où est le bureau de renseignement
-Where is the intelligence office
-
-Quoi que tu fasses, je t'aimerais toujours.
-Whatever you do, I will always love you.
-
-Quoi qu'elle dise, je ne changerais pas d'avis.
-Whatever she says, I will not change my mind.
-
-Quel que soit votre conseil, je prendrai rendez-vous avec le patron.
-Whatever your advice, I will make an appointment with the boss.
-
+# Oui, elle venait à peine de se mettre avec son copain, et, c'est déjà fini!
+# Yes, she had just started a relationship with her boyfriend, and, it's already over!
+# 
+# C'est elle qui est partie? C'est lui? Pourquoi?
+# Was it her who left? Was it him? Why?
+# 
+# Je pense qu'elle est trop compliquée, et de coup, lui, il est parti.
+# I think she's too complicated, and as a result, he left.
+# 
+# Il ne lui a pas vraiment donné de raison.
+# He didn't really giver her a reason.
+# 
+# Mais ça faisait pas longtemps qu'ils étaient ensemble?
+# But had they been together for a long time?
+# 
+# Ça faisait six meses.
+# Fazia seis meses.
+# 
+# T'es pas gentil!
+# You're being mean!
+# 
+# Mais après c'est vrai que Juliette, elle est quand même très compliquée.
+# But after all it's true that Juliette is very complicated.
+# 
+# C'est sûr, elle n'est pas facile.
+# Sure, she's not easy.
+# 
+# Elles ne sont pas toutes comme toi.
+# They are not all like you.
+# 
+# Ça me fait de la peine, parce qu'elle se retrouve de nouveau toute seule.
+# It makes me sad, because she's all alone again.
+# 
+# Tu devrais l'inviter à venir manger à la maison samedi soir.
+# You should invite her to come over for dinner on saturday evening.
+# 
+# Samedi soir? D'accord. Par contre, essaie de na pas faire de gaffe.
+# Saturday evening? All right. However, try not to put your foot in it.
+# 
+# Je sais que tu l'aimais bien son nouveau copain
+# I know you liked her new boyfriend
+# 
+# On évitera de parler de copains.
+# We will avoid talking about boyfriends.
+# 
+# Ça m'embête pour elle, de tout recommencer à zéro.
+# I feel sorry for her, starting from scratch again.
+# 
+# Ça ne doit pas être évident à trent ans, de recommencer comme ça, à zéro.
+# It can't be easy at 30 yo, to start all over again like that, from scratch.
+# 
+# C'est encore jeune, trente ans.
+# Thirty is still young.
+# 
+# Faut voir le bon côté des choses, elle n'a pas d'enfants, donc c'est moins compliqué.
+# You have to see the good side of it, she has no children so it's less complicated.
+# 
+# Allez, je lui propose pour le samedi.
+# Ok, eu vou sugerir no sábado.
+# 
+# Il est où mon téléphone?
+# Where's my phone?
+# 
+# Au fait, tu ne sais pas quoi? On a un nouveau voisin.
+# By the way, don't you know? We have a new neighbor.
+# 
+# Il est jeune? Il est sympathique?
+# Is he young? Is he nice?
+# 
+# Crache le morceau!
+# Fala de uma vez!
+# 
+# Il est très sexy!
+# He is very sexy!
+# 
+# Tu ne perds pas le nord!
+# You know what's up!
+# 
+# Du coup, je vais aller me présenter, à plus tard!
+# So, well, I'm going to introduce myself, see you!
+# 
+# Bonne chance, je croise les doigts!
+# Good luck, fingers crossed!
+# 
+# Peut-tu mettre la table ce soir?
+# Can you set the table tonight?
+# 
+# Ma soeur a mis les voiles pour la Nouvelle-Zélande le mois dernier! Quelle chance!
+# My sister set sail for New Zealand last month. How lucky!
+# 
+# Il n'a pas bien travaillé, donc nous l'avons mis à la porte.
+# He didn't work well, so we fired him.
+# 
+# Si tu n'améliores pas ton comportement, ils te mettront à la porte.
+# If you don't improve your behavior, they will kick you out.
+# 
+# Je te dis de ranger ta chambre et tu mets encore plus le bazar!
+# I tell you to tidy up your bedroom and you make even more of a mess!
+# 
+# Il met un bazar incroyable dans son tiroir, parce qu'il ne trouve pas le t-shirt qu'il cherche.
+# He is making an incredible mess in his drawer, because he can't find the t-shirt he's looking for.
+# 
+# Je mets ce logiciel à jour à chaque fois qu'il y a une nouvelle version disponible.
+# I update this software every time there's a new version available.
+# 
+# Je mets à jour toute la comptabilité du trimestre, c'est un vrai casse-tête.
+# I'm updating all the accounting for the trimester, it's such a headache.
+# 
+# Demandez s'il achète des places pour Nice.
+# Ask he is purchasing two seats for Nice.
+# 
+# Où est M. Santerre? Il est à la gare.
+# Where is Mr. Santerre? He's at the station.
+# 
+# Qu'est-ce qu'il veut? Il veut des billets.
+# What does he want? He wants tickets.
+# 
+# Combien de billets est-ce qu'il veut? Il veut deux billets.
+# How many tickets does he want? He wants two tickets.
+# 
+# Pour Paris? Non, pour Lille.
+# For Paris? No, for Lille.
+# 
+# Est-ce qu'il va prendre des allers-retours? Non, il va prendre des allers simples seulement.
+# Is he going to take a round trip? No, he's going to take one-way tickets only.
+# 
+# Est-ce qu'il part le 5 juillet? Non, il part le 6 juillet.
+# Does he leave on July 5th? No, he leaves on July 6th.
+# 
+# Où est-ce qu'il va? Il va à Lille.
+# Where is he going? Where is he going? He's going to Lille.
+# 
+# Qu'est-ce qu'il va faire au dernier guichet à gauche? Il va réserver les places.
+# What's he gonna do at the last window on the left? He's going to book the tickets.
+# 
+# Quel train est-ce qu'il va prendre? Il va prendre celui de 19 heures 30.
+# What train is he going to take? He's going to take the 7:30.
+# 
+# Combien de places côté fenêtre est-ce qu'il va acheter? Il va acheter deux places côté fenêtre.
+# How many places on the window side will he buy? He's going to buy two tickets on the window side.
+# 
+# Dans quel compartiment? Dans un compartiment pour non-fumeurs.
+# In which compartment? In a non-smoking compartment.
+# 
+# Ça fait combien? Ça fait cinq euros.
+# How many is that? That's five euros.
+# 
+# Pour où est-ce qu'il va faire enregistrer ses bagages? Il va faire enregistrer ses bagages pour Lille.
+# Where is he going to check in his luggage? He's going to check his luggage in for Lille.
+# 
+# Est-ce qu'il a plusieurs boîtes? Non, il a une seule boîte.
+# Does he have several boxes? No, he only has one box.
+# 
+# Combien de valises est-ce qu'il a? Il a une valise.
+# How many suitcases does he have? He has a suitcase.
+# 
+# Est-ce que sa valise est verte? Non, elle n'est pas verte.
+# Is his suitcase green? No, it's not green.
+# 
+# Est-ce qu'il va faire assurer les bagages? Non, ce n'est pas la peine.
+# Will he insure the luggage? No, you don't have to.
+# 
+# Je peux vous donner deux places côté fenêtre.
+# I can give you two places on the window side.
+# 
+# On peut vous donner deux places côté fenêtre.
+# We can give you two places on the window side.
+# 
+# Je vais vous donner deux places côté fenêtre.
+# I'll give you two places on the window side.
+# 
+# Nous allons vous donner deux places côté fenêtre.
+# We'll give you two places on the window side.
+# 
+# Je voudrais vous donner deux places côté fenêtre.
+# I would like to give you two places on the window side.
+# 
+# Il va vous donner deux places côté fenêtre.
+# He's going to give you two places on the window side.
+# 
+# Je dois vous donner deux places côté fenêtre.
+# I have to give you two places on the window side.
+# 
+# Elle va vous donner deux places côté fenêtre.
+# She'll give you two places on the window side.
+# 
+# Je peux vous donner deux places côté fenêtre.
+# I can give you two places on the window side.
+# 
+# Pour quelle date?
+# For what date?
+# 
+# Pour quel jour?
+# For what day?
+# 
+# Pour quel après-midi?
+# For what afternoon?
+# 
+# Pour quelle heure?
+# For what time?
+# 
+# Pour quel mois?
+# For which month?
+# 
+# Pour quel soir?
+# For what evening?
+# 
+# Pour quelle semaine?
+# For what week?
+# 
+# Pour quelle date?
+# For what date?
+# 
+# Combien de boîtes avez-vous?
+# How many boxes do you have?
+# 
+# Combien de valises avez-vous?
+# How many suitcases do you have?
+# 
+# Combien de frères avez-vous?
+# How many brothers do you have?
+# 
+# Combien de sœurs avez-vous?
+# How many sisters do you have?
+# 
+# Combien de jours avez-vous?
+# How many days do you have?
+# 
+# Combien de places avez-vous?
+# How many places do you have?
+# 
+# Combien de livres avez-vous?
+# How many books do you have?
+# 
+# Combien de cafés avez-vous?
+# How many coffees do you have?
+# 
+# Combien de chambres avez-vous?
+# How many rooms do you have?
+# 
+# Combien de monnaie avez-vous?
+# How much change do you have?
+# 
+# Combien de fiches avez-vous?
+# How many cards do you have?
+# 
+# Où est le bureau de renseignements?
+# Where is the information desk?
+# 
+# Où est le restaurant français?
+# Where is the French restaurant?
+# 
+# Où est le wagon restaurant?
+# Where's the dining car?
+# 
+# Où est la gare?
+# Where is the station?
+# 
+# Où est le wagon-lit?
+# Where's the sleeping car?
+# 
+# Où est la sœur de Janine?
+# Where is Janine's sister?
+# 
+# Où est le compartiment pour non-fumeurs?
+# Where is the non-smoking compartment?
+# 
+# Où est ma couchette?
+# Where's my bunk?
+# 
+# Où est mon billet?
+# Where is my ticket?
+# 
+# Où est la femme de chambre?
+# Where's the maid?
+# 
+# Où est mon amie Janine?
+# Where is my friend Janine?
+# 
+# Où est le bureau de renseignement
+# Where is the intelligence office
+# 
+# Quoi que tu fasses, je t'aimerais toujours.
+# Whatever you do, I will always love you.
+# 
+# Quoi qu'elle dise, je ne changerais pas d'avis.
+# Whatever she says, I will not change my mind.
+# 
+# Quel que soit votre conseil, je prendrai rendez-vous avec le patron.
+# Whatever your advice, I will make an appointment with the boss.
+# 
 Quelle que soit leur décision, elle démissionnera.
 Whatever their decision, she will resign.
 
