@@ -13499,6 +13499,9 @@
 # Quel que soit votre conseil, je prendrai rendez-vous avec le patron.
 # Whatever your advice, I will make an appointment with the boss.
 # 
+Ça faisait six mois.
+Fazia seis meses.
+
 Je me fais couper les cheveux une fois par semaine par ma meilleure amie.
 I get my haircut once a week by my best friend.
 

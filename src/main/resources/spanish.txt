@@ -11389,315 +11389,315 @@
 # No se comenta que hayan nombrado un nuevo ministro de Exteriores.
 # It is not said that they have appointed a new foreign minister.
 # 
-# No ha negado que ha visto a Carmen.
-# He has not denied that he has seen Carmen.
+# # No ha negado que ha visto a Carmen.
+# # He has not denied that he has seen Carmen.
+# # 
+# # ¡Ojalá hubiera aceptado ese empleo! Ahora no estaría en el paro.
+# # I wish I'd taken that job! I wouldn't be unemployed now.
+# # 
+# # ¡Ojalá hubiese ganado Pedro!
+# # I wish Pedro had won!
+# # 
+# ¡Ojalá te hubiera hecho caso!
+# I wish I'd listened to you!
 # 
-# ¡Ojalá hubiera aceptado ese empleo! Ahora no estaría en el paro.
-# I wish I'd taken that job! I wouldn't be unemployed now.
+# ¡Quién hubiera podido estudia!
+# Who could have studied!
 # 
-# ¡Ojalá hubiese ganado Pedro!
-# I wish Pedro had won!
+# El director dudaba de que yo hubiera estado enfermo.
+# The director doubted that I'd have been sick.
 # 
-¡Ojalá te hubiera hecho caso!
-I wish I'd listened to you!
-
-¡Quién hubiera podido estudia!
-Who could have studied!
-
-El director dudaba de que yo hubiera estado enfermo.
-The director doubted that I'd have been sick.
-
-No les importaba que hubiésemos pedido el trabajo.
-They didn't care that we asked for the job.
-
-Susana quería que le hubiese traído fresas, pero no puede.
-Susana wanted me to bring her strawberries, but she can't.
-
-Carmela estaba siempre estudiando. Más valía que hubiera encontrado un empleo. Su familia necesitaba el dinero.
-Carmela was always studying. She'd better have found a job. Her family needed the money.
-
-Habría sido mejor que hubierais hablado con el cirujano antes de la operación.
-It would have been better if you had talked to the surgeon before the operation.
-
-No pude matricularme en la universidad. Me exigían que hubiese acabado el Bachillerato.
-I couldn't enroll in college. They were demanding that I finish high school.
-
-El dinero de Alberto era robado. Lo sabía. Era muy difícil que lo hubiera ganado en la lotería.
-Alberto's money was stolen. I knew it. It was very difficult for me to win it in the lottery.
-
-Me llamaron para darme las gracias. Les encantó que los hubiésemos invitado.
-They called me to thank me. They loved that we had invited them.
-
-Me molestó que Carlos hubiera dicho que yo estaba en paro.
-I was upset that Carlos had said I was unemployed.
-
-Me alegré de que Eduardo hubiese conseguido el ascenso.
-I was glad that Eduardo had gotten the promotion.
-
-Era lógico que os hubieseis enfadado. La broma fue bastante pesada.
-It was logical that you would have been angry. The joke was pretty heavy.
-
-Habría sido estupendo que hubiéramos llegado a la final.
-It would have been great if we'd made it to the final.
-
-Habría sido mejor que hubieses venido tú sola. A Raúl no le cae bien Guillermo.
-It would have been better if you'd come on your own. Raoul doesn't like Guillermo.
-
-Rut se viste después de desayunar.
-Rut dresses herself after having breakfast.
-
-¿Crees que vendrán todos a la fiesta?
-Do you think everyone will come to the party?
-
-Cuando contrataron a Esteban, yo creía que había acabado la carrera.
-When they hired Stephen, I thought he was done with the race.
-
-Cuando le preguntaron a Sonia dijo que Carlos ya se había marchado.
-When they asked Sonia, she said that Carlos had already left.
-
-Pues no era verdad que hubiese acabado la carrera.
-Well, it wasn't true that he had finished his degree.
-
-Bueno, no dijo que Carlos se hubiera marchado.
-Well, she didn't say that Carlos had left.
-
-Cuando hablé con Esteban pensaba que ya se había jubilado, pero le faltan dos años.
-When I spoke to Esteban I thought he had already retired, but he has two years left.
-
-Cuando hablé con Rocío no pensaba que se hubiera jubilado.
-When I talked to Rocío I didn't think he had retired.
-
-Pues no, no noté que hubiera engordado.
-Well, no, I didn't notice he'd put on weight.
-
-Pues yo la última vez que la vi no vi que hubiese cambiado.
-Well, the last time I saw her I didn't see that she'd changed.
-
-Cuando viste a Álvaro, ¿no notaste que había engordado?
-When you saw Alvaro, didn't you notice he had put on weight?
-
-La verdad es que la última vez que vi a Merche vi que había cambiado.
-The truth is that the last time I saw Merche I saw she had changed.
-
-Vi que ya habían cortado la calle por la manifestación y me fui por otro lado. 
-I saw that they had already cut off the street because of the demonstration and I went the other way. 
-
-Noté que una rueda del coche había perdido aire.
-I noticed that one wheel of the car had lost air.
-
-No vi que habían cortado la calle por la manifestación y tuve problemas con la policía.
-I didn't see that they had cut off the street because of the demonstration and I had problems with the police.
-
-No noté que las ruedas del coche habían perdido aire y casi me mato.
-I didn't notice that one of the wheels of the car had lost air and I almost killed myself.
-
-El otro día Ramón estaba muy cansado. Era evidente que había trabajado mucho.
-The other day Ramon was very tired. It was clear that he had worked hard.
-
-El verano pasado, Lucía parecía diferente. Estaba claro que se había operado la nariz.
-Last summer, Lucia seemed different. It was clear that she had had a nose job.
-
-¿Es verdad que Jaime se había dejado barba?
-Is it true that Jaime had grown a beard?
-
-Estaba cansado, pero no es cierto que hubiese trabajado mucho.
-He was tired, but it's not true that he had worked a lot.
-
-Algo se había hecho, pero para mí no estaba tan claro que se hubiera operado.
-Something had been done, but for me it was not so clear that he had had surgery.
-
-Quería dejársela, pero no tenía claro que el jefe se lo hubiera permitido.
-He wanted to leave it, but it wasn't clear to him that the boss would have allowed it.
-
-Por supuesto. Era mentira que yo hubiera dicho nada contra Elena.
-Of course he did. It was a lie that I would have said anything against Elena.
-
-Cuando le pregunté, Carlos me dijo que él no había discutido con Marta.
-When I asked him, Carlos told me that he hadn't argued with Marta.
-
-Según Mario, el comentarista afirmó que el árbitro le había regalado el partido al Numancia.
-According to Mario, the commentator said that the referee had given the match to Numancia.
-
-Pero a Sonia no le dijo que no hubiesen discutido.
-But he didn't tell Sonia that they hadn't argued.
-
-Pero yo escuché el programa y el comentarista no afirmó que le hubieran regalado el partido al Numancia.
-But I listened to the program and the commentator did not claim that they had given the match to Numancia.
-
-Me ha escrito Hans. En su empresa necesitan alguien que hable español.
-Hans wrote to me. Your company needs someone who speaks Spanish.
-
-Compra todo el pan que necesites.
-Buy all the bread you need.
-
-Nos dijo que pusiéramos la música que nos gustara.
-He told us to play the music we like.
-
-¿Conoces a alguien que haya estado en Perú?
-Do you know anyone who's been to Peru?
-
-Pobrecillo. No tiene quien le quiera.
-Poor thing. He has no one to love him.
-
-Tengo una persona extraordinaria, Marta, que me cuida a los niños.
-I have an extraordinary person, Marta, who takes care of my children.
-
-Es su hermana quien le cuida.
-It's his sister who takes care of him.
-
-Necesito alguien que me cuide a los niños.
-I need someone to take care of my children.
-
-No tiene quien le cuide.
-He has no one to take care of him.
-
-¡Qué novelas más interesantes! Te regalo la que quieras.
-What interesting novels! I'll give you the one you want.
-
-Esta empresa es fenomenal. Nos dejan hacer lo que queramos.
-This company is phenomenal. They let us do what we want.
-
-¿Qué vamos a comer? Lo que hay. Macarrones.
-What are we going to eat? What's on. Macaroni.
-
-¿Qué vamos a comer? Lo que haya en la nevera.
-What are we going to eat? Whatever's in the fridge.
-
-Ahí hay un teléfono. Podéis llamar adonde necesitéis.
-There's a phone in there. You can call wherever you need to.
-
-¿Cómo soluciono lo del ordenador? Hazlo como puedas.
-How do I fix the computer? Do it any way you can.
-
-¿Cuándo quieres que nos veamos? Cuando quieras.
-When do you want to meet? Whenever you want.
-
-Jugad cuanto queráis. Estáis de vacaciones.
-Play as much as you want. You're on vacation.
-
-¿Adónde vamos? Adonde tú digas.
-Where are we going? Wherever you say.
-
-¿Dónde comemos? Donde prefieras tú.
-Where do we eat? Wherever you prefer.
-
-¿Qué película vamos a ver? No sé. Alguna que pongan en el Moncloa.
-What movie are we going to see? I don't know. Some movie they put on the Moncloa.
-
-¿Adónde va Augustín? Adonde tú le has dicho.
-Where's Augustin going? Where you told him to go.
-
-¿Qué vamos a ver? La película que pongan en Teletrés.
-What are we going to see? The movie they're showing on Teletrés.
-
-¿Adónde vamos? Adonde tú digas.
-Where are we going? Wherever you say.
-
-¿Qué vamos a ver? Cualquier película que pongan en la tele.
-What are we going to see? Whatever movie they put on TV.
-
-Elegid un libro que os guste.
-Pick a book you like.
-
-Es conveniente que estudies en un país donde se hable español.
-It's a good idea to study in a country where Spanish is spoken.
-
-Les dije que podían venir cuando quisieran.
-I told them they could come whenever they wanted.
-
-Necesitaba contratar a alguien que me tradujera los manuales.
-I needed to hire someone to translate the manuals for me.
-
-No conozco a nadie a quien no le haya gustado esta novela.
-I don't know anyone who didn't like this novel.
-
-Necesitamos a alguien que haya vivido en América Latina.
-We need someone who has lived in Latin America.
-
-Habría sido mejor que hubierais contratado a alguien que hubiera sido licenciado.
-It would have been better if you had hired someone who was a graduate.
-
-¿Qué están haciendo esos? Nadar, ¿no lo ves?
-What are those doing? Swimming, can't you see?
-
-¿Qué quería Luigi? Hablar conmigo.
-What did Luigi want? To talk to me.
-
-¿Cuál es tu sueño? Ser feliz. No quiero nada más.
-What's your dream? To be happy. I don't want anything else.
-
-Es peor no querer que no saber.
-It's worse not to want than not to know.
-
-¿No queréis ir? Haberlo pensado antes.
-Don't you want to go? You should have thought of that before.
-
-¿Que estás cansado? Haber descansado cuando pudiste.
-That you're tired? You should have rested when you could.
-
-¡Trabajar! ¡Quién pudiera trabajar! 
-Work! Who could work! 
-
-¿Descansar? ¿Quién quiere descansar?
-Rest? Who wants to rest?
-
-Invítame a cenar. ¿Invitarte a cenar? Tú estás loco.
-Invite me to dinner. Invite you to dinner? You're crazy.
-
-¡Volar en globo! ¡Qué emocionante!
-Ballooning! How exciting!
-
-¿Habértelo dicho? ¿Por qué tenía yo que habértelo dicho?
-Did I tell you? Why did I have to tell you?
-
-¿Trabajar Luis? ¿Cuándo se ha visto?
-Work, Luis? When did it happen?
-
-¿Ayudarte yo? Ni lo sueñes.
-Me help you? Not a chance.
-
-Ayer estuvieron hablando Ana y Sonia. Hombre, hablar, hablar, no hablaron. Más se gritaron.
-Yesterday Ana and Sonia were talking. Man, talk, talk, they didn't talk. More they shouted at each other.
-
-Soraya canta muy bien. Hombre, cantar, lo que se dice cantar, no canta mucho.
-Soraya sings very well. Man, singing, what they say about singing, she doesn't sing much.
-
-No pisar en el césped.
-Don't step on the grass.
-
-Lavar en agua templada.
-Wash in warm water.
-
-Para participar en el concurso, rellenar el formulario y enviarlo a la siguiente dirección.
-To participate in the contest, fill out the form and send it to the following address.
-
-¡Venga! A dormir todo el mundo. Es muy tarde.
-Come on! Everybody go to sleep. It's very late.
-
-Bueno, dejad ya los libros y a divertirse, chicos.
-Well, stop with the books and have fun, kids.
-
-Los viajes en avión son cansados.
-Air travel is tiring.
-
-Viajar en avión es cansado.
-Air travel is tired.
-
-Con el nuevo detergente frotar se va a acabar.
-With the new detergent rub, it's going to run out.
-
-Preparé la cena en un abrir y cerrar de ojos.
-I made dinner in the blink of an eye.
-
-A mi entender, la cena nos ha salido muy cara.
-As far as I'm concerned, dinner was very expensive.
-
-Ese piar de pájaros no me deja dormir.
-That bird chirping is keeping me awake.
-
-¿Habéis hecho los deberes?
-Have you done your homework?
-
+# No les importaba que hubiésemos pedido el trabajo.
+# They didn't care that we asked for the job.
+# 
+# Susana quería que le hubiese traído fresas, pero no puede.
+# Susana wanted me to bring her strawberries, but she can't.
+# 
+# Carmela estaba siempre estudiando. Más valía que hubiera encontrado un empleo. Su familia necesitaba el dinero.
+# Carmela was always studying. She'd better have found a job. Her family needed the money.
+# 
+# Habría sido mejor que hubierais hablado con el cirujano antes de la operación.
+# It would have been better if you had talked to the surgeon before the operation.
+# 
+# No pude matricularme en la universidad. Me exigían que hubiese acabado el Bachillerato.
+# I couldn't enroll in college. They were demanding that I finish high school.
+# 
+# El dinero de Alberto era robado. Lo sabía. Era muy difícil que lo hubiera ganado en la lotería.
+# Alberto's money was stolen. I knew it. It was very difficult for me to win it in the lottery.
+# 
+# Me llamaron para darme las gracias. Les encantó que los hubiésemos invitado.
+# They called me to thank me. They loved that we had invited them.
+# 
+# Me molestó que Carlos hubiera dicho que yo estaba en paro.
+# I was upset that Carlos had said I was unemployed.
+# 
+# Me alegré de que Eduardo hubiese conseguido el ascenso.
+# I was glad that Eduardo had gotten the promotion.
+# 
+# Era lógico que os hubieseis enfadado. La broma fue bastante pesada.
+# It was logical that you would have been angry. The joke was pretty heavy.
+# 
+# Habría sido estupendo que hubiéramos llegado a la final.
+# It would have been great if we'd made it to the final.
+# 
+# Habría sido mejor que hubieses venido tú sola. A Raúl no le cae bien Guillermo.
+# It would have been better if you'd come on your own. Raoul doesn't like Guillermo.
+# 
+# Rut se viste después de desayunar.
+# Rut dresses herself after having breakfast.
+# 
+# ¿Crees que vendrán todos a la fiesta?
+# Do you think everyone will come to the party?
+# 
+# Cuando contrataron a Esteban, yo creía que había acabado la carrera.
+# When they hired Stephen, I thought he was done with the race.
+# 
+# Cuando le preguntaron a Sonia dijo que Carlos ya se había marchado.
+# When they asked Sonia, she said that Carlos had already left.
+# 
+# Pues no era verdad que hubiese acabado la carrera.
+# Well, it wasn't true that he had finished his degree.
+# 
+# Bueno, no dijo que Carlos se hubiera marchado.
+# Well, she didn't say that Carlos had left.
+# 
+# Cuando hablé con Esteban pensaba que ya se había jubilado, pero le faltan dos años.
+# When I spoke to Esteban I thought he had already retired, but he has two years left.
+# 
+# Cuando hablé con Rocío no pensaba que se hubiera jubilado.
+# When I talked to Rocío I didn't think he had retired.
+# 
+# Pues no, no noté que hubiera engordado.
+# Well, no, I didn't notice he'd put on weight.
+# 
+# Pues yo la última vez que la vi no vi que hubiese cambiado.
+# Well, the last time I saw her I didn't see that she'd changed.
+# 
+# Cuando viste a Álvaro, ¿no notaste que había engordado?
+# When you saw Alvaro, didn't you notice he had put on weight?
+# 
+# La verdad es que la última vez que vi a Merche vi que había cambiado.
+# The truth is that the last time I saw Merche I saw she had changed.
+# 
+# Vi que ya habían cortado la calle por la manifestación y me fui por otro lado. 
+# I saw that they had already cut off the street because of the demonstration and I went the other way. 
+# 
+# Noté que una rueda del coche había perdido aire.
+# I noticed that one wheel of the car had lost air.
+# 
+# No vi que habían cortado la calle por la manifestación y tuve problemas con la policía.
+# I didn't see that they had cut off the street because of the demonstration and I had problems with the police.
+# 
+# No noté que las ruedas del coche habían perdido aire y casi me mato.
+# I didn't notice that one of the wheels of the car had lost air and I almost killed myself.
+# 
+# El otro día Ramón estaba muy cansado. Era evidente que había trabajado mucho.
+# The other day Ramon was very tired. It was clear that he had worked hard.
+# 
+# El verano pasado, Lucía parecía diferente. Estaba claro que se había operado la nariz.
+# Last summer, Lucia seemed different. It was clear that she had had a nose job.
+# 
+# ¿Es verdad que Jaime se había dejado barba?
+# Is it true that Jaime had grown a beard?
+# 
+# Estaba cansado, pero no es cierto que hubiese trabajado mucho.
+# He was tired, but it's not true that he had worked a lot.
+# 
+# Algo se había hecho, pero para mí no estaba tan claro que se hubiera operado.
+# Something had been done, but for me it was not so clear that he had had surgery.
+# 
+# Quería dejársela, pero no tenía claro que el jefe se lo hubiera permitido.
+# He wanted to leave it, but it wasn't clear to him that the boss would have allowed it.
+# 
+# Por supuesto. Era mentira que yo hubiera dicho nada contra Elena.
+# Of course he did. It was a lie that I would have said anything against Elena.
+# 
+# Cuando le pregunté, Carlos me dijo que él no había discutido con Marta.
+# When I asked him, Carlos told me that he hadn't argued with Marta.
+# 
+# Según Mario, el comentarista afirmó que el árbitro le había regalado el partido al Numancia.
+# According to Mario, the commentator said that the referee had given the match to Numancia.
+# 
+# Pero a Sonia no le dijo que no hubiesen discutido.
+# But he didn't tell Sonia that they hadn't argued.
+# 
+# Pero yo escuché el programa y el comentarista no afirmó que le hubieran regalado el partido al Numancia.
+# But I listened to the program and the commentator did not claim that they had given the match to Numancia.
+# 
+# Me ha escrito Hans. En su empresa necesitan alguien que hable español.
+# Hans wrote to me. Your company needs someone who speaks Spanish.
+# 
+# Compra todo el pan que necesites.
+# Buy all the bread you need.
+# 
+# Nos dijo que pusiéramos la música que nos gustara.
+# He told us to play the music we like.
+# 
+# ¿Conoces a alguien que haya estado en Perú?
+# Do you know anyone who's been to Peru?
+# 
+# Pobrecillo. No tiene quien le quiera.
+# Poor thing. He has no one to love him.
+# 
+# Tengo una persona extraordinaria, Marta, que me cuida a los niños.
+# I have an extraordinary person, Marta, who takes care of my children.
+# 
+# Es su hermana quien le cuida.
+# It's his sister who takes care of him.
+# 
+# Necesito alguien que me cuide a los niños.
+# I need someone to take care of my children.
+# 
+# No tiene quien le cuide.
+# He has no one to take care of him.
+# 
+# ¡Qué novelas más interesantes! Te regalo la que quieras.
+# What interesting novels! I'll give you the one you want.
+# 
+# Esta empresa es fenomenal. Nos dejan hacer lo que queramos.
+# This company is phenomenal. They let us do what we want.
+# 
+# ¿Qué vamos a comer? Lo que hay. Macarrones.
+# What are we going to eat? What's on. Macaroni.
+# 
+# ¿Qué vamos a comer? Lo que haya en la nevera.
+# What are we going to eat? Whatever's in the fridge.
+# 
+# Ahí hay un teléfono. Podéis llamar adonde necesitéis.
+# There's a phone in there. You can call wherever you need to.
+# 
+# ¿Cómo soluciono lo del ordenador? Hazlo como puedas.
+# How do I fix the computer? Do it any way you can.
+# 
+# ¿Cuándo quieres que nos veamos? Cuando quieras.
+# When do you want to meet? Whenever you want.
+# 
+# Jugad cuanto queráis. Estáis de vacaciones.
+# Play as much as you want. You're on vacation.
+# 
+# ¿Adónde vamos? Adonde tú digas.
+# Where are we going? Wherever you say.
+# 
+# ¿Dónde comemos? Donde prefieras tú.
+# Where do we eat? Wherever you prefer.
+# 
+# ¿Qué película vamos a ver? No sé. Alguna que pongan en el Moncloa.
+# What movie are we going to see? I don't know. Some movie they put on the Moncloa.
+# 
+# ¿Adónde va Augustín? Adonde tú le has dicho.
+# Where's Augustin going? Where you told him to go.
+# 
+# ¿Qué vamos a ver? La película que pongan en Teletrés.
+# What are we going to see? The movie they're showing on Teletrés.
+# 
+# ¿Adónde vamos? Adonde tú digas.
+# Where are we going? Wherever you say.
+# 
+# ¿Qué vamos a ver? Cualquier película que pongan en la tele.
+# What are we going to see? Whatever movie they put on TV.
+# 
+# Elegid un libro que os guste.
+# Pick a book you like.
+# 
+# Es conveniente que estudies en un país donde se hable español.
+# It's a good idea to study in a country where Spanish is spoken.
+# 
+# Les dije que podían venir cuando quisieran.
+# I told them they could come whenever they wanted.
+# 
+# Necesitaba contratar a alguien que me tradujera los manuales.
+# I needed to hire someone to translate the manuals for me.
+# 
+# No conozco a nadie a quien no le haya gustado esta novela.
+# I don't know anyone who didn't like this novel.
+# 
+# Necesitamos a alguien que haya vivido en América Latina.
+# We need someone who has lived in Latin America.
+# 
+# Habría sido mejor que hubierais contratado a alguien que hubiera sido licenciado.
+# It would have been better if you had hired someone who was a graduate.
+# 
+# ¿Qué están haciendo esos? Nadar, ¿no lo ves?
+# What are those doing? Swimming, can't you see?
+# 
+# ¿Qué quería Luigi? Hablar conmigo.
+# What did Luigi want? To talk to me.
+# 
+# ¿Cuál es tu sueño? Ser feliz. No quiero nada más.
+# What's your dream? To be happy. I don't want anything else.
+# 
+# Es peor no querer que no saber.
+# It's worse not to want than not to know.
+# 
+# ¿No queréis ir? Haberlo pensado antes.
+# Don't you want to go? You should have thought of that before.
+# 
+# ¿Que estás cansado? Haber descansado cuando pudiste.
+# That you're tired? You should have rested when you could.
+# 
+# ¡Trabajar! ¡Quién pudiera trabajar! 
+# Work! Who could work! 
+# 
+# ¿Descansar? ¿Quién quiere descansar?
+# Rest? Who wants to rest?
+# 
+# Invítame a cenar. ¿Invitarte a cenar? Tú estás loco.
+# Invite me to dinner. Invite you to dinner? You're crazy.
+# 
+# ¡Volar en globo! ¡Qué emocionante!
+# Ballooning! How exciting!
+# 
+# ¿Habértelo dicho? ¿Por qué tenía yo que habértelo dicho?
+# Did I tell you? Why did I have to tell you?
+# 
+# ¿Trabajar Luis? ¿Cuándo se ha visto?
+# Work, Luis? When did it happen?
+# 
+# ¿Ayudarte yo? Ni lo sueñes.
+# Me help you? Not a chance.
+# 
+# Ayer estuvieron hablando Ana y Sonia. Hombre, hablar, hablar, no hablaron. Más se gritaron.
+# Yesterday Ana and Sonia were talking. Man, talk, talk, they didn't talk. More they shouted at each other.
+# 
+# Soraya canta muy bien. Hombre, cantar, lo que se dice cantar, no canta mucho.
+# Soraya sings very well. Man, singing, what they say about singing, she doesn't sing much.
+# 
+# No pisar en el césped.
+# Don't step on the grass.
+# 
+# Lavar en agua templada.
+# Wash in warm water.
+# 
+# Para participar en el concurso, rellenar el formulario y enviarlo a la siguiente dirección.
+# To participate in the contest, fill out the form and send it to the following address.
+# 
+# ¡Venga! A dormir todo el mundo. Es muy tarde.
+# Come on! Everybody go to sleep. It's very late.
+# 
+# Bueno, dejad ya los libros y a divertirse, chicos.
+# Well, stop with the books and have fun, kids.
+# 
+# Los viajes en avión son cansados.
+# Air travel is tiring.
+# 
+# Viajar en avión es cansado.
+# Air travel is tired.
+# 
+# Con el nuevo detergente frotar se va a acabar.
+# With the new detergent rub, it's going to run out.
+# 
+# Preparé la cena en un abrir y cerrar de ojos.
+# I made dinner in the blink of an eye.
+# 
+# A mi entender, la cena nos ha salido muy cara.
+# As far as I'm concerned, dinner was very expensive.
+# 
+# Ese piar de pájaros no me deja dormir.
+# That bird chirping is keeping me awake.
+# 
+# ¿Habéis hecho los deberes?
+# Have you done your homework?
+# 
 No existe democracia sin división de poderes.
 There's no democracy without division of power.
 
