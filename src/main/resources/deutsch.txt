@@ -9894,307 +9894,310 @@
 # 
 # Ich würde gerne die gelbe Blume kaufen.
 # I would like to buy the yellow flower.
+# # 
+# # Mag Johannes ein leckeres Brot schneiden?
+# # Does Johannes like to cut a delicious bread?
+# # 
+# Ich habe meinen Wecker überhört.
+# I failed to listen to my alarm clock.
 # 
-# Mag Johannes ein leckeres Brot schneiden?
-# Does Johannes like to cut a delicious bread?
+# Ich frühstücke immer um halb sieben.
+# I always have breakfast at 6:30
 # 
-Ich frühstücke immer um halb sieben.
-I always have breakfast at 6:30
-
-Hast du schön gefrühstückt?
-Have you already had breakfast? - inf
-
-Zum Frühstück esse ich gern Müsli.
-For breakfast, I like to have muesli.
-
-Was willst du zum Frühstück?
-What do you want for breakfast? - inf
-
-Ich muss beeilen, um den Zug zu erwischen.
-I have to hurry in order to catch the train.
-
-Ich habe keine Zeit zu frühstücken.
-I don't have time to have breakfast.
-
-Um wie viel Uhr willst du frühstücken?
-What time do you want to have breakfast?
-
-Was wollt ihr zu Mittag essen?
-What do you guys want for lunch?
-
-Zum Mittagessen habe ich einen Salat gegessen.
-For lunch, I had a salad.
-
-Was gibt's zum Mittagessen?
-What's for lunch?
-
-Wann gibt es Mittagessen?
-When are we having lunch?
-
-Das Mittagessen ist fertig.
-Lunch is ready.
-
-Das Essen ist fertig.
-The food is ready.
-
-Nach dem Abendessen gehen wir ins Kino.
-After dinner, we are going to the movies.
-
-Wir sind bei Müllers zum Abendessen eingeladen.
-We are invited to diner at the Muller's.
-
-Das Abendessen ist fertig.
-Dinner is ready.
-
-Was möchtest du zum Abendessen? - inf
-What would you like for dinner?
-
-Was möchtest du essen? - inf
-What would you like to eat?
-
-Wir haben gerade zu Abend gegessen.
-We just had dinner.
-
-Wir haben gerade gegessen.
-We just ate.
-
-Hast du schon was gegessen?
-Have you already eaten? - inf
-
-Das Abendessen war lecker.
-Dinner was delicious.
-
-Das Essen war lecker.
-The food was delicious.
-
-Ich lade dich ein.
-It's on me. (Eu convido, eu pago a conta)
-
-Ich lade dich zum Essen ein.
-I'm inviting you to eat. - inf (eu convido, eu pago a conta)
-
-Was gibt's zum Nachtisch?
-What's for dessert?
-
-Zum Nachtisch esse ich Eis.
-For dessert, I'm having ice cream.
-
-Wir essen jetzt Nachtisch.
-We're having dessert now.
-
-Zum Nachtisch gibt's Eis.
-For dessert, we're having ice cream.
-
-Ich liebe Nachtisch.
-I love dessert.
-
-Was möchtest du zum Nachtisch?
-What would you like for dessert?
-
-Ich habe noch nicht gefrühstückt.
-I haven't had breakfast today.
-
-Ich mache mir jetzt einen Bananen-Spinat-Smoothie mit Datteln.
-I'm making myself now a banana, spinach smothie with date.
-
-Ich bin mir noch nicht sicher, was ich zu Mittag esse.
-I'm not yet sure, what I will eat for lunch.
-
-Vielleicht esse ich Reis mit Gemüse oder Linsensuppe.
-Maybe I will eat rice with vegetables or a lentil soup.
-
-Zum Abendessen mache ich mir einen gemischten Salat. 
-I make myself a mixed salad for dinner.
-
-Vielleicht werde ich zwischendurch ein bisschen Schokoladen essen, aber nur, wenn ich mich nicht beherrschen kann.
-Maybe I'll have a little chocolate in between, but only if I can't control myself.
-
-Gestern hatte ich Heißhunger, gestern Abend, um 21:30. 
-Yesterday I had cravings, last night at 9:30 p.m.
-
-Alle Supermärkten hatten zu, außer Kaufland. 
-All supermarkets were closed except for Kaufland.
-
-Und dann bin ich noch um Viertel vor zehn zu Kaufland gefahren und habe mir eine Tafel Schokolade gekauft und die komplett gegessen.
-And then I went to Kaufland at a quarter to ten and bought a bar of chocolate and ate it all.
-
-Was beschwerst du dich denn da unten?
-What are you complaining about down there?
-
-Ich habe auf jeden Fall die gaze Tafel Schokolade gestern Abend gegessen.
-I definitely ate that entire bar of chocolate last night.
-
-Das war nich so gut.
-That wasn't so good.
-
-Jetzt muss ich mich ein bisschen Sport mache.
-Now I have to do some exercise
-
-Mögen Sie ein leckeres Brot schneiden?
-Do you like to cut a delicious bread?
-
-Mögen wir ein leckeres Brot schneiden?
-Do we like to cut a delicious bread?
-
-Mag Karin ein leckeres Brot schneiden?
-Does Karin like to cut a delicious bread?
-
-Mögen Johannes und Karin ein leckeres Brot schneiden?
-May John and Karin cut a delicious bread?
-
-Die Eltern haben Recht; er möchte den gelben Vogel.
-Parents are right; he wants the yellow bird.
-
-Die Eltern haben Recht; er möchte das gelbe Auto.
-The parents are right; he wants the yellow car.
-
-Die Eltern haben Recht; er möchte die gelbe Blume.
-The parents are right; he wants the yellow flower.
-
-Die Eltern haben Recht; er möchte das gelbe Hemd.
-The parents are right; he wants the yellow shirt.
-
-Die Eltern haben Recht; er möchte den gelben Stuhl.
-The parents are right; he wants the yellow chair.
-
-Die Eltern haben Recht; er möchte die gelbe Hose.
-The parents are right; he wants the yellow trousers.
-
-Die Eltern haben Recht; er möchte das gelbe Papier.
-The parents are right; he wants the yellow paper.
-
-Die Eltern haben Recht; er möchte den gelben Ball.
-The parents are right; he wants the yellow ball.
-
-Lukas hat Recht; sie möchte einen blauen Stuhl.
-Lukas is right; she wants a blue chair.
-
-Lukas hat Recht; sie möchte ein blaues Auto.
-Lukas is right; she wants a blue car.
-
-Lukas hat Recht; sie möchte einen blauen Vogel.
-Luke is right; she wants a blue bird.
-
-Lukas hat Recht; sie möchte ein blaues Hemd.
-Luke is right; she wants a blue shirt.
-
-Lukas hat Recht; sie möchte eine blaue Blume.
-Luke is right; she wants a blue flower.
-
-Lukas hat Recht; sie möchte einen blauen Ball.
-Luke is right; she wants a blue ball.
-
-Lukas hat Recht; sie möchte eine blaue Hose.
-Luke is right; she wants blue trousers.
-
-Lukas hat Recht; sie möchte ein blaues Papier.
-Luke is right; she wants a blue paper.
-
-Ich suche nicht irgendein Hemd, ich suche das richtige Hemd.
-I'm not looking for any shirt, I'm looking for the right shirt.
-
-Ich suche nicht irgendeinen Ball, ich suche den richtigen Ball.
-I'm not looking for any ball, I'm looking for the right ball.
-
-Ich suche nicht irgendeine Hose, ich suche die richtige Hose.
-I'm not looking for any pants, I'm looking for the right pants.
-
-Ich suche nicht irgendeinen Hund, ich suche den richtigen Hund.
-I'm not looking for any dog, I'm looking for the right dog.
-
-Ich suche nicht irgendein Messer, ich suche das richtige Messer.
-I'm not looking for any knife, I'm looking for the right knife.
-
-Ich suche nicht irgendeine Blume, ich suche die richtige Blume.
-I'm not looking for just any flower, I'm looking for the right flower.
-
-Ich suche nicht irgendeinen Zug, ich suche den richtigen Zug.
-I'm not looking for some train, I'm looking for the right train.
-
-Ich suche nicht irgendeine S-Bahn, ich suche die richtige S-Bahn.
-I'm not looking for any S-Bahn, I'm looking for the right S-Bahn.
-
-Ich suche nicht irgendein Taxi, ich suche das richtige Taxi.
-I'm not looking for any taxi, I'm looking for the right taxi.
-
-Der weiße Hund ist verloren gegangen. Student: Suchen Sie den weißen Hund?
-The white dog's been lost. Student: Looking for the white dog?
-
-Der große Schlüssel ist verloren gegangen. Suchen Sie den großen Schlüssel?
-The big key has been lost. Looking for the big key?
-
-Das kleine Mädchen ist verloren gegangen. Suchen Sie das kleine Mädchen?
-The little girl has been lost. Are you looking for the little girl?
-
-Die kleine Maus ist verloren gegangen. Suchen Sie die kleine Maus?
-The little mouse has been lost. Are you looking for the little mouse?
-
-Der schwarze Laptop ist verloren gegangen. Suchen Sie den schwarzen Laptop?
-The black laptop has been lost. Looking for the black laptop?
-
-Das braune Hemd ist verloren gegangen. Suchen Sie das braune Hemd?
-The brown shirt has been lost. Looking for the brown shirt?
-
-Die lange Gabel ist verloren gegangen. Suchen Sie die lange Gabel?
-The long fork has been lost. Looking for the long fork?
-
-Ich suche einen braunen Hund. Student: Ich hoffe, dass Sie den braunen Hund finden.
-I'm looking for a brown dog. Student: I hope you find the brown dog.
-
-Ich suche ein kleines Mädchen. Ich hoffe, dass Sie das kleine Mädchen finden.
-I'm looking for a little girl. I hope you find the little girl.
-
-Ich suche einen großen Schlüssel. Ich hoffe, dass Sie den großen Schlüssel finden.
-I'm looking for a big key. I hope you find the big key.
-
-Ich suche ein langes Messer. Ich hoffe, dass Sie das lange Messer finden.
-I'm looking for a long knife. I hope you find the long knife.
-
-Ich suche eine rote Blume. Ich hoffe, dass Sie die rote Blume finden.
-I am looking for a red flower. I hope you find the red flower.
-
-Ich suche einen gelben Ball. Ich hoffe, dass Sie den gelben Ball finden.
-I am looking for a yellow ball. I hope you find the yellow ball.
-
-Ich suche einen schwarzen Laptop. Ich hoffe, dass Sie den schwarzen Laptop finden.
-I'm looking for a black laptop. I hope you find the black laptop.
-
-Ich suche eine lange Hose. Ich hoffe, dass Sie die lange Hose finden.
-I'm looking for a pair of long trousers. I hope you find the long pants.
-
-Dort ist der graue Hund. Sehr gut, ich suche gerade den grauen Hund.
-There's the grey dog. Very good, I am looking for the grey dog.
-
-Dort ist der große Bahnhof. Sehr gut, ich suche gerade den großen Bahnhof.
-There is the big station. Very good, I'm looking for the big station.
-
-Dort ist die kleine Katze. Sehr gut, ich suche gerade die kleine Katze.
-There is the little cat. Very good, I am looking for the little cat.
-
-Dort ist das weiße Auto. Sehr gut, ich suche gerade das weiße Auto.
-There is the white car. Very good, I'm looking for the white car.
-
-Dort ist die lange Gabel. Sehr gut, ich suche gerade die lange Gabel.
-There is the long fork. Very good, I am looking for the long fork.
-
-Dort ist der weiße Teller. Sehr gut, ich suche gerade den weißen Teller.
-There is the white plate. Very good, I'm looking for the white plate.
-
-Dort ist der große Arbeitstisch. Sehr gut, ich suche gerade den großen Arbeitstisch.
-There is the big work table. Very good, I'm looking for the big work table.
-
-Dort ist das kleine Mädchen. Sehr gut, ich suche gerade das kleine Mädchen.
-There is the little girl. Very good, I am looking for the little girl.
-
-Dort ist die schnelle Maus. Sehr gut, ich suche gerade die schnelle Maus.
-There is the fast mouse. Very good, I am looking for the fast mouse.
-
-Ich sehe einen schwarzen Hund. Der schwarze Hund ist dort.
-I see a black dog. The black dog is there.
-
-Ich sehe eine kleine Maus. Die kleine Maus ist dort.
-I see a little mouse. The little mouse is there.
-
+# Hast du schön gefrühstückt?
+# Have you already had breakfast? - inf
+# 
+# Zum Frühstück esse ich gern Müsli.
+# For breakfast, I like to have muesli.
+# 
+# Was willst du zum Frühstück?
+# What do you want for breakfast? - inf
+# 
+# Ich muss beeilen, um den Zug zu erwischen.
+# I have to hurry in order to catch the train.
+# 
+# Ich habe keine Zeit zu frühstücken.
+# I don't have time to have breakfast.
+# 
+# Um wie viel Uhr willst du frühstücken?
+# What time do you want to have breakfast?
+# 
+# Was wollt ihr zu Mittag essen?
+# What do you guys want for lunch?
+# 
+# Zum Mittagessen habe ich einen Salat gegessen.
+# For lunch, I had a salad.
+# 
+# Was gibt's zum Mittagessen?
+# What's for lunch?
+# 
+# Wann gibt es Mittagessen?
+# When are we having lunch?
+# 
+# Das Mittagessen ist fertig.
+# Lunch is ready.
+# 
+# Das Essen ist fertig.
+# The food is ready.
+# 
+# Nach dem Abendessen gehen wir ins Kino.
+# After dinner, we are going to the movies.
+# 
+# Wir sind bei Müllers zum Abendessen eingeladen.
+# We are invited to diner at the Muller's.
+# 
+# Das Abendessen ist fertig.
+# Dinner is ready.
+# 
+# Was möchtest du zum Abendessen? - inf
+# What would you like for dinner?
+# 
+# Was möchtest du essen? - inf
+# What would you like to eat?
+# 
+# Wir haben gerade zu Abend gegessen.
+# We just had dinner.
+# 
+# Wir haben gerade gegessen.
+# We just ate.
+# 
+# Hast du schon was gegessen?
+# Have you already eaten? - inf
+# 
+# Das Abendessen war lecker.
+# Dinner was delicious.
+# 
+# Das Essen war lecker.
+# The food was delicious.
+# 
+# Ich lade dich ein.
+# It's on me. (Eu convido, eu pago a conta)
+# 
+# Ich lade dich zum Essen ein.
+# I'm inviting you to eat. - inf (eu convido, eu pago a conta)
+# 
+# Was gibt's zum Nachtisch?
+# What's for dessert?
+# 
+# Zum Nachtisch esse ich Eis.
+# For dessert, I'm having ice cream.
+# 
+# Wir essen jetzt Nachtisch.
+# We're having dessert now.
+# 
+# Zum Nachtisch gibt's Eis.
+# For dessert, we're having ice cream.
+# 
+# Ich liebe Nachtisch.
+# I love dessert.
+# 
+# Was möchtest du zum Nachtisch?
+# What would you like for dessert?
+# 
+# Ich habe noch nicht gefrühstückt.
+# I haven't had breakfast today.
+# 
+# Ich mache mir jetzt einen Bananen-Spinat-Smoothie mit Datteln.
+# I'm making myself now a banana, spinach smothie with date.
+# 
+# Ich bin mir noch nicht sicher, was ich zu Mittag esse.
+# I'm not yet sure, what I will eat for lunch.
+# 
+# Vielleicht esse ich Reis mit Gemüse oder Linsensuppe.
+# Maybe I will eat rice with vegetables or a lentil soup.
+# 
+# Zum Abendessen mache ich mir einen gemischten Salat. 
+# I make myself a mixed salad for dinner.
+# 
+# Vielleicht werde ich zwischendurch ein bisschen Schokoladen essen, aber nur, wenn ich mich nicht beherrschen kann.
+# Maybe I'll have a little chocolate in between, but only if I can't control myself.
+# 
+# Gestern hatte ich Heißhunger, gestern Abend, um 21:30. 
+# Yesterday I had cravings, last night at 9:30 p.m.
+# 
+# Alle Supermärkten hatten zu, außer Kaufland. 
+# All supermarkets were closed except for Kaufland.
+# 
+# Und dann bin ich noch um Viertel vor zehn zu Kaufland gefahren und habe mir eine Tafel Schokolade gekauft und die komplett gegessen.
+# And then I went to Kaufland at a quarter to ten and bought a bar of chocolate and ate it all.
+# 
+# Was beschwerst du dich denn da unten?
+# What are you complaining about down there?
+# 
+# Ich habe auf jeden Fall die gaze Tafel Schokolade gestern Abend gegessen.
+# I definitely ate that entire bar of chocolate last night.
+# 
+# Das war nich so gut.
+# That wasn't so good.
+# 
+# Jetzt muss ich mich ein bisschen Sport mache.
+# Now I have to do some exercise
+# 
+# Mögen Sie ein leckeres Brot schneiden?
+# Do you like to cut a delicious bread?
+# 
+# Mögen wir ein leckeres Brot schneiden?
+# Do we like to cut a delicious bread?
+# 
+# Mag Karin ein leckeres Brot schneiden?
+# Does Karin like to cut a delicious bread?
+# 
+# Mögen Johannes und Karin ein leckeres Brot schneiden?
+# May John and Karin cut a delicious bread?
+# 
+# Die Eltern haben Recht; er möchte den gelben Vogel.
+# Parents are right; he wants the yellow bird.
+# 
+# Die Eltern haben Recht; er möchte das gelbe Auto.
+# The parents are right; he wants the yellow car.
+# 
+# Die Eltern haben Recht; er möchte die gelbe Blume.
+# The parents are right; he wants the yellow flower.
+# 
+# Die Eltern haben Recht; er möchte das gelbe Hemd.
+# The parents are right; he wants the yellow shirt.
+# 
+# Die Eltern haben Recht; er möchte den gelben Stuhl.
+# The parents are right; he wants the yellow chair.
+# 
+# Die Eltern haben Recht; er möchte die gelbe Hose.
+# The parents are right; he wants the yellow trousers.
+# 
+# Die Eltern haben Recht; er möchte das gelbe Papier.
+# The parents are right; he wants the yellow paper.
+# 
+# Die Eltern haben Recht; er möchte den gelben Ball.
+# The parents are right; he wants the yellow ball.
+# 
+# Lukas hat Recht; sie möchte einen blauen Stuhl.
+# Lukas is right; she wants a blue chair.
+# 
+# Lukas hat Recht; sie möchte ein blaues Auto.
+# Lukas is right; she wants a blue car.
+# 
+# Lukas hat Recht; sie möchte einen blauen Vogel.
+# Luke is right; she wants a blue bird.
+# 
+# Lukas hat Recht; sie möchte ein blaues Hemd.
+# Luke is right; she wants a blue shirt.
+# 
+# Lukas hat Recht; sie möchte eine blaue Blume.
+# Luke is right; she wants a blue flower.
+# 
+# Lukas hat Recht; sie möchte einen blauen Ball.
+# Luke is right; she wants a blue ball.
+# 
+# Lukas hat Recht; sie möchte eine blaue Hose.
+# Luke is right; she wants blue trousers.
+# 
+# Lukas hat Recht; sie möchte ein blaues Papier.
+# Luke is right; she wants a blue paper.
+# 
+# Ich suche nicht irgendein Hemd, ich suche das richtige Hemd.
+# I'm not looking for any shirt, I'm looking for the right shirt.
+# 
+# Ich suche nicht irgendeinen Ball, ich suche den richtigen Ball.
+# I'm not looking for any ball, I'm looking for the right ball.
+# 
+# Ich suche nicht irgendeine Hose, ich suche die richtige Hose.
+# I'm not looking for any pants, I'm looking for the right pants.
+# 
+# Ich suche nicht irgendeinen Hund, ich suche den richtigen Hund.
+# I'm not looking for any dog, I'm looking for the right dog.
+# 
+# Ich suche nicht irgendein Messer, ich suche das richtige Messer.
+# I'm not looking for any knife, I'm looking for the right knife.
+# 
+# Ich suche nicht irgendeine Blume, ich suche die richtige Blume.
+# I'm not looking for just any flower, I'm looking for the right flower.
+# 
+# Ich suche nicht irgendeinen Zug, ich suche den richtigen Zug.
+# I'm not looking for some train, I'm looking for the right train.
+# 
+# Ich suche nicht irgendeine S-Bahn, ich suche die richtige S-Bahn.
+# I'm not looking for any S-Bahn, I'm looking for the right S-Bahn.
+# 
+# Ich suche nicht irgendein Taxi, ich suche das richtige Taxi.
+# I'm not looking for any taxi, I'm looking for the right taxi.
+# 
+# Der weiße Hund ist verloren gegangen. Student: Suchen Sie den weißen Hund?
+# The white dog's been lost. Student: Looking for the white dog?
+# 
+# Der große Schlüssel ist verloren gegangen. Suchen Sie den großen Schlüssel?
+# The big key has been lost. Looking for the big key?
+# 
+# Das kleine Mädchen ist verloren gegangen. Suchen Sie das kleine Mädchen?
+# The little girl has been lost. Are you looking for the little girl?
+# 
+# Die kleine Maus ist verloren gegangen. Suchen Sie die kleine Maus?
+# The little mouse has been lost. Are you looking for the little mouse?
+# 
+# Der schwarze Laptop ist verloren gegangen. Suchen Sie den schwarzen Laptop?
+# The black laptop has been lost. Looking for the black laptop?
+# 
+# Das braune Hemd ist verloren gegangen. Suchen Sie das braune Hemd?
+# The brown shirt has been lost. Looking for the brown shirt?
+# 
+# Die lange Gabel ist verloren gegangen. Suchen Sie die lange Gabel?
+# The long fork has been lost. Looking for the long fork?
+# 
+# Ich suche einen braunen Hund. Student: Ich hoffe, dass Sie den braunen Hund finden.
+# I'm looking for a brown dog. Student: I hope you find the brown dog.
+# 
+# Ich suche ein kleines Mädchen. Ich hoffe, dass Sie das kleine Mädchen finden.
+# I'm looking for a little girl. I hope you find the little girl.
+# 
+# Ich suche einen großen Schlüssel. Ich hoffe, dass Sie den großen Schlüssel finden.
+# I'm looking for a big key. I hope you find the big key.
+# 
+# Ich suche ein langes Messer. Ich hoffe, dass Sie das lange Messer finden.
+# I'm looking for a long knife. I hope you find the long knife.
+# 
+# Ich suche eine rote Blume. Ich hoffe, dass Sie die rote Blume finden.
+# I am looking for a red flower. I hope you find the red flower.
+# 
+# Ich suche einen gelben Ball. Ich hoffe, dass Sie den gelben Ball finden.
+# I am looking for a yellow ball. I hope you find the yellow ball.
+# 
+# Ich suche einen schwarzen Laptop. Ich hoffe, dass Sie den schwarzen Laptop finden.
+# I'm looking for a black laptop. I hope you find the black laptop.
+# 
+# Ich suche eine lange Hose. Ich hoffe, dass Sie die lange Hose finden.
+# I'm looking for a pair of long trousers. I hope you find the long pants.
+# 
+# Dort ist der graue Hund. Sehr gut, ich suche gerade den grauen Hund.
+# There's the grey dog. Very good, I am looking for the grey dog.
+# 
+# Dort ist der große Bahnhof. Sehr gut, ich suche gerade den großen Bahnhof.
+# There is the big station. Very good, I'm looking for the big station.
+# 
+# Dort ist die kleine Katze. Sehr gut, ich suche gerade die kleine Katze.
+# There is the little cat. Very good, I am looking for the little cat.
+# 
+# Dort ist das weiße Auto. Sehr gut, ich suche gerade das weiße Auto.
+# There is the white car. Very good, I'm looking for the white car.
+# 
+# Dort ist die lange Gabel. Sehr gut, ich suche gerade die lange Gabel.
+# There is the long fork. Very good, I am looking for the long fork.
+# 
+# Dort ist der weiße Teller. Sehr gut, ich suche gerade den weißen Teller.
+# There is the white plate. Very good, I'm looking for the white plate.
+# 
+# Dort ist der große Arbeitstisch. Sehr gut, ich suche gerade den großen Arbeitstisch.
+# There is the big work table. Very good, I'm looking for the big work table.
+# 
+# Dort ist das kleine Mädchen. Sehr gut, ich suche gerade das kleine Mädchen.
+# There is the little girl. Very good, I am looking for the little girl.
+# 
+# Dort ist die schnelle Maus. Sehr gut, ich suche gerade die schnelle Maus.
+# There is the fast mouse. Very good, I am looking for the fast mouse.
+# 
+# Ich sehe einen schwarzen Hund. Der schwarze Hund ist dort.
+# I see a black dog. The black dog is there.
+# 
+# Ich sehe eine kleine Maus. Die kleine Maus ist dort.
+# I see a little mouse. The little mouse is there.
+# 
 Ich sehe ein schönes Pferd. Das schöne Pferd ist dort.
 I see a beautiful horse. The beautiful horse is there.
 
