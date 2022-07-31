@@ -11683,321 +11683,321 @@
 # Viajar en avión es cansado.
 # Air travel is tired.
 # 
-# Con el nuevo detergente frotar se va a acabar.
-# With the new detergent rub, it's going to run out.
+# # Con el nuevo detergente frotar se va a acabar.
+# # With the new detergent rub, it's going to run out.
+# # 
+# # Preparé la cena en un abrir y cerrar de ojos.
+# # I made dinner in the blink of an eye.
+# # 
+# # A mi entender, la cena nos ha salido muy cara.
+# # As far as I'm concerned, dinner was very expensive.
+# # 
+# # Ese piar de pájaros no me deja dormir.
+# # That bird chirping is keeping me awake.
+# # 
+# # ¿Habéis hecho los deberes?
+# # Have you done your homework?
+# # 
+# No existe democracia sin división de poderes.
+# There's no democracy without division of power.
 # 
-# Preparé la cena en un abrir y cerrar de ojos.
-# I made dinner in the blink of an eye.
+# Rocío tiene unos andares un poco raros.
+# Rocío has a strange walk.
 # 
-# A mi entender, la cena nos ha salido muy cara.
-# As far as I'm concerned, dinner was very expensive.
+# El cantar de las aves alegra el espíritu.
+# The singing of the birds cheers up the spirit.
 # 
-# Ese piar de pájaros no me deja dormir.
-# That bird chirping is keeping me awake.
+# Nos complace invitarlos a la boda de nuestra hija.
+# We are pleased to invite you to our daughter's wedding.
 # 
-# ¿Habéis hecho los deberes?
-# Have you done your homework?
+# Me encanta viajar en barco.
+# I love to travel by boat.
 # 
-No existe democracia sin división de poderes.
-There's no democracy without division of power.
-
-Rocío tiene unos andares un poco raros.
-Rocío has a strange walk.
-
-El cantar de las aves alegra el espíritu.
-The singing of the birds cheers up the spirit.
-
-Nos complace invitarlos a la boda de nuestra hija.
-We are pleased to invite you to our daughter's wedding.
-
-Me encanta viajar en barco.
-I love to travel by boat.
-
-A Julia nunca le interesó trabajar en una empresa extrajera.
-Julia was never interested in working for a foreign company.
-
-Me alegra que vosotros hayáis podido venir.
-I'm glad you guys could come.
-
-¿Le importa que salga un poco antes esta tarde?
-Do you mind if I leave a little early this afternoon?
-
-Me encanta que estéis contentos.
-I'm glad you're happy.
-
-¿Te apetece que vayamos a la playa este fin de semana?
-Would you like to go to the beach this weekend?
-
-No me gusta que hayas invitado a Mateo. Es un gorrón.
-I don't like that you invited Mateo. He's a freeloader.
-
-No me importa que hayas sido director de un banco. Yo necesito un buen contable.
-I don't care that you were a bank manager. I need a good accountant.
-
-Nunca me importó que no tuvieras dinero.
-I never cared that you didn't have any money.
-
-¿Te importaría que no te acompañara a la conferencia? Me duele un poco la cabeza.
-Would you mind if I didn't accompany you to the conference? I have a bit of a headache.
-
-Es fácil ganar al Real Madrid.
-It's easy to beat Real Madrid.
-
-Parecía imposible equivocarse, pero nos equivocarnos.
-It seemed impossible to be wrong, but we were wrong.
-
-Lo siento, pero ha sido imposible arreglar el coche.
-I'm sorry, but it was impossible to fix the car.
-
-Resultó difícil encontrar aparcamiento.
-It was difficult to find parking.
-
-No es fácil que la gente cambie.
-It's not easy for people to change.
-
-Parece imposible que Rodrigo haya muerto.
-It seems impossible that Rodrigo died.
-
-Es triste que tus amigos te engañen.
-It's sad that your friends are cheating on you.
-
-Es posible que el Madrid gane el domingo.
-It's possible that Madrid will win on Sunday.
-
-Es imposible que haya suspendido. Hice el examen perfecto.
-There's no way he could have failed. I took the perfect test.
-
-Parece increíble que la gente viera el accidente y no hiciera nada.
-It seems incredible that people saw the accident and did nothing.
-
-Sería lamentable que nos despidiéramos enfadados.
-It would be unfortunate if we said goodbye in anger.
-
-Puede que Sonia esté ahora en casa.
-Maybe Sonia is at home now.
-
-Jugaron muy bien. Merecieron ganar.
-They played very well. They deserved to win.
-
-Pedimos salir una hora antes para ir al dentista.
-We asked to leave an hour early to go to the dentist.
-
-Es una gran pintora, merece triunfar. Sí, espero que triunfe.
-She's a great painter, she deserves to win. Yes, I hope she succeeds.
-
-Lo has hecho muy bien. Mereces que te dé un premio.
-You've done very well. You deserve a prize.
-
-Le pedimos al jefe que nos dejara salir antes para ver el partido.
-We asked the boss to let us out early to watch the game.
-
-Procura llegar puntual. Al director no le gustan retrasos.
-Try to be on time. The director doesn't like delays.
-
-Procura que lleguen las cartas a tiempo.
-Make sure the letters arrive on time.
-
-El jefe nos hace quedarnos una hora extra los martes.
-The boss makes us stay an extra hour on Tuesdays.
-
-El jefe hace que nos quedemos una hora extra los martes.
-The boss makes us stay an extra hour on Tuesdays.
-
-Nos mandaron subir las maletas.
-They sent us upstairs to get our bags.
-
-Nos mandaron que subiéramos las maletas.
-They told us to bring up the bags.
-
-Eloisa me invitó a ver el partido.
-Eloise invited me to watch the game.
-
-Eloisa me invitó a que viera el partido en su televisor de pantalla gigante.
-Eloisa invited me to watch the game on her big-screen TV.
-
-Rogó al público guardar calma.
-She begged the audience to stay calm.
-
-Rogó al público que guardara calma.
-She begged the audience to stay calm.
-
-Te recomiendo que leas este libro. Es extraordinario.
-I recommend you read this book. It's extraordinary.
-
-Procura que no te vea nadie. Es mejor.
-Make sure no one sees you. It's better.
-
-Espero que las fotos hayan salido bien.
-I hope the pictures turned out well.
-
-Siento que no hayas conocido a mis padres.
-I'm sorry you didn't meet my parents.
-
-El director pidió que nos trajeron algunos bocadillos a la oficina.
-The director asked that they bring us some snacks to the office.
-
-Yo no dejaría que me engañasen.
-I wouldn't let them fool me.
-
-Preferiría que no fumarais aquí. Están los niños.
-I'd rather you didn't smoke in here. There are the kids.
-
-Perdona, pero creo tener razón. Eso es un hámster.
-Excuse me, but I think I'm right. That's a hamster.
-
-Perdona, pero creo que tengo razón. Eso es un hámster.
-Excuse me, but I think I'm right. That is a hamster.
-
-No creo que tenga suficiente dinero para las entradas. Tendrás que darme algo.
-I don't think I have enough money for tickets. You'll have to give me something.
-
-Reconozco ser un poco cabezón.
-I admit to being a little stubborn.
-
-Reconozco que soy un poco cabezón.
-I admit I'm a little stubborn.
-
-Recuerdo habértelo dicho. Recuerdo que te lo dije.
-I remember telling you that. I remember telling you.
-
-Confesó haberlo robado ella. Confesó que lo había robado ella.
-She confessed to stealing it. She confessed that she stole it.
-
-Creo que tienes razón.
-I guess you're right.
-
-Reconozco que Sara es más rápida que yo.
-I admit that Sara is faster than me.
-
-No creo equivocarme.
-I don't think I'm wrong.
-
-No creo que me equivoque.
-I don't think I'm wrong.
-
-No imaginaba ser tan listo. No imaginaba que fuera tan listo.
-I didn't think I'd be that smart. I didn't think I'd be that smart.
-
-No creo que Elisa sea brasileña. No lo parece.
-I don't think Elisa is Brazilian. She doesn't look it.
-
-El chico no dice que sea banquero.
-The kid doesn't say he's a banker.
-
-No finjas que no me conoces.
-Don't pretend you don't know me.
-
-No digas que no os he avisado.
-Don't say I didn't warn you.
-
-¿No crees que tengo razón?
-You don't think I'm right?
-
-¿No admites que te has equivocado?
-Don't you admit you're wrong?
-
-Oí toser a Santiago.
-I heard Santiago cough.
-
-Oí que Santiago tosía.
-I heard Santiago cough.
-
-Sentí temblar la tierra.
-I felt the earth shake.
-
-Sentí que la tierra temblaba.
-I felt the earth shake.
-
-No oí toser a Santiago.
-I didn't hear James cough.
-
-No oí que Santiago tosiera.
-I didn't hear James cough.
-
-No sentí la tierra temblar.
-I didn't feel the earth shake.
-
-No sentí que la tierra temblara.
-I didn't feel the earth shake.
-
-Sin estar seguro, es mejor no hablar.
-Without being sure, it's better not to talk.
-
-No se debe cantar victoria hasta no haber ganado.
-One should not sing victory until one has won.
-
-Eso te pasa por no querer ayudarme.
-That's what you get for not wanting to help me.
-
-Eso te pasa por haber querido engañarme.
-That's what you get for trying to fool me.
-
-Perdona. Lo he hecho sin querer.
-I'm sorry. I'm sorry. I didn't mean to.
-
-Conocí a Eva antes de casarse.
-I knew Eva before she was married.
-
-Eso le pasó a Marta por ser tú tan egoísta.
-That's what happened to Marta for being so selfish.
-
-Nos llamaron después de morir Ana.
-They called us after Ana died.
-
-Quieren que arreglemos la casa antes de regresar ellos.
-They want us to fix the house before they return.
-
-Olga tiene miedo a salir de noche.
-Olga is afraid to go out at night.
-
-Ten cuidado de no tocar el enchufe.
-Be careful not to touch the plug.
-
-Tengo la sensación de estar ya de vacaciones.
-I have the feeling I'm already on vacation.
-
-He venido solo por el deseo de hablar contigo.
-I've come here only because I want to talk to you.
-
-No tengo interés en conocer tu prima.
-I have no interest in meeting your cousin.
-
-Haz un esfuerzo por reconciliarte con ella.
-Make an effort to reconcile with her.
-
-No estoy acostumbrado a madrugar. Me cuesta.
-I'm not used to getting up early. It's hard for me.
-
-Antonio está resuelto a irse a vivir a Colombia.
-Antonio is determined to go and live in Colombia.
-
-Estamos decididos a hacerlo.
-We are determined to do so.
-
-¿No serás capaz de engañarme?
-You won't be able to fool me?
-
-Estoy contento de poder colaborar con vosotros.
-I'm happy to collaborate with you.
-
-Gonzalo está harto de denunciar irregularidades.
-Gonzalo is tired of reporting irregularities.
-
-Eso que dices es difícil de creer.
-That's hard to believe.
-
-Estoy cansado de oír tus sandeces.
-I'm tired of hearing your bullshit.
-
-Estoy muy preocupada por encontrar un empleo.
-I'm very worried about finding a job.
-
-Ramón está loco por jubilarse.
-Ramón is crazy about retiring.
-
-La gramática ya está lista para publicarse.
-The grammar is ready for publication.
-
+# A Julia nunca le interesó trabajar en una empresa extrajera.
+# Julia was never interested in working for a foreign company.
+# 
+# Me alegra que vosotros hayáis podido venir.
+# I'm glad you guys could come.
+# 
+# ¿Le importa que salga un poco antes esta tarde?
+# Do you mind if I leave a little early this afternoon?
+# 
+# Me encanta que estéis contentos.
+# I'm glad you're happy.
+# 
+# ¿Te apetece que vayamos a la playa este fin de semana?
+# Would you like to go to the beach this weekend?
+# 
+# No me gusta que hayas invitado a Mateo. Es un gorrón.
+# I don't like that you invited Mateo. He's a freeloader.
+# 
+# No me importa que hayas sido director de un banco. Yo necesito un buen contable.
+# I don't care that you were a bank manager. I need a good accountant.
+# 
+# Nunca me importó que no tuvieras dinero.
+# I never cared that you didn't have any money.
+# 
+# ¿Te importaría que no te acompañara a la conferencia? Me duele un poco la cabeza.
+# Would you mind if I didn't accompany you to the conference? I have a bit of a headache.
+# 
+# Es fácil ganar al Real Madrid.
+# It's easy to beat Real Madrid.
+# 
+# Parecía imposible equivocarse, pero nos equivocarnos.
+# It seemed impossible to be wrong, but we were wrong.
+# 
+# Lo siento, pero ha sido imposible arreglar el coche.
+# I'm sorry, but it was impossible to fix the car.
+# 
+# Resultó difícil encontrar aparcamiento.
+# It was difficult to find parking.
+# 
+# No es fácil que la gente cambie.
+# It's not easy for people to change.
+# 
+# Parece imposible que Rodrigo haya muerto.
+# It seems impossible that Rodrigo died.
+# 
+# Es triste que tus amigos te engañen.
+# It's sad that your friends are cheating on you.
+# 
+# Es posible que el Madrid gane el domingo.
+# It's possible that Madrid will win on Sunday.
+# 
+# Es imposible que haya suspendido. Hice el examen perfecto.
+# There's no way he could have failed. I took the perfect test.
+# 
+# Parece increíble que la gente viera el accidente y no hiciera nada.
+# It seems incredible that people saw the accident and did nothing.
+# 
+# Sería lamentable que nos despidiéramos enfadados.
+# It would be unfortunate if we said goodbye in anger.
+# 
+# Puede que Sonia esté ahora en casa.
+# Maybe Sonia is at home now.
+# 
+# Jugaron muy bien. Merecieron ganar.
+# They played very well. They deserved to win.
+# 
+# Pedimos salir una hora antes para ir al dentista.
+# We asked to leave an hour early to go to the dentist.
+# 
+# Es una gran pintora, merece triunfar. Sí, espero que triunfe.
+# She's a great painter, she deserves to win. Yes, I hope she succeeds.
+# 
+# Lo has hecho muy bien. Mereces que te dé un premio.
+# You've done very well. You deserve a prize.
+# 
+# Le pedimos al jefe que nos dejara salir antes para ver el partido.
+# We asked the boss to let us out early to watch the game.
+# 
+# Procura llegar puntual. Al director no le gustan retrasos.
+# Try to be on time. The director doesn't like delays.
+# 
+# Procura que lleguen las cartas a tiempo.
+# Make sure the letters arrive on time.
+# 
+# El jefe nos hace quedarnos una hora extra los martes.
+# The boss makes us stay an extra hour on Tuesdays.
+# 
+# El jefe hace que nos quedemos una hora extra los martes.
+# The boss makes us stay an extra hour on Tuesdays.
+# 
+# Nos mandaron subir las maletas.
+# They sent us upstairs to get our bags.
+# 
+# Nos mandaron que subiéramos las maletas.
+# They told us to bring up the bags.
+# 
+# Eloisa me invitó a ver el partido.
+# Eloise invited me to watch the game.
+# 
+# Eloisa me invitó a que viera el partido en su televisor de pantalla gigante.
+# Eloisa invited me to watch the game on her big-screen TV.
+# 
+# Rogó al público guardar calma.
+# She begged the audience to stay calm.
+# 
+# Rogó al público que guardara calma.
+# She begged the audience to stay calm.
+# 
+# Te recomiendo que leas este libro. Es extraordinario.
+# I recommend you read this book. It's extraordinary.
+# 
+# Procura que no te vea nadie. Es mejor.
+# Make sure no one sees you. It's better.
+# 
+# Espero que las fotos hayan salido bien.
+# I hope the pictures turned out well.
+# 
+# Siento que no hayas conocido a mis padres.
+# I'm sorry you didn't meet my parents.
+# 
+# El director pidió que nos trajeron algunos bocadillos a la oficina.
+# The director asked that they bring us some snacks to the office.
+# 
+# Yo no dejaría que me engañasen.
+# I wouldn't let them fool me.
+# 
+# Preferiría que no fumarais aquí. Están los niños.
+# I'd rather you didn't smoke in here. There are the kids.
+# 
+# Perdona, pero creo tener razón. Eso es un hámster.
+# Excuse me, but I think I'm right. That's a hamster.
+# 
+# Perdona, pero creo que tengo razón. Eso es un hámster.
+# Excuse me, but I think I'm right. That is a hamster.
+# 
+# No creo que tenga suficiente dinero para las entradas. Tendrás que darme algo.
+# I don't think I have enough money for tickets. You'll have to give me something.
+# 
+# Reconozco ser un poco cabezón.
+# I admit to being a little stubborn.
+# 
+# Reconozco que soy un poco cabezón.
+# I admit I'm a little stubborn.
+# 
+# Recuerdo habértelo dicho. Recuerdo que te lo dije.
+# I remember telling you that. I remember telling you.
+# 
+# Confesó haberlo robado ella. Confesó que lo había robado ella.
+# She confessed to stealing it. She confessed that she stole it.
+# 
+# Creo que tienes razón.
+# I guess you're right.
+# 
+# Reconozco que Sara es más rápida que yo.
+# I admit that Sara is faster than me.
+# 
+# No creo equivocarme.
+# I don't think I'm wrong.
+# 
+# No creo que me equivoque.
+# I don't think I'm wrong.
+# 
+# No imaginaba ser tan listo. No imaginaba que fuera tan listo.
+# I didn't think I'd be that smart. I didn't think I'd be that smart.
+# 
+# No creo que Elisa sea brasileña. No lo parece.
+# I don't think Elisa is Brazilian. She doesn't look it.
+# 
+# El chico no dice que sea banquero.
+# The kid doesn't say he's a banker.
+# 
+# No finjas que no me conoces.
+# Don't pretend you don't know me.
+# 
+# No digas que no os he avisado.
+# Don't say I didn't warn you.
+# 
+# ¿No crees que tengo razón?
+# You don't think I'm right?
+# 
+# ¿No admites que te has equivocado?
+# Don't you admit you're wrong?
+# 
+# Oí toser a Santiago.
+# I heard Santiago cough.
+# 
+# Oí que Santiago tosía.
+# I heard Santiago cough.
+# 
+# Sentí temblar la tierra.
+# I felt the earth shake.
+# 
+# Sentí que la tierra temblaba.
+# I felt the earth shake.
+# 
+# No oí toser a Santiago.
+# I didn't hear James cough.
+# 
+# No oí que Santiago tosiera.
+# I didn't hear James cough.
+# 
+# No sentí la tierra temblar.
+# I didn't feel the earth shake.
+# 
+# No sentí que la tierra temblara.
+# I didn't feel the earth shake.
+# 
+# Sin estar seguro, es mejor no hablar.
+# Without being sure, it's better not to talk.
+# 
+# No se debe cantar victoria hasta no haber ganado.
+# One should not sing victory until one has won.
+# 
+# Eso te pasa por no querer ayudarme.
+# That's what you get for not wanting to help me.
+# 
+# Eso te pasa por haber querido engañarme.
+# That's what you get for trying to fool me.
+# 
+# Perdona. Lo he hecho sin querer.
+# I'm sorry. I'm sorry. I didn't mean to.
+# 
+# Conocí a Eva antes de casarse.
+# I knew Eva before she was married.
+# 
+# Eso le pasó a Marta por ser tú tan egoísta.
+# That's what happened to Marta for being so selfish.
+# 
+# Nos llamaron después de morir Ana.
+# They called us after Ana died.
+# 
+# Quieren que arreglemos la casa antes de regresar ellos.
+# They want us to fix the house before they return.
+# 
+# Olga tiene miedo a salir de noche.
+# Olga is afraid to go out at night.
+# 
+# Ten cuidado de no tocar el enchufe.
+# Be careful not to touch the plug.
+# 
+# Tengo la sensación de estar ya de vacaciones.
+# I have the feeling I'm already on vacation.
+# 
+# He venido solo por el deseo de hablar contigo.
+# I've come here only because I want to talk to you.
+# 
+# No tengo interés en conocer tu prima.
+# I have no interest in meeting your cousin.
+# 
+# Haz un esfuerzo por reconciliarte con ella.
+# Make an effort to reconcile with her.
+# 
+# No estoy acostumbrado a madrugar. Me cuesta.
+# I'm not used to getting up early. It's hard for me.
+# 
+# Antonio está resuelto a irse a vivir a Colombia.
+# Antonio is determined to go and live in Colombia.
+# 
+# Estamos decididos a hacerlo.
+# We are determined to do so.
+# 
+# ¿No serás capaz de engañarme?
+# You won't be able to fool me?
+# 
+# Estoy contento de poder colaborar con vosotros.
+# I'm happy to collaborate with you.
+# 
+# Gonzalo está harto de denunciar irregularidades.
+# Gonzalo is tired of reporting irregularities.
+# 
+# Eso que dices es difícil de creer.
+# That's hard to believe.
+# 
+# Estoy cansado de oír tus sandeces.
+# I'm tired of hearing your bullshit.
+# 
+# Estoy muy preocupada por encontrar un empleo.
+# I'm very worried about finding a job.
+# 
+# Ramón está loco por jubilarse.
+# Ramón is crazy about retiring.
+# 
+# La gramática ya está lista para publicarse.
+# The grammar is ready for publication.
+# 
 Ahora no estoy muy interesado en ir a fiestas.
 Now I'm not very interested in going to parties.
 
