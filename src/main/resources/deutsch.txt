@@ -10192,308 +10192,312 @@
 # Dort ist die schnelle Maus. Sehr gut, ich suche gerade die schnelle Maus.
 # There is the fast mouse. Very good, I am looking for the fast mouse.
 # 
-# Ich sehe einen schwarzen Hund. Der schwarze Hund ist dort.
-# I see a black dog. The black dog is there.
+# # Ich sehe einen schwarzen Hund. Der schwarze Hund ist dort.
+# # I see a black dog. The black dog is there.
+# # 
+# # Ich sehe eine kleine Maus. Die kleine Maus ist dort.
+# # I see a little mouse. The little mouse is there.
+# # 
+# der Verwandte, die Verwandten
+# o parente, os parentes
 # 
-# Ich sehe eine kleine Maus. Die kleine Maus ist dort.
-# I see a little mouse. The little mouse is there.
+# Ich habe deine Tasche hier im Schrank gefunden
+# I found your bag here in the closet
 # 
-Ich habe deine Tasche hier im Schrank gefunden
-I found your bag here in the closet
-
-Ich sah deine Schwester dort an der Ecke stehen
-I saw your sister standing there on the corner
-
-Ich sah ihn da an der Ecke stehen
-I saw him standing there on the corner
-
-Herr Meyer ist momentan nicht da
-Mr Meyer is not here at the moment
-
-oben auf dem Turm
-at the top of the tower
-
-Sie stand ganz oben auf der Treppe
-She was standing right at the top of the stairs
-
-unten auf dem Bild
-at the bottom of the picture
-
-Bis unten sind es noch zwei Stunden zu Fuß
-It’s another two hours’ walk to the bottom
-
-Die Säule wird nach unten hin breiter
-The column broadens out towards the bottom
-
-Sein Name steht unten auf der Liste
-His name is at the bottom of the list
-
-ganz unten im Kasten
-right at the bottom of the chest
-
-auf Seite 90 unten
-at the bottom of page 90
-
-von oben bis unten
-from top to bottom
-
-Mitten im Garten ist ein Teich
-In the middle of the garden there is a pond
-
-Sie stellte die Vase mitten auf den Tisch
-She put the vase in the middle of the table
-
-mitten in der Nacht
-in the middle of the night
-
-mitten in der Aufregung
-in the midst of the excitement
-
-Ich war mitten unter den Leuten auf der Straße
-I was in the midst of the people in the street
-
-Er bahnte sich mitten durch die Menge einen Weg
-He forced his way through the middle of the crowd
-
-mitten auf der Leiter
-halfway up/down the ladder
-
-Die Tasse ist außen schmutzig
-The cup is dirty on the outside
-
-Ich musste draußen warten
-I had to wait outside
-
-Wir kommen von draußen
-We are coming from outside
-
-Die Äpfel sind innen faul
-The apples are rotten inside
-
-Drinnen ist es aber schön warm
-Indoors it’s nice and warm, though
-
-Dieses Fenster geht nach innen auf
-This window opens inwards
-
-Er schloss die Tür von außen zu
-He shut the door from the outside
-
-von außen/innen gesehen
-seen from the outside/inside
-
-Ich habe es irgendwo liegen gelassen
-I’ve left it somewhere
-
-Have you seen Paula anywhere?
-Hast du Paula irgendwo gesehen?
-
-Erika hat dich überall gesucht
-Sie dürfen hier überall parken
-
-Erika was looking for you everywhere
-You can park anywhere here
-
-Er war nirgendwo/nirgends zu sehen
-He was nowhere to be seen
-
-Ich habe dich gestern nirgends gesehen
-I didn’t see you anywhere yesterday
-
-Sie müssen ihn anderswo/woanders suchen
-You’ll have to look for him somewhere else
-
-Hast du ihn anderswo/woanders gesehen?
-Have you seen him somewhere/anywhere else?
-
-Wo wohnen Sie?
-Where do you live?
-
-Wohin gehen Sie?
-Where are you going (to)?
-
-Woher kommen Sie?
-Where are you coming from?
-
-Sie wohnt hier
-She lives here
-
-Sie kommt hierher
-She’s coming here
-
-Leg das Paket hierhin!
-Put the parcel down here
-
-Sie wohnt doch da/dort
-She lives there
-
-In den Ferien fahren wir dorthin/dahin, wo wir voriges Jahr waren
-In the holidays we’re going where we were last year
-
-Sie kommt dorther
-That’s where she comes from
-
-Er stand dort an der Ecke
-He was standing there on the corner
-
-Wie wollen wir dorthin kommen?
-How are we going to get there?
-
-Er geht heute Nachmittag irgendwohin
-He’s going somewhere this afternoon
-
-Sie geht überallhin
-She goes everywhere
-
-Morgen fahren wir anderswohin
-We’re going somewhere else tomorrow
-
-Wo kommt deine Mutter her?
-where is your mother from?
-
-Wo gehört dieses Buch hin?
-Where does this book belong?
-
-Da gehe ich praktisch nie hin ein kleines, gutes Restaurant, wo keine Amerikaner hinkamen
-I practically never go to a small, good restaurant where no Americans went
-
-Da kommt er doch nicht her, oder?
-That's not where he comes from, is it?
-
-Woher weißt du das? 
-How do you know that?
-
-Daher hat sie sich aufgeregt.
-That's why she got upset.
-
-Sein Leben ist dahin
-His life is lost
-
-Mein ganzes Geld war dahin.
-All my money was gone.
-
-Heute ist eine Wahlversammlung, und ich gehe hin
-There’s an election meeting today and I’m going there/to it
-
-Ich hielt ihm die Zeitung hin
-I held out the newspaper to him
-
-Ich hörte einen Ruf und sah hin
-I heard a cry and looked over in that direction
-
-Komm mal her!
-Come here
-
-Gib den Schlüssel her!
-Give me the key
-
-Er hat mich mit dem Auto hergefahren
-He drove me here
-
-Halt den Teller her!
-Hold out your plate
-
-Setz dich her zu mir!
-Come and sit down over here by me
-
-sein Leben für etwas hingeben
-to sacrifice one’s life for sth.
-
-Das wird schon hinhauen (coll.)
-It’ll be OK in the end
-
-Nach dem Interview war ich völlig hin
-After the interview I was shattered
-
-Die Burschen fielen über ihn her
-The youths attacked him
-
-Das Thema gibt doch nicht viel her
-There’s not a lot to this topic
-
-Es ging recht lustig her
-It was good fun
-
-Sie hat ein Zimmer für ihn hergerichtet
-She got a room ready for him
-
-Mit der Qualität der Abiturienten ist es nicht mehr weit her (Spiegel)
-The quality of school- leavers isn’t up to much any more
-
-Er ging hinter ihr her
-He was walking behind her
-
-Der Hund lief neben mir her
-The dog was running beside me
-
-Ein deutscher Wagen fuhr vor ihm her
-A German car was driving in front of him
-
-Sie ging zwischen uns her
-She was walking between us
-
-Er lief hinterher, nebenher 
-He was running behind, alongside
-
-Das tat er auf meinen Vorschlag hin
-He did it at my suggestion
-
-auf die Gefahr hin, erkannt zu werden
-at the risk of being recognised
-
-Wir stiegen die Treppe hinauf
-We climbed up the stairs
-
-Wir kamen die Treppe herab/herunter
-We came down the stairs
-
-Er ging in das Haus hinein
-He went into the house
-
-Er kam in das Zimmer herein
-He came into the room
-
-Er drang durch die Menge hindurch
-He pushed through the crowd
-
-Die Rollbahn sauste unter uns hinweg
-The runway sped away beneath us
-
-Sie legte einige Papiere hinzu
-She put down some papers in addition
-
-Sie trat an den Tisch heran
-She stepped up to the table
-
-Einige Polizisten kamen herbei
-A few policemen came along
-
-Er kam um die Ecke herum
-He came round the corner
-
-Die Bücher lagen auf dem Tisch herum
-The books were lying around on the table
-
-Er zog einen Revolver unter dem Tisch hervor
-He pulled a revolver out from under the table
-
-Der Vogel ist in das Zimmer geflogen
-The bird flew into the room (i.e. it flew rather than hopped)
-
-Der Vogel ist in das Zimmer hineingeflogen
-The bird flew into the room (i.e. it didn't fly out)
-
-Wir wollen die Truhe in dein Zimmer tragen
-We want to carry the chest to your room (i.e. carry, not push)
-
-Wir wollen die Truhe in dein Zimmer hinübertragen
-We want to carry the chest over to your room (i.e. take it across – not up or down)
-
-Er ist (in das Zimmer) hineingegangen
-He went in(to the room)
-
-Die Zeitung ist eingegangen
-The newspaper went bust
+# Ich sah deine Schwester dort an der Ecke stehen
+# I saw your sister standing there on the corner
+# 
+# Ich sah ihn da an der Ecke stehen
+# I saw him standing there on the corner
+# 
+# Herr Meyer ist momentan nicht da
+# Mr Meyer is not here at the moment
+# 
+# oben auf dem Turm
+# at the top of the tower
+# 
+# Sie stand ganz oben auf der Treppe
+# She was standing right at the top of the stairs
+# 
+# unten auf dem Bild
+# at the bottom of the picture
+# 
+# Bis unten sind es noch zwei Stunden zu Fuß
+# It’s another two hours’ walk to the bottom
+# 
+# Die Säule wird nach unten hin breiter
+# The column broadens out towards the bottom
+# 
+# Sein Name steht unten auf der Liste
+# His name is at the bottom of the list
+# 
+# ganz unten im Kasten
+# right at the bottom of the chest
+# 
+# auf Seite 90 unten
+# at the bottom of page 90
+# 
+# von oben bis unten
+# from top to bottom
+# 
+# Mitten im Garten ist ein Teich
+# In the middle of the garden there is a pond
+# 
+# Sie stellte die Vase mitten auf den Tisch
+# She put the vase in the middle of the table
+# 
+# mitten in der Nacht
+# in the middle of the night
+# 
+# mitten in der Aufregung
+# in the midst of the excitement
+# 
+# Ich war mitten unter den Leuten auf der Straße
+# I was in the midst of the people in the street
+# 
+# Er bahnte sich mitten durch die Menge einen Weg
+# He forced his way through the middle of the crowd
+# 
+# mitten auf der Leiter
+# halfway up/down the ladder
+# 
+# Die Tasse ist außen schmutzig
+# The cup is dirty on the outside
+# 
+# Ich musste draußen warten
+# I had to wait outside
+# 
+# Wir kommen von draußen
+# We are coming from outside
+# 
+# Die Äpfel sind innen faul
+# The apples are rotten inside
+# 
+# Drinnen ist es aber schön warm
+# Indoors it’s nice and warm, though
+# 
+# Dieses Fenster geht nach innen auf
+# This window opens inwards
+# 
+# Er schloss die Tür von außen zu
+# He shut the door from the outside
+# 
+# von außen/innen gesehen
+# seen from the outside/inside
+# 
+# Ich habe es irgendwo liegen gelassen
+# I’ve left it somewhere
+# 
+# Have you seen Paula anywhere?
+# Hast du Paula irgendwo gesehen?
+# 
+# Erika hat dich überall gesucht
+# Sie dürfen hier überall parken
+# 
+# Erika was looking for you everywhere
+# You can park anywhere here
+# 
+# Er war nirgendwo/nirgends zu sehen
+# He was nowhere to be seen
+# 
+# Ich habe dich gestern nirgends gesehen
+# I didn’t see you anywhere yesterday
+# 
+# Sie müssen ihn anderswo/woanders suchen
+# You’ll have to look for him somewhere else
+# 
+# Hast du ihn anderswo/woanders gesehen?
+# Have you seen him somewhere/anywhere else?
+# 
+# Wo wohnen Sie?
+# Where do you live?
+# 
+# Wohin gehen Sie?
+# Where are you going (to)?
+# 
+# Woher kommen Sie?
+# Where are you coming from?
+# 
+# Sie wohnt hier
+# She lives here
+# 
+# Sie kommt hierher
+# She’s coming here
+# 
+# Leg das Paket hierhin!
+# Put the parcel down here
+# 
+# Sie wohnt doch da/dort
+# She lives there
+# 
+# In den Ferien fahren wir dorthin/dahin, wo wir voriges Jahr waren
+# In the holidays we’re going where we were last year
+# 
+# Sie kommt dorther
+# That’s where she comes from
+# 
+# Er stand dort an der Ecke
+# He was standing there on the corner
+# 
+# Wie wollen wir dorthin kommen?
+# How are we going to get there?
+# 
+# Er geht heute Nachmittag irgendwohin
+# He’s going somewhere this afternoon
+# 
+# Sie geht überallhin
+# She goes everywhere
+# 
+# Morgen fahren wir anderswohin
+# We’re going somewhere else tomorrow
+# 
+# Wo kommt deine Mutter her?
+# where is your mother from?
+# 
+# Wo gehört dieses Buch hin?
+# Where does this book belong?
+# 
+# Da gehe ich praktisch nie hin ein kleines, gutes Restaurant, wo keine Amerikaner hinkamen
+# I practically never go to a small, good restaurant where no Americans went
+# 
+# Da kommt er doch nicht her, oder?
+# That's not where he comes from, is it?
+# 
+# Woher weißt du das? 
+# How do you know that?
+# 
+# Daher hat sie sich aufgeregt.
+# That's why she got upset.
+# 
+# Sein Leben ist dahin
+# His life is lost
+# 
+# Mein ganzes Geld war dahin.
+# All my money was gone.
+# 
+# Heute ist eine Wahlversammlung, und ich gehe hin
+# There’s an election meeting today and I’m going there/to it
+# 
+# Ich hielt ihm die Zeitung hin
+# I held out the newspaper to him
+# 
+# Ich hörte einen Ruf und sah hin
+# I heard a cry and looked over in that direction
+# 
+# Komm mal her!
+# Come here
+# 
+# Gib den Schlüssel her!
+# Give me the key
+# 
+# Er hat mich mit dem Auto hergefahren
+# He drove me here
+# 
+# Halt den Teller her!
+# Hold out your plate
+# 
+# Setz dich her zu mir!
+# Come and sit down over here by me
+# 
+# sein Leben für etwas hingeben
+# to sacrifice one’s life for sth.
+# 
+# Das wird schon hinhauen (coll.)
+# It’ll be OK in the end
+# 
+# Nach dem Interview war ich völlig hin
+# After the interview I was shattered
+# 
+# Die Burschen fielen über ihn her
+# The youths attacked him
+# 
+# Das Thema gibt doch nicht viel her
+# There’s not a lot to this topic
+# 
+# Es ging recht lustig her
+# It was good fun
+# 
+# Sie hat ein Zimmer für ihn hergerichtet
+# She got a room ready for him
+# 
+# Mit der Qualität der Abiturienten ist es nicht mehr weit her (Spiegel)
+# The quality of school- leavers isn’t up to much any more
+# 
+# Er ging hinter ihr her
+# He was walking behind her
+# 
+# Der Hund lief neben mir her
+# The dog was running beside me
+# 
+# Ein deutscher Wagen fuhr vor ihm her
+# A German car was driving in front of him
+# 
+# Sie ging zwischen uns her
+# She was walking between us
+# 
+# Er lief hinterher, nebenher 
+# He was running behind, alongside
+# 
+# Das tat er auf meinen Vorschlag hin
+# He did it at my suggestion
+# 
+# auf die Gefahr hin, erkannt zu werden
+# at the risk of being recognised
+# 
+# Wir stiegen die Treppe hinauf
+# We climbed up the stairs
+# 
+# Wir kamen die Treppe herab/herunter
+# We came down the stairs
+# 
+# Er ging in das Haus hinein
+# He went into the house
+# 
+# Er kam in das Zimmer herein
+# He came into the room
+# 
+# Er drang durch die Menge hindurch
+# He pushed through the crowd
+# 
+# Die Rollbahn sauste unter uns hinweg
+# The runway sped away beneath us
+# 
+# Sie legte einige Papiere hinzu
+# She put down some papers in addition
+# 
+# Sie trat an den Tisch heran
+# She stepped up to the table
+# 
+# Einige Polizisten kamen herbei
+# A few policemen came along
+# 
+# Er kam um die Ecke herum
+# He came round the corner
+# 
+# Die Bücher lagen auf dem Tisch herum
+# The books were lying around on the table
+# 
+# Er zog einen Revolver unter dem Tisch hervor
+# He pulled a revolver out from under the table
+# 
+# Der Vogel ist in das Zimmer geflogen
+# The bird flew into the room (i.e. it flew rather than hopped)
+# 
+# Der Vogel ist in das Zimmer hineingeflogen
+# The bird flew into the room (i.e. it didn't fly out)
+# 
+# Wir wollen die Truhe in dein Zimmer tragen
+# We want to carry the chest to your room (i.e. carry, not push)
+# 
+# Wir wollen die Truhe in dein Zimmer hinübertragen
+# We want to carry the chest over to your room (i.e. take it across – not up or down)
+# 
+# Er ist (in das Zimmer) hineingegangen
+# He went in(to the room)
+# 
+# Die Zeitung ist eingegangen
+# The newspaper went bust
+# 
 Er hat den Koffer hereingebracht
 He brought the suitcase in
 
