@@ -11989,315 +11989,315 @@
 # Estoy cansado de oír tus sandeces.
 # I'm tired of hearing your bullshit.
 # 
-# Estoy muy preocupada por encontrar un empleo.
-# I'm very worried about finding a job.
+# # Estoy muy preocupada por encontrar un empleo.
+# # I'm very worried about finding a job.
+# # 
+# # Ramón está loco por jubilarse.
+# # Ramón is crazy about retiring.
+# # 
+# # La gramática ya está lista para publicarse.
+# # The grammar is ready for publication.
+# # 
+# Ahora no estoy muy interesado en ir a fiestas.
+# Now I'm not very interested in going to parties.
 # 
-# Ramón está loco por jubilarse.
-# Ramón is crazy about retiring.
+# Al leer la noticia, me asusté.
+# When I read the news, I got scared.
 # 
-# La gramática ya está lista para publicarse.
-# The grammar is ready for publication.
+# De tener unos días libres, me iría a Canarias.
+# If I had a few days off, I'd go to the Canaries.
 # 
-Ahora no estoy muy interesado en ir a fiestas.
-Now I'm not very interested in going to parties.
-
-Al leer la noticia, me asusté.
-When I read the news, I got scared.
-
-De tener unos días libres, me iría a Canarias.
-If I had a few days off, I'd go to the Canaries.
-
-De haber sabido que querías salir, os hubiéramos llamado.
-If I'd known you wanted to go out, we would have called you.
-
-Me canso de explicártelo. Acostúmbrate a estudiar tú solo.
-I get tired of explaining it to you. Get used to studying on your own.
-
-¡Que niño! Se niega a obedecer.
-What a child! He refuses to obey.
-
-Begoña se ha ofrecido a ayudar en un hospital.
-Begoña has offered to help in a hospital.
-
-No me acostumbro a madrugar. Me cuesta.
-I do not get used to get up early. It costs me.
-
-Carlota siempre se niega a salir conmigo.
-Carlota always refuses to go out with me.
-
-Javi está aprendiendo a leer.
-Javi is learning to read.
-
-Nos acusan de haber copiado en el examen, pero es falso.
-They accuse us of having copied in the exam, but it is false.
-
-Encárgate de organizar tú todo, por favor.
-Please take care of organizing everything.
-
-Siempre he soñado con ser escritor. ¡Cuánto me gustaría!
-I've always dreamed of being a writer. How I'd like that!
-
-Si tienes algún problema, no dudes de llamarme.
-If you have any problems, don't hesitate to call me.
-
-Estoy pensando en hacer un máster de dirección de empresas.
-I'm thinking of doing a master's degree in business management.
-
-Creo que han optado por no decirle nada a Laura.
-I think they've chosen not to say anything to Laura.
-
-¿En qué piensas? En irme de vacaciones.
-What are you thinking about? I'm thinking about going on vacation.
-
-No sé por qué te sorprendes de que la economía vaya mal.
-I don't know why you're surprised the economy is bad.
-
-La mala gestión ha contribuido a que la empresa haya tenido que cerrar.
-Bad management has contributed to the company having to close down.
-
-Se empeñó en que hiciéramos el viaje a pie y ya ves lo que pasó.
-She made it her business to make the trip on foot and you see what happened.
-
-Yo me encargaría de que todo saliera bien.
-I'd see to it that everything goes well.
-
-Nunca me acuerdo de algunos bancos cierran los sábados.
-I never remember some banks closing on Saturdays.
-
-Siempre me olvido de que no coméis carne.
-I always forget that you don't eat meat.
-
-En cuanto le dijeron que había suspendido, rompió a llorar.
-As soon as he was told that he had failed, he broke down and cried.
-
-Una vez cuidé a un perro una semana llegué a tomarle cariño.
-I once took care of a dog for a week and got to love him.
-
-Ha visto la policía y ha echado a correr.
-He saw the police and ran away.
-
-En cuanto me vio entrar, se puso a trabajar.
-As soon as he saw me come in, he went to work.
-
-Cuando le dimos la noticia de la muerte de Jorge, rompió a llorar.
-When we gave him the news of Jorge's death, he broke down and cried.
-
-En cuanto oigo hablar Andrés, me pongo a reír.
-As soon as I hear Andres talking, I start laughing.
-
-Tengo que ponerme a estudiar. Se acercan los exámenes.
-I have to start studying. The exams are coming up.
-
-En cuanto vio el fuego se puso a correr.
-As soon as he saw the fire he started to run.
-
-Abrí la jaula y el pájaro echó a volar.
-I opened the cage and the bird flew away.
-
-Acabate el chiste y todos se romperán a reír.
-Finish the joke and everyone will break into laughter.
-
-No te has perdido nada. Acabamos de empezar la reunión.
-You didn't miss anything. We just started the meeting.
-
-Cuando nació Alicia, Lorenzo acababa de regresar de Tokio.
-When Alice was born, Lorenzo had just returned from Tokyo.
-
-Tratá a Julia durante muchos años y llegué a tomarle cariño.
-He treated Julia for many years and I grew fond of her.
-
-Se lo expliqué todo y acabó por darme razón.
-I explained everything to him and he ended up agreeing with me.
-
-He dejado de estudiar chino. No tenía tiempo.
-I stopped studying Chinese. I didn't have the time.
-
-Cuando llegues a casa, no dejes de llamarme. Quiero saber que has llegado.
-When you get home, don't stop calling me. I want to know that you've arrived.
-
-Estoy harta de Agustín. No deja de darme la lata.
-I'm sick of Agustín. He keeps pestering me.
-
-La boda con Lina vino a cambiar su vida.
-The wedding with Lina came to change his life.
-
-Y vino a decir que yo era el culpable.
-And he came to say I was to blame.
-
-Tengo que ir a visitar a Begoña. La acaban de operar.
-I have to go visit Begoña. She just had surgery.
-
-Ayer tuve que ir con Mario al hospital. No se encontraba bien.
-Yesterday I had to go with Mario to the hospital. He was not well.
-
-Lo siento, pero tenéis que quedaros hoy en la oficina hasta que acabéis el informe.
-Sorry, but you have to stay in the office today until you finish the report.
-
-Tenía que haber llamado a Pepa, pero me he olvidado totalmente.
-I should have called Pepa, but I totally forgot.
-
-Hoy no tenéis que quedaros. No hay nada pendiente.
-You don't have to stay today. There's nothing left to do.
-
-Habrá que arreglar esa luz un día u otro.
-We'll have to fix that light one day or another.
-
-Venga. Hay que darse más prisa.
-Come on. We have to hurry.
-
-Debes devolverme el diccionario lo antes posible. Lo necesito.
-You must give me back the dictionary as soon as possible. I need it.
-
-Debéis traer los ejercicios hechos.
-You must bring the exercises done.
-
-Sé que debería hacer más ejercicio, pero me da pereza.
-I know I should exercise more, but I'm lazy.
-
-Deberías usar lentillas: verías mejor que con gafas.
-You should wear contact lenses: you'd see better than with glasses.
-
-Deberíamos tener más paciencia.
-We should be more patient.
-
-Debía haber ido al médico, pero preferí no hacerlo.
-I should have gone to the doctor, but I preferred not to.
-
-No debéis entrar con el perro. A algunas personas no les gusta.
-You shouldn't go in with the dog. Some people don't like it.
-
-No debes hablar así a la gente. Tienes que ser más educado.
-You shouldn't talk to people like that. You have to be more polite.
-
-Debe de ser algo importante. Llevan reunidos tres horas.
-It must be something important. They've been meeting for three hours.
-
-El garaje está inundado. Debe de haber llovido mucho.
-The garage is flooded. It must have rained a lot.
-
-Se ha ido el autobús. ¿Qué hacemos? Esperar. No hay otra alternativa.
-The bus is gone. What do we do? We wait. There's no other choice.
-
-¿Qué hay que hacer? Comprobar que no hay ningún virus el los ordenadores.
-What should we do? Check the computers for viruses.
-
-¿Hacéis algo el sábado? Me gustaría que vinieras a casa.
-Are you doing something on saturday? I would like to come home.
-
-Así me gusta. Bien peinados.
-That's the way I like it. Nice hair.
-
-Mira los platos. Todos rotos. Tienes que fregar con cuidado.
-Look at the dishes. All broken. You have to wash carefully.
-
-¡Qué hombre! ¡Siempre cansado!
-What a man! Always tired!
-
-Ayala fue un autor nacido y criado en Granada.
-Ayala was an author born and raised in Granada.
-
-Están arreglando las casas destruidas.
-They're repairing the destroyed houses.
-
-¡Qué chicas! ¡Siempre dispuestas a divertirse!
-What girls! Always ready to have fun!
-
-¿Sorprendida, Luisa? No sé que esperabas que hiciera.
-Surprised, Luisa? I don't know what you expected me to do.
-
-Todo el día encerrado en casa. ¡Qué aburrimiento!
-Locked up at home all day. What a bore!
-
-¡Emilio arruinado! ¡Quién lo hubiera dicho!
-Emilio ruined! Who would have thought!
-
-¿No estarás enfadado? ¿Enfadado yo? ¡Qué va!, si estoy muy contento.
-You're not angry? Me, angry? No, I'm very happy.
-
-Caramba con Luis. Siempre rodeado de chicas guapas.
-Damn it with Luis. He's always surrounded by beautiful girls.
-
-¡Otra vez bloqueado! Este ordenador no sirve para nada.
-Blocked again! This computer is useless.
-
-Descubierta la trama, la policía detuvo a la banda.
-Once the plot was discovered, the police arrested the gang.
-
-Después de leído el testamento, los familiares regresaron a sus casas.
-After reading the will, the relatives returned to their homes.
-
-No pudimos irnos hasta pasadas las tres.
-We couldn't leave until after three o'clock.
-
-Una vez acabada la asamblea, regresamos a nuestras casas.
-Once the assembly was over, we returned to our homes.
-
-Recién inaugurada la tienda, tuvimos un robo.
-Just after the store opened, we had a robbery.
-
-Ha habido una pelea y hay heridos.
-There was a fight and some people were injured.
-
-Los acusados insistían en su inocencia.
-The defendants insisted on their innocence.
-
-Elena ha conseguido un puesto fijo en Telefónica.
-Elena has obtained a permanent position in Telefonica.
-
-Los hechos recientes confirman nuestras teorías.
-Recent events confirm our theories.
-
-¿De dónde eres?
-Where are you from?
-
-¿Han inaugurado ya las nuevas oficinas?
-Have the new offices opened yet?
-
-Cuando llegué, Amelia había salido.
-When I arrived, Amelia was out.
-
-La muralla árabe de Madrid fue destruida en el siglo XVII.
-The Arab wall of Madrid was destroyed in the 17th century.
-
-El libro está escrito en árabe.
-The book is written in Arabic.
-
-Ha habido temporal y la cosecha ha quedado destruida.
-There was a storm and the harvest was destroyed.
-
-Elisa se quedó callada cuando supo que la habían despedido.
-Elisa was silent when she heard that she had been fired.
-
-El edificio resultó dañado en el incendio.
-The building was damaged in the fire.
-
-El dibujo me pareció hecho a tinta.
-The drawing seemed to me to be done in ink.
-
-Los niños miraban a los payasos fascinados.
-The children looked at the clowns in fascination.
-
-El director salió a saludar aclamado por el público.
-The director came out to greet them to the acclaim of the audience.
-
-Maite siempre llega agotada.
-Maite always arrives exhausted.
-
-Me dio una pera comida por los pájaros.
-She gave me a pear for the birds.
-
-Me devolvió la carta rota en mil pedazos.
-She returned my letter, broken into a thousand pieces.
-
-Tengo ahorrados mil euros.
-I have a thousand euros saved up.
-
-Mi madre me tiene dicho que no abra la puerta a desconocidos.
-My mother has told me not to open the door to strangers.
-
-Tengo guardado este vino para una ocasión especial.
-I've saved this wine for a special occasion.
-
+# De haber sabido que querías salir, os hubiéramos llamado.
+# If I'd known you wanted to go out, we would have called you.
+# 
+# Me canso de explicártelo. Acostúmbrate a estudiar tú solo.
+# I get tired of explaining it to you. Get used to studying on your own.
+# 
+# ¡Que niño! Se niega a obedecer.
+# What a child! He refuses to obey.
+# 
+# Begoña se ha ofrecido a ayudar en un hospital.
+# Begoña has offered to help in a hospital.
+# 
+# No me acostumbro a madrugar. Me cuesta.
+# I do not get used to get up early. It costs me.
+# 
+# Carlota siempre se niega a salir conmigo.
+# Carlota always refuses to go out with me.
+# 
+# Javi está aprendiendo a leer.
+# Javi is learning to read.
+# 
+# Nos acusan de haber copiado en el examen, pero es falso.
+# They accuse us of having copied in the exam, but it is false.
+# 
+# Encárgate de organizar tú todo, por favor.
+# Please take care of organizing everything.
+# 
+# Siempre he soñado con ser escritor. ¡Cuánto me gustaría!
+# I've always dreamed of being a writer. How I'd like that!
+# 
+# Si tienes algún problema, no dudes de llamarme.
+# If you have any problems, don't hesitate to call me.
+# 
+# Estoy pensando en hacer un máster de dirección de empresas.
+# I'm thinking of doing a master's degree in business management.
+# 
+# Creo que han optado por no decirle nada a Laura.
+# I think they've chosen not to say anything to Laura.
+# 
+# ¿En qué piensas? En irme de vacaciones.
+# What are you thinking about? I'm thinking about going on vacation.
+# 
+# No sé por qué te sorprendes de que la economía vaya mal.
+# I don't know why you're surprised the economy is bad.
+# 
+# La mala gestión ha contribuido a que la empresa haya tenido que cerrar.
+# Bad management has contributed to the company having to close down.
+# 
+# Se empeñó en que hiciéramos el viaje a pie y ya ves lo que pasó.
+# She made it her business to make the trip on foot and you see what happened.
+# 
+# Yo me encargaría de que todo saliera bien.
+# I'd see to it that everything goes well.
+# 
+# Nunca me acuerdo de algunos bancos cierran los sábados.
+# I never remember some banks closing on Saturdays.
+# 
+# Siempre me olvido de que no coméis carne.
+# I always forget that you don't eat meat.
+# 
+# En cuanto le dijeron que había suspendido, rompió a llorar.
+# As soon as he was told that he had failed, he broke down and cried.
+# 
+# Una vez cuidé a un perro una semana llegué a tomarle cariño.
+# I once took care of a dog for a week and got to love him.
+# 
+# Ha visto la policía y ha echado a correr.
+# He saw the police and ran away.
+# 
+# En cuanto me vio entrar, se puso a trabajar.
+# As soon as he saw me come in, he went to work.
+# 
+# Cuando le dimos la noticia de la muerte de Jorge, rompió a llorar.
+# When we gave him the news of Jorge's death, he broke down and cried.
+# 
+# En cuanto oigo hablar Andrés, me pongo a reír.
+# As soon as I hear Andres talking, I start laughing.
+# 
+# Tengo que ponerme a estudiar. Se acercan los exámenes.
+# I have to start studying. The exams are coming up.
+# 
+# En cuanto vio el fuego se puso a correr.
+# As soon as he saw the fire he started to run.
+# 
+# Abrí la jaula y el pájaro echó a volar.
+# I opened the cage and the bird flew away.
+# 
+# Acabate el chiste y todos se romperán a reír.
+# Finish the joke and everyone will break into laughter.
+# 
+# No te has perdido nada. Acabamos de empezar la reunión.
+# You didn't miss anything. We just started the meeting.
+# 
+# Cuando nació Alicia, Lorenzo acababa de regresar de Tokio.
+# When Alice was born, Lorenzo had just returned from Tokyo.
+# 
+# Tratá a Julia durante muchos años y llegué a tomarle cariño.
+# He treated Julia for many years and I grew fond of her.
+# 
+# Se lo expliqué todo y acabó por darme razón.
+# I explained everything to him and he ended up agreeing with me.
+# 
+# He dejado de estudiar chino. No tenía tiempo.
+# I stopped studying Chinese. I didn't have the time.
+# 
+# Cuando llegues a casa, no dejes de llamarme. Quiero saber que has llegado.
+# When you get home, don't stop calling me. I want to know that you've arrived.
+# 
+# Estoy harta de Agustín. No deja de darme la lata.
+# I'm sick of Agustín. He keeps pestering me.
+# 
+# La boda con Lina vino a cambiar su vida.
+# The wedding with Lina came to change his life.
+# 
+# Y vino a decir que yo era el culpable.
+# And he came to say I was to blame.
+# 
+# Tengo que ir a visitar a Begoña. La acaban de operar.
+# I have to go visit Begoña. She just had surgery.
+# 
+# Ayer tuve que ir con Mario al hospital. No se encontraba bien.
+# Yesterday I had to go with Mario to the hospital. He was not well.
+# 
+# Lo siento, pero tenéis que quedaros hoy en la oficina hasta que acabéis el informe.
+# Sorry, but you have to stay in the office today until you finish the report.
+# 
+# Tenía que haber llamado a Pepa, pero me he olvidado totalmente.
+# I should have called Pepa, but I totally forgot.
+# 
+# Hoy no tenéis que quedaros. No hay nada pendiente.
+# You don't have to stay today. There's nothing left to do.
+# 
+# Habrá que arreglar esa luz un día u otro.
+# We'll have to fix that light one day or another.
+# 
+# Venga. Hay que darse más prisa.
+# Come on. We have to hurry.
+# 
+# Debes devolverme el diccionario lo antes posible. Lo necesito.
+# You must give me back the dictionary as soon as possible. I need it.
+# 
+# Debéis traer los ejercicios hechos.
+# You must bring the exercises done.
+# 
+# Sé que debería hacer más ejercicio, pero me da pereza.
+# I know I should exercise more, but I'm lazy.
+# 
+# Deberías usar lentillas: verías mejor que con gafas.
+# You should wear contact lenses: you'd see better than with glasses.
+# 
+# Deberíamos tener más paciencia.
+# We should be more patient.
+# 
+# Debía haber ido al médico, pero preferí no hacerlo.
+# I should have gone to the doctor, but I preferred not to.
+# 
+# No debéis entrar con el perro. A algunas personas no les gusta.
+# You shouldn't go in with the dog. Some people don't like it.
+# 
+# No debes hablar así a la gente. Tienes que ser más educado.
+# You shouldn't talk to people like that. You have to be more polite.
+# 
+# Debe de ser algo importante. Llevan reunidos tres horas.
+# It must be something important. They've been meeting for three hours.
+# 
+# El garaje está inundado. Debe de haber llovido mucho.
+# The garage is flooded. It must have rained a lot.
+# 
+# Se ha ido el autobús. ¿Qué hacemos? Esperar. No hay otra alternativa.
+# The bus is gone. What do we do? We wait. There's no other choice.
+# 
+# ¿Qué hay que hacer? Comprobar que no hay ningún virus el los ordenadores.
+# What should we do? Check the computers for viruses.
+# 
+# ¿Hacéis algo el sábado? Me gustaría que vinieras a casa.
+# Are you doing something on saturday? I would like to come home.
+# 
+# Así me gusta. Bien peinados.
+# That's the way I like it. Nice hair.
+# 
+# Mira los platos. Todos rotos. Tienes que fregar con cuidado.
+# Look at the dishes. All broken. You have to wash carefully.
+# 
+# ¡Qué hombre! ¡Siempre cansado!
+# What a man! Always tired!
+# 
+# Ayala fue un autor nacido y criado en Granada.
+# Ayala was an author born and raised in Granada.
+# 
+# Están arreglando las casas destruidas.
+# They're repairing the destroyed houses.
+# 
+# ¡Qué chicas! ¡Siempre dispuestas a divertirse!
+# What girls! Always ready to have fun!
+# 
+# ¿Sorprendida, Luisa? No sé que esperabas que hiciera.
+# Surprised, Luisa? I don't know what you expected me to do.
+# 
+# Todo el día encerrado en casa. ¡Qué aburrimiento!
+# Locked up at home all day. What a bore!
+# 
+# ¡Emilio arruinado! ¡Quién lo hubiera dicho!
+# Emilio ruined! Who would have thought!
+# 
+# ¿No estarás enfadado? ¿Enfadado yo? ¡Qué va!, si estoy muy contento.
+# You're not angry? Me, angry? No, I'm very happy.
+# 
+# Caramba con Luis. Siempre rodeado de chicas guapas.
+# Damn it with Luis. He's always surrounded by beautiful girls.
+# 
+# ¡Otra vez bloqueado! Este ordenador no sirve para nada.
+# Blocked again! This computer is useless.
+# 
+# Descubierta la trama, la policía detuvo a la banda.
+# Once the plot was discovered, the police arrested the gang.
+# 
+# Después de leído el testamento, los familiares regresaron a sus casas.
+# After reading the will, the relatives returned to their homes.
+# 
+# No pudimos irnos hasta pasadas las tres.
+# We couldn't leave until after three o'clock.
+# 
+# Una vez acabada la asamblea, regresamos a nuestras casas.
+# Once the assembly was over, we returned to our homes.
+# 
+# Recién inaugurada la tienda, tuvimos un robo.
+# Just after the store opened, we had a robbery.
+# 
+# Ha habido una pelea y hay heridos.
+# There was a fight and some people were injured.
+# 
+# Los acusados insistían en su inocencia.
+# The defendants insisted on their innocence.
+# 
+# Elena ha conseguido un puesto fijo en Telefónica.
+# Elena has obtained a permanent position in Telefonica.
+# 
+# Los hechos recientes confirman nuestras teorías.
+# Recent events confirm our theories.
+# 
+# ¿De dónde eres?
+# Where are you from?
+# 
+# ¿Han inaugurado ya las nuevas oficinas?
+# Have the new offices opened yet?
+# 
+# Cuando llegué, Amelia había salido.
+# When I arrived, Amelia was out.
+# 
+# La muralla árabe de Madrid fue destruida en el siglo XVII.
+# The Arab wall of Madrid was destroyed in the 17th century.
+# 
+# El libro está escrito en árabe.
+# The book is written in Arabic.
+# 
+# Ha habido temporal y la cosecha ha quedado destruida.
+# There was a storm and the harvest was destroyed.
+# 
+# Elisa se quedó callada cuando supo que la habían despedido.
+# Elisa was silent when she heard that she had been fired.
+# 
+# El edificio resultó dañado en el incendio.
+# The building was damaged in the fire.
+# 
+# El dibujo me pareció hecho a tinta.
+# The drawing seemed to me to be done in ink.
+# 
+# Los niños miraban a los payasos fascinados.
+# The children looked at the clowns in fascination.
+# 
+# El director salió a saludar aclamado por el público.
+# The director came out to greet them to the acclaim of the audience.
+# 
+# Maite siempre llega agotada.
+# Maite always arrives exhausted.
+# 
+# Me dio una pera comida por los pájaros.
+# She gave me a pear for the birds.
+# 
+# Me devolvió la carta rota en mil pedazos.
+# She returned my letter, broken into a thousand pieces.
+# 
+# Tengo ahorrados mil euros.
+# I have a thousand euros saved up.
+# 
+# Mi madre me tiene dicho que no abra la puerta a desconocidos.
+# My mother has told me not to open the door to strangers.
+# 
+# Tengo guardado este vino para una ocasión especial.
+# I've saved this wine for a special occasion.
+# 
 Ya tengo hechas las fotocopias.
 I've already made the photocopies.
 
