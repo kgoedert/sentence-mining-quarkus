@@ -14093,312 +14093,312 @@
 # Combien de fiches voulez-vous?
 # How many cards do you want?
 # 
-# Combien de places voulez-vous?
-# How many places do you want?
+# # Combien de places voulez-vous?
+# # How many places do you want?
+# # 
+# # Combien de places y a-t-il?
+# # How many places are there?
+# # 
+# Dites-moi qu'est-ce que je peux faire pour vous?
+# Tell me, what can I do for you?
 # 
-# Combien de places y a-t-il?
-# How many places are there?
+# Nous recherchons un appartement F2.
+# We are looking for a one-bedroom apartment.
 # 
-Dites-moi qu'est-ce que je peux faire pour vous?
-Tell me, what can I do for you?
-
-Nous recherchons un appartement F2.
-We are looking for a one-bedroom apartment.
-
-Avec un balcon ou un extérieur.
-With a balcony or an outside space.
-
-De préférence un grand balcon, voire une terrasse.
-Preferably a large balcony or even a terrace.
-
-Quel étage? Rez-de-jardin?
-Which floor? Ground floor?
-
-Ça n'a pas d'importance, du moment qu'on a un extérieur.
-It doesn't matter, as long as we have an outside space.
-
-Du moment qu'on a soit un balcon, soit un extérieur.
-As long as we have either a balcony or an outside space.
-
-Combien de mètres carrés aimeriez-vous?
-How many square meters would you like?
-
-Une grande pièce à vivre: je note.
-A large living room: duly noted.
-
-Quel secteur, monsieur, désirez-vous?
-Which area would you like, sir?
-
-Est-ce que vous avez une préférence?
-Do you have a preference?
-
-Proche du centre-ville.
-Close to the city center.
-
-Qu'en est-il au niveau du stationnement?
-What about parking?
-
-Vous avez besoin d'une place de parking, d'un box, d'une cave?
-Do you need a parking space, a storage unit, a basement?
-
-On voudrait soit ne cave, soit un box.
-We would like either a basement or a storage unit.
-
-Si c'est un secteur très proche du centre-ville, nous voudrions une place de parking.
-If it is an area very close to downtown, we would want a parking space.
-
-Au niveau du budget, qu'est-ce qu'on peut faire?
-In terms of budget, what can we do?
-
-Nous n'avons pas encore été voir la banquière.
-We haven't been to see the banker yet.
-
-Donc vous n'avez pas encore un plan de financement?
-So you don't have a financing plan yet?
-
-Non, on ne sait pas quel budget on aura.
-No, we don't know what our budget will be.
-
-Je vois la banquière demain et je vous rapelle dans la foulée.
-I'll see the banker tomorrow and call you right back.
-
-Et si je vous trouve une maison?
-And if I find you a house?
-
-Ça pourrait aussi nous correspondre.
-That could also work for us.
-
-Nous ne voulons pas une maison de ville.
-We don't want a townhouse.
-
-Nous voulons une maison, si c'est une maison, avec un petit jardin.
-We want a house, if it is a house, with a small garden.
-
-Et au niveau des travaux à faire?
-What about the work to be done?
-
-Vous préférez quelque chose qui soit vraiment fini, clés en main, ou si je trouve quelque chose à renover, éventuellement...
-Do you prefer something that is completely finished, ready to use, or if I find something to renovate, perhaps...
-
-À renover, ça peut être une possibilité aussi.
-Renovation... that can be a possibility, too.
-
-Mais tout dépendra du prix en fait.
-But it will all depend on the price.
-
-Si le prix est moins élevé et qu'il y a un peu de travaux, oui, pourquoi pas?
-If the price is lower and there is a little bit of work, yes why not?
-
-Actuellement vous êtes locataires ou propriétaires?
-Atualmente vocês são locatários ou proprietários?
-
-Ce serait pour un premier achat en résidence principale, c'est bien ça?
-So you would be first time owners, right?
-
-Écoutez monsieur, je vous invite à aller voir votre banque comme ça vous pouvez établir votre plan de financement.
-So sir, I suggest that you see your bank so that you can establish your financing plan.
-
-Moi je peux vous envoyer par mail tous les biens que j'ai à vous proposer.
-Eu, eu posso te enviar por e-mail all the properties that I have to offer you.
-
-Et bien, faisons comme cela!
-All right, that sounds good!ß
-
-Combien de livres y a-t-il?
-How many books are there?
-
-Combien de livres avons-nous?
-How many books do we have?
-
-Combien de billets avons-nous?
-How many tickets do we have?
-
-Combien de billets ont-ils?
-How many tickets do they have?
-
-Combien de boîtes ont-ils?
-How many boxes do they have?
-
-Où est-ce que je peux réserver mes places?
-Where can I reserve my seats?
-
-Où est-ce que je peux prendre les billets?
-Where can I pick up the tickets?
-
-Quand est-ce que je dois prendre les billets?
-When should I pick up the tickets?
-
-Quand est-ce que je dois acheter les places?
-When do I have to buy the tickets?
-
-Pourquoi est-ce que je dois acheter les places?
-Why do I have to buy the tickets?
-
-Pourquoi est-ce que je dois changer de train?
-Why do I have to change trains?
-
-Pourquoi est-ce que vous voulez changer de train?
-Why do you want to change trains?
-
-Pourquoi est-ce que vous voulez déjeuner là-bas?
-Why do you want to have lunch there?
-
-Quand est-ce que je dois déjeuner là-bas?
-When should I have lunch there?
-
-Quand est-ce que je dois réserver mes places?
-When do I have to reserve my seats?
-
-Je voudrais acheter deux places.
-I would like to buy two tickets.
-
-Elle va acheter deux places.
-She's going to buy two tickets.
-
-Elle va prendre le train.
-She's going to take the train.
-
-Nous allons prendre le train.
-We are going to take the train.
-
-Nous allons déjeuner en face.
-We're going to have lunch across the street.
-
-Je voudrais déjeuner en face.
-I'd like to have lunch across the street.
-
-Je voudrais aller à Paris.
-I'd like to go to Paris.
-
-Vous pouvez aller a Paris.
-You can go to Paris.
-
-Vous pouvez avoir une place côté fenêtre.
-You can have a window seat.
-
-Je voudrais avoir une place côté fenêtre.
-I'd like to have a window seat.
-
-Je voudrais acheter deux places.
-I'd like to buy two seats.
-
-Je voudrais acheter deux places pour Lille.
-I'd like to buy two tickets to Lille.
-
-Je voudrais acheter quatre places pour Marseille.
-I'd like to buy four tickets to Marseille.
-
-Il voudrait acheter trois places pour Paris.
-He'd like to buy three tickets to Paris.
-
-Elle voudrait acheter trois places pour Paris.
-She'd like to buy three tickets to Paris.
-
-Elle voudrait acheter trois places pour Nantes.
-She'd like to buy three tickets to Nantes.
-
-C'est ce restaurant.
-It's this restaurant.
-
-C'est ce café.
-It's this café.
-
-C'est ce billet.
-It's this ticket.
-
-C'est ce monsieur.
-It's this gentleman.
-
-C'est ce matin.
-It's this morning.
-
-C'est ce soir.
-It's tonight.
-
-C'est ce livre.
-It's this book.
-
-C'est ce train.
-That's this train.
-
-C'est ce bureau.
-It's this desk.
-
-C'est cette rue.
-It's this street.
-
-C'est cette femme.
-It's that woman.
-
-C'est cette porte.
-It's that door.
-
-C'est cette chambre.
-It's this room.
-
-C'est cette fiche.
-It's this file.
-
-C'est cette date.
-That's this date.
-
-C'est cette boîte.
-That's this box.
-
-C'est cette valise.
-It's this suitcase.
-
-C'est cette couchette.
-It's this bunk.
-
-C'est pour cet étage.
-It's for this floor.
-
-C'est pour cet ami.
-It's for this friend.
-
-C'est pour cet enfant.
-It's for that child.
-
-C'est pour cet hôtel.
-It's for this hotel.
-
-C'est pour cet après-midi.
-It's for this afternoon.
-
-C'est pour cet étage.
-It's for this floor.
-
-C'est pour ces étages.
-It's for these floors.
-
-C'est pour ces amis.
-It's for these friends.
-
-C'est pour ces enfants.
-It's for those kids.
-
-C'est pour ces hôtels.
-It's for these hotels.
-
-C'est pour ces hommes.
-It's for these men.
-
-Voulez-vous ces billets?
-Do you want these tickets?
-
-Voulez-vous ces livres?
-Do you want these books?
-
-Voulez-vous ces fiches?
-Do you want these cards?
-
-Voulez-vous ces valises?
-Do you want these suitcases?
-
-Voulez-vous ces couchettes?
-Do you want these bunks?
-
+# Avec un balcon ou un extérieur.
+# With a balcony or an outside space.
+# 
+# De préférence un grand balcon, voire une terrasse.
+# Preferably a large balcony or even a terrace.
+# 
+# Quel étage? Rez-de-jardin?
+# Which floor? Ground floor?
+# 
+# Ça n'a pas d'importance, du moment qu'on a un extérieur.
+# It doesn't matter, as long as we have an outside space.
+# 
+# Du moment qu'on a soit un balcon, soit un extérieur.
+# As long as we have either a balcony or an outside space.
+# 
+# Combien de mètres carrés aimeriez-vous?
+# How many square meters would you like?
+# 
+# Une grande pièce à vivre: je note.
+# A large living room: duly noted.
+# 
+# Quel secteur, monsieur, désirez-vous?
+# Which area would you like, sir?
+# 
+# Est-ce que vous avez une préférence?
+# Do you have a preference?
+# 
+# Proche du centre-ville.
+# Close to the city center.
+# 
+# Qu'en est-il au niveau du stationnement?
+# What about parking?
+# 
+# Vous avez besoin d'une place de parking, d'un box, d'une cave?
+# Do you need a parking space, a storage unit, a basement?
+# 
+# On voudrait soit ne cave, soit un box.
+# We would like either a basement or a storage unit.
+# 
+# Si c'est un secteur très proche du centre-ville, nous voudrions une place de parking.
+# If it is an area very close to downtown, we would want a parking space.
+# 
+# Au niveau du budget, qu'est-ce qu'on peut faire?
+# In terms of budget, what can we do?
+# 
+# Nous n'avons pas encore été voir la banquière.
+# We haven't been to see the banker yet.
+# 
+# Donc vous n'avez pas encore un plan de financement?
+# So you don't have a financing plan yet?
+# 
+# Non, on ne sait pas quel budget on aura.
+# No, we don't know what our budget will be.
+# 
+# Je vois la banquière demain et je vous rapelle dans la foulée.
+# I'll see the banker tomorrow and call you right back.
+# 
+# Et si je vous trouve une maison?
+# And if I find you a house?
+# 
+# Ça pourrait aussi nous correspondre.
+# That could also work for us.
+# 
+# Nous ne voulons pas une maison de ville.
+# We don't want a townhouse.
+# 
+# Nous voulons une maison, si c'est une maison, avec un petit jardin.
+# We want a house, if it is a house, with a small garden.
+# 
+# Et au niveau des travaux à faire?
+# What about the work to be done?
+# 
+# Vous préférez quelque chose qui soit vraiment fini, clés en main, ou si je trouve quelque chose à renover, éventuellement...
+# Do you prefer something that is completely finished, ready to use, or if I find something to renovate, perhaps...
+# 
+# À renover, ça peut être une possibilité aussi.
+# Renovation... that can be a possibility, too.
+# 
+# Mais tout dépendra du prix en fait.
+# But it will all depend on the price.
+# 
+# Si le prix est moins élevé et qu'il y a un peu de travaux, oui, pourquoi pas?
+# If the price is lower and there is a little bit of work, yes why not?
+# 
+# Actuellement vous êtes locataires ou propriétaires?
+# Atualmente vocês são locatários ou proprietários?
+# 
+# Ce serait pour un premier achat en résidence principale, c'est bien ça?
+# So you would be first time owners, right?
+# 
+# Écoutez monsieur, je vous invite à aller voir votre banque comme ça vous pouvez établir votre plan de financement.
+# So sir, I suggest that you see your bank so that you can establish your financing plan.
+# 
+# Moi je peux vous envoyer par mail tous les biens que j'ai à vous proposer.
+# Eu, eu posso te enviar por e-mail all the properties that I have to offer you.
+# 
+# Et bien, faisons comme cela!
+# All right, that sounds good!ß
+# 
+# Combien de livres y a-t-il?
+# How many books are there?
+# 
+# Combien de livres avons-nous?
+# How many books do we have?
+# 
+# Combien de billets avons-nous?
+# How many tickets do we have?
+# 
+# Combien de billets ont-ils?
+# How many tickets do they have?
+# 
+# Combien de boîtes ont-ils?
+# How many boxes do they have?
+# 
+# Où est-ce que je peux réserver mes places?
+# Where can I reserve my seats?
+# 
+# Où est-ce que je peux prendre les billets?
+# Where can I pick up the tickets?
+# 
+# Quand est-ce que je dois prendre les billets?
+# When should I pick up the tickets?
+# 
+# Quand est-ce que je dois acheter les places?
+# When do I have to buy the tickets?
+# 
+# Pourquoi est-ce que je dois acheter les places?
+# Why do I have to buy the tickets?
+# 
+# Pourquoi est-ce que je dois changer de train?
+# Why do I have to change trains?
+# 
+# Pourquoi est-ce que vous voulez changer de train?
+# Why do you want to change trains?
+# 
+# Pourquoi est-ce que vous voulez déjeuner là-bas?
+# Why do you want to have lunch there?
+# 
+# Quand est-ce que je dois déjeuner là-bas?
+# When should I have lunch there?
+# 
+# Quand est-ce que je dois réserver mes places?
+# When do I have to reserve my seats?
+# 
+# Je voudrais acheter deux places.
+# I would like to buy two tickets.
+# 
+# Elle va acheter deux places.
+# She's going to buy two tickets.
+# 
+# Elle va prendre le train.
+# She's going to take the train.
+# 
+# Nous allons prendre le train.
+# We are going to take the train.
+# 
+# Nous allons déjeuner en face.
+# We're going to have lunch across the street.
+# 
+# Je voudrais déjeuner en face.
+# I'd like to have lunch across the street.
+# 
+# Je voudrais aller à Paris.
+# I'd like to go to Paris.
+# 
+# Vous pouvez aller a Paris.
+# You can go to Paris.
+# 
+# Vous pouvez avoir une place côté fenêtre.
+# You can have a window seat.
+# 
+# Je voudrais avoir une place côté fenêtre.
+# I'd like to have a window seat.
+# 
+# Je voudrais acheter deux places.
+# I'd like to buy two seats.
+# 
+# Je voudrais acheter deux places pour Lille.
+# I'd like to buy two tickets to Lille.
+# 
+# Je voudrais acheter quatre places pour Marseille.
+# I'd like to buy four tickets to Marseille.
+# 
+# Il voudrait acheter trois places pour Paris.
+# He'd like to buy three tickets to Paris.
+# 
+# Elle voudrait acheter trois places pour Paris.
+# She'd like to buy three tickets to Paris.
+# 
+# Elle voudrait acheter trois places pour Nantes.
+# She'd like to buy three tickets to Nantes.
+# 
+# C'est ce restaurant.
+# It's this restaurant.
+# 
+# C'est ce café.
+# It's this café.
+# 
+# C'est ce billet.
+# It's this ticket.
+# 
+# C'est ce monsieur.
+# It's this gentleman.
+# 
+# C'est ce matin.
+# It's this morning.
+# 
+# C'est ce soir.
+# It's tonight.
+# 
+# C'est ce livre.
+# It's this book.
+# 
+# C'est ce train.
+# That's this train.
+# 
+# C'est ce bureau.
+# It's this desk.
+# 
+# C'est cette rue.
+# It's this street.
+# 
+# C'est cette femme.
+# It's that woman.
+# 
+# C'est cette porte.
+# It's that door.
+# 
+# C'est cette chambre.
+# It's this room.
+# 
+# C'est cette fiche.
+# It's this file.
+# 
+# C'est cette date.
+# That's this date.
+# 
+# C'est cette boîte.
+# That's this box.
+# 
+# C'est cette valise.
+# It's this suitcase.
+# 
+# C'est cette couchette.
+# It's this bunk.
+# 
+# C'est pour cet étage.
+# It's for this floor.
+# 
+# C'est pour cet ami.
+# It's for this friend.
+# 
+# C'est pour cet enfant.
+# It's for that child.
+# 
+# C'est pour cet hôtel.
+# It's for this hotel.
+# 
+# C'est pour cet après-midi.
+# It's for this afternoon.
+# 
+# C'est pour cet étage.
+# It's for this floor.
+# 
+# C'est pour ces étages.
+# It's for these floors.
+# 
+# C'est pour ces amis.
+# It's for these friends.
+# 
+# C'est pour ces enfants.
+# It's for those kids.
+# 
+# C'est pour ces hôtels.
+# It's for these hotels.
+# 
+# C'est pour ces hommes.
+# It's for these men.
+# 
+# Voulez-vous ces billets?
+# Do you want these tickets?
+# 
+# Voulez-vous ces livres?
+# Do you want these books?
+# 
+# Voulez-vous ces fiches?
+# Do you want these cards?
+# 
+# Voulez-vous ces valises?
+# Do you want these suitcases?
+# 
+# Voulez-vous ces couchettes?
+# Do you want these bunks?
+# 
 Voulez-vous ces chambres?
 Do you want these rooms?
 
