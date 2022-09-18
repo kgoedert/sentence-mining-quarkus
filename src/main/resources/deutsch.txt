@@ -10464,340 +10464,340 @@
 # 
 # Sie legte einige Papiere hinzu
 # She put down some papers in addition
+# # 
+# # Sie trat an den Tisch heran
+# # She stepped up to the table
+# # 
+# # Einige Polizisten kamen herbei
+# # A few policemen came along
+# # 
+# # Er kam um die Ecke herum
+# # He came round the corner
+# # 
+# # Die Bücher lagen auf dem Tisch herum
+# # The books were lying around on the table
+# # 
+# # Er zog einen Revolver unter dem Tisch hervor
+# # He pulled a revolver out from under the table
+# # 
+# # Der Vogel ist in das Zimmer geflogen
+# # The bird flew into the room (i.e. it flew rather than hopped)
+# # 
+# # Der Vogel ist in das Zimmer hineingeflogen
+# # The bird flew into the room (i.e. it didn't fly out)
+# # 
+# # Wir wollen die Truhe in dein Zimmer tragen
+# # We want to carry the chest to your room (i.e. carry, not push)
+# # 
+# # Wir wollen die Truhe in dein Zimmer hinübertragen
+# # We want to carry the chest over to your room (i.e. take it across – not up or down)
+# # 
+# # Er ist (in das Zimmer) hineingegangen
+# # He went in(to the room)
+# # 
+# # Die Zeitung ist eingegangen
+# # The newspaper went bust
+# # 
+# Ich stand im Stau.
+# I was in a traffic jam.
 # 
-# Sie trat an den Tisch heran
-# She stepped up to the table
+# Mein Hund ist krank.
+# My dog is sick.
 # 
-# Einige Polizisten kamen herbei
-# A few policemen came along
+# Mein Wecker ist kaputt.
+# My alarm clock is broken.
 # 
-# Er kam um die Ecke herum
-# He came round the corner
+# Ich musste meine Oma ins Krankenhaus fahren.
+# I had to drive my grandmother to the hospital.
 # 
-# Die Bücher lagen auf dem Tisch herum
-# The books were lying around on the table
+# Mein Auto war in der Werkstatt.
+# Meu carro estava na oficina.
 # 
-# Er zog einen Revolver unter dem Tisch hervor
-# He pulled a revolver out from under the table
+# Mein Zug hatte Verspetung.
+# My train was late.
 # 
-# Der Vogel ist in das Zimmer geflogen
-# The bird flew into the room (i.e. it flew rather than hopped)
+# Mein Auto hatte eine Panne.
+# My car broke down.
 # 
-# Der Vogel ist in das Zimmer hineingeflogen
-# The bird flew into the room (i.e. it didn't fly out)
+# In meiner Wohnung war ein Rohrbruch.
+# A pipe burst in my appartment.
 # 
-# Wir wollen die Truhe in dein Zimmer tragen
-# We want to carry the chest to your room (i.e. carry, not push)
+# Der Strom is ausgefallen.
+# There was a power outage.
 # 
-# Wir wollen die Truhe in dein Zimmer hinübertragen
-# We want to carry the chest over to your room (i.e. take it across – not up or down)
+# Mein Essen war zu scharf.
+# My food was too spicy.
 # 
-# Er ist (in das Zimmer) hineingegangen
-# He went in(to the room)
+# Meine Zahnpasta war leer.
+# My toothpaste was empty.
 # 
-# Die Zeitung ist eingegangen
-# The newspaper went bust
+# Ich musste meiner Mutter erklären, wie whatsapp funktioniert.
+# I had to explain to my mother, how whatsapp works.
 # 
-Ich stand im Stau.
-I was in a traffic jam.
-
-Mein Hund ist krank.
-My dog is sick.
-
-Mein Wecker ist kaputt.
-My alarm clock is broken.
-
-Ich musste meine Oma ins Krankenhaus fahren.
-I had to drive my grandmother to the hospital.
-
-Mein Auto war in der Werkstatt.
-Meu carro estava na oficina.
-
-Mein Zug hatte Verspetung.
-My train was late.
-
-Mein Auto hatte eine Panne.
-My car broke down.
-
-In meiner Wohnung war ein Rohrbruch.
-A pipe burst in my appartment.
-
-Der Strom is ausgefallen.
-There was a power outage.
-
-Mein Essen war zu scharf.
-My food was too spicy.
-
-Meine Zahnpasta war leer.
-My toothpaste was empty.
-
-Ich musste meiner Mutter erklären, wie whatsapp funktioniert.
-I had to explain to my mother, how whatsapp works.
-
-Der Magnetstreifen meiner EC-Karte war kaputt.
-The magnetic strip of my debit card was not working.
-
-Meine Hosen passen mir nicht mehr.
-My pants don't fit me anymore.
-
-Mein Shampoo war leer.
-My shampoo was empty.
-
-Mein Flug wurde gestrichen.
-My flight was canceled.
-
-Mein Haus ist eingeschneit.
-My house is snowed in.
-
-Mein Handyakku war leer.
-My cell phone battery was empty.
-
-Ich habe die Haltestelle verpasst.
-I missed the stop. (train, bus, etc)
-
-Der Aufzug ist stecken geblieben.
-The elevator got stuck.
-
-Meine Tochter hat Windpocken.
-My daughter has chicken pox.
-
-Mein PC hatte einen Virus.
-My PC had a virus.
-
-Mein Portmonnaie wurde gestohlen.
-My wallet was stolen.
-
-Ich hatte keinen Kaffee mehr.
-I didn't have any more coffee.
-
-Meine Bluse ist eingelaufen.
-My blouse shrank. (in the wash)
-
-Vor dem Ticketautomaten am Bahnhof stand eine lange Schlange.
-In front of the ticket machine in the train station, there was a long queue.
-
-Ich habe Liebeskummer.
-I am suffering from lovesickness.
-
-Ich hatte niedriegen Blutdruck.
-I had low blodd presure.
-
-Mein Fingernagel ist abgebrochen.
-My fingernail broke.
-
-Mein Hund hat auf den Teppich gekotzt.
-My dog threw up on the carpet.
-
-Morgen gehen wir ins Kino.
-Tomorrow we are going to the movies.
-
-Nächstes Jahr wird Lara nach Deutschland ziehen.
-Next year, Lara will move to Germany.
-
-Nächstes Jahr zieht Lara nach Deutschland.
-Next year, Lara is moving to Germany.
-
-Ich werde euch Deutsch beibringen.
-I will teach you guys german.
-
-Wir werden ein paar Leute einladen.
-We will invite a couple of people.
-
-Wir werden nächste Woche grillen.
-We will barbecue next week.
-
-Morgen Abend werde ich meinen Bruder vom Flughafen abholen.
-Tomorrow night I will pick up my brother from the airport.
-
-Morgen Abend hole ich meinen Bruder bom Flughafen ab.
-Tomorrow night I'm picking up my brother from the airport.
-
-Wann werden wir ihn wiedersehen?
-When will we see him again?
-
-Ich werde euch einen Brief schicken.
-I will send you guys a letter.
-
-Herr Müller wird nächste Woche nach Rom fliegen.
-Mr. Muller will fly to Rome next week.
-
-Ich werde dich vermissen.
-I will miss you.
-
-Maria bleibt heute zu Hause.
-Maria is staying at home today.
-
-Maria wird heute zu Hause bleiben.
-Maria will stay at home today.
-
-Was wirst du nach der Schule machen?
-What will you do after school? - inf
-
-Was werden die Kinder morgen anziehen?
-What will the kids wear tomorrow?
-
-Was ziehen die Kinder morgen an?
-What are the children wearing tomorrow?
-
-Sie wird dem Chef eine E-mail schreiben.
-She will write the boss an e-mail.
-
-Wo wirst du hinfliegen?
-Where will you fly to? - inf
-
-Es wird gleich regnen.
-It will rain in a bit.
-
-Er wird dir nicht die Wahrheit sagen.
-He will not tell you the truth.
-
-Ihr werdet sie nicht finden.
-You guys will not find her.
-
-Markus wird die Prüfung nicht schaffen.
-Markus won't pass the exam.
-
-Er wird uns nicht anrufen.
-He will not call us.
-
-Sie wird beschäftigt sein.
-She will be busy.
-
-Sie wird müde sein.
-I assume that she is tired.
-
-Sie wird verliebt sein.
-I assume that she is in love.
-
-Er wird sauer sein.
-I assume that he is mad.
-
-Sie wird früh aufstehen müssen.
-She will have to get up early.
-
-Wir werden im Pool schwimmen dürfen.
-We will be allowed to swim in the pool.
-
-Er wird lange arbeiten müssen.
-He will have to work late.
-
-Er hat den Koffer hereingebracht
-He brought the suitcase in
-
-Das bringt nichts ein
-That’s not worth it
-
-Er kam (aus dem Haus) heraus
-He came out (of the house)
-
-Mit 100 Euro kommen wir nicht aus
-We won’t manage on 100 euros
-
-Ich ging zu ihm hinüber
-I went over to him
-
-Er ist zur SPD übergegangen
-He went over to the SPD
-
-sich zu etwas herablassen
-to condescend to (do) sth.
-
-Er gibt eine Zeitschrift heraus
-He edits a journal
-
-Es kommt auf dasselbe heraus
-It all comes to the same thing
-
-Er leierte die Predigt herunter
-He reeled off the sermon
-
-Die Verhandlungen zogen sich hinaus
-The negotiations dragged on
-
-Wie ist sie gefahren?
-how did she drive?
-
-Wie hat sie gesungen?
-how did she sing?
-
-Sie ist schnell gefahren
-She drove fast
-
-Sie hat gut gesungen
-She sang well
-
-Wie hat er es gemacht?
-how did he do it
-
-Er hat es anders gemacht
-He did it differently
-
-Ich sehe ein schönes Pferd. Das schöne Pferd ist dort.
-I see a beautiful horse. The beautiful horse is there.
-
-Ich sehe einen roten Vogel. Der rote Vogel ist dort.
-I see a red bird. The red bird is there.
-
-Ich sehe eine kleine Katze. Die kleine Katze ist dort.
-I see a little cat. The little cat is there.
-
-Ich sehe einen langen Zug. Der lange Zug ist dort.
-I see a long train. The long train is there.
-
-Ich sehe eine große S-Bahnstation. Die große S-Bahnstation ist dort.
-I see a big S-Bahn station. The big S-Bahn station is there.
-
-Ich sehe ein langes Messer. Das lange Messer ist dort.
-I see a long knife. The long knife is there.
-
-Das ist ein teures Auto. Kaufen Sie das teure Auto?
-That is an expensive car. Are you buying the expensive car?
-
-Das ist ein schöner Teller. Kaufen Sie den schönen Teller?
-That's a nice plate. Do you buy the nice plate?
-
-Das ist ein schnelles Pferd. Kaufen Sie das schnelle Pferd?
-It's a fast horse. Do you buy the fast horse?
-
-Das ist eine schöne Blume. Kaufen Sie die schöne Blume?
-This is a beautiful flower. Do you buy the beautiful flower?
-
-Das ist ein riesiges Haus. Kaufen Sie das riesige Haus?
-This is a huge house. Are you buying the huge house?
-
-Das ist eine große Pampelmuse. Kaufen Sie die große Pampelmuse?
-This is a big grapefruit. Are you buying the big grapefruit?
-
-Das ist ein schöner Stift. Kaufen Sie den schönen Stift?
-This is a beautiful pen. Do you buy the beautiful pen?
-
-Ich fahre das teure Auto.
-I drive the expensive car.
-
-Ich fahre ein teures Auto.
-I drive an expensive car.
-
-Er fährt ein teures Auto.
-He drives an expensive car.
-
-Er fährt einen teuren Wagen.
-He drives an expensive car.
-
-Er fährt einen schwarzen Wagen.
-He drives a black car.
-
-Er fährt den schwarzen Wagen.
-He drives the black car.
-
-Wir fahren den schwarzen Wagen.
-We drive the black car.
-
-Ich suche nicht irgendein Hemd, ich suche das richtige Hemd.
-I'm not looking for any shirt, I'm looking for the right shirt.
-
-Mein Bruder sucht nicht irgendeinen Hund, er sucht den richtigen Hund.
-My brother is not looking for any dog, he is looking for the right dog.
-
+# Der Magnetstreifen meiner EC-Karte war kaputt.
+# The magnetic strip of my debit card was not working.
+# 
+# Meine Hosen passen mir nicht mehr.
+# My pants don't fit me anymore.
+# 
+# Mein Shampoo war leer.
+# My shampoo was empty.
+# 
+# Mein Flug wurde gestrichen.
+# My flight was canceled.
+# 
+# Mein Haus ist eingeschneit.
+# My house is snowed in.
+# 
+# Mein Handyakku war leer.
+# My cell phone battery was empty.
+# 
+# Ich habe die Haltestelle verpasst.
+# I missed the stop. (train, bus, etc)
+# 
+# Der Aufzug ist stecken geblieben.
+# The elevator got stuck.
+# 
+# Meine Tochter hat Windpocken.
+# My daughter has chicken pox.
+# 
+# Mein PC hatte einen Virus.
+# My PC had a virus.
+# 
+# Mein Portmonnaie wurde gestohlen.
+# My wallet was stolen.
+# 
+# Ich hatte keinen Kaffee mehr.
+# I didn't have any more coffee.
+# 
+# Meine Bluse ist eingelaufen.
+# My blouse shrank. (in the wash)
+# 
+# Vor dem Ticketautomaten am Bahnhof stand eine lange Schlange.
+# In front of the ticket machine in the train station, there was a long queue.
+# 
+# Ich habe Liebeskummer.
+# I am suffering from lovesickness.
+# 
+# Ich hatte niedriegen Blutdruck.
+# I had low blodd presure.
+# 
+# Mein Fingernagel ist abgebrochen.
+# My fingernail broke.
+# 
+# Mein Hund hat auf den Teppich gekotzt.
+# My dog threw up on the carpet.
+# 
+# Morgen gehen wir ins Kino.
+# Tomorrow we are going to the movies.
+# 
+# Nächstes Jahr wird Lara nach Deutschland ziehen.
+# Next year, Lara will move to Germany.
+# 
+# Nächstes Jahr zieht Lara nach Deutschland.
+# Next year, Lara is moving to Germany.
+# 
+# Ich werde euch Deutsch beibringen.
+# I will teach you guys german.
+# 
+# Wir werden ein paar Leute einladen.
+# We will invite a couple of people.
+# 
+# Wir werden nächste Woche grillen.
+# We will barbecue next week.
+# 
+# Morgen Abend werde ich meinen Bruder vom Flughafen abholen.
+# Tomorrow night I will pick up my brother from the airport.
+# 
+# Morgen Abend hole ich meinen Bruder bom Flughafen ab.
+# Tomorrow night I'm picking up my brother from the airport.
+# 
+# Wann werden wir ihn wiedersehen?
+# When will we see him again?
+# 
+# Ich werde euch einen Brief schicken.
+# I will send you guys a letter.
+# 
+# Herr Müller wird nächste Woche nach Rom fliegen.
+# Mr. Muller will fly to Rome next week.
+# 
+# Ich werde dich vermissen.
+# I will miss you.
+# 
+# Maria bleibt heute zu Hause.
+# Maria is staying at home today.
+# 
+# Maria wird heute zu Hause bleiben.
+# Maria will stay at home today.
+# 
+# Was wirst du nach der Schule machen?
+# What will you do after school? - inf
+# 
+# Was werden die Kinder morgen anziehen?
+# What will the kids wear tomorrow?
+# 
+# Was ziehen die Kinder morgen an?
+# What are the children wearing tomorrow?
+# 
+# Sie wird dem Chef eine E-mail schreiben.
+# She will write the boss an e-mail.
+# 
+# Wo wirst du hinfliegen?
+# Where will you fly to? - inf
+# 
+# Es wird gleich regnen.
+# It will rain in a bit.
+# 
+# Er wird dir nicht die Wahrheit sagen.
+# He will not tell you the truth.
+# 
+# Ihr werdet sie nicht finden.
+# You guys will not find her.
+# 
+# Markus wird die Prüfung nicht schaffen.
+# Markus won't pass the exam.
+# 
+# Er wird uns nicht anrufen.
+# He will not call us.
+# 
+# Sie wird beschäftigt sein.
+# She will be busy.
+# 
+# Sie wird müde sein.
+# I assume that she is tired.
+# 
+# Sie wird verliebt sein.
+# I assume that she is in love.
+# 
+# Er wird sauer sein.
+# I assume that he is mad.
+# 
+# Sie wird früh aufstehen müssen.
+# She will have to get up early.
+# 
+# Wir werden im Pool schwimmen dürfen.
+# We will be allowed to swim in the pool.
+# 
+# Er wird lange arbeiten müssen.
+# He will have to work late.
+# 
+# Er hat den Koffer hereingebracht
+# He brought the suitcase in
+# 
+# Das bringt nichts ein
+# That’s not worth it
+# 
+# Er kam (aus dem Haus) heraus
+# He came out (of the house)
+# 
+# Mit 100 Euro kommen wir nicht aus
+# We won’t manage on 100 euros
+# 
+# Ich ging zu ihm hinüber
+# I went over to him
+# 
+# Er ist zur SPD übergegangen
+# He went over to the SPD
+# 
+# sich zu etwas herablassen
+# to condescend to (do) sth.
+# 
+# Er gibt eine Zeitschrift heraus
+# He edits a journal
+# 
+# Es kommt auf dasselbe heraus
+# It all comes to the same thing
+# 
+# Er leierte die Predigt herunter
+# He reeled off the sermon
+# 
+# Die Verhandlungen zogen sich hinaus
+# The negotiations dragged on
+# 
+# Wie ist sie gefahren?
+# how did she drive?
+# 
+# Wie hat sie gesungen?
+# how did she sing?
+# 
+# Sie ist schnell gefahren
+# She drove fast
+# 
+# Sie hat gut gesungen
+# She sang well
+# 
+# Wie hat er es gemacht?
+# how did he do it
+# 
+# Er hat es anders gemacht
+# He did it differently
+# 
+# Ich sehe ein schönes Pferd. Das schöne Pferd ist dort.
+# I see a beautiful horse. The beautiful horse is there.
+# 
+# Ich sehe einen roten Vogel. Der rote Vogel ist dort.
+# I see a red bird. The red bird is there.
+# 
+# Ich sehe eine kleine Katze. Die kleine Katze ist dort.
+# I see a little cat. The little cat is there.
+# 
+# Ich sehe einen langen Zug. Der lange Zug ist dort.
+# I see a long train. The long train is there.
+# 
+# Ich sehe eine große S-Bahnstation. Die große S-Bahnstation ist dort.
+# I see a big S-Bahn station. The big S-Bahn station is there.
+# 
+# Ich sehe ein langes Messer. Das lange Messer ist dort.
+# I see a long knife. The long knife is there.
+# 
+# Das ist ein teures Auto. Kaufen Sie das teure Auto?
+# That is an expensive car. Are you buying the expensive car?
+# 
+# Das ist ein schöner Teller. Kaufen Sie den schönen Teller?
+# That's a nice plate. Do you buy the nice plate?
+# 
+# Das ist ein schnelles Pferd. Kaufen Sie das schnelle Pferd?
+# It's a fast horse. Do you buy the fast horse?
+# 
+# Das ist eine schöne Blume. Kaufen Sie die schöne Blume?
+# This is a beautiful flower. Do you buy the beautiful flower?
+# 
+# Das ist ein riesiges Haus. Kaufen Sie das riesige Haus?
+# This is a huge house. Are you buying the huge house?
+# 
+# Das ist eine große Pampelmuse. Kaufen Sie die große Pampelmuse?
+# This is a big grapefruit. Are you buying the big grapefruit?
+# 
+# Das ist ein schöner Stift. Kaufen Sie den schönen Stift?
+# This is a beautiful pen. Do you buy the beautiful pen?
+# 
+# Ich fahre das teure Auto.
+# I drive the expensive car.
+# 
+# Ich fahre ein teures Auto.
+# I drive an expensive car.
+# 
+# Er fährt ein teures Auto.
+# He drives an expensive car.
+# 
+# Er fährt einen teuren Wagen.
+# He drives an expensive car.
+# 
+# Er fährt einen schwarzen Wagen.
+# He drives a black car.
+# 
+# Er fährt den schwarzen Wagen.
+# He drives the black car.
+# 
+# Wir fahren den schwarzen Wagen.
+# We drive the black car.
+# 
+# Ich suche nicht irgendein Hemd, ich suche das richtige Hemd.
+# I'm not looking for any shirt, I'm looking for the right shirt.
+# 
+# Mein Bruder sucht nicht irgendeinen Hund, er sucht den richtigen Hund.
+# My brother is not looking for any dog, he is looking for the right dog.
+# 
 Wir suchen nicht irgendeine Katze, wir suchen die richtige Katze.
 We are not looking for just any cat, we are looking for the right cat.
 
