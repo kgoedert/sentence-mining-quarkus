@@ -1,2 +1,183 @@
+Das funktioniert nicht.
+That doesn't work.
 
+Es funktioniert nicht.
+It doesn't work.
+
+Nichts funktioniert.
+Nothing works.
+
+Wie funktioniert das?
+How does that work?
+
+Funktioniert das gut?
+Does that work well?
+
+Es wird bestimmt funktionieren.
+I'm pretty sure it will work.
+
+Funktioniert das überhaupt?
+Does that even work?
+
+Hat es funktioniert?
+Did it work?
+
+Die Heizung funktioniert nicht.
+The heater is not working.
+
+Dieses Gerät funktioniert nicht.
+This device is not working.
+
+Ich glaube es funktioniert.
+I think it works.
+
+Es hat nicht funktioniert.
+It didn't work.
+
+Der Aufzug funktioniert nicht.
+The elevator is not working.
+
+Die Mikrowelle funktioniert nicht.
+The microwave is not working.
+
+So funktioniert das nicht.
+It doesn't work like that.
+
+Es hat beinahe funktioniert.
+It almost worked.
+
+Ich hoffe es funktioniert.
+I hope it works.
+
+Funktioniert der Drucker wieder?
+Is the printer working again?
+
+Aus irgendeinen Grund funktioniert es nicht.
+For some reason, it is not working.
+
+Es hat gestern noch funktioniert.
+It was still working yesterday.
+
+Es funktioniert nicht mehr.
+It's not working anymore.
+
+Warum funktioniert das nicht?
+Why isn't that working?
+
+Wie heißt du?
+What's your name? - inf
+
+Wie heißen Sie?
+What's your name? - formal
+
+Ich heiße Niko. Und wie heißt du?
+My name is Niko. And what's yours? - inf
+
+Wie war dein Urlaub?
+How was your vacation? - inf
+
+Wie war Ihr Urlaub?
+How was your vacation? - formal
+
+Mein Urlaub war abenteurlich!
+My vacation was adventurous!
+
+Wie machst du das?
+How do you do that? - inf
+
+Wie machen Sie das?
+How do you do that? - formal
+
+Das ist ganz einfach! Komm, ich zeige es dir!
+That's pretty easy! Come, I'll show you! - inf
+
+Wie hat es dir gestern gefallen?
+How did you like it yesterday? - inf
+
+Wie hat es Ihnen gestern gefallen?
+How did you like it yesterday? - formal
+
+Mir hat es sehr gut gefallen. Die Atmosphäre war toll!
+I really liked it a lot. The atmosphere was great!
+
+Wie alt bist du?
+How old are you? - inf
+
+Wie alt sind Sie?
+How old are you? - formal
+
+Wie lange bleibst du?
+How long are you staying? - inf
+
+Wie langen bleiben Sie?
+How long are you staying? - formal
+
+Ich bleibe bis (um) zehn. Und Sie?
+I'm staying until 10. And you? - formal
+
+Wie lange wohnst du schon hier?
+How long have you been living here? - inf
+
+Wie lange wohnen Sie schon hier?
+How long have you been living here? - formal
+
+Ich wohne seit fünf Jahren hier.
+I've been living here for five years.
+
+Wie lange arbeitest du schon bei dieser Firma?
+How long have you been working at this company? - inf
+
+I've been working seit anderthalb Jahren bei dieser Firma.
+I've been working for this company for one and a half years.
+
+Wie viel Geld hast du dabei? Ich habe nur 10 Euro dabei.
+How much money do you have with you? I have only 10 euros with me.
+
+Wie viele Geschwister hast du? Ich habe zwei Geschwister.
+How many siblings do you have? I have two siblings. - inf
+
+Wie viel wiegt er? Er wiegt 95 Kilo.
+How much does he weigh? He weighs 95 Kilos.
+
+Wie viele Personen waren da?
+How many people were there?
+
+Es waren circa 30 Personen/Leute da.
+There were approximately 30 people there.
+
+Wie viele Kinder hat sie? Sie hat drei Kinder.
+How many children does she have? She has three children.
+
+Wie viel Uhr ist es? Es ist viertel nach zwei.
+What time is it? It's quarter past 2.
+
+Wie spät ist es?
+What time is it?
+
+Wie viel verdient sie? Das weiß ich nicht.
+How much does she earn? I have no idea.
+
+Wie oft gehst du ins Fitnessstudio?
+How often do you go to the gym? - inf
+
+Ich gehe zweimal die Woche ins Fitnessstudio.
+I go to the gym twice a week.
+
+Wie schwer ist der Koffer? Der Koffer wiegt 20 Kilo.
+How heavy ist the suitcase? The suitcase weighs 20 kilos.
+
+Wie hoch ist das Gebäude? Das Gebäude ist 500 Meter hoch.
+How high is the building? The building is 500 meters high.
+
+Wie weit ist es bis zu dir nach Hause?
+How far is it to your house? - inf
+
+Bis zu mir nach Hause sind es nur 500 Meter.
+It's just 500 meters to my house.
+
+Wie weit ist es bis nach Berlin?
+How far is it to Berlin?
+
+Bis nach Berlin sind es 500 Kilometer.
+It's 500 kilometers to Berlin.
 
