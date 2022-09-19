@@ -14399,6 +14399,144 @@
 # Voulez-vous ces couchettes?
 # Do you want these bunks?
 # 
+Qu'est-ce que tu fais Céline? Tu recheches un appartement?
+What are you doing Céline? Are you looking for an appartement?
+
+Tu recheches quel type d'appartement?
+What type of appartement are you looking for?
+
+On est un peu à l'étroit là.
+We are a little cramped here.
+
+Il faudrait quand même qu'on ait une chambre supplémentaire non?
+We should at least have an extra room, right?
+
+Dans quel coin?
+In which area?
+
+On était vraiment en centre-ville.
+Here we are really downtown.
+
+J'aimerais bien un peu sortir de la ville, pour être un peu plus au calme.
+I would like to get out of the city a bit, to be a little quieter.
+
+Qu'est-ce que tu en penses?
+What do you think about it?
+
+Proche plage alors?
+Close to the beach then?
+
+Je sais que ça risque d'être un peu plus cher, regarde tiens celui-là.
+I know that it might be a bit more expensive, but look at this one.
+
+Il y a un balcon, il y a un box.
+There is a balcony, there is a storage unit.
+
+Il y a pas mal de travaux quand même.
+There's quite a lot of work to be done.
+
+C'est ce quit explique le prix attractif.
+That explains the appealing price.
+
+Il faut changer le carrelage, repeindre les murs.
+We need to change the tiles, repaint the walls.
+
+Fais voir celui-ci.
+Let me see this one here.
+
+Proche de toutes commodités, ouais ça peut être intéressant.
+Close to all the services, yeah it could be interesting.
+
+Et il a même 2 places de parking.
+And it even has 2 parking spaces.
+
+Ça peut être sympa.
+It could be good.
+
+Il faudrait qu'on aille le visiter.
+We should go and visit it.
+
+Je l'appelle et je te tiens au courant.
+I'll call him and let you know.
+
+Et au fait, j'ai les clés de mon nouvel appartement.
+And by the way, I got the keys to my new appartement.
+
+C'est là, pas très loin, en plein centre-ville, à environ trois rues d'ici.
+It's right there, not too far away, in the middle of downtown, about three blocks from here.
+
+C'est incroyable! Je suis trop contente!
+That's amazing! I am so happy!
+
+Et ça fait longtemps que tu cherches un nouvel appartement?
+And it has been a long time that you've been looking for a new appartement?
+
+Je cherchais depuis presque un an maintenant, c'était pas évident!
+I had been looking for almost an year now, it wasn't easy!
+
+C'est grand? Il fait environ 50 mètres carrés.
+Is it big? It is about 50 square meters.
+
+Est-ce que tu as des photos à me montrer? Bin sûr!
+Do you have any pictures to show me? Of course!
+
+Oui c'est vrai que la salle de bains est grande!
+Yes, it's true that the bathroom is big!
+
+Avec une douche! Ouais, une douche à l'italienne!
+With a shower! Yeah, an italian shower!
+
+On va pouvoir bronzer en été!
+We will be able to tan in summer!
+
+Oui, personne ne peut nous voir: il n'y a aucun vis-à-vis.
+Yes, nobody can see us: there's nothing adjacent.
+
+Il faut que je vienne te voir!
+I have to come see you!
+
+Si tu veux, passe samedi!
+If you want, come on saturday!
+
+À quelle heure? Vers seize heures?
+What time? Around 4pm?
+
+Luc est plus sportif que Jacques.
+Luc is more athletic than Jacques.
+
+Luc semble plus intellingent que moi.
+Luc seems smarter than me.
+
+Ton frère est plus patient que le mien.
+Your brother is more patient than mine.
+
+Théo fait plus de sport que moi.
+Théo does more sports than me.
+
+Marie a beacoup plus de livres que nous dans sa bibliothèque.
+Marie has a lot more books than us in her library.
+
+Les enfants ont beacoup plus de patience que leurs parents.
+The children have more patience than their parents.
+
+Il est moins attentif que l'année dernière en classe.
+He is less attentive in class than last year.
+
+Elles ont moins d'attention que l'an dernier.
+The pay less attention than last year.
+
+Il y a moins de bruit dans ta rue que dans la mienne.
+There is less noise in your street than in mine.
+
+Jade répond toujours plus poliment.
+Jade always responds more politely.
+
+Elle mange plus sainement.
+She eats more healthly.
+
+Vous lisez plus régulièrment.
+You read more regularly.
+
 Voulez-vous ces chambres?
 Do you want these rooms?
 
