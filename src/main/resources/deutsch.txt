@@ -10798,6 +10798,105 @@
 # Mein Bruder sucht nicht irgendeinen Hund, er sucht den richtigen Hund.
 # My brother is not looking for any dog, he is looking for the right dog.
 # 
+Die Büste von Mozart steht auf dem Bett 
+The bust of Mozart is standing on the bed.(dative: location).
+
+Ich stelle die Büste  auf das Klavier .
+I put (stand) the bust (accusative: direct object) on the piano.(accusative: motion)
+
+Eine Mumie stand mitten in ihrem Wohnzimmer .
+A mummy stood in the middle of her living room.(dative: location)
+
+Sie stellte die Mumie  in die Entwickler.
+She put (stood) the mummy (accusative: direct object) in the corner.  (accusative: motion)
+
+Das Besteck liegt in der Badewanne .
+The silverware is lying in the bathtub. (dative: location)
+
+Du legst das Besteck  auf den Tisch 
+You put (laid) the silverware (accusative: direct object) on the table.(accusative: motion).
+
+Eine Schlange hat auf dem Boden  gelegen.
+A snake was lying on the floor.(dative: location)
+
+Wir haben die Schlange  in das Bett  unseres RAs gelegt.
+We put (laid) the snake (accusative: direct object) in our RA's bed.(accusative: motion)
+
+Ein Bild von Justin Bieber hängt im Schlafzimmer .
+A picture of Justin Bieber is hanging in the bedroom.(dative: location)
+
+Du hängst das Bild  über die Toilette .
+You hang the picture (accusative: direct object) above the toilet.(accusative: motion)
+
+Der Kronleuchter hat im Keller gehangen.
+The chandelier was hanging in the basement. (dative: location)
+
+Wir haben den Kronleuchter  ins Wohnzimmer  gehängt.
+We hung the chandelier (accusative: direct object) in the living room.(accusative: motion)
+
+Wir saßen auf dem Esstisch .
+We were sitting on the dining room table.(dative: location)
+
+Wir setzten uns auf die Stühle .
+We sat (us)  (accusative: direct object) down on the chairs.(accusative: motion)
+
+Ich habe auf Lassie  gesessen.
+I was sitting on Lassie (dative: location)
+
+Ich habe mich  auf Flipper gesetzt.
+I sat myself (accusative: direct object) down on  (accusative: motion) Flipper
+
+Die Bücher liegen auf dem Tisch .
+The books are lying on the table.(dative: location)
+
+Wir stellen die Bücher  ins Regal .
+We put the books (accusative: direct object) on the shelf.(accusative: motion)
+
+Mein Bruce Springsteen Poster lag auf dem Boden .
+My Bruce Springsteen poster was lying on the floor.(dative: location)
+
+Ich hängte es  über mein Bett .
+I hung (accusative: direct object) it above my bed.(accusative: motion)
+
+Das Baby hat auf dem Fernseher  gesessen.
+The baby was sitting on the TV.(dative: location)
+
+Du hast es  ins Bett  gelegt.
+You put it (accusative: direct object) to bed (laid it in the bed).(accusative: motion)
+
+Ich musste schnell aufräumen, also hab ich einfach alles unters Bett getan/gesteckt.
+I had to clean up quickly, so I just put/stuck everything under the bed.
+
+Ich tue/stecke die Flaschen ins Recycling. 
+I put/stick the bottles into the recycling bin.
+
+Hast du die Bücher in deinen Rucksack getan/gesteckt?
+Did you put/stick the books in your backpack?
+
+Ich stecke mein Taschentuch in meine Tasche.
+I put my handkerchief in my pocket.
+
+Sie steckte den Schlüssel ins Schloss.
+She put the key in the lock.
+
+Meine Eltern haben mich in ein Internat gesteckt. 
+My parents stuck me in a boarding school.
+
+Es funktioniert nicht! Haben Sie den Stecker in die Steckdose gesteckt?
+It does not work! Did you put the plug in the outlet?
+
+Der Vogel fliegt hinein.
+(Martha está do lado de fora e observa o pássaro entrar voando no recinto)
+
+Der Vogel fliegt herein.
+(Martha está do lado de dentro e observa o pássaro entrar voando no recinto)
+
+Der Vogel fliegt hinaus.
+(Martha está do lado de dentro e observa o pássaro sair voando do recinto)
+
+Der Vogel fliegt heraus.
+(Martha está do lado de fora e observa o pássaro sair voando do recinto)
+
 Das funktioniert nicht.
 That doesn't work.
 
