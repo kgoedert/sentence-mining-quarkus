@@ -12291,315 +12291,313 @@
 # 
 # Tengo ahorrados mil euros.
 # I have a thousand euros saved up.
+# # 
+# # Mi madre me tiene dicho que no abra la puerta a desconocidos.
+# # My mother has told me not to open the door to strangers.
+# # 
+# # Tengo guardado este vino para una ocasión especial.
+# # I've saved this wine for a special occasion.
+# # 
+# Ya tengo hechas las fotocopias.
+# I've already made the photocopies.
 # 
-# Mi madre me tiene dicho que no abra la puerta a desconocidos.
-# My mother has told me not to open the door to strangers.
+# ¿Ha regresado Rafa? No, pero ha dejado dicho que no lo esperemos.
+# Has Rafa returned? No, but he said not to wait for him.
 # 
-# Tengo guardado este vino para una ocasión especial.
-# I've saved this wine for a special occasion.
+# ¿Has dejado cerrado el gas? Sí, no te preocupes.
+# Did you turn off the gas? Yes, don't worry.
 # 
-Ya tengo hechas las fotocopias.
-I've already made the photocopies.
-
-¿Ha regresado Rafa? No, pero ha dejado dicho que no lo esperemos.
-Has Rafa returned? No, but he said not to wait for him.
-
-¿Has dejado cerrado el gas? Sí, no te preocupes.
-Did you turn off the gas? Yes, don't worry.
-
-Llevo ganados todos los partidos.
-I've won all the matches.
-
-La semana pasada Felipe ya llevaba estudiados veinte temas.
-Last week, Felipe had already studied twenty themes.
-
-¿Qué haces? Nada. Estudio un poco.
-What are you doing? Nothing. I'm just studying.
-
-¿Y Juan? ¿Qué hacía? ¿Juan? Durmiendo tranquilamente.
-And Juan? What was he doing? Juan? Sleeping peacefully.
-
-Carolina y Nikos tienen muchos proyectos para el futuro. Quieren hacerse ricos comprando y vendiendo casas.
-Carolina and Nikos have many projects for the future. They want to get rich by buying and selling houses.
-
-Y habiendo dejado claro lo que pienso, me marcho.
-And having made it clear what I think, I'm leaving.
-
-Habiendo terminado el partido, apagaron el televisor.
-Having finished the game, they turned off the TV.
-
-¡Anda! Aurora corriendo por el parque.
-Come on! Aurora running in the park.
-
-¿Qué hacéis? Nada. Descansando un rato.
-What are you doing? Nothing. Resting for a while.
-
-El presidente, recibiendo el embajador de Guinea.
-The president, receiving the ambassador of Guinea.
-
-¡Siempre trabajando! Tienes que descansar un poco.
-Always working! You have to rest a bit.
-
-¡Otra vez comiendo! Tienes que tranquilizarte.
-Eating again! You have to calm down.
-
-¿Todavía viendo la tele? Pero si llevas así toda la mañana.
-Still watching TV? But you've been like this all morning.
-
-¡Qué día más malo tuvimos ayer! Estuvo lloviendo todo el día.
-What a bad day we had yesterday! It's been raining all day.
-
-¿Ayer lloviendo? Pues si aquí no cayó una gota.
-Raining yesterday? Well, if there wasn't a drop here.
-
-¡Qué día nos dio Toño! Estuvo protestando todo el rato.
-What a day Toño gave us! He was protesting the whole time.
-
-Ayer te vi fumando. ¿Yo fumando? Debiste de ver otra persona.
-Yesterday I saw you smoking. Me smoking? You must have seen someone else.
-
-¿Qué? ¿Descansando un poco?
-What? Getting some rest?
-
-Ya es la hora. Andando.
-It's time. Let's get going.
-
-¿Así estudias? ¿Jugando con la consola?
-Is that how you study? Playing with the console?
-
-Entraron corriendo.
-They ran in.
-
-Me recibieron cantando.
-They greeted me with singing.
-
-¿Dónde está tu despacho? Entrando en la oficina la segunda a la derecha.
-Where's your office? Entering the office, second on the right.
-
-Caminaba cantando por el parque.
-I was singing my way through the park.
-
-¡Quién conocera el futuro!
-I wish I knew the future! 
-
-He recorrido algunas zonas de Perú.
-I have traveled to some areas of Peru.
-
-Era lógico que Goyo protestase por la película.
-It was natural that Goyo was going to protest for the movie. 
-
-¿Puedes venir, Sonia? Quiero que me ayudes.
-Can you come, Sonia? I want you to help me. 
-
-Es lógico que Silvia no quiera ir a la fiesta. No conoce a nadie.
-It is natural that Silvia does not want to go to the party. She doesn't know anyone. 
-
-Es posible que tengan ustedes razón, pero prefiero asegurarme.
-It is possible that you are right, but I need to be sure.
-
-Me extrañó que no vinieseis a mi fiesta.
-I thought it was weird that you didn't come to my party.
-
-¡Qué Ángel apruebe!
-I hope Ángel approves!
-
-Ayer te llamé a casa. Quería que me ayudades a preparar el examen. - querer
-Yesterday I called you at home. I would like you to help me prepare the test.
-
-El director dijo que vayas ahora.
-The director told you to go now. 
-
-Matías, prefiero que me lo digas ahora.
-Matías, I prefer you tell it me now. 
-
-Quiero hacer un viaje a Colombia el año que viene.
-I want to make a trip to Colombia next year. 
-
-Estaba claro que Julián mentía.
-It was obvious that Julián was lying.
-
-Si discutís, me voy.
-If you argue, I will go. 
-
-Quiero hacer un viaje a Colombia el año que viene.
-I want to make a trip to Colombia next year. 
-
-Cuando era joven, solía hacer mucho deporte.
-When I was young, I used to do a lot of sports. 
-
-Este año no ha hecho mucho frío.
-Este ano não tem feito muito frio.
-
-Mis padres están haciendo un viaje por Japón.
-My parents are taking a trip to Japan.
-
-Están despidiendo a mucha gente en la empresa.
-They're laying off a lot of people at the company.
-
-Cuando Tomás enfermó, estaba trabajando en una plataforma petrolífera.
-When Tomas got sick, he was working on an oil rig.
-
-Estaba esperando a Julia cuando de repente apareció Mario.
-I was waiting for Julia when suddenly Mario showed up.
-
-El año pasado estuvimos investigando la música popular de Bolivia.
-Last year we were researching the popular music of Bolivia.
-
-Hace unos años, estuve viajando por Asia unos meses.
-A few years ago, I was traveling in Asia for a few months.
-
-Mira, Julia. Hemos estado hablando y pensamos que es mejor que aceptes ese empleo.
-Look, Julia. We've been talking and we think it's best that you take that job.
-
-¡Qué sucios tienes los pantalones! Sí, he estado limpiando el coche.
-Your pants are so dirty! Yes, I've been cleaning the car.
-
-Mañana a estas horas estaremos volando hacia Chile.
-This time tomorrow we'll be flying to Chile.
-
-Pasa mañana por casa a las 9. Estaré viendo el partido en la tele.
-Stop by the house tomorrow at 9. I'll be watching the game on TV.
-
-¿Quién va conduciendo el tren? Nadie. Está totalmente automatizado.
-Who's driving the train? No one's driving the train. It's fully automated.
-
-Nos lo pasamos muy bien. Fuimos hablando todo el viaje.
-We have a lot of fun. We talked the whole trip.
-
-Esteban anda diciendo que te vas a ir de la empresa.
-Esteban's saying you're leaving the company.
-
-Poco a poco fueron concienciándose de la necesidad de reciclar la basura.
-Little by little they became aware of the need to recycle the garbage.
-
-El problema nos viene preocupando hace tiempo.
-The problem has been worrying us for a long time.
-
-La prensa viene anunciando que habrá crisis para rato.
-The press has been announcing that there will be a crisis for a while.
-
-El gobierno anda siempre prometiendo que va a acabar con el paro, pero no hace nada.
-The government is always promising that it will end the unemployment, but it does nothing.
-
-No te preocupes. Cuando llegues habrá alguien esperándole.
-Don't worry about it. When you arrive there will be someone waiting for you.
-
-Callaos un poco y seguid trabajando.
-Shut up a bit and keep working.
-
-Hay que continuar luchando. No podemos abandonar ahora.
-We must continue to fight. We can't give up now.
-
-Y después de años saliendo, terminaron casándose.
-And after years of dating, they ended up getting married.
-
-Después de dar muchas vueltas, acabamos cenando en un sitio horrible.
-After a lot of running around, we ended up having dinner in a horrible place.
-
-He filmado la lava bajando por la ladera del volcán.
-I filmed the lava coming down the side of the volcano.
-
-La estatua representa a Teseo luchando contra la Gorgona.
-The statue represents Theseus fighting the Gorgon.
-
-Tomás me pilló entrando a casa por la ventana.
-Thomas caught me entering the house through the window.
-
-Nos hicieron una foto saludando al Presidente.
-They took a picture of us greeting the President.
-
-Un prestidigitador es una persona que hace trucos con las manos.
-A conjurer is a person who does tricks with his hands.
-
-¿Has hablado alguna vez con la señora que vive en el sexto?
-Have you ever talked to the lady who lives in the sixth?
-
-¿Es aquí donde necesitan un dependiente?
-Is this where they need a clerk?
-
-Ana es tremenda. Hay que hacer todo como ella diga.
-Ana is terrific. You have to do everything as she says.
-
-¿Dónde está la fruta que compré ayer?
-Where's the fruit I bought yesterday?
-
-Aquellos que quieran venir al teatro tienen que pagar 10 euros.
-Those who want to come to the theater have to pay 10 euros.
-
-Ese es el amigo con quien fui a Portugal.
-That's the friend I went to Portugal with.
-
-Ha sido ese el que me ha insultado.
-That's the one who insulted me.
-
-Esta es la casa de la que te hablé.
-This is the house I told you about.
-
-No es eso lo que yo quiero.
-That's not what I want.
-
-Eso es más de lo que necesitamos.
-That's more than we need.
-
-Este es el libro cuya traducción no me gusta.
-This is the book whose translation I don't like.
-
-Vine con un chico a cuya madre conoces.
-I came with a boy whose mother you know.
-
-¿Recuerdas la noche en la que nació Mario?
-Do you remember the night Mario was born?
-
-¿Fue en 2005 cuándo estuvimos en Egipto?
-Was that in 2005 when we were in Egypt?
-
-Es en verano cuando más hace calor.
-It's the summertime when it's hottest.
-
-Escribe como te ha dicho el profesor.
-Write like the teacher told you.
-
-Luisa me prestó cuantos libros tenía.
-Luisa lent me how many books she had.
-
-Quien dice eso no sabe lo que dice.
-Whoever says that doesn't know what he's saying.
-
-El que dice eso no sabe lo que dice.
-Whoever says that doesn't know what he's saying.
-
-Donde tú vives no hay nada.
-Where you live there's nothing.
-
-Cuando el viento sopla, se van las nubes.
-When the wind blows, the clouds go away.
-
-Como tú cantas, no canta nadie.
-As you sing, no one sings.
-
-Tengo un amigo que cocina de maravilla.
-I have a friend who cooks beautifully.
-
-Esa fue la que me vendió el cedé.
-That's the one who sold me the cedé.
-
-¿Conoces a alguien que cocine bien?
-Do you know anyone who cooks well?
-
-¿Dónde hay una tienda que venda cedés?
-Where's a store that sells cds?
-
-No sé lo que dice, pero quien diga es tonto.
-I don't know what you're saying, but whoever says it is stupid.
-
-Esta es la casa en la que vivo.
-This is the house I live in.
-
-Esta es la lista de los que quieren ir al teatro.
-
-Siempre hacemos lo que ella dice.
-We always do what she says.
-
+# Llevo ganados todos los partidos.
+# I've won all the matches.
+# 
+# La semana pasada Felipe ya llevaba estudiados veinte temas.
+# Last week, Felipe had already studied twenty themes.
+# 
+# ¿Qué haces? Nada. Estudio un poco.
+# What are you doing? Nothing. I'm just studying.
+# 
+# ¿Y Juan? ¿Qué hacía? ¿Juan? Durmiendo tranquilamente.
+# And Juan? What was he doing? Juan? Sleeping peacefully.
+# 
+# Carolina y Nikos tienen muchos proyectos para el futuro. Quieren hacerse ricos comprando y vendiendo casas.
+# Carolina and Nikos have many projects for the future. They want to get rich by buying and selling houses.
+# 
+# Y habiendo dejado claro lo que pienso, me marcho.
+# And having made it clear what I think, I'm leaving.
+# 
+# Habiendo terminado el partido, apagaron el televisor.
+# Having finished the game, they turned off the TV.
+# 
+# ¡Anda! Aurora corriendo por el parque.
+# Come on! Aurora running in the park.
+# 
+# ¿Qué hacéis? Nada. Descansando un rato.
+# What are you doing? Nothing. Resting for a while.
+# 
+# El presidente, recibiendo el embajador de Guinea.
+# The president, receiving the ambassador of Guinea.
+# 
+# ¡Siempre trabajando! Tienes que descansar un poco.
+# Always working! You have to rest a bit.
+# 
+# ¡Otra vez comiendo! Tienes que tranquilizarte.
+# Eating again! You have to calm down.
+# 
+# ¿Todavía viendo la tele? Pero si llevas así toda la mañana.
+# Still watching TV? But you've been like this all morning.
+# 
+# ¡Qué día más malo tuvimos ayer! Estuvo lloviendo todo el día.
+# What a bad day we had yesterday! It's been raining all day.
+# 
+# ¿Ayer lloviendo? Pues si aquí no cayó una gota.
+# Raining yesterday? Well, if there wasn't a drop here.
+# 
+# ¡Qué día nos dio Toño! Estuvo protestando todo el rato.
+# What a day Toño gave us! He was protesting the whole time.
+# 
+# Ayer te vi fumando. ¿Yo fumando? Debiste de ver otra persona.
+# Yesterday I saw you smoking. Me smoking? You must have seen someone else.
+# 
+# ¿Qué? ¿Descansando un poco?
+# What? Getting some rest?
+# 
+# Ya es la hora. Andando.
+# It's time. Let's get going.
+# 
+# ¿Así estudias? ¿Jugando con la consola?
+# Is that how you study? Playing with the console?
+# 
+# Entraron corriendo.
+# They ran in.
+# 
+# Me recibieron cantando.
+# They greeted me with singing.
+# 
+# ¿Dónde está tu despacho? Entrando en la oficina la segunda a la derecha.
+# Where's your office? Entering the office, second on the right.
+# 
+# Caminaba cantando por el parque.
+# I was singing my way through the park.
+# 
+# ¡Quién conocera el futuro!
+# I wish I knew the future! 
+# 
+# He recorrido algunas zonas de Perú.
+# I have traveled to some areas of Peru.
+# 
+# Era lógico que Goyo protestase por la película.
+# It was natural that Goyo was going to protest for the movie. 
+# 
+# ¿Puedes venir, Sonia? Quiero que me ayudes.
+# Can you come, Sonia? I want you to help me. 
+# 
+# Es lógico que Silvia no quiera ir a la fiesta. No conoce a nadie.
+# It is natural that Silvia does not want to go to the party. She doesn't know anyone. 
+# 
+# Es posible que tengan ustedes razón, pero prefiero asegurarme.
+# It is possible that you are right, but I need to be sure.
+# 
+# Me extrañó que no vinieseis a mi fiesta.
+# I thought it was weird that you didn't come to my party.
+# 
+# ¡Qué Ángel apruebe!
+# I hope Ángel approves!
+# 
+# Ayer te llamé a casa. Quería que me ayudades a preparar el examen. - querer
+# Yesterday I called you at home. I would like you to help me prepare the test.
+# 
+# El director dijo que vayas ahora.
+# The director told you to go now. 
+# 
+# Matías, prefiero que me lo digas ahora.
+# Matías, I prefer you tell it me now. 
+# 
+# Quiero hacer un viaje a Colombia el año que viene.
+# I want to make a trip to Colombia next year. 
+# 
+# Estaba claro que Julián mentía.
+# It was obvious that Julián was lying.
+# 
+# Si discutís, me voy.
+# If you argue, I will go. 
+# 
+# Quiero hacer un viaje a Colombia el año que viene.
+# I want to make a trip to Colombia next year. 
+# 
+# Cuando era joven, solía hacer mucho deporte.
+# When I was young, I used to do a lot of sports. 
+# 
+# Este año no ha hecho mucho frío.
+# Este ano não tem feito muito frio.
+# 
+# Mis padres están haciendo un viaje por Japón.
+# My parents are taking a trip to Japan.
+# 
+# Están despidiendo a mucha gente en la empresa.
+# They're laying off a lot of people at the company.
+# 
+# Cuando Tomás enfermó, estaba trabajando en una plataforma petrolífera.
+# When Tomas got sick, he was working on an oil rig.
+# 
+# Estaba esperando a Julia cuando de repente apareció Mario.
+# I was waiting for Julia when suddenly Mario showed up.
+# 
+# El año pasado estuvimos investigando la música popular de Bolivia.
+# Last year we were researching the popular music of Bolivia.
+# 
+# Hace unos años, estuve viajando por Asia unos meses.
+# A few years ago, I was traveling in Asia for a few months.
+# 
+# Mira, Julia. Hemos estado hablando y pensamos que es mejor que aceptes ese empleo.
+# Look, Julia. We've been talking and we think it's best that you take that job.
+# 
+# ¡Qué sucios tienes los pantalones! Sí, he estado limpiando el coche.
+# Your pants are so dirty! Yes, I've been cleaning the car.
+# 
+# Mañana a estas horas estaremos volando hacia Chile.
+# This time tomorrow we'll be flying to Chile.
+# 
+# Pasa mañana por casa a las 9. Estaré viendo el partido en la tele.
+# Stop by the house tomorrow at 9. I'll be watching the game on TV.
+# 
+# ¿Quién va conduciendo el tren? Nadie. Está totalmente automatizado.
+# Who's driving the train? No one's driving the train. It's fully automated.
+# 
+# Nos lo pasamos muy bien. Fuimos hablando todo el viaje.
+# We have a lot of fun. We talked the whole trip.
+# 
+# Esteban anda diciendo que te vas a ir de la empresa.
+# Esteban's saying you're leaving the company.
+# 
+# Poco a poco fueron concienciándose de la necesidad de reciclar la basura.
+# Little by little they became aware of the need to recycle the garbage.
+# 
+# El problema nos viene preocupando hace tiempo.
+# The problem has been worrying us for a long time.
+# 
+# La prensa viene anunciando que habrá crisis para rato.
+# The press has been announcing that there will be a crisis for a while.
+# 
+# El gobierno anda siempre prometiendo que va a acabar con el paro, pero no hace nada.
+# The government is always promising that it will end the unemployment, but it does nothing.
+# 
+# No te preocupes. Cuando llegues habrá alguien esperándole.
+# Don't worry about it. When you arrive there will be someone waiting for you.
+# 
+# Callaos un poco y seguid trabajando.
+# Shut up a bit and keep working.
+# 
+# Hay que continuar luchando. No podemos abandonar ahora.
+# We must continue to fight. We can't give up now.
+# 
+# Y después de años saliendo, terminaron casándose.
+# # And after years of dating, they ended up getting married.
+# # 
+# # Después de dar muchas vueltas, acabamos cenando en un sitio horrible.
+# # After a lot of running around, we ended up having dinner in a horrible place.
+# # 
+# # He filmado la lava bajando por la ladera del volcán.
+# # I filmed the lava coming down the side of the volcano.
+# # 
+# La estatua representa a Teseo luchando contra la Gorgona.
+# The statue represents Theseus fighting the Gorgon.
+# 
+# Tomás me pilló entrando a casa por la ventana.
+# Thomas caught me entering the house through the window.
+# 
+# Nos hicieron una foto saludando al Presidente.
+# They took a picture of us greeting the President.
+# 
+# Un prestidigitador es una persona que hace trucos con las manos.
+# A conjurer is a person who does tricks with his hands.
+# 
+# ¿Has hablado alguna vez con la señora que vive en el sexto?
+# Have you ever talked to the lady who lives in the sixth?
+# 
+# ¿Es aquí donde necesitan un dependiente?
+# Is this where they need a clerk?
+# 
+# Ana es tremenda. Hay que hacer todo como ella diga.
+# Ana is terrific. You have to do everything as she says.
+# 
+# ¿Dónde está la fruta que compré ayer?
+# Where's the fruit I bought yesterday?
+# 
+# Aquellos que quieran venir al teatro tienen que pagar 10 euros.
+# Those who want to come to the theater have to pay 10 euros.
+# 
+# Ese es el amigo con quien fui a Portugal.
+# That's the friend I went to Portugal with.
+# 
+# Ha sido ese el que me ha insultado.
+# That's the one who insulted me.
+# 
+# Esta es la casa de la que te hablé.
+# This is the house I told you about.
+# 
+# No es eso lo que yo quiero.
+# That's not what I want.
+# 
+# Eso es más de lo que necesitamos.
+# That's more than we need.
+# 
+# Este es el libro cuya traducción no me gusta.
+# This is the book whose translation I don't like.
+# 
+# Vine con un chico a cuya madre conoces.
+# I came with a boy whose mother you know.
+# 
+# ¿Recuerdas la noche en la que nació Mario?
+# Do you remember the night Mario was born?
+# 
+# ¿Fue en 2005 cuándo estuvimos en Egipto?
+# Was that in 2005 when we were in Egypt?
+# 
+# Es en verano cuando más hace calor.
+# It's the summertime when it's hottest.
+# 
+# Escribe como te ha dicho el profesor.
+# Write like the teacher told you.
+# 
+# Luisa me prestó cuantos libros tenía.
+# Luisa lent me how many books she had.
+# 
+# Quien dice eso no sabe lo que dice.
+# Whoever says that doesn't know what he's saying.
+# 
+# El que dice eso no sabe lo que dice.
+# Whoever says that doesn't know what he's saying.
+# 
+# Donde tú vives no hay nada.
+# Where you live there's nothing.
+# 
+# Cuando el viento sopla, se van las nubes.
+# When the wind blows, the clouds go away.
+# 
+# Como tú cantas, no canta nadie.
+# As you sing, no one sings.
+# 
+# Tengo un amigo que cocina de maravilla.
+# I have a friend who cooks beautifully.
+# 
+# Esa fue la que me vendió el cedé.
+# That's the one who sold me the cedé.
+# 
+# ¿Conoces a alguien que cocine bien?
+# Do you know anyone who cooks well?
+# 
+# ¿Dónde hay una tienda que venda cedés?
+# Where's a store that sells cds?
+# 
+# No sé lo que dice, pero quien diga es tonto.
+# I don't know what you're saying, but whoever says it is stupid.
+# 
+# Esta es la casa en la que vivo.
+# This is the house I live in.
+# 
+# Siempre hacemos lo que ella dice.
+# We always do what she says.
+# 
 Me da igual la casa en que vivas.
 I don't care what house you live in.
 

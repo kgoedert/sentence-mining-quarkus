@@ -10798,6 +10798,21 @@
 # Mein Bruder sucht nicht irgendeinen Hund, er sucht den richtigen Hund.
 # My brother is not looking for any dog, he is looking for the right dog.
 # 
+Ich habe den Mann bestohlen.
+Eu roubei do homem.
+
+Ich habe Geld gestohlen.
+eu roubei dinheiro
+
+Ich bestehle die Frau.
+Eu roubo a mulher.
+
+Ich stehle den Apfel.
+Eu roubo a maçã.
+
+Ich stehle der Frau einen Apfel.
+Eu roubo uma maçã para a mulher.
+
 Die Büste von Mozart steht auf dem Bett 
 The bust of Mozart is standing on the bed.(dative: location).
 
