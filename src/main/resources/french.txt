@@ -14392,313 +14392,313 @@
 # 
 # Voulez-vous ces fiches?
 # Do you want these cards?
+# # 
+# # Voulez-vous ces valises?
+# # Do you want these suitcases?
+# # 
+# # Voulez-vous ces couchettes?
+# # Do you want these bunks?
+# # 
+# Qu'est-ce que tu fais Céline? Tu recheches un appartement?
+# What are you doing Céline? Are you looking for an appartement?
 # 
-# Voulez-vous ces valises?
-# Do you want these suitcases?
+# Tu recheches quel type d'appartement?
+# What type of appartement are you looking for?
 # 
-# Voulez-vous ces couchettes?
-# Do you want these bunks?
+# On est un peu à l'étroit là.
+# We are a little cramped here.
 # 
-Qu'est-ce que tu fais Céline? Tu recheches un appartement?
-What are you doing Céline? Are you looking for an appartement?
-
-Tu recheches quel type d'appartement?
-What type of appartement are you looking for?
-
-On est un peu à l'étroit là.
-We are a little cramped here.
-
-Il faudrait quand même qu'on ait une chambre supplémentaire non?
-We should at least have an extra room, right?
-
-Dans quel coin?
-In which area?
-
-On était vraiment en centre-ville.
-Here we are really downtown.
-
-J'aimerais bien un peu sortir de la ville, pour être un peu plus au calme.
-I would like to get out of the city a bit, to be a little quieter.
-
-Qu'est-ce que tu en penses?
-What do you think about it?
-
-Proche plage alors?
-Close to the beach then?
-
-Je sais que ça risque d'être un peu plus cher, regarde tiens celui-là.
-I know that it might be a bit more expensive, but look at this one.
-
-Il y a un balcon, il y a un box.
-There is a balcony, there is a storage unit.
-
-Il y a pas mal de travaux quand même.
-There's quite a lot of work to be done.
-
-C'est ce quit explique le prix attractif.
-That explains the appealing price.
-
-Il faut changer le carrelage, repeindre les murs.
-We need to change the tiles, repaint the walls.
-
-Fais voir celui-ci.
-Let me see this one here.
-
-Proche de toutes commodités, ouais ça peut être intéressant.
-Close to all the services, yeah it could be interesting.
-
-Et il a même 2 places de parking.
-And it even has 2 parking spaces.
-
-Ça peut être sympa.
-It could be good.
-
-Il faudrait qu'on aille le visiter.
-We should go and visit it.
-
-Je l'appelle et je te tiens au courant.
-I'll call him and let you know.
-
-Et au fait, j'ai les clés de mon nouvel appartement.
-And by the way, I got the keys to my new appartement.
-
-C'est là, pas très loin, en plein centre-ville, à environ trois rues d'ici.
-It's right there, not too far away, in the middle of downtown, about three blocks from here.
-
-C'est incroyable! Je suis trop contente!
-That's amazing! I am so happy!
-
-Et ça fait longtemps que tu cherches un nouvel appartement?
-And it has been a long time that you've been looking for a new appartement?
-
-Je cherchais depuis presque un an maintenant, c'était pas évident!
-I had been looking for almost an year now, it wasn't easy!
-
-C'est grand? Il fait environ 50 mètres carrés.
-Is it big? It is about 50 square meters.
-
-Est-ce que tu as des photos à me montrer? Bin sûr!
-Do you have any pictures to show me? Of course!
-
-Oui c'est vrai que la salle de bains est grande!
-Yes, it's true that the bathroom is big!
-
-Avec une douche! Ouais, une douche à l'italienne!
-With a shower! Yeah, an italian shower!
-
-On va pouvoir bronzer en été!
-We will be able to tan in summer!
-
-Oui, personne ne peut nous voir: il n'y a aucun vis-à-vis.
-Yes, nobody can see us: there's nothing adjacent.
-
-Il faut que je vienne te voir!
-I have to come see you!
-
-Si tu veux, passe samedi!
-If you want, come on saturday!
-
-À quelle heure? Vers seize heures?
-What time? Around 4pm?
-
-Luc est plus sportif que Jacques.
-Luc is more athletic than Jacques.
-
-Luc semble plus intellingent que moi.
-Luc seems smarter than me.
-
-Ton frère est plus patient que le mien.
-Your brother is more patient than mine.
-
-Théo fait plus de sport que moi.
-Théo does more sports than me.
-
-Marie a beacoup plus de livres que nous dans sa bibliothèque.
-Marie has a lot more books than us in her library.
-
-Les enfants ont beacoup plus de patience que leurs parents.
-The children have more patience than their parents.
-
-Il est moins attentif que l'année dernière en classe.
-He is less attentive in class than last year.
-
-Elles ont moins d'attention que l'an dernier.
-The pay less attention than last year.
-
-Il y a moins de bruit dans ta rue que dans la mienne.
-There is less noise in your street than in mine.
-
-Jade répond toujours plus poliment.
-Jade always responds more politely.
-
-Elle mange plus sainement.
-She eats more healthly.
-
-Vous lisez plus régulièrment.
-You read more regularly.
-
-Voulez-vous ces chambres?
-Do you want these rooms?
-
-C'est pour cette date.
-It's for that date.
-
-C'est pour cet enfant.
-It's for this child.
-
-C'est pour ces enfants.
-It's for those children.
-
-C'est pour ce matin.
-It's for this morning.
-
-C'est pour cet hôtel.
-It's for this hotel.
-
-C'est pour ces hôtels.
-It's for these hotels.
-
-C'est pour cette chambre.
-It's for this room.
-
-C'est pour ces chambres.
-It's for these rooms.
-
-Maria apprend à monter à cheval.
-Maria is learning to hide a horse.
-
-Nous les avons invités à prendre un verre.
-We invited them to have a drink
-
-Le président du conseil d'administration tiens à vous voir cet après-midi.
-The chairman of the board wants to see you this afternoon.
-
-Nous ne sommes pas parvenus à le convaincre d'inviter Laura à se joindre à nous.
-We did not manage to convince him to invite Laura to join us.
-
-Vincent a accepté de participer à l'événement.
-Vincent has accepted to attend the event.
-
-J'ai conseillé à Elise d'aller voir un avocat.
-I advised Élise to see a lawyer.
-
-Florent se plaint toujours d'avoir trop de travail.
-Florent always complains about having too much work.
-
-Stéphanie a refusé de luir révéler le secret.
-Stéphanie refused to reveal the secret to him.
-
-Pierre compte beaucoup d'amis parmi les artistes.
-Pierre has many friends among artists.
-
-Je peux jeter un autre coup d'oeil?
-May I have another look?
-
-Le petit déjeuner est inclus dans le prix de la chambre? Oui, le petit déjeuner est inlcus dans le prix de la chambre.
-Is breakfast included in the price of the room? Yes, breakfast is included in the price of the room.
-
-Est-ce qu'elles sont toujours en retard?
-Are they always late? - F
-
-Je parle français.
-I speak french.
-
-Tu aimes les langues étrangères.
-You like foreign languages.
-
-Il mange beaucoup.
-He eats a lot.
-
-Elle étudie tous les soirs.
-She studies every night.
-
-Nous regardons les beaux paysages.
-We are looking at the nice landscape.
-
-Vous voyager en train.
-You travel by train.
-
-Ils achètent un nouveau téléphone chaque année.
-They buy a new telephone every year.
-
-Elles s'appellent Julie et Jeanne.
-Their names are Julie and Jeanne.
-
-Je n'ai pas compris.
-I didn't understand.
-
-J'ai pris un café.
-I drank a coffee.
-
-J'appris ma leçon.
-I learned my lesson.
-
-J'ai compris le professeur.
-I understood the professor.
-
-Nous allons au restaurant chaque mardi.
-We go to the restaurant every tuesday.
-
-On va au restaurant chaque mardi.
-We go to the restaurant every tuesday. (a gente)
-
-On est fatigués.
-A gente está cansado.
-
-On est allés au ciné.
-A gente foi ao cinema.
-
-On adore le jazz.
-A gente adora jazz.
-
-En France, on mange beaucoup de fromage.
-Na frança, se come muito queijo.
-
-Dans cette famille, on ne regarde jamais la télévision.
-Nesta família, não se assiste nunca à tv.
-
-On ne peut pas dire quelque chose comme ça.
-Não se pode dizer algo assim.
-
-On ne sait pas s'il est gentil ou méchant.
-Não se sabe se ele é gentil ou malvado.
-
-On ne sais jamais.
-Nunca se sabe.
-
-On a trouvé le trésor.
-Encontraram o tesouro. (alguém encontrou o tesouro)
-
-On a volé la voiture du voisin.
-Roubaram o carro do vizinho (por alguém nao especificado)
-
-On m'a appelé, mais je ne sais pas qui c'était.
-Me ligaram, mas eu não sei quem era.
-
-Je vais à Nice pendant les vacances d'été.
-I'm going to Nice for the summer holidays.
-
-Aujourd'hui, nous allons à la plage.
-Today, we are going to the beach.
-
-Ils vont au restaurant tous les jours pendant leurs vancances.
-They go to the restaurant every day during their vacation.
-
-Je voyage chaque été.
-I travel every summer.
-
-Aimez-vous voyager?
-Do you like travelling?
-
-Cette année, elle voyage à travers l'Asie.
-This year, she is travelling across Asia.
-
-Ma mère bronze très vite à la plage.
-My mom tans very fast at the beach.
-
-Est-ce que je suis assez bronzé?
-Am I tanned enough?
-
+# Il faudrait quand même qu'on ait une chambre supplémentaire non?
+# We should at least have an extra room, right?
+# 
+# Dans quel coin?
+# In which area?
+# 
+# On était vraiment en centre-ville.
+# Here we are really downtown.
+# 
+# J'aimerais bien un peu sortir de la ville, pour être un peu plus au calme.
+# I would like to get out of the city a bit, to be a little quieter.
+# 
+# Qu'est-ce que tu en penses?
+# What do you think about it?
+# 
+# Proche plage alors?
+# Close to the beach then?
+# 
+# Je sais que ça risque d'être un peu plus cher, regarde tiens celui-là.
+# I know that it might be a bit more expensive, but look at this one.
+# 
+# Il y a un balcon, il y a un box.
+# There is a balcony, there is a storage unit.
+# 
+# Il y a pas mal de travaux quand même.
+# There's quite a lot of work to be done.
+# 
+# C'est ce quit explique le prix attractif.
+# That explains the appealing price.
+# 
+# Il faut changer le carrelage, repeindre les murs.
+# We need to change the tiles, repaint the walls.
+# 
+# Fais voir celui-ci.
+# Let me see this one here.
+# 
+# Proche de toutes commodités, ouais ça peut être intéressant.
+# Close to all the services, yeah it could be interesting.
+# 
+# Et il a même 2 places de parking.
+# And it even has 2 parking spaces.
+# 
+# Ça peut être sympa.
+# It could be good.
+# 
+# Il faudrait qu'on aille le visiter.
+# We should go and visit it.
+# 
+# Je l'appelle et je te tiens au courant.
+# I'll call him and let you know.
+# 
+# Et au fait, j'ai les clés de mon nouvel appartement.
+# And by the way, I got the keys to my new appartement.
+# 
+# C'est là, pas très loin, en plein centre-ville, à environ trois rues d'ici.
+# It's right there, not too far away, in the middle of downtown, about three blocks from here.
+# 
+# C'est incroyable! Je suis trop contente!
+# That's amazing! I am so happy!
+# 
+# Et ça fait longtemps que tu cherches un nouvel appartement?
+# And it has been a long time that you've been looking for a new appartement?
+# 
+# Je cherchais depuis presque un an maintenant, c'était pas évident!
+# I had been looking for almost an year now, it wasn't easy!
+# 
+# C'est grand? Il fait environ 50 mètres carrés.
+# Is it big? It is about 50 square meters.
+# 
+# Est-ce que tu as des photos à me montrer? Bin sûr!
+# Do you have any pictures to show me? Of course!
+# 
+# Oui c'est vrai que la salle de bains est grande!
+# Yes, it's true that the bathroom is big!
+# 
+# Avec une douche! Ouais, une douche à l'italienne!
+# With a shower! Yeah, an italian shower!
+# 
+# On va pouvoir bronzer en été!
+# We will be able to tan in summer!
+# 
+# Oui, personne ne peut nous voir: il n'y a aucun vis-à-vis.
+# Yes, nobody can see us: there's nothing adjacent.
+# 
+# Il faut que je vienne te voir!
+# I have to come see you!
+# 
+# Si tu veux, passe samedi!
+# If you want, come on saturday!
+# 
+# À quelle heure? Vers seize heures?
+# What time? Around 4pm?
+# 
+# Luc est plus sportif que Jacques.
+# Luc is more athletic than Jacques.
+# 
+# Luc semble plus intellingent que moi.
+# Luc seems smarter than me.
+# 
+# Ton frère est plus patient que le mien.
+# Your brother is more patient than mine.
+# 
+# Théo fait plus de sport que moi.
+# Théo does more sports than me.
+# 
+# Marie a beacoup plus de livres que nous dans sa bibliothèque.
+# Marie has a lot more books than us in her library.
+# 
+# Les enfants ont beacoup plus de patience que leurs parents.
+# The children have more patience than their parents.
+# 
+# Il est moins attentif que l'année dernière en classe.
+# He is less attentive in class than last year.
+# 
+# Elles ont moins d'attention que l'an dernier.
+# The pay less attention than last year.
+# 
+# Il y a moins de bruit dans ta rue que dans la mienne.
+# There is less noise in your street than in mine.
+# 
+# Jade répond toujours plus poliment.
+# Jade always responds more politely.
+# 
+# Elle mange plus sainement.
+# She eats more healthly.
+# 
+# Vous lisez plus régulièrment.
+# You read more regularly.
+# 
+# Voulez-vous ces chambres?
+# Do you want these rooms?
+# 
+# C'est pour cette date.
+# It's for that date.
+# 
+# C'est pour cet enfant.
+# It's for this child.
+# 
+# C'est pour ces enfants.
+# It's for those children.
+# 
+# C'est pour ce matin.
+# It's for this morning.
+# 
+# C'est pour cet hôtel.
+# It's for this hotel.
+# 
+# C'est pour ces hôtels.
+# It's for these hotels.
+# 
+# C'est pour cette chambre.
+# It's for this room.
+# 
+# C'est pour ces chambres.
+# It's for these rooms.
+# 
+# Maria apprend à monter à cheval.
+# Maria is learning to hide a horse.
+# 
+# Nous les avons invités à prendre un verre.
+# We invited them to have a drink
+# 
+# Le président du conseil d'administration tiens à vous voir cet après-midi.
+# The chairman of the board wants to see you this afternoon.
+# 
+# Nous ne sommes pas parvenus à le convaincre d'inviter Laura à se joindre à nous.
+# We did not manage to convince him to invite Laura to join us.
+# 
+# Vincent a accepté de participer à l'événement.
+# Vincent has accepted to attend the event.
+# 
+# J'ai conseillé à Elise d'aller voir un avocat.
+# I advised Élise to see a lawyer.
+# 
+# Florent se plaint toujours d'avoir trop de travail.
+# Florent always complains about having too much work.
+# 
+# Stéphanie a refusé de luir révéler le secret.
+# Stéphanie refused to reveal the secret to him.
+# 
+# Pierre compte beaucoup d'amis parmi les artistes.
+# Pierre has many friends among artists.
+# 
+# Je peux jeter un autre coup d'oeil?
+# May I have another look?
+# 
+# Le petit déjeuner est inclus dans le prix de la chambre? Oui, le petit déjeuner est inlcus dans le prix de la chambre.
+# Is breakfast included in the price of the room? Yes, breakfast is included in the price of the room.
+# 
+# Est-ce qu'elles sont toujours en retard?
+# Are they always late? - F
+# 
+# Je parle français.
+# I speak french.
+# 
+# Tu aimes les langues étrangères.
+# You like foreign languages.
+# 
+# Il mange beaucoup.
+# He eats a lot.
+# 
+# Elle étudie tous les soirs.
+# She studies every night.
+# 
+# Nous regardons les beaux paysages.
+# We are looking at the nice landscape.
+# 
+# Vous voyager en train.
+# You travel by train.
+# 
+# Ils achètent un nouveau téléphone chaque année.
+# They buy a new telephone every year.
+# 
+# Elles s'appellent Julie et Jeanne.
+# Their names are Julie and Jeanne.
+# 
+# Je n'ai pas compris.
+# I didn't understand.
+# 
+# J'ai pris un café.
+# I drank a coffee.
+# 
+# J'appris ma leçon.
+# I learned my lesson.
+# 
+# J'ai compris le professeur.
+# I understood the professor.
+# 
+# Nous allons au restaurant chaque mardi.
+# We go to the restaurant every tuesday.
+# 
+# On va au restaurant chaque mardi.
+# We go to the restaurant every tuesday. (a gente)
+# 
+# On est fatigués.
+# A gente está cansado.
+# 
+# On est allés au ciné.
+# A gente foi ao cinema.
+# 
+# On adore le jazz.
+# A gente adora jazz.
+# 
+# En France, on mange beaucoup de fromage.
+# Na frança, se come muito queijo.
+# 
+# Dans cette famille, on ne regarde jamais la télévision.
+# Nesta família, não se assiste nunca à tv.
+# 
+# On ne peut pas dire quelque chose comme ça.
+# Não se pode dizer algo assim.
+# 
+# On ne sait pas s'il est gentil ou méchant.
+# Não se sabe se ele é gentil ou malvado.
+# 
+# On ne sais jamais.
+# Nunca se sabe.
+# 
+# On a trouvé le trésor.
+# Encontraram o tesouro. (alguém encontrou o tesouro)
+# 
+# On a volé la voiture du voisin.
+# Roubaram o carro do vizinho (por alguém nao especificado)
+# 
+# On m'a appelé, mais je ne sais pas qui c'était.
+# Me ligaram, mas eu não sei quem era.
+# 
+# Je vais à Nice pendant les vacances d'été.
+# I'm going to Nice for the summer holidays.
+# 
+# Aujourd'hui, nous allons à la plage.
+# Today, we are going to the beach.
+# 
+# Ils vont au restaurant tous les jours pendant leurs vancances.
+# They go to the restaurant every day during their vacation.
+# 
+# Je voyage chaque été.
+# I travel every summer.
+# 
+# Aimez-vous voyager?
+# Do you like travelling?
+# 
+# Cette année, elle voyage à travers l'Asie.
+# This year, she is travelling across Asia.
+# 
+# Ma mère bronze très vite à la plage.
+# My mom tans very fast at the beach.
+# 
+# Est-ce que je suis assez bronzé?
+# Am I tanned enough?
+# 
 Mes amis bronzent plus vite que moi.
 My friends tan faster than I do.
 
