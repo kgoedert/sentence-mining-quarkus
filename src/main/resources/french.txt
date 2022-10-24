@@ -14699,6 +14699,105 @@
 # Est-ce que je suis assez bronzé?
 # Am I tanned enough?
 # 
+Il y a autant d'étudiants dans ma classe que dans la tienne.
+There are as many students in my class as in yours.
+
+Je suis aussi grande que toi, non?
+I'm as tall as you, right?
+
+Je lis aussi rapide que toi.
+I read as quickly as you.
+
+Je regarde la télé aussi souvent que toi.
+I watch tv as often as you.
+
+Je pense qu'il a autant de chance que nous de gagner.
+I think he has as much chance as us to win.
+
+Tes voisins sont aussi bruyants que les miens!
+Your neighbors are just as noisy as mine!
+
+Tes voisins font autant de bruit que les miens!
+Your neighbors make as much noise as mine!
+
+Tes voisins font le ménage aussi bruyamment que les miens!
+Your neighbors do their housework as loudly as mine!
+
+Il y a autant de légumes dans mon assiette que dans la tienne.
+There are as many vegetables in my plate as is in yours.
+
+Mon assiette est aussi remplie que la tienne.
+My plate is as full as yours.
+
+Franck est aussi coquet que ma mère, il passe autant de temps dans la salle de bain qu'elle.
+Franck likes do doll himself up as much as my mother, he spends as much time as her in the bathroom.
+
+Il a toujours autant de charme qu'il y a dix ans.
+He still has as much charm as ten years ago.
+
+Elle est aussi charmante et drôle que sa petite soeur.
+She is just as charming and funny as her little sister.
+
+Je me souviens de nos vacances à Berlin.
+I remember our vacation in Berlin.
+
+Elle ne se souvient pas de son numéro de téléphone.
+She doesn't remember her/his telephone number.
+
+Mon père se soucie beaucoup de mon avenir.
+My father worries about my future a lot.
+
+Tu te soucies trop de ton travail.
+You worry a lot about your work.
+
+Vas-tu t'inscrire au cours de danse?
+Are you going to sign up for the dance class?
+
+Il faut s'inscrire pour pouvoir participer à la compétition.
+You have to sign up to participate in the competition.
+
+C'est ton tour de t'exprimer maintenant.
+It's your turn to express yourself now.
+
+Ils s'expriment très bien pour des enfants.
+They express themselves really well for being children.
+
+Je me suis enfui de mon pays à cause de la guerre.
+I fled my country because of the war.
+
+Cinq prisonniers se sont enfuis dans la nuit.
+Five prisoners escaped during the night.
+
+Nous nous divertissons en faisant un puzzle.
+We entertain ourselves by doing a puzzle.
+
+Elle regarde la télé pour se divertir.
+She's watching the tv for fun.
+
+Il s'est évanoui à force de rester au soleil.
+He fainted after staying in the sun.
+
+Je me suis évanoui car je n'ai pas mangé de la journée.
+I fainted because I haven't eaten all day.
+
+Nous sommes abonnés au New York Times.
+We are subscribed to the New York Times.
+
+N'oubliez pas de vous abonner à notre chaîne YouTube.
+Don't forget to subscribe to our YouTube channel.
+
+Tu te calmes maintenant!
+Calm down now!
+
+Vous n'aurez pas de cadeaux si vous ne vous calmez pas.
+You won't get any presents if you don't calm down.
+
+Arrête de te gratter le bras!
+Stop scratching your arm!
+
+Mon chat se gratte souvent l'oreille.
+My cat often scratches his ear.
+
 Mes amis bronzent plus vite que moi.
 My friends tan faster than I do.
 
