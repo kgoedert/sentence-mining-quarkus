@@ -12592,312 +12592,312 @@
 # No sé lo que dice, pero quien diga es tonto.
 # I don't know what you're saying, but whoever says it is stupid.
 # 
-# Esta es la casa en la que vivo.
-# This is the house I live in.
+# # Esta es la casa en la que vivo.
+# # This is the house I live in.
+# # 
+# # Siempre hacemos lo que ella dice.
+# # We always do what she says.
+# # 
+# Me da igual la casa en que vivas.
+# I don't care what house you live in.
 # 
-# Siempre hacemos lo que ella dice.
-# We always do what she says.
+# Tú hazlo como ella te diga.
+# You do as she says.
 # 
-Me da igual la casa en que vivas.
-I don't care what house you live in.
-
-Tú hazlo como ella te diga.
-You do as she says.
-
-El domingo voy a visitar mi padre, que está de vacaciones en un pueblo de la sierra.
-On Sunday I'm going to visit my father, who's on holiday in a village in the mountains.
-
-Ese hospital, donde nacieron mis hijos, pertenece ahora a una multinacional.
-That hospital, where my children were born, now belongs to a multinational.
-
-Estoy leyendo Pedro Páramo, que es la obra más conocida de Juan Rulfo.
-I am reading Pedro Páramo, which is Juan Rulfo's best known work.
-
-El director de la editorial, que por cierto es de Santander, quiere conocerte.
-The director of the publishing house, who by the way is from Santander, wants to meet you.
-
-El novio de Marta, al que conocimos en la boda de Aurelia, ha tenido un accidente.
-Marta's boyfriend, whom we met at Aurelia's wedding, has had an accident.
-
-Paga tú, que tienes más dinero.
-You pay, you have more money.
-
-Volé con Ernesto, a quien tú conoces.
-I flew with Ernesto, who you know.
-
-Vamos a cenar con los padres de Mizue, quienes por cierto no hablan español.
-We are going to have dinner with Mizue's parents, who by the way don't speak Spanish.
-
-Llegaron tus primos, con los que contábamos.
-Your cousins arrived, the ones we were counting on.
-
-Jacinto, cuyo cumpleaños es el domingo, quiere dar una fiesta.
-Jacinto, whose birthday is on Sunday, wants to give a party.
-
-Alicia, con la cual ya has hablado, no quiere ayudar.
-Alicia, with whom you've already spoken, doesn't want to help.
-
-La playa de Laredo, adonde fuimos el año pasado, es una de las mejores de España.
-The beach at Laredo, where we went last year, is one of the best in Spain.
-
-Alcalá, donde nació Cervantes, es una ciudad preciosa.
-Alcalá, where Cervantes was born, is a beautiful city.
-
-En febrero, cuando más frío hace aquí, yo me voy de vacaciones.
-In February, when it's coldest here, I go on vacation.
-
-Cuando se fue dejó el piso sucio, cosa que no me gustó.
-When he left, he left the dirty floor, which I didn't like.
-
-He discutido con Juan. Al que, por cierto, han echado de la fábrica.
-I've been arguing with Juan. Who, by the way, has been thrown out of the factory.
-
-Paramos en lo alto de la sierra. Donde ya sabes que había tenido un accidente.
-We stopped at the top of the mountain. Where you know he'd had an accident.
-
-¿Cuándo vas al gimnasio? Por la mañana antes de desayunar.
-When do you go to the gym? In the morning before breakfast.
-
-Voy al gimnasio antes de desayunar.
-I go to the gym before breakfast.
-
-Lo entendí después de que lo me explicara Sonia.
-I understood after Sonia explained it to me.
-
-En verano siempre damos un paseo después de cenar.
-In summer we always take a walk after dinner.
-
-Antes de hacerlo, piénsalo.
-Before you do, think about it.
-
-Después de haber volado con nosotros, no querrá hacerlo con ninguna otra compañía.
-After you've flown with us, you won't want to do it with any other company.
-
-Antes de llegar vosotros, estaba yo tan tranquilo.
-Before you came, I was so calm.
-
-Después de acostarse Marta, nos fuimos de juerga Pepe y yo.
-After Marta went to bed, Pepe and I went on a bender.
-
-Te lo voy a decir antes de que me lo preguntes.
-I'll tell you before you ask me.
-
-Podemos quedar después de que cierre la tienda.
-We can meet up after the store closes.
-
-Me fui antes de que ellos pudieron decir nada.
-I left before they could say anything.
-
-Ya sabía yo que Martin se deprimiría después de que lo dejara su novia.
-I knew Martin would be depressed after his girlfriend left him.
-
-Se fue antes de firmar el contrato.
-He left before he signed the contract.
-
-Antes que me lo quiten, lo regalo.
-Before they take him away from me, I give him away.
-
-Me siento mejor desde que tomo la nueva medicina.
-I feel better since I take the new medicine.
-
-Nunca me acuesto hasta que escribo en mi diario.
-I never go to bed until I write in my diary.
-
-Desde que se ha casado, Pablo ya no es el mismo.
-Since he's been married, Pablo is no longer the same.
-
-Salgo con Ana desde que teníamos 16 años.
-I've been dating Ana since we were 16.
-
-No he visto a Rafa desde que se fue a Japón.
-I haven't seen Rafa since he left for Japan.
-
-Lu era tremenda. Hasta que no discutía con Javi no paraba.
-Lu was tremendous. Until she argued with Javi, she wouldn't stop.
-
-Esperé hasta que me llamó y luego me acosté.
-I waited until he called me and then I went to bed.
-
-Estuvimos de vacaciones hasta gastarnos todo el dinero.
-We were on vacation until we spent all the money.
-
-No pararé hasta conseguir ingresar en la policía.
-I won't stop until I get into the police.
-
-No pararé hasta que me devuelvan mis cosas.
-I won't stop until I get my stuff back.
-
-Tras salir de casa, se metió en el metro.
-After he left the house, he got on the subway.
-
-Tras haber vivido años en la selva, ya nada nos asusta.
-After years of living in the jungle, nothing scares us anymore.
-
-¿Cuándo vas a acabar el cuadro? Cuando tenga tiempo.
-When are you going to finish the painting? When I have time.
-
-Siempre que llueve se inunda el sótano.
-Every time it rains, the basement floods.
-
-Te devolveré el dinero tan pronto cuando pueda.
-I'll pay you back as soon as I can.
-
-Cuando llueve me pongo triste.
-When it rains I get sad.
-
-Cuando hacía deporte, corría los 100 metros en 11 segundos.
-When I was playing sports, I ran the 100 metres in 11 seconds.
-
-En cuanto oye el timbre, el perro se pone a ladrar.
-As soon as he hears the bell, the dog starts barking.
-
-Me levanté en el momento en que sonó el despertador.
-I got up the moment the alarm clock rang.
-
-Esto lo hago yo cuando quiera. Llámame apenas llegues a casa esta noche.
-I can do this whenever I want. Call me as soon as you get home tonight.
-
-Avísame cuando hayas acabado.
-Let me know when you're done.
-
-El perro se tumba en cuanto se lo dicen.
-The dog lies down as soon as he's told.
-
-Me levanté cuando sonó el despertador. 
-I got up when the alarm clock went off. 
-
-Lo haré en cuanto me lo digan.
-I will as soon as I'm told.
-
-Me levantaré cuando suene el despertador.
-I'll get up when the alarm clock rings.
-
-Cuando las inundaciones, yo estaba en Valencia.
-When the floods came, I was in Valencia.
-
-Escucho música mientras trabajo.
-I listen to music while I'm working.
-
-Seguiré trabajando mientras tenga salud.
-I'll keep working as long as I'm healthy.
-
-No pensaba llamarte mientras estuvieras enfadada.
-I wasn't going to call you while you were angry.
-
-Al oír los disparos, nos agachamos.
-When we heard the shots, we ducked.
-
-Nada más llegar nosotros, empezó la película.
-As soon as we arrived, the movie started.
-
-Saludando a todos, se marchó.
-Waving to everyone, he left.
-
-Tropezó bajando las escaleras.
-He stumbled down the stairs.
-
-Conocí a Víctor viajando por China.
-I met Victor while traveling in China.
-
-Es una novela interesantísima. A medida que vas avanzando, te gusta más.
-It's a very interesting novel. As you go along, you like it more.
-
-Los chicos subían al autobús según los íbamos llamando.
-The kids were getting on the bus as we called them.
-
-Conforme vas conociendo a la gente, te vas dando cuenta de cómo son.
-As you get to know people, you realize what they're like.
-
-Ahora te parece difícil, pero según vayas aprendiendo, verás que no lo es tanto.
-Now you find it difficult, but as you learn, you'll see that it's not so difficult.
-
-Un niño está llorando.
-A boy is crying.
-
-¿Dónde dejo el coche? Donde no haya una señal de prohibición.
-Onde deixo o carro? Onde não há sinal de proibição.
-
-¿De dónde venís? De donde hemos dejado el coche.
-De onde você vem? De onde deixamos o carro.
-
-Ve par donde te indique el GPS.
-Vá para onde o GPS lhe diz.
-
-Caminad hacia donde señala la flecha.
-Caminhe onde a seta aponta.
-
-¿Vamos adonde dice Sofia? Bueno.
-Vamos para onde a Sofia diz? OK.
-
-Yo compro el bacalao donde lo compra mi padre.
-Eu compro o bacalhau onde o meu pai o compra.
-
-Ahí arriba es donde tenemos que llegar.
-Lá em cima é onde temos que ir.
-
-Roberto, para un momento donde está la tienda de Rosario.
-Roberto, pare um instante onde fica a loja de Rosario.
-
-A ver si llegamos hasta donde nace el río.
-Vamos ver se chegamos onde o rio começa.
-
-Para donde veas un sitio libre.
-Para onde você vê um site gratuito.
-
-Es mejor alojarse donde haya conexión a internet.
-É melhor ficar onde há conexão com a internet.
-
-Julia, te esperamos. Estamos donde Tere.
-Júlia, estamos esperando por você. Estamos onde Tere.
-
-El salón está al entrar a la derecha.
-A sala de estar fica à direita quando você entra.
-
-¿Cómo cocina Marcos? Como cocinaba su madre, muy bien.
-Como Mark cozinha? Como sua mãe cozinhava, muito bem.
-
-Yo lo he hecho según me recomendasteis.
-Fiz como você recomendou.
-
-No te preocupes. He hecho la tortilla como a ti te gusta.
-Não te preocupes. Eu fiz a tortilha do jeito que você gosta.
-
-Cuando te encarguen algo, hazlo como quiera el cliente.
-Quando você for encomendado algo, faça como o cliente quer.
-
-No sé cómo hizo la transferencia Ismael. Supongo que la haría según le dijera su padre.
-Não sei como Ismael fez a transferência. Suponho que ele faria isso como seu pai lhe disse.
-
-Cuando nos ve, hace como que no nos conoce.
-Quando nos vê, finge que não nos conhece.
-
-Grita como si estuviera loco.
-Ele grita como se fosse louco.
-
-Me hablaba como si you tuviera cinco años.
-Ele falou comigo como se você tivesse cinco anos.
-
-Actuaba como si hubieran ganado las elecciones.
-Eles agiram como se tivessem vencido a eleição.
-
-¿Por qué le regañas? Porque me ha mentido.
-Por que você o repreende? Porque ele mentiu para mim.
-
-Te perdono porque me caes simpático.
-Eu te perdôo porque gosto de você.
-
-No tienen problemas gracias a que trabajan todos sus hijos.
-Eles não têm problemas graças ao fato de que todos os seus filhos trabalham.
-
-Ya que insistís, os acompañaré.
-Já que você insiste, eu vou acompanhá-lo.
-
-Puesto que no quieres el cómic, se lo regalaré a Casilda.
-Já que você não quer o quadrinho, eu dou para Casilda.
-
-Como hacía muy mal tiempo, nos quedamos en casa.
-Como o tempo estava muito ruim, ficamos em casa.
-
+# El domingo voy a visitar mi padre, que está de vacaciones en un pueblo de la sierra.
+# On Sunday I'm going to visit my father, who's on holiday in a village in the mountains.
+# 
+# Ese hospital, donde nacieron mis hijos, pertenece ahora a una multinacional.
+# That hospital, where my children were born, now belongs to a multinational.
+# 
+# Estoy leyendo Pedro Páramo, que es la obra más conocida de Juan Rulfo.
+# I am reading Pedro Páramo, which is Juan Rulfo's best known work.
+# 
+# El director de la editorial, que por cierto es de Santander, quiere conocerte.
+# The director of the publishing house, who by the way is from Santander, wants to meet you.
+# 
+# El novio de Marta, al que conocimos en la boda de Aurelia, ha tenido un accidente.
+# Marta's boyfriend, whom we met at Aurelia's wedding, has had an accident.
+# 
+# Paga tú, que tienes más dinero.
+# You pay, you have more money.
+# 
+# Volé con Ernesto, a quien tú conoces.
+# I flew with Ernesto, who you know.
+# 
+# Vamos a cenar con los padres de Mizue, quienes por cierto no hablan español.
+# We are going to have dinner with Mizue's parents, who by the way don't speak Spanish.
+# 
+# Llegaron tus primos, con los que contábamos.
+# Your cousins arrived, the ones we were counting on.
+# 
+# Jacinto, cuyo cumpleaños es el domingo, quiere dar una fiesta.
+# Jacinto, whose birthday is on Sunday, wants to give a party.
+# 
+# Alicia, con la cual ya has hablado, no quiere ayudar.
+# Alicia, with whom you've already spoken, doesn't want to help.
+# 
+# La playa de Laredo, adonde fuimos el año pasado, es una de las mejores de España.
+# The beach at Laredo, where we went last year, is one of the best in Spain.
+# 
+# Alcalá, donde nació Cervantes, es una ciudad preciosa.
+# Alcalá, where Cervantes was born, is a beautiful city.
+# 
+# En febrero, cuando más frío hace aquí, yo me voy de vacaciones.
+# In February, when it's coldest here, I go on vacation.
+# 
+# Cuando se fue dejó el piso sucio, cosa que no me gustó.
+# When he left, he left the dirty floor, which I didn't like.
+# 
+# He discutido con Juan. Al que, por cierto, han echado de la fábrica.
+# I've been arguing with Juan. Who, by the way, has been thrown out of the factory.
+# 
+# Paramos en lo alto de la sierra. Donde ya sabes que había tenido un accidente.
+# We stopped at the top of the mountain. Where you know he'd had an accident.
+# 
+# ¿Cuándo vas al gimnasio? Por la mañana antes de desayunar.
+# When do you go to the gym? In the morning before breakfast.
+# 
+# Voy al gimnasio antes de desayunar.
+# I go to the gym before breakfast.
+# 
+# Lo entendí después de que lo me explicara Sonia.
+# I understood after Sonia explained it to me.
+# 
+# En verano siempre damos un paseo después de cenar.
+# In summer we always take a walk after dinner.
+# 
+# Antes de hacerlo, piénsalo.
+# Before you do, think about it.
+# 
+# Después de haber volado con nosotros, no querrá hacerlo con ninguna otra compañía.
+# After you've flown with us, you won't want to do it with any other company.
+# 
+# Antes de llegar vosotros, estaba yo tan tranquilo.
+# Before you came, I was so calm.
+# 
+# Después de acostarse Marta, nos fuimos de juerga Pepe y yo.
+# After Marta went to bed, Pepe and I went on a bender.
+# 
+# Te lo voy a decir antes de que me lo preguntes.
+# I'll tell you before you ask me.
+# 
+# Podemos quedar después de que cierre la tienda.
+# We can meet up after the store closes.
+# 
+# Me fui antes de que ellos pudieron decir nada.
+# I left before they could say anything.
+# 
+# Ya sabía yo que Martin se deprimiría después de que lo dejara su novia.
+# I knew Martin would be depressed after his girlfriend left him.
+# 
+# Se fue antes de firmar el contrato.
+# He left before he signed the contract.
+# 
+# Antes que me lo quiten, lo regalo.
+# Before they take him away from me, I give him away.
+# 
+# Me siento mejor desde que tomo la nueva medicina.
+# I feel better since I take the new medicine.
+# 
+# Nunca me acuesto hasta que escribo en mi diario.
+# I never go to bed until I write in my diary.
+# 
+# Desde que se ha casado, Pablo ya no es el mismo.
+# Since he's been married, Pablo is no longer the same.
+# 
+# Salgo con Ana desde que teníamos 16 años.
+# I've been dating Ana since we were 16.
+# 
+# No he visto a Rafa desde que se fue a Japón.
+# I haven't seen Rafa since he left for Japan.
+# 
+# Lu era tremenda. Hasta que no discutía con Javi no paraba.
+# Lu was tremendous. Until she argued with Javi, she wouldn't stop.
+# 
+# Esperé hasta que me llamó y luego me acosté.
+# I waited until he called me and then I went to bed.
+# 
+# Estuvimos de vacaciones hasta gastarnos todo el dinero.
+# We were on vacation until we spent all the money.
+# 
+# No pararé hasta conseguir ingresar en la policía.
+# I won't stop until I get into the police.
+# 
+# No pararé hasta que me devuelvan mis cosas.
+# I won't stop until I get my stuff back.
+# 
+# Tras salir de casa, se metió en el metro.
+# After he left the house, he got on the subway.
+# 
+# Tras haber vivido años en la selva, ya nada nos asusta.
+# After years of living in the jungle, nothing scares us anymore.
+# 
+# ¿Cuándo vas a acabar el cuadro? Cuando tenga tiempo.
+# When are you going to finish the painting? When I have time.
+# 
+# Siempre que llueve se inunda el sótano.
+# Every time it rains, the basement floods.
+# 
+# Te devolveré el dinero tan pronto cuando pueda.
+# I'll pay you back as soon as I can.
+# 
+# Cuando llueve me pongo triste.
+# When it rains I get sad.
+# 
+# Cuando hacía deporte, corría los 100 metros en 11 segundos.
+# When I was playing sports, I ran the 100 metres in 11 seconds.
+# 
+# En cuanto oye el timbre, el perro se pone a ladrar.
+# As soon as he hears the bell, the dog starts barking.
+# 
+# Me levanté en el momento en que sonó el despertador.
+# I got up the moment the alarm clock rang.
+# 
+# Esto lo hago yo cuando quiera. Llámame apenas llegues a casa esta noche.
+# I can do this whenever I want. Call me as soon as you get home tonight.
+# 
+# Avísame cuando hayas acabado.
+# Let me know when you're done.
+# 
+# El perro se tumba en cuanto se lo dicen.
+# The dog lies down as soon as he's told.
+# 
+# Me levanté cuando sonó el despertador. 
+# I got up when the alarm clock went off. 
+# 
+# Lo haré en cuanto me lo digan.
+# I will as soon as I'm told.
+# 
+# Me levantaré cuando suene el despertador.
+# I'll get up when the alarm clock rings.
+# 
+# Cuando las inundaciones, yo estaba en Valencia.
+# When the floods came, I was in Valencia.
+# 
+# Escucho música mientras trabajo.
+# I listen to music while I'm working.
+# 
+# Seguiré trabajando mientras tenga salud.
+# I'll keep working as long as I'm healthy.
+# 
+# No pensaba llamarte mientras estuvieras enfadada.
+# I wasn't going to call you while you were angry.
+# 
+# Al oír los disparos, nos agachamos.
+# When we heard the shots, we ducked.
+# 
+# Nada más llegar nosotros, empezó la película.
+# As soon as we arrived, the movie started.
+# 
+# Saludando a todos, se marchó.
+# Waving to everyone, he left.
+# 
+# Tropezó bajando las escaleras.
+# He stumbled down the stairs.
+# 
+# Conocí a Víctor viajando por China.
+# I met Victor while traveling in China.
+# 
+# Es una novela interesantísima. A medida que vas avanzando, te gusta más.
+# It's a very interesting novel. As you go along, you like it more.
+# 
+# Los chicos subían al autobús según los íbamos llamando.
+# The kids were getting on the bus as we called them.
+# 
+# Conforme vas conociendo a la gente, te vas dando cuenta de cómo son.
+# As you get to know people, you realize what they're like.
+# 
+# Ahora te parece difícil, pero según vayas aprendiendo, verás que no lo es tanto.
+# Now you find it difficult, but as you learn, you'll see that it's not so difficult.
+# 
+# Un niño está llorando.
+# A boy is crying.
+# 
+# ¿Dónde dejo el coche? Donde no haya una señal de prohibición.
+# Onde deixo o carro? Onde não há sinal de proibição.
+# 
+# ¿De dónde venís? De donde hemos dejado el coche.
+# De onde você vem? De onde deixamos o carro.
+# 
+# Ve par donde te indique el GPS.
+# Vá para onde o GPS lhe diz.
+# 
+# Caminad hacia donde señala la flecha.
+# Caminhe onde a seta aponta.
+# 
+# ¿Vamos adonde dice Sofia? Bueno.
+# Vamos para onde a Sofia diz? OK.
+# 
+# Yo compro el bacalao donde lo compra mi padre.
+# Eu compro o bacalhau onde o meu pai o compra.
+# 
+# Ahí arriba es donde tenemos que llegar.
+# Lá em cima é onde temos que ir.
+# 
+# Roberto, para un momento donde está la tienda de Rosario.
+# Roberto, pare um instante onde fica a loja de Rosario.
+# 
+# A ver si llegamos hasta donde nace el río.
+# Vamos ver se chegamos onde o rio começa.
+# 
+# Para donde veas un sitio libre.
+# Para onde você vê um site gratuito.
+# 
+# Es mejor alojarse donde haya conexión a internet.
+# É melhor ficar onde há conexão com a internet.
+# 
+# Julia, te esperamos. Estamos donde Tere.
+# Júlia, estamos esperando por você. Estamos onde Tere.
+# 
+# El salón está al entrar a la derecha.
+# A sala de estar fica à direita quando você entra.
+# 
+# ¿Cómo cocina Marcos? Como cocinaba su madre, muy bien.
+# Como Mark cozinha? Como sua mãe cozinhava, muito bem.
+# 
+# Yo lo he hecho según me recomendasteis.
+# Fiz como você recomendou.
+# 
+# No te preocupes. He hecho la tortilla como a ti te gusta.
+# Não te preocupes. Eu fiz a tortilha do jeito que você gosta.
+# 
+# Cuando te encarguen algo, hazlo como quiera el cliente.
+# Quando você for encomendado algo, faça como o cliente quer.
+# 
+# No sé cómo hizo la transferencia Ismael. Supongo que la haría según le dijera su padre.
+# Não sei como Ismael fez a transferência. Suponho que ele faria isso como seu pai lhe disse.
+# 
+# Cuando nos ve, hace como que no nos conoce.
+# Quando nos vê, finge que não nos conhece.
+# 
+# Grita como si estuviera loco.
+# Ele grita como se fosse louco.
+# 
+# Me hablaba como si you tuviera cinco años.
+# Ele falou comigo como se você tivesse cinco anos.
+# 
+# Actuaba como si hubieran ganado las elecciones.
+# Eles agiram como se tivessem vencido a eleição.
+# 
+# ¿Por qué le regañas? Porque me ha mentido.
+# Por que você o repreende? Porque ele mentiu para mim.
+# 
+# Te perdono porque me caes simpático.
+# Eu te perdôo porque gosto de você.
+# 
+# No tienen problemas gracias a que trabajan todos sus hijos.
+# Eles não têm problemas graças ao fato de que todos os seus filhos trabalham.
+# 
+# Ya que insistís, os acompañaré.
+# Já que você insiste, eu vou acompanhá-lo.
+# 
+# Puesto que no quieres el cómic, se lo regalaré a Casilda.
+# Já que você não quer o quadrinho, eu dou para Casilda.
+# 
+# Como hacía muy mal tiempo, nos quedamos en casa.
+# Como o tempo estava muito ruim, ficamos em casa.
+# 
 No pasamos frío, gracias a que teníamos mucha leña.
 Não estávamos com frio, graças ao fato de termos muita lenha.
 
