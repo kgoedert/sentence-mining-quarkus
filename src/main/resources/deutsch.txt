@@ -11098,6 +11098,147 @@
 # Wir suchen nicht irgendeine Katze, wir suchen die richtige Katze.
 # We are not looking for just any cat, we are looking for the right cat.
 # 
+Wann fährt der letzte Zug?
+When does the last train depart?
+
+Der letzte Zug fährt um kurz nach Mitternacht.
+The last train departs shortly after midnight.
+
+Wenn ihr eine fremde Person am Bahnhof ansprecht, dann stellt ihr diese Frage am beste so:
+If you address a stranger at the train station, then you should ask like this:
+
+Entschuldigung. Wissen Sie, wann der letzte Zug fährt?
+Excuse me. Do you know when the last train departs?
+
+Wann hast du Feierabend?
+When do you finish work? - inf
+
+Ich habe heute um 18 Uhr Feierabend. Und du?
+I finish work today at 6 pm. And you?
+
+Wann kommst du vorbei?
+When are you coming over? - inf
+
+Ich komme irgendwann heute Nachmittag vorbei.
+I'm coming over sometime this afternoon.
+
+Wann hast du den Termin?
+When do you have an appointment? - inf 
+
+Ich bin mir nicht sicher. Ich muss nochmal nachgucken. Ich glaube, der Termin ist um halb drei.
+I'm not sure. I'll have to check again. I think the appointment is at 2:30 pm.
+
+Wann ist der Unterricht vorbei?
+When is the class over?
+
+Der Unterricht ist um halb zwei vorbei.
+The class is over at 1:30 pm.
+
+Ab wann können Kinder schwimmen lernen?
+From when can kids learn how to swim?
+
+Kinder können ab 3 Jahren schwimmen lernen.
+Kids can learn to swim from age 3.
+
+Ab wann kannst du? Ich kann ab 10 Uhr.
+(From) when are you free? I'm free from 10 a.m - inf
+
+Ab wann können Sie?
+(From) when are you free? - formal 
+
+Ab wann sind Sie im Urlaub?
+(From) when are you going to be on vacation? - formal
+
+Ich bin ab nächster Woche im Urlaub.
+I'm going to be on vacation from next week.
+
+Ab wann sind Sie in Berlin?
+(From) when are you going to be in Berlin? - formal
+
+Ich bin ab Freitag in Berlin.
+I'm going to be in Berlin from friday.
+
+Ab wann spricht man von Übergewicht?
+When does overweight start?
+
+Ab einem BMI von 25 gelten Menschen als übergewicht.
+Overweight starts from a BMI of 25.
+
+Ab wann spricht man von Sucht?
+When does addiction start?
+
+Wenn das Verlangen nach einer bestimmten Substanz sehr stark und wie ein innerlicher Zwang ist.
+If the need for a specified substance is very strong and is like an inner compulsion.
+
+Bis wann musst du heute arbeiten?
+Until when do you have to work today? - inf
+
+Ich muss heute bis 16 Uhr arbeiten.
+I have to work until 4 pm.
+
+Bis wann kannst du? Ich kann heute bis halb fünf.
+Until when are you free? I'm free until 4:30 pm
+
+Bis wann haben Sie heute geöffnet?
+Until when are you open today? - formal
+
+Wir haben heute bis 19Uhr geöffnet.
+We're open until 7 pm today.
+
+Bis wann geht der Deutschkurs?
+Until when does the german course go?
+
+Der Deutschkurs geht bis 14 Uhr.
+The german course goes until 2 pm.
+
+Bis wann geht die Veranstaltung?
+Until when goes the event?
+
+Die Veranstaltung geht bis Sonntagsnachmittag.
+The event goes until sunday afternoon.
+
+Seit wann leben Sie in Deutschland?
+Since when do you live in Germany? - formal
+
+Ich wohnte seit 4 Jahren in Deutschland.
+I have been living in Germany for 3 years.
+
+Seit wann wohnst du in Köln?
+Since when have you been living in Cologne? - inf
+
+Ich wohne erst seit drei Monaten in Köln.
+I have been living in Cologne for only 3 months.
+
+Seit wann ist er so arrogant?
+Since when has he been so arrongant?
+
+Seitdem er befördert wurde, ist er ziemlich arrogant.
+He has been quite arrogant since he got promoted.
+
+Seit wann haben Sie diese Symptome?
+Since when have you been having these symptoms? - formal
+
+Seit eine Woche habe ich diese Symptome.
+I have been having these symptoms for a week.
+
+Seit wann ist er so empfindlich?
+Since when has he been so sensitive?
+
+Er hat momentan einfach sehr viel Stress.
+He simply has a lot of stress at the moment.
+
+Seit wann sind Flüge so teuer?
+Since when have flights been so expensive?
+
+Seit Erhöhung der Luftverkehrsbgabe sind Flüge so teuer.
+Flights have been so expensive since the increase of the airfare surcharge.
+
+Seit wann lernt Sophia Deutsch?
+Since when has Sophia been learning german?
+
+Sie lernt seit einem halben Jahr Deutsch.
+She has been learning german for half a year.
+
 Meine Schwester sucht nicht irgendein Pferd, sie sucht das richtige Pferd.
 My sister is not looking for any horse, she is looking for the right horse.
 
