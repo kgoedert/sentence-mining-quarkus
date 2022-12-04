@@ -14693,258 +14693,312 @@
 # Cette année, elle voyage à travers l'Asie.
 # This year, she is travelling across Asia.
 # 
-# Ma mère bronze très vite à la plage.
-# My mom tans very fast at the beach.
+# # Ma mère bronze très vite à la plage.
+# # My mom tans very fast at the beach.
+# # 
+# # Est-ce que je suis assez bronzé?
+# # Am I tanned enough?
+# # 
+# Tiens, j'ai besoin des deux mains pour conduire. 
+# Here [take this], I need both hands to drive.
 # 
-# Est-ce que je suis assez bronzé?
-# Am I tanned enough?
+# Tiens, je t'ai acheté des fleurs. 
+# Here, I bought you some flowers.
 # 
-Il y a autant d'étudiants dans ma classe que dans la tienne.
-There are as many students in my class as in yours.
-
-Je suis aussi grande que toi, non?
-I'm as tall as you, right?
-
-Je lis aussi rapide que toi.
-I read as quickly as you.
-
-Je regarde la télé aussi souvent que toi.
-I watch tv as often as you.
-
-Je pense qu'il a autant de chance que nous de gagner.
-I think he has as much chance as us to win.
-
-Tes voisins sont aussi bruyants que les miens!
-Your neighbors are just as noisy as mine!
-
-Tes voisins font autant de bruit que les miens!
-Your neighbors make as much noise as mine!
-
-Tes voisins font le ménage aussi bruyamment que les miens!
-Your neighbors do their housework as loudly as mine!
-
-Il y a autant de légumes dans mon assiette que dans la tienne.
-There are as many vegetables in my plate as is in yours.
-
-Mon assiette est aussi remplie que la tienne.
-My plate is as full as yours.
-
-Franck est aussi coquet que ma mère, il passe autant de temps dans la salle de bain qu'elle.
-Franck likes do doll himself up as much as my mother, he spends as much time as her in the bathroom.
-
-Il a toujours autant de charme qu'il y a dix ans.
-He still has as much charm as ten years ago.
-
-Elle est aussi charmante et drôle que sa petite soeur.
-She is just as charming and funny as her little sister.
-
-Je me souviens de nos vacances à Berlin.
-I remember our vacation in Berlin.
-
-Elle ne se souvient pas de son numéro de téléphone.
-She doesn't remember her/his telephone number.
-
-Mon père se soucie beaucoup de mon avenir.
-My father worries about my future a lot.
-
-Tu te soucies trop de ton travail.
-You worry a lot about your work.
-
-Vas-tu t'inscrire au cours de danse?
-Are you going to sign up for the dance class?
-
-Il faut s'inscrire pour pouvoir participer à la compétition.
-You have to sign up to participate in the competition.
-
-C'est ton tour de t'exprimer maintenant.
-It's your turn to express yourself now.
-
-Ils s'expriment très bien pour des enfants.
-They express themselves really well for being children.
-
-Je me suis enfui de mon pays à cause de la guerre.
-I fled my country because of the war.
-
-Cinq prisonniers se sont enfuis dans la nuit.
-Five prisoners escaped during the night.
-
-Nous nous divertissons en faisant un puzzle.
-We entertain ourselves by doing a puzzle.
-
-Elle regarde la télé pour se divertir.
-She's watching the tv for fun.
-
-Il s'est évanoui à force de rester au soleil.
-He fainted after staying in the sun.
-
-Je me suis évanoui car je n'ai pas mangé de la journée.
-I fainted because I haven't eaten all day.
-
-Nous sommes abonnés au New York Times.
-We are subscribed to the New York Times.
-
-N'oubliez pas de vous abonner à notre chaîne YouTube.
-Don't forget to subscribe to our YouTube channel.
-
-Tu te calmes maintenant!
-Calm down now!
-
-Vous n'aurez pas de cadeaux si vous ne vous calmez pas.
-You won't get any presents if you don't calm down.
-
-Arrête de te gratter le bras!
-Stop scratching your arm!
-
-Mon chat se gratte souvent l'oreille.
-My cat often scratches his ear.
-
-Mes amis bronzent plus vite que moi.
-My friends tan faster than I do.
-
-Je me repose durant mes vacances.
-I am resting during my vacation.
-
-Mon petit frère se respose dans la chambre d'hôtel.
-My little brother is resting in the hotel room.
-
-Repose-toi avant d'aller à la plage.
-Get some rest before going to the beach.
-
-Mes cousing nagent mieux que l'année dernière.
-My cousins swim better than last year.
-
-En vacances, ma sœur nage toute la journée.
-When she's on vacation, my sister swims all day.
-
-Si vous nagez dans l'océan, vous allez avoir froid.
-If you swim in the ocean, you will be cold.
-
-Ils visitent le musée d'Arts.
-They are visiting the arts museum.
-
-Aujourd'hui, je visite la Maison Blanche.
-Today, I am visiting the White House.
-
-Nous visitons New York ensemble.
-We are visiting New Youk together.
-
-Nous logeons dans un hôtel cette année.
-We are staying in a hotel this year.
-
-Mon ami loge dans un camping cet été.
-My friend is staying at a campsite this summer.
-
-Loges-tu avec des habitants de la ville?
-Are you staying with local residents?
-
-Je découvre les spécialités culinaires du Maroc au fil de mon voyage.
-I am discovering Morocco's culinary specialties along my trip.
-
-Ils découvrent la culture Maya à travers les monuments.
-They are discovering the Mayan culture through the monuments.
-
-Mon petit frère découvre les différents poissons de l'océan lorsqu'il nage.
-My little brother is discovering the ocean's fish while he swims.
-
-Ma mère achète une robe japonais traditionnelle.
-My mom is buying a traditional japanese dress.
-
-Mes amis achète des bouées pour se détendre dans la piscine.
-My friends are buying floats to relax in the pool.
-
-J'achète une nouvelle valise parce que mon ancienne est cassée.
-I am buying a new suitcase because my old one is broken.
-
-Je m'amuse avec mes amis dans la piscine.
-I am having fun with my friends in the pool.
-
-Ils s'amusent toute la journée à la plage et toute la nuit au camping.
-They are having fun all day at the beach and all night at the campsite.
-
-Je m'habille dans ma chambre.
-I'm getting dressed in my room.
-
-Elle se lève à huit heures chaque matin.
-She gets up at eight o'clock every morning.
-
-Nous nous brossons les dents.
-We are brushing our teeth.
-
-Tu te promènes dans le parc.
-You are walking in the park.
-
-Je me douche pour me réveiller.
-I shower to wake up.
-
-Ils se regardent dans les yeux.
-The look into each other's eyes.
-
-Ils se saluent.
-They are greeting each other.
-
-Ils se saluent chaque matin dans l'ascenseur.
-They greet each other in the elevator every morning.
-
-Ils se battent.
-They are fighting.
-
-Il salue la voisine.
-He greets the neighbour (female)
-
-Vous vous aimez.
-You love each other.
-
-Ils se rencontrent.
-They meet each other.
-
-Je me rends compte.
-I realize.
-
-Je me rends compte que je parle très bien chinois.
-I realize that I speak chinese very well.
-
-Elle ne se souvient jamais de son prénom.
-She can never remember his/her first name.
-
-Il se moque de son professeur.
-He is laughing at his teacher.
-
-C'est lui qui se moque de son professeur.
-He is the one who is laughing at his teacher.
-
-Ils se disputent.
-Eles estão brigando (uma discussão verbal)
-
-Ils se battent dans la rue.
-They are fighting in the street.
-
-J'ai horreur de me lever tôt le matin.
-I hate to get up early in the morning.
-
-Je ne supporte pas le grincement.
-I can't stand the squeaking.
-
-Je déteste les gens qui parlent fort au téléphone.
-I hate people who talk loud on the phone.
-
-J'ai horreur des gens qui mangent la bouche ouverte.
-I hate people who eat with their mouths open.
-
-Je ne supporte pas quand tu mens.
-I can't stand when you lie.
-
-Je n'aime pas du tout le poisson.
-I don't like fish at all.
-
-Je ne suis vraiment pas fan de cette musique.
-I really hate this music.
-
-J'aime bien le cinéma.
-I like the movies.
-
-J'aime mieux la pop musique que le hard rock.
-I like pop music more than hard rock.
-
+# Tu me prêtes ton appareil photo? Alors, tiens. 
+# Can I borrow your camera? Here you go.
+# 
+# Tiens, Marie! 
+# Marie, there you are!
+# 
+# Tiens, voilà Pierre. 
+# Look, there's Pierre.
+# 
+# Tiens, il faut que tu saches quelque chose... 
+# Look, there's something you need to know...
+# 
+# Tenez, ce n'est pas une bonne idée. 
+# You know, that's not a good idea.
+# 
+# Tiens, je viens de trouver 10 euros! 
+# Hey, I just found 10 euros!
+# 
+# Aujourd'hui, j'ai fait aucune faute. Tiens? 
+# Today, I didn't make one mistake. Really?
+# 
+# Tiens, tiens, tu es enfin arrivé. 
+# Well, well, you're finally here.
+# 
+# Je cherche un travail 
+# I’m searching for a job
+# 
+# Il cherche un appartement à Paris 
+# He’s looking for an apartment in Paris
+# 
+# Je recherche la perfection
+# I’m looking for perfection
+# 
+# Paul recherche quelque chose de sérieux
+# Paul is looking for something serious
+# 
+# Mets/Pose ton verre sur la table
+# Put your glass on the table.
+# 
+# Pose ton arme !
+# Put your gun down!
+# 
+# Mets cette robe
+# Put this dress on
+# 
+# Je mets cette boîte où ? Pose la là bas.
+# Where should I put this box? Put it over there
+# 
+# Il y a autant d'étudiants dans ma classe que dans la tienne.
+# There are as many students in my class as in yours.
+# 
+# Je suis aussi grande que toi, non?
+# I'm as tall as you, right?
+# 
+# Je lis aussi rapide que toi.
+# I read as quickly as you.
+# 
+# Je regarde la télé aussi souvent que toi.
+# I watch tv as often as you.
+# 
+# Je pense qu'il a autant de chance que nous de gagner.
+# I think he has as much chance as us to win.
+# 
+# Tes voisins sont aussi bruyants que les miens!
+# Your neighbors are just as noisy as mine!
+# 
+# Tes voisins font autant de bruit que les miens!
+# Your neighbors make as much noise as mine!
+# 
+# Tes voisins font le ménage aussi bruyamment que les miens!
+# Your neighbors do their housework as loudly as mine!
+# 
+# Il y a autant de légumes dans mon assiette que dans la tienne.
+# There are as many vegetables in my plate as is in yours.
+# 
+# Mon assiette est aussi remplie que la tienne.
+# My plate is as full as yours.
+# 
+# Franck est aussi coquet que ma mère, il passe autant de temps dans la salle de bain qu'elle.
+# Franck likes do doll himself up as much as my mother, he spends as much time as her in the bathroom.
+# 
+# Il a toujours autant de charme qu'il y a dix ans.
+# He still has as much charm as ten years ago.
+# 
+# Elle est aussi charmante et drôle que sa petite soeur.
+# She is just as charming and funny as her little sister.
+# 
+# Je me souviens de nos vacances à Berlin.
+# I remember our vacation in Berlin.
+# 
+# Elle ne se souvient pas de son numéro de téléphone.
+# She doesn't remember her/his telephone number.
+# 
+# Mon père se soucie beaucoup de mon avenir.
+# My father worries about my future a lot.
+# 
+# Tu te soucies trop de ton travail.
+# You worry a lot about your work.
+# 
+# Vas-tu t'inscrire au cours de danse?
+# Are you going to sign up for the dance class?
+# 
+# Il faut s'inscrire pour pouvoir participer à la compétition.
+# You have to sign up to participate in the competition.
+# 
+# C'est ton tour de t'exprimer maintenant.
+# It's your turn to express yourself now.
+# 
+# Ils s'expriment très bien pour des enfants.
+# They express themselves really well for being children.
+# 
+# Je me suis enfui de mon pays à cause de la guerre.
+# I fled my country because of the war.
+# 
+# Cinq prisonniers se sont enfuis dans la nuit.
+# Five prisoners escaped during the night.
+# 
+# Nous nous divertissons en faisant un puzzle.
+# We entertain ourselves by doing a puzzle.
+# 
+# Elle regarde la télé pour se divertir.
+# She's watching the tv for fun.
+# 
+# Il s'est évanoui à force de rester au soleil.
+# He fainted after staying in the sun.
+# 
+# Je me suis évanoui car je n'ai pas mangé de la journée.
+# I fainted because I haven't eaten all day.
+# 
+# Nous sommes abonnés au New York Times.
+# We are subscribed to the New York Times.
+# 
+# N'oubliez pas de vous abonner à notre chaîne YouTube.
+# Don't forget to subscribe to our YouTube channel.
+# 
+# Tu te calmes maintenant!
+# Calm down now!
+# 
+# Vous n'aurez pas de cadeaux si vous ne vous calmez pas.
+# You won't get any presents if you don't calm down.
+# 
+# Arrête de te gratter le bras!
+# Stop scratching your arm!
+# 
+# Mon chat se gratte souvent l'oreille.
+# My cat often scratches his ear.
+# 
+# Mes amis bronzent plus vite que moi.
+# My friends tan faster than I do.
+# 
+# Je me repose durant mes vacances.
+# I am resting during my vacation.
+# 
+# Mon petit frère se respose dans la chambre d'hôtel.
+# My little brother is resting in the hotel room.
+# 
+# Repose-toi avant d'aller à la plage.
+# Get some rest before going to the beach.
+# 
+# Mes cousing nagent mieux que l'année dernière.
+# My cousins swim better than last year.
+# 
+# En vacances, ma sœur nage toute la journée.
+# When she's on vacation, my sister swims all day.
+# 
+# Si vous nagez dans l'océan, vous allez avoir froid.
+# If you swim in the ocean, you will be cold.
+# 
+# Ils visitent le musée d'Arts.
+# They are visiting the arts museum.
+# 
+# Aujourd'hui, je visite la Maison Blanche.
+# Today, I am visiting the White House.
+# 
+# Nous visitons New York ensemble.
+# We are visiting New Youk together.
+# 
+# Nous logeons dans un hôtel cette année.
+# We are staying in a hotel this year.
+# 
+# Mon ami loge dans un camping cet été.
+# My friend is staying at a campsite this summer.
+# 
+# Loges-tu avec des habitants de la ville?
+# Are you staying with local residents?
+# 
+# Je découvre les spécialités culinaires du Maroc au fil de mon voyage.
+# I am discovering Morocco's culinary specialties along my trip.
+# 
+# Ils découvrent la culture Maya à travers les monuments.
+# They are discovering the Mayan culture through the monuments.
+# 
+# Mon petit frère découvre les différents poissons de l'océan lorsqu'il nage.
+# My little brother is discovering the ocean's fish while he swims.
+# 
+# Ma mère achète une robe japonais traditionnelle.
+# My mom is buying a traditional japanese dress.
+# 
+# Mes amis achète des bouées pour se détendre dans la piscine.
+# My friends are buying floats to relax in the pool.
+# 
+# J'achète une nouvelle valise parce que mon ancienne est cassée.
+# I am buying a new suitcase because my old one is broken.
+# 
+# Je m'amuse avec mes amis dans la piscine.
+# I am having fun with my friends in the pool.
+# 
+# Ils s'amusent toute la journée à la plage et toute la nuit au camping.
+# They are having fun all day at the beach and all night at the campsite.
+# 
+# Je m'habille dans ma chambre.
+# I'm getting dressed in my room.
+# 
+# Elle se lève à huit heures chaque matin.
+# She gets up at eight o'clock every morning.
+# 
+# Nous nous brossons les dents.
+# We are brushing our teeth.
+# 
+# Tu te promènes dans le parc.
+# You are walking in the park.
+# 
+# Je me douche pour me réveiller.
+# I shower to wake up.
+# 
+# Ils se regardent dans les yeux.
+# The look into each other's eyes.
+# 
+# Ils se saluent.
+# They are greeting each other.
+# 
+# Ils se saluent chaque matin dans l'ascenseur.
+# They greet each other in the elevator every morning.
+# 
+# Ils se battent.
+# They are fighting.
+# 
+# Il salue la voisine.
+# He greets the neighbour (female)
+# 
+# Vous vous aimez.
+# You love each other.
+# 
+# Ils se rencontrent.
+# They meet each other.
+# 
+# Je me rends compte.
+# I realize.
+# 
+# Je me rends compte que je parle très bien chinois.
+# I realize that I speak chinese very well.
+# 
+# Elle ne se souvient jamais de son prénom.
+# She can never remember his/her first name.
+# 
+# Il se moque de son professeur.
+# He is laughing at his teacher.
+# 
+# C'est lui qui se moque de son professeur.
+# He is the one who is laughing at his teacher.
+# 
+# Ils se disputent.
+# Eles estão brigando (uma discussão verbal)
+# 
+# Ils se battent dans la rue.
+# They are fighting in the street.
+# 
+# J'ai horreur de me lever tôt le matin.
+# I hate to get up early in the morning.
+# 
+# Je ne supporte pas le grincement.
+# I can't stand the squeaking.
+# 
+# Je déteste les gens qui parlent fort au téléphone.
+# I hate people who talk loud on the phone.
+# 
+# J'ai horreur des gens qui mangent la bouche ouverte.
+# I hate people who eat with their mouths open.
+# 
+# Je ne supporte pas quand tu mens.
+# I can't stand when you lie.
+# 
+# Je n'aime pas du tout le poisson.
+# I don't like fish at all.
+# 
+# Je ne suis vraiment pas fan de cette musique.
+# I really hate this music.
+# 
+# J'aime bien le cinéma.
+# I like the movies.
+# 
+# J'aime mieux la pop musique que le hard rock.
+# I like pop music more than hard rock.
+# 
 Je préfère du thé.
 I prefer some tea.
 
