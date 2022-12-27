@@ -11398,6 +11398,126 @@
 # Er findet das verlorene Papier. Er findet die verlorenen Papiere.
 # He finds the lost paper. He finds the lost papers.
 # 
+Morgen besuche ich meine Oma.
+Tomorrow, I'm visiting my grandmother.
+
+Morgen gehe ich meine Oma besuchen gehen.
+Tomorrow, I'm going to go visit my grandma.
+
+Ich gehe morgen einkaufen.
+I'm going shopping tomorrow.
+
+Ich gehe am Montag schwimmen.
+I'm going swimming on monday.
+
+Ich gehe morgen Abend mit Freunden was trinken.
+I'm going to go have drinks with friends tomorrow night.
+
+Wir gehen am Wochenende wandern.
+We're going hiking on the weekend.
+
+Wir gehen übermorgen Ski fahren.
+We're going skiing the day after tomorrow.
+
+Morgen besucht mich meine Oma.
+Tomorrow, my grandma is visiting me.
+
+Morgen kommt mich meine Oma besuchen.
+Tomorrow, my grandma is coming to visit me.
+
+Meine Oma kommt mich morgen besuchen.
+My grandma is coming to visit me tomorrow.
+
+Meine Oma kommt morgen zu Besuch.
+My grandma is coming for a visit tomorrow.
+
+Meine Oma kommt morgen vorbei.
+My grandma is coming over tomorrow.
+
+Wann kommt ihr uns besuchen?
+When are you guys coming to visit us?
+
+Ich habe Besuch.
+Eu tenho visita.
+
+Hast du Besuch?
+Tens visitas?
+
+Wohnst du hier? Nein, ich bin nur zu Besuch.
+Do you live here? No, I'm just visiting. - inf
+
+Besuch mich doch mal!
+Come visit me some time!
+
+Warum besuschst du mich nicht mal?
+Why don't you come visit me some time?
+
+Ich würde mich freuen, wenn du mich mal besuchen kommst.
+I would be happy if you come to visit me.
+
+Komm mich doch mal besuchen!
+Come visit me some time!
+
+Wir hatten unerwarteten Besuchen.
+We had unexpected visitors.
+
+Lasst uns Sophia besuchen!
+Let's visit Sophia! - speaking to more than one person
+
+Lass uns Sophia besuchen!
+Let's visit Sophia! - speaking to one person
+
+Am Wochenende besuchen wir ein Museum.
+On the weekend, we are visiting a museum.
+
+Das Oktoberfest wird immer von vielen Menschen besucht.
+The Oktoberfest is always visited be many people..
+
+Warum besucht du mich so selten?
+Why do you visit me so seldomly? - inf
+
+Die Handtasche der Frau.
+The woman's handbag.
+
+Die Puppe des Mädchens.
+The girl's doll.
+
+Der Anzug des Vaters.
+The father's suit.
+
+Die Anziehsachen der Kinder.
+The children's clothes.
+
+Die Hauptstadt Deutschlands ist Berlin.
+The capital of Germany is Berlin.
+
+Frankreichs Küsten sind wunderschön.
+The coasts of France are wonderful.
+
+Wir gingen durch die Innenstadt Londons.
+We walked through downtown of London.
+
+Das Wasser der Donau fließt durch den Naturpark Obere Donau.
+The water of the Danube flows through the natural park Obere Donau.
+
+Ich gehe mit dem Hund des Nachbarns spazieren.
+Eu vou passear com o cachorro do vizinho.
+
+Er ist mit dem Motorrad des Mannes weggefahren.
+He drove away with the man's motorcycle.
+
+Maria fährt am Montag mit dem Auto der Mutter zur Arbeit.
+Maria goes on monday to work with the mother's car.
+
+Sophia spielt mit dem Spielzeugauto des Bruders.
+Sophia plays with the brother's toy cars.
+
+Die Architekten entwerfen den Grundriss des Gebäudes.
+The architects are designing the layout of the building.
+
+Die Besucher des Schlosses kaufen eine Eintrittskarte.
+The castle's visitors buy a ticket.
+
 Wir suchen das verlorene Mädchen. Wir suchen die verlorenen Mädchen.
 We look for the lost girl. We look for the lost girls.
 
