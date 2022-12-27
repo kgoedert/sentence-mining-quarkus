@@ -13160,3 +13160,267 @@
 # 
 # El niño no se ha portado tan mal para que lo regañes así.
 # O menino não se comportou tão mal para você repreendê-lo assim.
+
+Hace un frío que no se pude salir.
+Há um resfriado do qual não consegui me livrar.
+
+Ana tiene unas ideias que parece racista.
+Ana tem ideias que parece racista.
+
+Tengo un trabajo que no tengo un minuto libre.
+Eu tenho um trabalho que não tenho um minuto livre.
+
+El pobre Cayo tenía unas dolores tras la operación que no dejaba de quejarse.
+O pobre Cayo teve algumas dores após a operação que não parava de reclamar
+
+Luisa es de un orgulloso que a veces resulta insoportable.
+Luisa é tão orgulhosa que às vezes é insuportável.
+
+En este restaurante son de un lento que se le enfría na comida antes de servirla.
+Neste restaurante, são tão lentos comida esfria antes de ser servida.
+
+Si será orgullosa Luisa que a veces resulta insoportable.
+Luisa é tão orgulhosa, que às vezes é insuportável.
+
+Si serán lentos en este restaurante que se les enfría la comida antes de serivirla.
+São tão lentos neste restaurante, que a comida esfria antes de servi-la.
+
+¡Tiene unos ojos el niño...!
+O menino tem uns olhos...!
+
+¡Son de un lento...!
+São de uma lentidão...!
+
+Soy lo bastante sensata como para poder ir sola.
+Sou suficientemente sensata para poder ir sozinha.
+
+Eres lo suficiente adulta como para que nadie te diga lo que tienes que hacer.
+Você tem idade suficiente para ninguém lhe dizer o que fazer.
+
+Celia y Maribel son lo suficientemente listas como para no dejarse engañar por nadie.
+Célia e Maribel são espertas o suficiente para não se deixarem enganar por ninguém.
+
+¡El disgusto que tendría que no quería ver a nadie!
+Tinha tamanho desgosto que não queria ver ninguém!
+
+¡Lo enfado que estará que no nos ha saludado!
+Está com uma raiva que não nos cumprimentou!
+
+¡Lo tarde que sería que no había una alma en la calle!
+Estava tão tarde que não havia vivalma na rua!
+
+¡Los dolores que tiene que no le dejan dormir!
+Tem umas dores que não lhe deixam dormir!
+
+¡La alegría que le daría la noticia que me dio un beso!
+A notícia lhe alegrou tanto que me deu um beijo!
+
+¿Para que sirve esta máquina?
+Para que serve esta máquina?
+
+Para limpiar la fruta antes de meterla en las cajas.
+Para limpar as frutas antes de colocá-las nas caixas.
+
+Lo siento, pero hay que reducir gastos con el fin de salvar la empresa.
+Sinto muito, mas é preciso reduzir despesas para salvar a empresa.
+
+Mañana queremos ir hacer unas compras. Ya hay rebajas.
+Amanhã queremos ir às compras. Já existem descontos.
+
+Hemos alquilado una casa en la sierra con idea de pasar allí los fines de semana.
+Alugamos uma casa na serra com a ideia de passar os fins de semana por lá.
+
+Quieren convencerme para que me una a ellas en la expedición.
+Elas querem me convencer a acompanhá-las na expedição.
+
+¿A que a venido Arturo? A que le cosa un botón. Es un inútil.
+Pra que veio o Arturo? Pra que lhe costure um botão. É um inútil.
+
+He escrito mis memórias con el fin de que sepáis cómo se vivía cuando yo era joven.
+Escrevi minhas memórias com a finalidade de que você saiba  como se vivia quando eu era jovem.
+
+Vinieron a verme con la intención de convencerme.
+Eles vieram me ver com a intenção de me convencer.
+
+Yo solo lo hago con ánimo de ayudar.
+Eu só faço isso com o espírito de ajudar.
+
+Dale algo al portero para que nos deje entrar.
+Dê algo ao porteiro para nos deixar entrar.
+
+Van a subir los impuestos con la intención de que mejore la economía.
+Os impostos vão subir com a intenção de melhorar a economia.
+
+El año pasado matriculé a mis hijas para que aprendieran diseño, pero el curso no fue bueno.
+Ano passado matriculei meus filhos para que aprendessem desenho, mas o curso não foi bom.
+
+Me gustaría que aprendieran diseño para que pudieran ayudarme en la empresa.
+Gostaria que aprendessem a desenhar para que possam me ajudar na empresa.
+
+Ven aquí, que te vea bien.
+Venha aqui, pra que te veja bem.
+
+Habla bajo, que no se despierten los niños.
+Fale baixo, para que as crianças não acordem.
+
+Es un nuevo aparato para detectar explosivos.
+É um novo dispositivo para detectar explosivos.
+
+Tengo un vino excelente para tomarlo con pescado.
+Tenho um excelente vinho para beber com peixe.
+
+¿Cuáles son los temas a tratar en la reunión de esta tarde?
+Quais são os temas a serem discutidos na reunião desta tarde?
+
+Para que lo sepas, no pienso ayudarte.
+Só para você saber, não vou te ajudar.
+
+Y ahora se lo voy a decir todo a Sonia, para que te fastidies.
+E agora vou contar tudo à Sonia, para que você fique irritado.
+
+Si nieva este invierno, habrá mucha agua en verano.
+Se nevar neste inverno, haverá muita água no verão.
+
+Si tenéis tiempo, venid a verme.
+Se você tiver tempo, venha ver-me.
+
+Si acertamos cinco números, podemos ganar bastante dinero.
+Se acertarmos cinco números, podemos ganhar muito dinheiro.
+
+Si habéis acabado, podéis iros.
+Se você terminou, você pode ir. - vós
+
+Si ha llegado don Jesús, hazlo pasar.
+Se Jesus chegou, deixe-o passar.
+
+Si tienes tiempo, podrías ayudarme.
+Se você tiver tempo, você poderia me ajudar.
+
+Si no aseguras el coche, más adelante tendrás problemas.
+Se você não fizer seguro do carro, terá problemas mais tarde.
+
+Si habéis comido tarde, ahora no tendréis hambre.
+Se você comeu tarde, agora não sentirá fome.
+
+Lógicamente, si ganas más dinero, puedes ahorrar más.
+Logicamente, se você ganha mais dinheiro, pode economizar mais.
+
+Si mañana estoy bien, vuelvo a la oficina.
+Se eu estiver bem amanhã, volto para o escritório.
+
+Si no llegas a la hora, nos vamos.
+Se você não chegar a tempo, vamos embora.
+
+Si llueve mañana, nos quedamos en casa.
+Se chover amanhã, ficamos em casa.
+
+Si el agua hierve, se convierte en vapor.
+Se a água ferver, ela se transforma em vapor.
+
+Si cojo peso, me duele la espalda.
+Se eu pego peso, minhas costas doem.
+
+Si ves a Tomás, pídele le teléfone de Elsa, por favor.
+Se veres o Tomás, pede-lhe o telefone da Elsa, por favor.
+
+Si tienes la oportunidad, deberías comprarte ese piso.
+Se tiveres a oportunidade, deverias comprar este apartamento.
+
+Ten cuidado. Si no haces caso, podrías tener problemas.
+Tenha cuidado. Se não prestas atenção, você pode ter problemas.
+
+Antes si se trabajaba, se vivía bien.
+Antes se você trabalhava, você vivia bem.
+
+Vivía cerca de la playa, y si hacía buen tiempo, me bañaba en el mar todas las mañanas.
+Eu morava perto da praia e, se o tempo estivesse bom, tomava banho de mar todas as manhãs.
+
+Si estuviesteis en Londres, veríais a Geraldine.
+Se você estivesse em Londres, veria Geraldine.
+
+Si te vieron, te dirían algo, supongo.
+Se eles viessem você, eles diriam algo, eu acho.
+
+Si estaba tan cansada, es mejor no molesterla ahora.
+Se você estava tão cansada, é melhor não a incomodar agora.
+
+Si llegó tarde, prefiero no despertarlo.
+Se chegou tarde, prefiro não acordá-lo.
+
+Si no cenásteis anoche, desayunad ahora bien.
+Se você não jantou ontem à noite, tome um bom café da manhã agora.
+
+Si vivisteis en Osaka, hablaréis japonés, ¿no?
+Se morastes em Osaka, falas japonês, certo?
+
+Como pierda el trabajo, no sé qué voy hacer.
+Se perder meu emprego, não sei o que vou fazer.
+
+Como se entere mi madre, me mata.
+Se minha mãe descobrir, ela me mata.
+
+Como vuelva a llegar tarde, lo despido, señor Pardo.
+Se voltar a chegar tarde, lhe despido, senhor Pardo.
+
+Como no traigas el dinero, no vienes a la excursión.
+Se você não trouxer o dinheiro, não vem à excursão.
+
+¡Como vuelva a llegar tarde... señor Pardo!
+Se voltar a chegar tarde seu Pardo...!
+
+¡Como se entere mi madre...!
+Se minha mãe descobrir...!
+
+Que te apetece, lo haces, que no te apetece, no lo haces.
+Se der vontade faz, se não der, não faz.
+
+Que esáis a gusto, os quedáis, que no estáis a gusto, os vais.
+Se estáis confortavel, fica, se não estáis confortavel, vai.
+
+Que quería trabajar, trabajaba, que no quería trabajar, no trabajaba.
+Se queria trabalhar trabalhava, se não queria trabalhar não trabalhava.
+
+Llámame otra vez de tonto y verás.
+Chame-me de estúpido novamente e você verá.
+
+Tú acaba la carrera que yo te busco empleo.
+Termina a universidade que te procuro um emprego.
+
+Cállate o no te lo cuento.
+Cala a boca ou não te conto.
+
+Estudiando español, encontrarás un buen trabajo.
+Estudando espanhol, você encontrará um bom emprego.
+
+Bajando por esta calle, llegas a la Glorieta de Quevedo.
+Descendo esta rua chegará à Glorieta de Quevedo.
+
+Con comer menos, adelgazas.
+Comendo menos, perdes peso.
+
+Con comer menos, adelgazarías.
+Comendo menos, perderias peso.
+
+De ser eso cierto, tendré que decírselo a Rosa.
+Se assim for, terei de contar a Rosa.
+
+De salir esta noche, podemos ir a casa Pepe.
+Se vamos sair esta noite, podemos ir para a casa de Pepe.
+
+Creo que las uvas están baratas. Bien, de ser así, compra dos kilos.
+Eu acho que as uvas são baratas. Bom, se é assim, compra dois quilos.
+
+De venir tus primos, los llevaríamos al Thyssen.
+Se seus primos viessem, os levaria para Thyssen.
+
+De comprarlo, cómpralo ya.
+Se for comprá-lo, compre agora.
+
+A ser possible, venid antes de las siete.
+Se possível, venha antes das sete.
+
+A decir verdad, no me parece justo el acuerdo.
+Para dizer a verdade, não acho justo o acordo.
+
+A juzgar por sus actos, no me parece que podamos fiarnos de Jorge.
+A julgar por suas ações, acho que não podemos confiar em Jorge.
