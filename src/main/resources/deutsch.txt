@@ -11397,7 +11397,73 @@
 # 
 # Er findet das verlorene Papier. Er findet die verlorenen Papiere.
 # He finds the lost paper. He finds the lost papers.
-# 
+#
+Ich gehe zur Arbeit.
+Eu estou indo para o trabalho.
+
+Ich fahre mit dem Bus zur Arbeit.
+Eu vou de ônibus para o trabalho.
+
+Ich gehe zu Fuß zur Arbeit.
+Eu vou a pé para o trabalho.
+
+Ich habe heute keine Lust, zur Arbeit zu gehen.
+Hoje eu não tenho vontade de ir trabalhar.
+
+Ich bin noch auf der Arbeit, aber ich mache in fünf Minuten Feierabend und komme dann nach Hause.
+Eu ainda estou no trabalho, mas eu saio em 5 minutos e vou pra casa.
+
+Ich habe total viel Stress auf der Arbeit, weil meine Kollegin seit drei Wochen krank ist.
+Eu estou muito estressado no trabalho, porque minha colega está doente há 3 semanas.
+
+Stör mich nicht beit der Arbeit!
+Não me incomode enquanto trabalho!
+
+Erik is sehr konzentriert bei der Arbeit.
+Erik é muito concentrado enquanto trabalha.
+
+Ich höre auf der Arbeit gern Musik.
+Eu gosto de escutar música no meu local de trabalho.
+
+Ich höre bei der Arbeit gern Musik.
+Eu gosto de escutar música enquanto estou trabalho.
+
+Wir müssen uns jetzt an die Arbeit machen. Der Berricht muss übermorgen fertig sein.
+Devemos começar a trabalhar. O relatório tem que estar pronto depois de amanhã.
+
+Ich mache mich mal an die Arbeit!
+Vou começar o trabalho!
+
+So, jetzt gehe ich wieder an die Arbeit.
+Então, agora vou voltar ao trabalho.
+
+An die Arbeit!
+Ao trabalho!
+
+Mein Hochzeitskleid ist in Arbeit.
+Meu vestido de casamento está sendo feito.
+
+Die nächste Staffel der Serie ist in Arbeit. Sie erscheint nächstes Jahr bei netflix.
+A próxima temporada da série está sendo produzida. Ela estreia ano que vem no netflix.
+
+Hanna steckt bis zum Hals in Arbeit. Sie hat nicht einmal Zeit, ihren Geburtstag zu feiern.
+Hanna está até o pescoço de trabalho. Ela não teve tempo de comemorar o seu aniversário.
+
+Ich bin erwachsen geworden. 
+Eu me tornei adulto
+
+Erwachsene Menschen müssen Verantwortung übernehmen. 
+Pessoas adultas precisam assumir responsabilidade
+
+Der Junge hat sich zu einem erwachsenen Mann entwickelt. 
+O menino se desenvolveu em um homem adulto
+
+Ich denke, es ist an der Zeit, erwachsen zu werden. 
+Eu acho que é hora de crescer
+
+Die erwachsene Tochter kümmert sich um ihre kranken Eltern. 
+A filha adulta cuida dos pais doentes
+
 Morgen besuche ich meine Oma.
 Tomorrow, I'm visiting my grandmother.
 
