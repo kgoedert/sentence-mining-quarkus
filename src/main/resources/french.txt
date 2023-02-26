@@ -15299,6 +15299,21 @@
 # Tu vas souvent à Paris? Oui, j'y vais tous les deux mois.
 # Do you go frequently to Paris? Yes, I go there every two months.
 # 
+Je les ai vus hier soir au restaurant. 
+Eu os vi ontem à noite no restaurante.
+
+Nous les avons aidés à déménager le week-end dernier. 
+Nós os ajudamos a se mudar no fim de semana passado.
+
+Elle les a appelés pour confirmer la réservation. 
+Ela os ligou para confirmar a reserva.
+
+Ils les ont rencontrés à la gare. 
+Eles os encontraram na estação.
+
+Tu les as invités à la soirée samedi prochain ? 
+Você os convidou para a festa no próximo sábado?
+
 Dans la salle de bains, J'y prends ma douche tous les matins.
 In the bathroom, I shower there every morning.
 

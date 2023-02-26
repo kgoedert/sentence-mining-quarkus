@@ -11394,217 +11394,310 @@
 # 
 # Er hört die laute Maus. Er hört die lauten Mäuse.
 # He hears the loud mouse. He hears the loud mice.
+# # 
+# # Er findet das verlorene Papier. Er findet die verlorenen Papiere.
+# # He finds the lost paper. He finds the lost papers.
+# #
+# Ich habe verschlafen und meinen Flug verpasst. 
+# Eu dormi demais e perdi meu voo.
 # 
-# Er findet das verlorene Papier. Er findet die verlorenen Papiere.
-# He finds the lost paper. He finds the lost papers.
-#
-Ich gehe zur Arbeit.
-Eu estou indo para o trabalho.
-
-Ich fahre mit dem Bus zur Arbeit.
-Eu vou de ônibus para o trabalho.
-
-Ich gehe zu Fuß zur Arbeit.
-Eu vou a pé para o trabalho.
-
-Ich habe heute keine Lust, zur Arbeit zu gehen.
-Hoje eu não tenho vontade de ir trabalhar.
-
-Ich bin noch auf der Arbeit, aber ich mache in fünf Minuten Feierabend und komme dann nach Hause.
-Eu ainda estou no trabalho, mas eu saio em 5 minutos e vou pra casa.
-
-Ich habe total viel Stress auf der Arbeit, weil meine Kollegin seit drei Wochen krank ist.
-Eu estou muito estressado no trabalho, porque minha colega está doente há 3 semanas.
-
-Stör mich nicht beit der Arbeit!
-Não me incomode enquanto trabalho!
-
-Erik is sehr konzentriert bei der Arbeit.
-Erik é muito concentrado enquanto trabalha.
-
-Ich höre auf der Arbeit gern Musik.
-Eu gosto de escutar música no meu local de trabalho.
-
-Ich höre bei der Arbeit gern Musik.
-Eu gosto de escutar música enquanto estou trabalho.
-
-Wir müssen uns jetzt an die Arbeit machen. Der Berricht muss übermorgen fertig sein.
-Devemos começar a trabalhar. O relatório tem que estar pronto depois de amanhã.
-
-Ich mache mich mal an die Arbeit!
-Vou começar o trabalho!
-
-So, jetzt gehe ich wieder an die Arbeit.
-Então, agora vou voltar ao trabalho.
-
-An die Arbeit!
-Ao trabalho!
-
-Mein Hochzeitskleid ist in Arbeit.
-Meu vestido de casamento está sendo feito.
-
-Die nächste Staffel der Serie ist in Arbeit. Sie erscheint nächstes Jahr bei netflix.
-A próxima temporada da série está sendo produzida. Ela estreia ano que vem no netflix.
-
-Hanna steckt bis zum Hals in Arbeit. Sie hat nicht einmal Zeit, ihren Geburtstag zu feiern.
-Hanna está até o pescoço de trabalho. Ela não teve tempo de comemorar o seu aniversário.
-
-Ich bin erwachsen geworden. 
-Eu me tornei adulto
-
-Erwachsene Menschen müssen Verantwortung übernehmen. 
-Pessoas adultas precisam assumir responsabilidade
-
-Der Junge hat sich zu einem erwachsenen Mann entwickelt. 
-O menino se desenvolveu em um homem adulto
-
-Ich denke, es ist an der Zeit, erwachsen zu werden. 
-Eu acho que é hora de crescer
-
-Die erwachsene Tochter kümmert sich um ihre kranken Eltern. 
-A filha adulta cuida dos pais doentes
-
-Morgen besuche ich meine Oma.
-Tomorrow, I'm visiting my grandmother.
-
-Morgen gehe ich meine Oma besuchen gehen.
-Tomorrow, I'm going to go visit my grandma.
-
-Ich gehe morgen einkaufen.
-I'm going shopping tomorrow.
-
-Ich gehe am Montag schwimmen.
-I'm going swimming on monday.
-
-Ich gehe morgen Abend mit Freunden was trinken.
-I'm going to go have drinks with friends tomorrow night.
-
-Wir gehen am Wochenende wandern.
-We're going hiking on the weekend.
-
-Wir gehen übermorgen Ski fahren.
-We're going skiing the day after tomorrow.
-
-Morgen besucht mich meine Oma.
-Tomorrow, my grandma is visiting me.
-
-Morgen kommt mich meine Oma besuchen.
-Tomorrow, my grandma is coming to visit me.
-
-Meine Oma kommt mich morgen besuchen.
-My grandma is coming to visit me tomorrow.
-
-Meine Oma kommt morgen zu Besuch.
-My grandma is coming for a visit tomorrow.
-
-Meine Oma kommt morgen vorbei.
-My grandma is coming over tomorrow.
-
-Wann kommt ihr uns besuchen?
-When are you guys coming to visit us?
-
-Ich habe Besuch.
-Eu tenho visita.
-
-Hast du Besuch?
-Tens visitas?
-
-Wohnst du hier? Nein, ich bin nur zu Besuch.
-Do you live here? No, I'm just visiting. - inf
-
-Besuch mich doch mal!
-Come visit me some time!
-
-Warum besuschst du mich nicht mal?
-Why don't you come visit me some time?
-
-Ich würde mich freuen, wenn du mich mal besuchen kommst.
-I would be happy if you come to visit me.
-
-Komm mich doch mal besuchen!
-Come visit me some time!
-
-Wir hatten unerwarteten Besuchen.
-We had unexpected visitors.
-
-Lasst uns Sophia besuchen!
-Let's visit Sophia! - speaking to more than one person
-
-Lass uns Sophia besuchen!
-Let's visit Sophia! - speaking to one person
-
-Am Wochenende besuchen wir ein Museum.
-On the weekend, we are visiting a museum.
-
-Das Oktoberfest wird immer von vielen Menschen besucht.
-The Oktoberfest is always visited be many people..
-
-Warum besucht du mich so selten?
-Why do you visit me so seldomly? - inf
-
-Die Handtasche der Frau.
-The woman's handbag.
-
-Die Puppe des Mädchens.
-The girl's doll.
-
-Der Anzug des Vaters.
-The father's suit.
-
-Die Anziehsachen der Kinder.
-The children's clothes.
-
-Die Hauptstadt Deutschlands ist Berlin.
-The capital of Germany is Berlin.
-
-Frankreichs Küsten sind wunderschön.
-The coasts of France are wonderful.
-
-Wir gingen durch die Innenstadt Londons.
-We walked through downtown of London.
-
-Das Wasser der Donau fließt durch den Naturpark Obere Donau.
-The water of the Danube flows through the natural park Obere Donau.
-
-Ich gehe mit dem Hund des Nachbarns spazieren.
-Eu vou passear com o cachorro do vizinho.
-
-Er ist mit dem Motorrad des Mannes weggefahren.
-He drove away with the man's motorcycle.
-
-Maria fährt am Montag mit dem Auto der Mutter zur Arbeit.
-Maria goes on monday to work with the mother's car.
-
-Sophia spielt mit dem Spielzeugauto des Bruders.
-Sophia plays with the brother's toy cars.
-
-Die Architekten entwerfen den Grundriss des Gebäudes.
-The architects are designing the layout of the building.
-
-Die Besucher des Schlosses kaufen eine Eintrittskarte.
-The castle's visitors buy a ticket.
-
-Wir suchen das verlorene Mädchen. Wir suchen die verlorenen Mädchen.
-We look for the lost girl. We look for the lost girls.
-
-Sie hat den schwarzen Laptop. Sie hat die schwarzen Laptops.
-She has the black laptop. She has the black laptops.
-
+# Er hat heute Morgen ausgeschlafen und fühlt sich frisch und munter. 
+# Ele dormiu o suficiente hoje de manhã e se sente fresco e animado.
+# 
+# Sie verschläft regelmäßig ihre Termine und kommt deshalb oft zu spät. 
+# Ela dorme demais com frequência e, por isso, chega atrasada com frequência.
+# 
+# Gestern habe ich ausgeschlafen und konnte den Tag voller Energie genießen. 
+# Ontem dormi o suficiente e pude aproveitar o dia cheio de energia.
+# 
+# Wenn ich verschlafe, fühle ich mich den ganzen Tag über müde und unkonzentriert. 
+# Quando durmo demais, me sinto cansado e sem concentração o dia todo.
+# 
+# Ich würde diesen Stil als minimalistisch bezeichnen. 
+# Eu chamaria esse estilo de minimalista.
+# 
+# Wie bezeichnest du diesen Gegenstand auf Deutsch? 
+# Como você classifica esse objeto em alemão?
+# 
+# Die Polizei bezeichnet den Täter als gefährlich. 
+# A polícia classifica o suspeito como perigoso.
+# 
+# Diese Farbe wird oft als "roter Wein" bezeichnet. 
+# Essa cor é frequentemente denominada "vinho tinto".
+# 
+# In der Fachsprache bezeichnet man diesen Zustand als "Hypoxie". 
+# Na terminologia técnica, esse estado é referido como "hipóxia".
+# 
+# Kannst du mir den Weg zum Bahnhof beschreiben? 
+# Você pode me descrever o caminho para a estação de trem?
+# 
+# Ich kann das Gefühl, das ich hatte, als ich den Gipfel erreichte, nicht richtig beschreiben. 
+# Eu não consigo descrever adequadamente a sensação que eu tive quando cheguei ao topo.
+# 
+# Der Arzt beschrieb die Symptome meiner Krankheit. 
+# O médico descreveu os sintomas da minha doença.
+# 
+# Kannst du das Aussehen des Diebs beschreiben? 
+# Você pode descrever a aparência do ladrão?
+# 
+# Der Autor beschrieb die Landschaft so lebhaft, dass ich das Gefühl hatte, dort zu sein. 
+# O autor descreveu a paisagem tão vividamente que eu senti como se estivesse lá.
+# 
+# Vor dem Konzert trafen wir uns in einem Café. 
+# Antes do concerto, encontramo-nos em um café.
+# 
+# Ich habe Angst vor Spinnen. 
+# Tenho medo de aranhas.
+# 
+# Stell das Auto vor das Haus. 
+# Estacione o carro em frente à casa.
+# 
+# Vor der Tür stand ein unbekannter Mann. 
+# Havia um homem desconhecido na porta.
+# 
+# Vor lauter Aufregung konnte ich nicht schlafen. 
+# Não consegui dormir devido à muita excitação.
+# 
+# Nach dem Unfall war die Polizei schnell vor Ort. 
+# Após o acidente, a polícia chegou rapidamente ao local.
+# 
+# Wenn Sie ein Problem haben, können Sie sich jederzeit an uns vor Ort wenden. 
+# Se tiver algum problema, pode sempre entrar em contato conosco no local.
+# 
+# Die Feuerwehrleute waren vor Ort, um den Brand zu löschen. 
+# Os bombeiros estavam no local para apagar o incêndio.
+# 
+# Die Reporter waren vor Ort, um über das Ereignis zu berichten. 
+# Os repórteres estavam no local para cobrir o evento.
+# 
+# Die Baufirma hat einen Vertreter vor Ort, um Fragen zu beantworten. 
+# A empresa de construção tem um representante no local para responder a perguntas.
+# 
+# Meine Kinder gehen jeden Tag in die Schule. 
+# Meus filhos vão para a escola todos os dias.
+# 
+# Gestern bin ich zur Schule gegangen, um meine Tochter abzuholen. 
+# Ontem eu fui até a escola para buscar minha filha.
+# 
+# Die Schüler müssen jeden Tag in die Schule kommen. 
+# Os alunos precisam vir para a escola todos os dias.
+# 
+# Heute Morgen bin ich zur Schule gelaufen, weil mein Auto kaputt war. 
+# Esta manhã eu caminhei até a escola porque meu carro estava quebrado.
+# 
+# Meine Tochter geht morgen wieder in die Schule, weil sie ihre Freunde vermisst. 
+# Minha filha vai voltar para a escola amanhã porque está com saudades dos amigos.
+# 
+# Am Montag müssen wir früh zur Schule gehen, weil wir einen wichtigen Test schreiben. 
+# Na segunda-feira, temos que ir cedo até a escola porque temos um teste importante.
+# 
+# Ich gehe zur Arbeit.
+# Eu estou indo para o trabalho.
+# 
+# Ich fahre mit dem Bus zur Arbeit.
+# Eu vou de ônibus para o trabalho.
+# 
+# Ich gehe zu Fuß zur Arbeit.
+# Eu vou a pé para o trabalho.
+# 
+# Ich habe heute keine Lust, zur Arbeit zu gehen.
+# Hoje eu não tenho vontade de ir trabalhar.
+# 
+# Ich bin noch auf der Arbeit, aber ich mache in fünf Minuten Feierabend und komme dann nach Hause.
+# Eu ainda estou no trabalho, mas eu saio em 5 minutos e vou pra casa.
+# 
+# Ich habe total viel Stress auf der Arbeit, weil meine Kollegin seit drei Wochen krank ist.
+# Eu estou muito estressado no trabalho, porque minha colega está doente há 3 semanas.
+# 
+# Stör mich nicht beit der Arbeit!
+# Não me incomode enquanto trabalho!
+# 
+# Erik is sehr konzentriert bei der Arbeit.
+# Erik é muito concentrado enquanto trabalha.
+# 
+# Ich höre auf der Arbeit gern Musik.
+# Eu gosto de escutar música no meu local de trabalho.
+# 
+# Ich höre bei der Arbeit gern Musik.
+# Eu gosto de escutar música enquanto estou trabalho.
+# 
+# Wir müssen uns jetzt an die Arbeit machen. Der Berricht muss übermorgen fertig sein.
+# Devemos começar a trabalhar. O relatório tem que estar pronto depois de amanhã.
+# 
+# Ich mache mich mal an die Arbeit!
+# Vou começar o trabalho!
+# 
+# So, jetzt gehe ich wieder an die Arbeit.
+# Então, agora vou voltar ao trabalho.
+# 
+# An die Arbeit!
+# Ao trabalho!
+# 
+# Mein Hochzeitskleid ist in Arbeit.
+# Meu vestido de casamento está sendo feito.
+# 
+# Die nächste Staffel der Serie ist in Arbeit. Sie erscheint nächstes Jahr bei netflix.
+# A próxima temporada da série está sendo produzida. Ela estreia ano que vem no netflix.
+# 
+# Hanna steckt bis zum Hals in Arbeit. Sie hat nicht einmal Zeit, ihren Geburtstag zu feiern.
+# Hanna está até o pescoço de trabalho. Ela não teve tempo de comemorar o seu aniversário.
+# 
+# Ich bin erwachsen geworden. 
+# Eu me tornei adulto
+# 
+# Erwachsene Menschen müssen Verantwortung übernehmen. 
+# Pessoas adultas precisam assumir responsabilidade
+# 
+# Der Junge hat sich zu einem erwachsenen Mann entwickelt. 
+# O menino se desenvolveu em um homem adulto
+# 
+# Ich denke, es ist an der Zeit, erwachsen zu werden. 
+# Eu acho que é hora de crescer
+# 
+# Die erwachsene Tochter kümmert sich um ihre kranken Eltern. 
+# A filha adulta cuida dos pais doentes
+# 
+# Morgen besuche ich meine Oma.
+# Tomorrow, I'm visiting my grandmother.
+# 
+# Morgen gehe ich meine Oma besuchen gehen.
+# Tomorrow, I'm going to go visit my grandma.
+# 
+# Ich gehe morgen einkaufen.
+# I'm going shopping tomorrow.
+# 
+# Ich gehe am Montag schwimmen.
+# I'm going swimming on monday.
+# 
+# Ich gehe morgen Abend mit Freunden was trinken.
+# I'm going to go have drinks with friends tomorrow night.
+# 
+# Wir gehen am Wochenende wandern.
+# We're going hiking on the weekend.
+# 
+# Wir gehen übermorgen Ski fahren.
+# We're going skiing the day after tomorrow.
+# 
+# Morgen besucht mich meine Oma.
+# Tomorrow, my grandma is visiting me.
+# 
+# Morgen kommt mich meine Oma besuchen.
+# Tomorrow, my grandma is coming to visit me.
+# 
+# Meine Oma kommt mich morgen besuchen.
+# My grandma is coming to visit me tomorrow.
+# 
+# Meine Oma kommt morgen zu Besuch.
+# My grandma is coming for a visit tomorrow.
+# 
+# Meine Oma kommt morgen vorbei.
+# My grandma is coming over tomorrow.
+# 
+# Wann kommt ihr uns besuchen?
+# When are you guys coming to visit us?
+# 
+# Ich habe Besuch.
+# Eu tenho visita.
+# 
+# Hast du Besuch?
+# Tens visitas?
+# 
+# Wohnst du hier? Nein, ich bin nur zu Besuch.
+# Do you live here? No, I'm just visiting. - inf
+# 
+# Besuch mich doch mal!
+# 
+# Come visit me some time!
+# 
+# 
+# Warum besuschst du mich nicht mal?
+# Why don't you come visit me some time?
+# 
+# 
+# Ich würde mich freuen, wenn du mich mal besuchen kommst.
+# 
+# I would be happy if you come to visit me.
+# 
+# 
+# Komm mich doch mal besuchen!
+# Come visit me some time!
+# 
+# Wir hatten unerwarteten Besuchen.
+# We had unexpected visitors.
+# 
+# Lasst uns Sophia besuchen!
+# Let's visit Sophia! - speaking to more than one person
+# 
+# Lass uns Sophia besuchen!
+# Let's visit Sophia! - speaking to one person
+# 
+# Am Wochenende besuchen wir ein Museum.
+# On the weekend, we are visiting a museum.
+# 
+# Das Oktoberfest wird immer von vielen Menschen besucht.
+# The Oktoberfest is always visited be many people..
+# 
+# Warum besucht du mich so selten?
+# Why do you visit me so seldomly? - inf
+# 
+# Die Handtasche der Frau.
+# The woman's handbag.
+# 
+# Die Puppe des Mädchens.
+# The girl's doll.
+# 
+# Der Anzug des Vaters.
+# The father's suit.
+# 
+# Die Anziehsachen der Kinder.
+# The children's clothes.
+# 
+# Die Hauptstadt Deutschlands ist Berlin.
+# The capital of Germany is Berlin.
+# 
+# Frankreichs Küsten sind wunderschön.
+# The coasts of France are wonderful.
+# 
+# Wir gingen durch die Innenstadt Londons.
+# We walked through downtown of London.
+# 
+# Das Wasser der Donau fließt durch den Naturpark Obere Donau.
+# The water of the Danube flows through the natural park Obere Donau.
+# 
+# Ich gehe mit dem Hund des Nachbarns spazieren.
+# Eu vou passear com o cachorro do vizinho.
+# 
+# Er ist mit dem Motorrad des Mannes weggefahren.
+# He drove away with the man's motorcycle.
+# 
+# Maria fährt am Montag mit dem Auto der Mutter zur Arbeit.
+# Maria goes on monday to work with the mother's car.
+# 
+# Sophia spielt mit dem Spielzeugauto des Bruders.
+# Sophia plays with the brother's toy cars.
+# 
+# Die Architekten entwerfen den Grundriss des Gebäudes.
+# The architects are designing the layout of the building.
+# 
+# Die Besucher des Schlosses kaufen eine Eintrittskarte.
+# The castle's visitors buy a ticket.
+# 
+# Wir suchen das verlorene Mädchen. Wir suchen die verlorenen Mädchen.
+# We look for the lost girl. We look for the lost girls.
+# 
+# Sie hat den schwarzen Laptop. Sie hat die schwarzen Laptops.
+# She has the black laptop. She has the black laptops.
+# 
 Johannes hat die große Orange. Johannes hat die großen Orangen.
 Johannes has the big orange. Johannes has the big oranges.
-
 Suse möchte das weiße Hemd. Suse möchte die weißen Hemden.
 Suse wants the white shirt. Suse wants the white shirts.
-
 Der Junge hat die schnelle Maus. Der Junge hat die schnellen Mäuse.
 The boy has the fast mouse. The boy has the fast mice.
-
 Er findet einen verlorenen Schlüssel. Er findet die verlorenen Schlüssel.
 He finds a lost key. He finds the lost keys.
-
 Er findet eine verlorene Katze. Er findet die verlorenen Katzen.
 He finds a lost cat. He finds the lost cats.
-
 Sie findet den verlorenen Löffel. Sie findet die verlorenen Löffel.
 She finds the lost spoon. She finds the lost spoons.
 
