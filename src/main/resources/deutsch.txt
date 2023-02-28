@@ -11690,14 +11690,19 @@
 # 
 Johannes hat die große Orange. Johannes hat die großen Orangen.
 Johannes has the big orange. Johannes has the big oranges.
+
 Suse möchte das weiße Hemd. Suse möchte die weißen Hemden.
 Suse wants the white shirt. Suse wants the white shirts.
+
 Der Junge hat die schnelle Maus. Der Junge hat die schnellen Mäuse.
 The boy has the fast mouse. The boy has the fast mice.
+
 Er findet einen verlorenen Schlüssel. Er findet die verlorenen Schlüssel.
 He finds a lost key. He finds the lost keys.
+
 Er findet eine verlorene Katze. Er findet die verlorenen Katzen.
 He finds a lost cat. He finds the lost cats.
+
 Sie findet den verlorenen Löffel. Sie findet die verlorenen Löffel.
 She finds the lost spoon. She finds the lost spoons.
 
