@@ -11688,6 +11688,138 @@
 # Sie hat den schwarzen Laptop. Sie hat die schwarzen Laptops.
 # She has the black laptop. She has the black laptops.
 # 
+Hast du scho den Müll rausgetragen?
+Have you already taken out the trash? - inf
+
+Könntest du bitte den Müll raustragen?
+Could you please take out the trash? - inf
+
+Ich habe noch nicht gefrühstückt.
+I haven't had breakfast yet.
+
+Hast du schon gefrühstückt?
+Have you had breakfast yet? - inf
+
+Ich muss die Fenster putzen.
+I have to clean the windows today.
+
+Hast du dein Zimmer aufgeräumt?
+Have you cleaned up your room? - inf
+
+Ich habe heute das Badezimmer geputzt.
+I cleaned the bathroom today.
+
+Ich muss morgen früh aufstehen.
+I have to get up early tomorrow.
+
+Ich bin heute um 6 Uhr aufgestanden. Ich bin so müde.
+I got up at 6 am today. I am so tired.
+
+Wann bist du heute aufgestanden?
+When did you get up today? - inf
+
+Muss du heute arbeiten?
+Do you have to work today? - inf
+
+Ich muss morgen arbeiten.
+I have to work tomorrow.
+
+Ich fahre mit der U-Bahn.
+I'm taking the subway.
+
+Er fährt mit dem Taxi.
+He's taking the taxi.
+
+Wir fahren mit dem Auto.
+We're going by car.
+
+Er fährt mit der Bahn.
+He's taking the train.
+
+Jonas ist bei mir.
+Jonas is at my place.
+
+Der Hund ist bei uns.
+The dog is at our place.
+
+Der Schlüssel ist bei Florian.
+The key is at Florian's place.
+
+Ich bin bei meinen Eltern.
+I'm at my parents' place.
+
+Seid ihr bei Stephan?
+Are you guys at Stephan's place?
+
+Marko hat sein Handy immer bei sich.
+Marko always has his phone on him.
+
+Marko hat sein Handy immer dabei.
+Marko always has his phone on him.
+
+Hast du deine Tasche bei dir?
+Do you have your bag with you?
+
+der Koffer eines Mannes
+a man's suitcase
+
+der Lebenslauf einer Bewerberin
+an applicant's CV
+
+die Fassade eines Gebäudes
+a fachada de um prédio
+
+Das ist das Motorrad eines Kollegen.
+This is collegue's motorcycle.
+
+Das sind die Kinder einer Freundin.
+This is a friend's child.
+
+Das sind die Medikamente eines Patienten.
+This is a patient's medication.
+
+Die Handtasche einer Frau ist ein Universum.
+A woman's bag is a universe.
+
+Das ist die Tochter eines Landwirts.
+This is a farmer's daughter.
+
+Das sind die Kinder einer Nachbarin.
+Estes são os filhos de uma vizinha.
+
+Die Eltern eines Schülers haben den Kuchen mitgebracht.
+A student's parents brought the cake.
+
+Die Kinder eines Kollegen sind krank.
+A co-worker's kids are sick.
+
+Sie ist die Geschäftsführerin eines Kaufhauses.
+She ist the manager of a department store.
+
+Das ist die Praxis eines Gynäkologen.
+Esta é a clinica de um ginecologista.
+
+Das ist das Auto eines Freundes.
+This is a friend's car.
+
+Die Risiken eines Start-up-Unternehmens sind hoch.
+The risks of a start up are high.
+
+Die Mitarbeiter haben Angst von den Folgen einer Fusionierung.
+The employees are afraid of the consequences of a merger.
+
+Die Kosten einer Scheidung sind oft sehr hoch.
+The costs of a divorce are often very high.
+
+Der Lärm einer Großstadt ist oft unerträglich.
+The noise of a big city is often unbearable.
+
+Die Nerven eines Grundschullehrers sind stark.
+The nerves of an elementary school teacher are strong.
+
+Die Planung einer Hochzeit ist sehr aufwendig.
+The planning of a wedding is very time consuming.
+
 Johannes hat die große Orange. Johannes hat die großen Orangen.
 Johannes has the big orange. Johannes has the big oranges.
 
