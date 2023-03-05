@@ -15287,287 +15287,287 @@
 # Il est en retard car il met beaucoup de temps à se préparer.
 # He's late because he takes a lot of time to get ready.
 # 
-# Il m'embrasse à chaque fois qu'on se voit.
-# He kisses me everytime we see each other.
+# # Il m'embrasse à chaque fois qu'on se voit.
+# # He kisses me everytime we see each other.
+# # 
+# # Elle m'embrasse toujours par surprise.
+# # She always kisses me by surprise.
+# # 
+# # Tu vas à l'anniversaire de Sophie? Oui, j'y vais.
+# # Are you going to Sophie's birthday? Yes, I'm going.
+# # 
+# # Tu vas souvent à Paris? Oui, j'y vais tous les deux mois.
+# # Do you go frequently to Paris? Yes, I go there every two months.
+# # 
+# Je les ai vus hier soir au restaurant. 
+# Eu os vi ontem à noite no restaurante.
 # 
-# Elle m'embrasse toujours par surprise.
-# She always kisses me by surprise.
+# Nous les avons aidés à déménager le week-end dernier. 
+# Nós os ajudamos a se mudar no fim de semana passado.
 # 
-# Tu vas à l'anniversaire de Sophie? Oui, j'y vais.
-# Are you going to Sophie's birthday? Yes, I'm going.
+# Elle les a appelés pour confirmer la réservation. 
+# Ela os ligou para confirmar a reserva.
 # 
-# Tu vas souvent à Paris? Oui, j'y vais tous les deux mois.
-# Do you go frequently to Paris? Yes, I go there every two months.
+# Ils les ont rencontrés à la gare. 
+# Eles os encontraram na estação.
 # 
-Je les ai vus hier soir au restaurant. 
-Eu os vi ontem à noite no restaurante.
-
-Nous les avons aidés à déménager le week-end dernier. 
-Nós os ajudamos a se mudar no fim de semana passado.
-
-Elle les a appelés pour confirmer la réservation. 
-Ela os ligou para confirmar a reserva.
-
-Ils les ont rencontrés à la gare. 
-Eles os encontraram na estação.
-
-Tu les as invités à la soirée samedi prochain ? 
-Você os convidou para a festa no próximo sábado?
-
-Dans la salle de bains, J'y prends ma douche tous les matins.
-In the bathroom, I shower there every morning.
-
-À la bibliothèque, nous y lisons des livres.
-At the library, we read books.
-
-À la boulangerie, nous y achetons des croissants pour le petit-déjeuner.
-At bakery, we buy croissants for breakfast.
-
-Dans les magasins, j'y fais du shopping.
-In the stores, I shop.
-
-Dans un café, j'y prends un verre avec mes amis.
-At a coffee shop, I have something to drink there with my friends.
-
-Tu connais Paris? Oui, j'y suis allé l'année dernière.
-Do you know Paris? Yes, I went there last year.
-
-Je vais au cinéma ce soir.
-I'm going to the movies tonight.
-
-Ha oui? Tu y va avec qui?
-Oh yeah? Who are you going there with?
-
-Tu vas souvent à Paris? Oui, j'essaye d'y aller assez souvent.
-Do you go frequently to Paris? Yes, I try to go there quite often.
-
-Tu connais Barcelone? Oui, nous y sommes allés l'année dernière.
-Do you know Barcelona? Yes, we went there last year.
-
-Ok, j'y vais!
-Ok, I'm leaving!
-
-On y va?
-Shall we go?
-
-Allons-y!
-Let's go!
-
-Allez-y!
-Go ahead!
-
-Tu as des livres sur les États-Unis? Oui, j'en ai trois très intéressants.
-Do you have any books about the United States? Yes, I three very interesting ones.
-
-Vous voulez du gâteau? Oui, j'en voudrais un morceau.
-Would you like some cake? Yes, I'd like a piece of it.
-
-Il y a du pain? Oui, j'en ai acheté hier.
-Is there some bread? Yes, I bought some yesterday.
-
-Il y a une baguette de pain.
-There's a baguette of bread.
-
-Il y a de l'eau dans le frigo? Oui, j'en ai mis trois bouteilles.
-Is there some water in the fridge? Yes, I put three bottles in it.
-
-Tu te souviens de Marie? Oui, je m'en souviens très bien.
-Do you remember Marie? Yes, I remember her very well.
-
-Il s'en souvient? Il s'en souvient parfaitement.
-Does he remember her? He remembers her perfectly.
-
-Tu parles souvent de ton père. Oui, j'en parles très souvent. 
-You often talk about your father. Yes, I talk about him very often.
-
-Elle s'occupe de ses enfants le week-end? Bien sûr, elle s'en occupe tous les jours.
-Does she take care of her children on the weekend? Of course, she takes care of them every day.
-
-Je ne mange pas de chocolat, parce que je suis allergique.
-I don't eat chocolate because I'm allergic.
-
-Je ne mange plus de chocolat depuis que j'ai commencé mon régime.
-I haven't eaten any chocolate since I started my diet.
-
-Je n'aime pas ce type de musique.
-I don't like this kind of music.
-
-Je n'aime plus ce type de musique.
-I don't like this kind of musique anymore.
-
-Je besoin de plus de temps.
-I need more time.
-
-Je veux plus de temps.
-I want more time.
-
-Il n'aime plus ce type de musique.
-He no longer likes this type of music.
-
-Je ne vois rien. Allume la lumière!
-I can't see anything. Turn on the light!
-
-Tu n'entends rien. Enlève ton casque!
-You can't hear anything. Take off your headphones!
-
-Enlève ton manteau.
-Take off your coat.
-
-Enlève tes chaussures.
-Take off your shoes.
-
-Enlève ta casquette.
-Take off your cap.
-
-Je n'ai rien entendu.
-I didn't hear anything.
-
-Je n'ai rien compris.
-I didn't understand anything.
-
-Je ne plus mangé dans ce restaurant depuis...
-I haven't eaten in this restaurant since...
-
-Je ne vois personne dans le jardin. Où sont ils?
-I can't see anyone in the garden. Where are they?
-
-C'est une très bonne personne.
-She's a very good person.
-
-C'est une très gentille personne.
-She's a very nice person.
-
-Tu n'entends personne dans la salle de réunion parce qu'ils sont tous partis.
-You can't hear anyone in the meeting room because they are all gone.
-
-Je n'ai vu personne.
-I didn't see anyone.
-
-Je n'ai entendu personne.
-I didn't hear anyone.
-
-Vous ne faites jamais vos devoirs.
-You never do your homework.
-
-Elle ne sont jamais d'accord.
-They never agree.
-
-Tu n'es jamais allé à Londres? Tu devrais!
-You've never been to London? You should go!
-
-Je n'ai aucun livre en allemand.
-I don't have any books in german.
-
-Elle n'a aucune personnalité.
-She doesn't have any personality.
-
-Vous n'avez aucun droit de lui parler comme cela.
-You have any right to speak to him/her this way.
-
-Elle n'a acune idée de ce qu'elle va acheter pour son anniversaire.
-She doesn't have any idea what she's going to buy for her/his birthday.
-
-Je ne pratique plus la danse.
-I no longer practice dancing.
-
-Je ne comprends rien, quand il parle.
-I don't understand anything when he speaks.
-
-Il n'y a personne dans le théâtre.
-There is no one in the theatre.
-
-Je n'écoute jamis la radio.
-I never listen to the radio.
-
-Ça n'a aucun sens.
-It doesn't make any sense.
-
-Je suis d'accord.
-I agree.
-
-Je ne suis pas d'accord.
-I don't agree.
-
-Vous avez faim?
-Are you hungry?
-
-Vous n'avez pas faim? Si, j'ai très faim!
-You are not hungry, are you? Yes, I am very hungry!
-
-Vous n'avez jamais froid? Si, j'ai froid quelques fois!
-You're never cold, are you? Yes, I get cold sometimes!
-
-C'est stupide ce qu'il a dit, non? Non, c'est très bien!
-That was a stupid thing to say, wasn't it? No, that's very good!
-
-C'est un restaurant grastronomique.
-It's a gourmet restaurant.
-
-J'ai reçu le numéro de téléphone, ansi que les commandes des invités et ja vais appeler directement.
-I got the phone number, as well as the guests orders, and I will call directly.
-
-Bonjour! Oui, bonjour monsieur, j'appelle pour une commande pour dimanche, pour un anniversaire.
-Hello! Yes, hello sir, I'm calling to place an order, for sunday, for a birthday.
-
-Oui, une petite seconde... Combien de personnes madame?
-Yes, just a second... How many people, madam?
-
-Nous serons sept. Sept, pour dimanche?
-There will be seven. Seven, for sunday?
-
-Oui tout à fait, dimance midi.
-Yes, that's right, sunday at noon.
-
-Comme entrée, nous aurons cinq cèpes, et une salade de légumes.
-For appetizers, we will have five of the porcini, and a garden salade.
-
-Alors, un crabe, un saumon, et cinq ravioles: ça fait sept.
-So, one crab, one salmon, and five ravioli: that's seven.
-
-Pour les plats, s'il vous plaît.
-For the main dishes, please.
-
-Alors, pour les plats: du boeuf, on en aimerais trois.
-So, for the main dishes: beef, we would like three.
-
-Combien? Trois. Allez, trois boeufs, très bien, c'est marqué!
-How many? Three. Alright, three beef, ok, noted!
-
-Trois boeufs, trois poissons. Et non, il y a un problème vous êtes sept!
-Three beef, three fish. There's a problem, you are seven!
-
-Oui, sauf qu'il y a une qui va casser les pieds parce qu'elle est végétarienne.
-Yes, except that there is one who is a pain in the ass because she's a vegetarian.
-
-D'accord, ça me manquait!
-Ok, that's what I was missing!
-
-C'est à dire pas de poisson, pas de viande, c'est ça?
-That means no fish, no meat, right?
-
-Et les oeufs, elle mange ou pas? Oui.
-And eggs, does she eat those, or not? Yes.
-
-Alors, on va faire oeuf, légumes, féculents. 
-So, we'll do eggs, veggies and a starch.
-
-Et en dessert, s'il vous plaît?
-And for dessert, please?
-
-Vers quelle heure vous passez?
-What time are coming by?
-
-Dites-moi. Pas avant onze heures! 
-Let me know. Not before eleven!
-
-Il faut servir ça chaud ou est-ce qu'on peut le réchauffer?
-Do you have to serve it hot or can we heat it up?
-
-Non, c'est a réchauffer.
-No, it's to be reheated.
-
-Quando on vous donne les plats, on vous explique comment réchauffer tout ça.
-When we give you the dishes, we explain how to reheat them.
-
-Dans ce cas, vers midi. Allez, midi. 
-In that case, around noon. Alright, noon.
+# Tu les as invités à la soirée samedi prochain ? 
+# Você os convidou para a festa no próximo sábado?
+# 
+# Dans la salle de bains, J'y prends ma douche tous les matins.
+# In the bathroom, I shower there every morning.
+# 
+# À la bibliothèque, nous y lisons des livres.
+# At the library, we read books.
+# 
+# À la boulangerie, nous y achetons des croissants pour le petit-déjeuner.
+# At bakery, we buy croissants for breakfast.
+# 
+# Dans les magasins, j'y fais du shopping.
+# In the stores, I shop.
+# 
+# Dans un café, j'y prends un verre avec mes amis.
+# At a coffee shop, I have something to drink there with my friends.
+# 
+# Tu connais Paris? Oui, j'y suis allé l'année dernière.
+# Do you know Paris? Yes, I went there last year.
+# 
+# Je vais au cinéma ce soir.
+# I'm going to the movies tonight.
+# 
+# Ha oui? Tu y va avec qui?
+# Oh yeah? Who are you going there with?
+# 
+# Tu vas souvent à Paris? Oui, j'essaye d'y aller assez souvent.
+# Do you go frequently to Paris? Yes, I try to go there quite often.
+# 
+# Tu connais Barcelone? Oui, nous y sommes allés l'année dernière.
+# Do you know Barcelona? Yes, we went there last year.
+# 
+# Ok, j'y vais!
+# Ok, I'm leaving!
+# 
+# On y va?
+# Shall we go?
+# 
+# Allons-y!
+# Let's go!
+# 
+# Allez-y!
+# Go ahead!
+# 
+# Tu as des livres sur les États-Unis? Oui, j'en ai trois très intéressants.
+# Do you have any books about the United States? Yes, I three very interesting ones.
+# 
+# Vous voulez du gâteau? Oui, j'en voudrais un morceau.
+# Would you like some cake? Yes, I'd like a piece of it.
+# 
+# Il y a du pain? Oui, j'en ai acheté hier.
+# Is there some bread? Yes, I bought some yesterday.
+# 
+# Il y a une baguette de pain.
+# There's a baguette of bread.
+# 
+# Il y a de l'eau dans le frigo? Oui, j'en ai mis trois bouteilles.
+# Is there some water in the fridge? Yes, I put three bottles in it.
+# 
+# Tu te souviens de Marie? Oui, je m'en souviens très bien.
+# Do you remember Marie? Yes, I remember her very well.
+# 
+# Il s'en souvient? Il s'en souvient parfaitement.
+# Does he remember her? He remembers her perfectly.
+# 
+# Tu parles souvent de ton père. Oui, j'en parles très souvent. 
+# You often talk about your father. Yes, I talk about him very often.
+# 
+# Elle s'occupe de ses enfants le week-end? Bien sûr, elle s'en occupe tous les jours.
+# Does she take care of her children on the weekend? Of course, she takes care of them every day.
+# 
+# Je ne mange pas de chocolat, parce que je suis allergique.
+# I don't eat chocolate because I'm allergic.
+# 
+# Je ne mange plus de chocolat depuis que j'ai commencé mon régime.
+# I haven't eaten any chocolate since I started my diet.
+# 
+# Je n'aime pas ce type de musique.
+# I don't like this kind of music.
+# 
+# Je n'aime plus ce type de musique.
+# I don't like this kind of musique anymore.
+# 
+# Je besoin de plus de temps.
+# I need more time.
+# 
+# Je veux plus de temps.
+# I want more time.
+# 
+# Il n'aime plus ce type de musique.
+# He no longer likes this type of music.
+# 
+# Je ne vois rien. Allume la lumière!
+# I can't see anything. Turn on the light!
+# 
+# Tu n'entends rien. Enlève ton casque!
+# You can't hear anything. Take off your headphones!
+# 
+# Enlève ton manteau.
+# Take off your coat.
+# 
+# Enlève tes chaussures.
+# Take off your shoes.
+# 
+# Enlève ta casquette.
+# Take off your cap.
+# 
+# Je n'ai rien entendu.
+# I didn't hear anything.
+# 
+# Je n'ai rien compris.
+# I didn't understand anything.
+# 
+# Je ne plus mangé dans ce restaurant depuis...
+# I haven't eaten in this restaurant since...
+# 
+# Je ne vois personne dans le jardin. Où sont ils?
+# I can't see anyone in the garden. Where are they?
+# 
+# C'est une très bonne personne.
+# She's a very good person.
+# 
+# C'est une très gentille personne.
+# She's a very nice person.
+# 
+# Tu n'entends personne dans la salle de réunion parce qu'ils sont tous partis.
+# You can't hear anyone in the meeting room because they are all gone.
+# 
+# Je n'ai vu personne.
+# I didn't see anyone.
+# 
+# Je n'ai entendu personne.
+# I didn't hear anyone.
+# 
+# Vous ne faites jamais vos devoirs.
+# You never do your homework.
+# 
+# Elle ne sont jamais d'accord.
+# They never agree.
+# 
+# Tu n'es jamais allé à Londres? Tu devrais!
+# You've never been to London? You should go!
+# 
+# Je n'ai aucun livre en allemand.
+# I don't have any books in german.
+# 
+# Elle n'a aucune personnalité.
+# She doesn't have any personality.
+# 
+# Vous n'avez aucun droit de lui parler comme cela.
+# You have any right to speak to him/her this way.
+# 
+# Elle n'a acune idée de ce qu'elle va acheter pour son anniversaire.
+# She doesn't have any idea what she's going to buy for her/his birthday.
+# 
+# Je ne pratique plus la danse.
+# I no longer practice dancing.
+# 
+# Je ne comprends rien, quand il parle.
+# I don't understand anything when he speaks.
+# 
+# Il n'y a personne dans le théâtre.
+# There is no one in the theatre.
+# 
+# Je n'écoute jamis la radio.
+# I never listen to the radio.
+# 
+# Ça n'a aucun sens.
+# It doesn't make any sense.
+# 
+# Je suis d'accord.
+# I agree.
+# 
+# Je ne suis pas d'accord.
+# I don't agree.
+# 
+# Vous avez faim?
+# Are you hungry?
+# 
+# Vous n'avez pas faim? Si, j'ai très faim!
+# You are not hungry, are you? Yes, I am very hungry!
+# 
+# Vous n'avez jamais froid? Si, j'ai froid quelques fois!
+# You're never cold, are you? Yes, I get cold sometimes!
+# 
+# C'est stupide ce qu'il a dit, non? Non, c'est très bien!
+# That was a stupid thing to say, wasn't it? No, that's very good!
+# 
+# C'est un restaurant grastronomique.
+# It's a gourmet restaurant.
+# 
+# J'ai reçu le numéro de téléphone, ansi que les commandes des invités et ja vais appeler directement.
+# I got the phone number, as well as the guests orders, and I will call directly.
+# 
+# Bonjour! Oui, bonjour monsieur, j'appelle pour une commande pour dimanche, pour un anniversaire.
+# Hello! Yes, hello sir, I'm calling to place an order, for sunday, for a birthday.
+# 
+# Oui, une petite seconde... Combien de personnes madame?
+# Yes, just a second... How many people, madam?
+# 
+# Nous serons sept. Sept, pour dimanche?
+# There will be seven. Seven, for sunday?
+# 
+# Oui tout à fait, dimance midi.
+# Yes, that's right, sunday at noon.
+# 
+# Comme entrée, nous aurons cinq cèpes, et une salade de légumes.
+# For appetizers, we will have five of the porcini, and a garden salade.
+# 
+# Alors, un crabe, un saumon, et cinq ravioles: ça fait sept.
+# So, one crab, one salmon, and five ravioli: that's seven.
+# 
+# Pour les plats, s'il vous plaît.
+# For the main dishes, please.
+# 
+# Alors, pour les plats: du boeuf, on en aimerais trois.
+# So, for the main dishes: beef, we would like three.
+# 
+# Combien? Trois. Allez, trois boeufs, très bien, c'est marqué!
+# How many? Three. Alright, three beef, ok, noted!
+# 
+# Trois boeufs, trois poissons. Et non, il y a un problème vous êtes sept!
+# Three beef, three fish. There's a problem, you are seven!
+# 
+# Oui, sauf qu'il y a une qui va casser les pieds parce qu'elle est végétarienne.
+# Yes, except that there is one who is a pain in the ass because she's a vegetarian.
+# 
+# D'accord, ça me manquait!
+# Ok, that's what I was missing!
+# 
+# C'est à dire pas de poisson, pas de viande, c'est ça?
+# That means no fish, no meat, right?
+# 
+# Et les oeufs, elle mange ou pas? Oui.
+# And eggs, does she eat those, or not? Yes.
+# 
+# Alors, on va faire oeuf, légumes, féculents. 
+# So, we'll do eggs, veggies and a starch.
+# 
+# Et en dessert, s'il vous plaît?
+# And for dessert, please?
+# 
+# Vers quelle heure vous passez?
+# What time are coming by?
+# 
+# Dites-moi. Pas avant onze heures! 
+# Let me know. Not before eleven!
+# 
+# Il faut servir ça chaud ou est-ce qu'on peut le réchauffer?
+# Do you have to serve it hot or can we heat it up?
+# 
+# Non, c'est a réchauffer.
+# No, it's to be reheated.
+# 
+# Quando on vous donne les plats, on vous explique comment réchauffer tout ça.
+# When we give you the dishes, we explain how to reheat them.
+# 
+# Dans ce cas, vers midi. Allez, midi. 
+# In that case, around noon. Alright, noon.
