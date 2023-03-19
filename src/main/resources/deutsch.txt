@@ -11688,6 +11688,42 @@
 # Sie hat den schwarzen Laptop. Sie hat die schwarzen Laptops.
 # She has the black laptop. She has the black laptops.
 # 
+Ich habe eine Beratung von einem Finanzberater erhalten, bevor ich in Aktien investiert habe.
+Recebi aconselhamento de um consultor financeiro antes de investir em ações.
+
+Das Unternehmen bietet Beratungsdienste für kleine und mittlere Unternehmen an.
+A empresa oferece serviços de consultoria para pequenas e médias empresas.
+
+Meine Freundin hat mir eine Beratung bei ihrem Friseur empfohlen.
+Minha amiga me recomendou aconselhamento com o cabeleireiro dela.
+
+Der Anwalt gab mir eine Beratung, bevor ich den Vertrag unterschrieben habe.
+O advogado me deu aconselhamento antes de assinar o contrato.
+
+Bevor ich meine Masterarbeit geschrieben habe, habe ich eine Beratung mit meinem Professor vereinbart.
+Antes de escrever minha tese de mestrado, eu agendei uma consulta com meu professor.
+
+Mein Vater gab mir den Rat, immer hart zu arbeiten, um erfolgreich zu sein.
+Meu pai me aconselhou a sempre trabalhar duro para ser bem-sucedido.
+
+Der Nachbar gab mir den Rat, ein gutes Sicherheitssystem für mein Haus zu installieren.
+Meu vizinho me aconselhou a instalar um bom sistema de segurança em minha casa.
+
+Ich habe den Rat meines Freundes befolgt und das neue Restaurant in der Stadt ausprobiert.
+Segui o conselho do meu amigo e experimentei o novo restaurante da cidade.
+
+Der Lehrer gab den Schülern den Rat, ihre Hausaufgaben immer rechtzeitig zu erledigen.
+O professor aconselhou os alunos a sempre fazerem suas tarefas de casa a tempo.
+
+Meine Mutter gab mir den Rat, regelmäßig Sport zu treiben, um gesund zu bleiben.
+Minha mãe me aconselhou a praticar esportes regularmente para manter uma boa saúde.
+
+Ich habe mich an den Kundenservice gewendet, um mein Problem zu lösen. 
+Eu entrei em contato com o serviço de atendimento ao cliente para resolver meu problema.
+
+Wenn du Fragen hast, kannst du dich gerne an mich wenden. 
+Se você tiver dúvidas, pode entrar em contato comigo.
+
 Hast du scho den Müll rausgetragen?
 Have you already taken out the trash? - inf
 
