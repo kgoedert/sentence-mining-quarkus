@@ -13455,323 +13455,323 @@
 # De comprarlo, cómpralo ya.
 # Se for comprá-lo, compre agora.
 # 
-# A ser possible, venid antes de las siete.
-# Se possível, venha antes das sete.
+# # A ser possible, venid antes de las siete.
+# # Se possível, venha antes das sete.
+# # 
+# # A decir verdad, no me parece justo el acuerdo.
+# # Para dizer a verdade, não acho justo o acordo.
+# # 
+# # A juzgar por sus actos, no me parece que podamos fiarnos de Jorge.
+# # A julgar por suas ações, acho que não podemos confiar em Jorge.
 # 
-# A decir verdad, no me parece justo el acuerdo.
-# Para dizer a verdade, não acho justo o acordo.
+# Si tuvieras dinero, te invitaria.
+# Se você tivesse dinheiro, eu o convidaria.
 # 
-# A juzgar por sus actos, no me parece que podamos fiarnos de Jorge.
-# A julgar por suas ações, acho que não podemos confiar em Jorge.
-
-Si tuvieras dinero, te invitaria.
-Se você tivesse dinheiro, eu o convidaria.
-
-Si fueras más joven, tendrías más posibilidades de encontrar empleo.
-Se você fosse mais jovem, teria mais chances de encontrar um emprego.
-
-Si fueras más amable, tendrías más amigos.
-Se você fosse mais gentil, teria mais amigos.
-
-Si trabajaras más, podrías llegar a jefe de sección.
-Se você trabalhasse mais, poderia se tornar um chefe de seção.
-
-Si Jacobo tuviera más paciencia, sería mejor profesor.
-Se Jacobo tivesse mais paciência, seria um professor melhor.
-
-Si llamara Roberto, no le digas que estoy.
-Se Roberto ligar, não diga a ele que estou aqui.
-
-Si Raúl te pidiera dinero, dáselo.
-Se Raúl lhe pedir dinheiro, dê a ele.
-
-Si por casualidad mañana estuviera bien, te aviso.
-Se por acaso amanhã eu estiver bem, te aviso.
-
-Si estuviera, desde luego que me escuchaba.
-Se estivesse, é claro que me ouviria.
-
-Si me ofrecieran el puesto, lo acepataba.
-Se eles me oferecessem o cargo, eu aceitaria.
-
-Si tuvieras agallas, presentabas la denuncia ahora mismo.
-Se você tivesse coragem, faria a denúncia agora mesmo.
-
-De encontrar un nuevo trabajo, lo mantendría como fuera.
-Se ele encontrasse um novo emprego, ele o manteria como estava.
-
-Si hubieras trabajado más antes, ahora no tendrías problemas.
-Se você tivesse trabalhado mais antes, agora não teria problemas.
-
-Si no hubieses emigrado a México, ahora serías rico.
-Se você não tivesse imigrado para o México, estaria rico agora.
-
-Si hubieras reservado mesa, mañana podríamos ir a cenar a Casa Luz.
-Se tivesses reservado mesa, amanhã podíamos ir jantar à Casa Luz.
-
-Si hubiera conocido antes a Elena, seguramente nos habríamos casado.
-Se eu tivesse conhecido Elena antes, certamente estaríamos casados.
-
-Si hubieras sido más joven, habrias tenido más posibilidades de encontrar empleo.
-Se você fosse mais jovem, teria mais chances de encontrar um emprego.
-
-Si hubieras me hecho caso, ahora no tendría ningún problema.
-Se você tivesse me ouvido, agora eu não teria nenhum problema.
-
-Si Marta hubiera tenido hijos, ahora no estaría sola.
-Se Marta tivesse filhos, agora não estaria sozinha.
-
-Si hubieras me hecho caso, habrías llegado antes a Málaga.
-Se você tivesse me ouvido, teria chegado a Málaga mais cedo.
-
-Si Marta hubiera tenido hijos, habría sido muy feliz.
-Se Marta tivesse filhos, teria ficado muito feliz.
-
-Si hubiéramos hecho la reserva, ahora no tendríamos que estar esperando.
-Se tivéssemos feito a reserva, agora não teríamos que esperar.
-
-Si no hubiera fallado el penalti, habríamos ganado.
-Se o pênalti não tivesse sido perdido, teríamos vencido.
-
-De haberte visto, te habría saludado.
-Se eu tivesse te visto, teria te cumprimentado.
-
-De haber tenido tiempo, habría pasado la diapositivas al ordenador.
-Se tivesse tempo, ele teria carregado os slides no computador.
-
-Llávate el diccionario, pero siempre que me lo devuelvas mañana.
-Leve o dicionário com você, desde que me devolva amanhã.
-
-Puedes usar mi ordenador, con tal que lo cuides.
-Você pode usar meu computador, contanto que você cuide dele.
-
-Podéis salir hoy, con la condición de regreséis antes de las doce.
-Você pode sair hoje, desde que volte antes do meio-dia.
-
-Te lo diré a condición de que guardes el secreto.
-Eu vou te contar com a condição de que você guarde o segredo.
-
-Regreseré temprano, a menos que haya atasco de tráfico.
-Voltarei cedo, a menos que haja um engarrafamento.
-
-Vou a preparear la comida a no ser que queráis comer fuera.
-Vou preparar a comida, a menos que você queira comer fora.
-
-Me quedaré con Elvira, salvo que prefiera estar sola.
-Ficarei com Elvira, a não ser que ela prefira ficar sozinha.
-
-Yo no voy sin que me inviten.
-Não vou sem ser convidado.
-
-Con tal de que te vayas, te presto el coche.
-Contanto que você vá, eu te empresto o carro.
-
-A no ser que nos demos prisa, llegaremos tarde.
-A menos que nos apressemos, vamos nos atrasar.
-
-Le he cambiado el turno con la condición de que me lo cambie él cuando yo lo necesite.
-Mudei seu turno com a condição de que ele mude quando eu precisar.
-
-A menos que pase algo, estaré aquí a las dos.
-A menos que algo aconteça, estarei aqui às duas.
-
-A no ser que haya sido Antonio, no sé quién puede haber llamado.
-A menos que tenha sido Antonio, não sei quem poderia ter ligado.
-
-Te llevaría a casa siempre que Juan me dejara el coche.
-Eu levaria você para casa, desde que Juan me desse o carro.
-
-Te lo diría a la condición de que guardaras el secreto.
-Eu diria a você com a condição de que você guarde o segredo.
-
-Salvo que me lo pidieras tú, no iría a la cena. 
-A menos que você me pedisse, eu não iria jantar.
-
-Te dije lo de Pablo a condición de que guardaras el secreto.
-Eu lhe contei sobre Pablo com a condição de que você guardasse o segredo.
-
-Emilio no nos invitaba nunca a no ser que fuera su cumpleaños.
-Emilio nunca nos convidava, a menos que fosse seu aniversário.
-
-Con tal que me hubieras avisado un día antes, te habría ayudado.
-Se você tivesse me contado um dia antes, eu teria te ajudado.
-
-En caso de que haya algún problema, me llamas.
-Caso haja algum problema, você me liga.
-
-En caso de que haya algún problema, me llamará.
-Se houver algum problema, ele me ligará.
-
-En caso de que tuvieran algún problema, nos lo dirían.
-Caso eles tivessem algum problema, eles nos contariam.
-
-En caso de que hubiera habido alguna cancelación, nos habrían avisado.
-Caso houvesse algum cancelamento, teríamos sido avisados.
-
-En caso de que hubiera algún problema, llámame.
-Caso haja algum problema, me ligue.
-
-En caso de tener tiempo, te llamo.
-Se eu tiver tempo, ligo para você.
-
-En caso de no poder asistir, os lo diré.
-Caso não possa comparecer, avisarei.
-
-En caso de no haber entradas, nos volveríamos a casa.
-Caso não houvesse ingressos, iríamos para casa.
-
-En caso de haber estado cerrado, nos habríamos vuelto.
-Se tivesse sido fechado, teríamos retornado.
-
-En caso de no poder asistir, dínoslo.
-Caso não possa comparecer, avise-nos.
-
-En caso de jaleo, nos vamos.
-Em caso de problemas, partimos.
-
-En caso de incendio, no uséis el ascensor.
-Em caso de incêndio, não use o elevador.
-
-Aunque no están de acuerdo en muchas cosas, son muy buenos amigos.
-Embora eles discordem em muitas coisas, eles são bons amigos.
-
-A pesar del calor, bajamos andando a la estación.
-Apesar do calor, descemos para a estação.
-
-Por más que le dijen a Javi que estudie, no estudia.
-Por mais que mandassem Javi estudar, ele não estuda.
-
-Aunque que digan que es un buen presidente, yo no estoy de acuerdo.
-Embora digam que ele é um bom presidente, eu não concordo.
-
-A pesar de que discuten mucho, se llevan muy bien.
-Embora briguem muito, eles se dão muito bem.
-
-A pesar de que lo digan, de fútbol no saben nada.
-Apesar do que dizem, não sabem nada de futebol.
-
-Aun cuando le ayudemos, va a tardar tiempo en recuperarse.
-Mesmo que o ajudemos, vai demorar para ele se recuperar.
-
-Pese a que escribe bien, ese escritor no vende mucho..
-Embora escreva bem, esse escritor não vende muito.
-
-Por más que lo intenta, no me gana nunca.
-Não importa o quanto ele tente, ele nunca me vence.
-
-Por más consejos que le des, no te va a hacer caso.
-Não importa quanto conselho você dê a ele, ele não vai te ouvir.
-
-Por mucho que cueste esa chaqueta no puede ser muy cara.
-Não importa quanto custe essa jaqueta, ela não pode ser muito cara.
-
-No me gana nunca, por más que lo intenta.
-Ele nunca me bate, não importa o quanto tente.
-
-A pesar de que han hecho cambios, la economía no mejora.
-Apesar de terem feito mudanças, a economia não está melhorando.
-
-A pesar de que hicieran cambios, la economía no mejoraría.
-Mesmo que fizessem mudanças, a economia não melhoraria.
-
-Por más concejos que le doy, no logro que cambie.
-Não importa quanto conselho eu dê a ele, não consigo fazê-lo mudar.
-
-Ya conoces a Alberto. Por más concejos que le den, no cambia.
-Você já conhece o Alberto. Não importa quantos conselhos lhe dêem, ele não muda.
-
-Saúl no se inmuta. Por más que lo critiquen, él sigue haciendo lo que quiere.
-Saul não hesita. Por mais que o critiquem, ele continua fazendo o que quer.
-
-Por mucho que hagan, la economía no va a mejorar.
-Por mais que façam, a economia não vai melhorar.
-
-Este jamón no está bueno por mucho que te haya costado.
-Este presunto não é bom, não importa o quanto lhe custe.
-
-Por más que hayas estudiado esta semana, creo que no va a ser suficiente.
-Por mais que você tenha estudado esta semana, acho que não será suficiente.
-
-Ernesto no habla alemán, aunque haya vivido en Hamburgo.
-Ernesto não fala alemão, embora tenha morado em Hamburgo.
-
-No sé cuánto le costó el piso, pero por mucho que le costara, no sería muy caro.
-Não sei quanto custou o apartamento, mas por mais que custasse, não seria muito caro.
-
-Creo que por más que se esforzara Antonio no lograría ser nunca médico.
-Acho que por mais que Antonio tentasse, ele nunca seria médico.
-
-Aunque hubiera frenado, no habría evitado el accidente.
-Mesmo que eu tivesse freado, não teria evitado o acidente.
-
-Apesar del calor, tuvimos que subir andando hasta la sexta planta.
-Apesar do calor, tivemos que subir até o sexto andar.
-
-Pese a todo, me cae simpática Raquel.
-Apesar de tudo, gosto da Raquel.
-
-Apesar de no haber vivido nunca en España, habla muy bien español.
-Apesar de nunca ter morado na Espanha, ele fala muito bem o espanhol.
-
-Por fuerte que parezca Ramiro, no puede con el sillón.
-Por mais forte que Ramiro pareça, ele não consegue com a cadeira.
-
-No tengas miedo. Si bien hay mucha nieve, parece que no está helada.
-Não tenha medo. Embora haja muita neve, parece que não é gelada.
-
-Por mucha gente que haya, no hay más de cincuenta personas.
-Não importa quantas pessoas haja, não há mais de cinquenta pessoas.
-
-Por poco que esperáramos, esperamos más de uma hora.
-Por menos que esperássemos, esperamos por mais de uma hora.
-
-Por pocos libros que tenga, tengo más de mil.
-Para poucos livros que tenho, tenho mais de mil.
-
-Por muy fuerte que parezca, no me asusta.
-Por mais forte que pareça, não me assusta.
-
-Por temprano que salieran, no salieron antes de las ocho.
-Tão cedo quanto eles saíram, eles não saíram antes das oito.
-
-Si bien hace frío, la verdad es que aquí se está muy bien.
-Embora esteja frio, a verdade é que aqui é muito bom.
-
-Si bien es cierto que lo he dicho yo, no quería ofender.
-Embora seja verdade que eu disse isso, não quis ofender.
-
-No ayuda así lo maten.
-Isso não ajuda, então eles o matam.
-
-Porque seas más alto no me vas a asustar.
-Como você é mais alto, não vai me assustar.
-
-No me lo creo ni aunque me lo digas tú.
-Eu não acredito mesmo que você me diga.
-
-Ni aunque me lo regalaron usaría yo ese coche.
-Mesmo que me dessem, eu usaria aquele carro.
-
-Aun teniendo dos carreras, parece tonto.
-Mesmo tendo duas carreiras, parece bobagem.
-
-Incluso habiéndolo visto yo mismo, todavía no me lo creo.
-Mesmo tendo visto por mim mesmo, ainda não consigo acreditar.
-
-No logra adelgazar ni siquiera haciendo ejercicio.
-Ele não consegue perder peso mesmo fazendo exercícios.
-
-Aun con dudas, acepté colaborar con Julia.
-Mesmo com dúvidas, aceitei colaborar com Julia.
-
-Incluso con todos los defectos, Ana me gusta mucho.
-Mesmo com todos os defeitos, gosto muito da Ana.
-
-La pierna no mejora ni siquiera con los ejercicios de rehabilitación.
-A perna não melhora mesmo com exercícios de reabilitação.
-
-Es un hotel muy caro, y eso que está todo incluido.
-É um hotel muito caro e com tudo incluído.
-
-Insistió en comprarse un coche de segunda mano, y eso que ya le había avisado de que suelen estar mal.
-Ele insistiu em comprar um carro usado, mesmo já tendo avisado que eles costumam ser ruins.
+# Si fueras más joven, tendrías más posibilidades de encontrar empleo.
+# Se você fosse mais jovem, teria mais chances de encontrar um emprego.
+# 
+# Si fueras más amable, tendrías más amigos.
+# Se você fosse mais gentil, teria mais amigos.
+# 
+# Si trabajaras más, podrías llegar a jefe de sección.
+# Se você trabalhasse mais, poderia se tornar um chefe de seção.
+# 
+# Si Jacobo tuviera más paciencia, sería mejor profesor.
+# Se Jacobo tivesse mais paciência, seria um professor melhor.
+# 
+# Si llamara Roberto, no le digas que estoy.
+# Se Roberto ligar, não diga a ele que estou aqui.
+# 
+# Si Raúl te pidiera dinero, dáselo.
+# Se Raúl lhe pedir dinheiro, dê a ele.
+# 
+# Si por casualidad mañana estuviera bien, te aviso.
+# Se por acaso amanhã eu estiver bem, te aviso.
+# 
+# Si estuviera, desde luego que me escuchaba.
+# Se estivesse, é claro que me ouviria.
+# 
+# Si me ofrecieran el puesto, lo acepataba.
+# Se eles me oferecessem o cargo, eu aceitaria.
+# 
+# Si tuvieras agallas, presentabas la denuncia ahora mismo.
+# Se você tivesse coragem, faria a denúncia agora mesmo.
+# 
+# De encontrar un nuevo trabajo, lo mantendría como fuera.
+# Se ele encontrasse um novo emprego, ele o manteria como estava.
+# 
+# Si hubieras trabajado más antes, ahora no tendrías problemas.
+# Se você tivesse trabalhado mais antes, agora não teria problemas.
+# 
+# Si no hubieses emigrado a México, ahora serías rico.
+# Se você não tivesse imigrado para o México, estaria rico agora.
+# 
+# Si hubieras reservado mesa, mañana podríamos ir a cenar a Casa Luz.
+# Se tivesses reservado mesa, amanhã podíamos ir jantar à Casa Luz.
+# 
+# Si hubiera conocido antes a Elena, seguramente nos habríamos casado.
+# Se eu tivesse conhecido Elena antes, certamente estaríamos casados.
+# 
+# Si hubieras sido más joven, habrias tenido más posibilidades de encontrar empleo.
+# Se você fosse mais jovem, teria mais chances de encontrar um emprego.
+# 
+# Si hubieras me hecho caso, ahora no tendría ningún problema.
+# Se você tivesse me ouvido, agora eu não teria nenhum problema.
+# 
+# Si Marta hubiera tenido hijos, ahora no estaría sola.
+# Se Marta tivesse filhos, agora não estaria sozinha.
+# 
+# Si hubieras me hecho caso, habrías llegado antes a Málaga.
+# Se você tivesse me ouvido, teria chegado a Málaga mais cedo.
+# 
+# Si Marta hubiera tenido hijos, habría sido muy feliz.
+# Se Marta tivesse filhos, teria ficado muito feliz.
+# 
+# Si hubiéramos hecho la reserva, ahora no tendríamos que estar esperando.
+# Se tivéssemos feito a reserva, agora não teríamos que esperar.
+# 
+# Si no hubiera fallado el penalti, habríamos ganado.
+# Se o pênalti não tivesse sido perdido, teríamos vencido.
+# 
+# De haberte visto, te habría saludado.
+# Se eu tivesse te visto, teria te cumprimentado.
+# 
+# De haber tenido tiempo, habría pasado la diapositivas al ordenador.
+# Se tivesse tempo, ele teria carregado os slides no computador.
+# 
+# Llávate el diccionario, pero siempre que me lo devuelvas mañana.
+# Leve o dicionário com você, desde que me devolva amanhã.
+# 
+# Puedes usar mi ordenador, con tal que lo cuides.
+# Você pode usar meu computador, contanto que você cuide dele.
+# 
+# Podéis salir hoy, con la condición de regreséis antes de las doce.
+# Você pode sair hoje, desde que volte antes do meio-dia.
+# 
+# Te lo diré a condición de que guardes el secreto.
+# Eu vou te contar com a condição de que você guarde o segredo.
+# 
+# Regreseré temprano, a menos que haya atasco de tráfico.
+# Voltarei cedo, a menos que haja um engarrafamento.
+# 
+# Vou a preparear la comida a no ser que queráis comer fuera.
+# Vou preparar a comida, a menos que você queira comer fora.
+# 
+# Me quedaré con Elvira, salvo que prefiera estar sola.
+# Ficarei com Elvira, a não ser que ela prefira ficar sozinha.
+# 
+# Yo no voy sin que me inviten.
+# Não vou sem ser convidado.
+# 
+# Con tal de que te vayas, te presto el coche.
+# Contanto que você vá, eu te empresto o carro.
+# 
+# A no ser que nos demos prisa, llegaremos tarde.
+# A menos que nos apressemos, vamos nos atrasar.
+# 
+# Le he cambiado el turno con la condición de que me lo cambie él cuando yo lo necesite.
+# Mudei seu turno com a condição de que ele mude quando eu precisar.
+# 
+# A menos que pase algo, estaré aquí a las dos.
+# A menos que algo aconteça, estarei aqui às duas.
+# 
+# A no ser que haya sido Antonio, no sé quién puede haber llamado.
+# A menos que tenha sido Antonio, não sei quem poderia ter ligado.
+# 
+# Te llevaría a casa siempre que Juan me dejara el coche.
+# Eu levaria você para casa, desde que Juan me desse o carro.
+# 
+# Te lo diría a la condición de que guardaras el secreto.
+# Eu diria a você com a condição de que você guarde o segredo.
+# 
+# Salvo que me lo pidieras tú, no iría a la cena. 
+# A menos que você me pedisse, eu não iria jantar.
+# 
+# Te dije lo de Pablo a condición de que guardaras el secreto.
+# Eu lhe contei sobre Pablo com a condição de que você guardasse o segredo.
+# 
+# Emilio no nos invitaba nunca a no ser que fuera su cumpleaños.
+# Emilio nunca nos convidava, a menos que fosse seu aniversário.
+# 
+# Con tal que me hubieras avisado un día antes, te habría ayudado.
+# Se você tivesse me contado um dia antes, eu teria te ajudado.
+# 
+# En caso de que haya algún problema, me llamas.
+# Caso haja algum problema, você me liga.
+# 
+# En caso de que haya algún problema, me llamará.
+# Se houver algum problema, ele me ligará.
+# 
+# En caso de que tuvieran algún problema, nos lo dirían.
+# Caso eles tivessem algum problema, eles nos contariam.
+# 
+# En caso de que hubiera habido alguna cancelación, nos habrían avisado.
+# Caso houvesse algum cancelamento, teríamos sido avisados.
+# 
+# En caso de que hubiera algún problema, llámame.
+# Caso haja algum problema, me ligue.
+# 
+# En caso de tener tiempo, te llamo.
+# Se eu tiver tempo, ligo para você.
+# 
+# En caso de no poder asistir, os lo diré.
+# Caso não possa comparecer, avisarei.
+# 
+# En caso de no haber entradas, nos volveríamos a casa.
+# Caso não houvesse ingressos, iríamos para casa.
+# 
+# En caso de haber estado cerrado, nos habríamos vuelto.
+# Se tivesse sido fechado, teríamos retornado.
+# 
+# En caso de no poder asistir, dínoslo.
+# Caso não possa comparecer, avise-nos.
+# 
+# En caso de jaleo, nos vamos.
+# Em caso de problemas, partimos.
+# 
+# En caso de incendio, no uséis el ascensor.
+# Em caso de incêndio, não use o elevador.
+# 
+# Aunque no están de acuerdo en muchas cosas, son muy buenos amigos.
+# Embora eles discordem em muitas coisas, eles são bons amigos.
+# 
+# A pesar del calor, bajamos andando a la estación.
+# Apesar do calor, descemos para a estação.
+# 
+# Por más que le dijen a Javi que estudie, no estudia.
+# Por mais que mandassem Javi estudar, ele não estuda.
+# 
+# Aunque que digan que es un buen presidente, yo no estoy de acuerdo.
+# Embora digam que ele é um bom presidente, eu não concordo.
+# 
+# A pesar de que discuten mucho, se llevan muy bien.
+# Embora briguem muito, eles se dão muito bem.
+# 
+# A pesar de que lo digan, de fútbol no saben nada.
+# Apesar do que dizem, não sabem nada de futebol.
+# 
+# Aun cuando le ayudemos, va a tardar tiempo en recuperarse.
+# Mesmo que o ajudemos, vai demorar para ele se recuperar.
+# 
+# Pese a que escribe bien, ese escritor no vende mucho..
+# Embora escreva bem, esse escritor não vende muito.
+# 
+# Por más que lo intenta, no me gana nunca.
+# Não importa o quanto ele tente, ele nunca me vence.
+# 
+# Por más consejos que le des, no te va a hacer caso.
+# Não importa quanto conselho você dê a ele, ele não vai te ouvir.
+# 
+# Por mucho que cueste esa chaqueta no puede ser muy cara.
+# Não importa quanto custe essa jaqueta, ela não pode ser muito cara.
+# 
+# No me gana nunca, por más que lo intenta.
+# Ele nunca me bate, não importa o quanto tente.
+# 
+# A pesar de que han hecho cambios, la economía no mejora.
+# Apesar de terem feito mudanças, a economia não está melhorando.
+# 
+# A pesar de que hicieran cambios, la economía no mejoraría.
+# Mesmo que fizessem mudanças, a economia não melhoraria.
+# 
+# Por más concejos que le doy, no logro que cambie.
+# Não importa quanto conselho eu dê a ele, não consigo fazê-lo mudar.
+# 
+# Ya conoces a Alberto. Por más concejos que le den, no cambia.
+# Você já conhece o Alberto. Não importa quantos conselhos lhe dêem, ele não muda.
+# 
+# Saúl no se inmuta. Por más que lo critiquen, él sigue haciendo lo que quiere.
+# Saul não hesita. Por mais que o critiquem, ele continua fazendo o que quer.
+# 
+# Por mucho que hagan, la economía no va a mejorar.
+# Por mais que façam, a economia não vai melhorar.
+# 
+# Este jamón no está bueno por mucho que te haya costado.
+# Este presunto não é bom, não importa o quanto lhe custe.
+# 
+# Por más que hayas estudiado esta semana, creo que no va a ser suficiente.
+# Por mais que você tenha estudado esta semana, acho que não será suficiente.
+# 
+# Ernesto no habla alemán, aunque haya vivido en Hamburgo.
+# Ernesto não fala alemão, embora tenha morado em Hamburgo.
+# 
+# No sé cuánto le costó el piso, pero por mucho que le costara, no sería muy caro.
+# Não sei quanto custou o apartamento, mas por mais que custasse, não seria muito caro.
+# 
+# Creo que por más que se esforzara Antonio no lograría ser nunca médico.
+# Acho que por mais que Antonio tentasse, ele nunca seria médico.
+# 
+# Aunque hubiera frenado, no habría evitado el accidente.
+# Mesmo que eu tivesse freado, não teria evitado o acidente.
+# 
+# Apesar del calor, tuvimos que subir andando hasta la sexta planta.
+# Apesar do calor, tivemos que subir até o sexto andar.
+# 
+# Pese a todo, me cae simpática Raquel.
+# Apesar de tudo, gosto da Raquel.
+# 
+# Apesar de no haber vivido nunca en España, habla muy bien español.
+# Apesar de nunca ter morado na Espanha, ele fala muito bem o espanhol.
+# 
+# Por fuerte que parezca Ramiro, no puede con el sillón.
+# Por mais forte que Ramiro pareça, ele não consegue com a cadeira.
+# 
+# No tengas miedo. Si bien hay mucha nieve, parece que no está helada.
+# Não tenha medo. Embora haja muita neve, parece que não é gelada.
+# 
+# Por mucha gente que haya, no hay más de cincuenta personas.
+# Não importa quantas pessoas haja, não há mais de cinquenta pessoas.
+# 
+# Por poco que esperáramos, esperamos más de uma hora.
+# Por menos que esperássemos, esperamos por mais de uma hora.
+# 
+# Por pocos libros que tenga, tengo más de mil.
+# Para poucos livros que tenho, tenho mais de mil.
+# 
+# Por muy fuerte que parezca, no me asusta.
+# Por mais forte que pareça, não me assusta.
+# 
+# Por temprano que salieran, no salieron antes de las ocho.
+# Tão cedo quanto eles saíram, eles não saíram antes das oito.
+# 
+# Si bien hace frío, la verdad es que aquí se está muy bien.
+# Embora esteja frio, a verdade é que aqui é muito bom.
+# 
+# Si bien es cierto que lo he dicho yo, no quería ofender.
+# Embora seja verdade que eu disse isso, não quis ofender.
+# 
+# No ayuda así lo maten.
+# Isso não ajuda, então eles o matam.
+# 
+# Porque seas más alto no me vas a asustar.
+# Como você é mais alto, não vai me assustar.
+# 
+# No me lo creo ni aunque me lo digas tú.
+# Eu não acredito mesmo que você me diga.
+# 
+# Ni aunque me lo regalaron usaría yo ese coche.
+# Mesmo que me dessem, eu usaria aquele carro.
+# 
+# Aun teniendo dos carreras, parece tonto.
+# Mesmo tendo duas carreiras, parece bobagem.
+# 
+# Incluso habiéndolo visto yo mismo, todavía no me lo creo.
+# Mesmo tendo visto por mim mesmo, ainda não consigo acreditar.
+# 
+# No logra adelgazar ni siquiera haciendo ejercicio.
+# Ele não consegue perder peso mesmo fazendo exercícios.
+# 
+# Aun con dudas, acepté colaborar con Julia.
+# Mesmo com dúvidas, aceitei colaborar com Julia.
+# 
+# Incluso con todos los defectos, Ana me gusta mucho.
+# Mesmo com todos os defeitos, gosto muito da Ana.
+# 
+# La pierna no mejora ni siquiera con los ejercicios de rehabilitación.
+# A perna não melhora mesmo com exercícios de reabilitação.
+# 
+# Es un hotel muy caro, y eso que está todo incluido.
+# É um hotel muito caro e com tudo incluído.
+# 
+# Insistió en comprarse un coche de segunda mano, y eso que ya le había avisado de que suelen estar mal.
+# Ele insistiu em comprar um carro usado, mesmo já tendo avisado que eles costumam ser ruins.
