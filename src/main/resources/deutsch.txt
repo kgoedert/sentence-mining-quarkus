@@ -11680,293 +11680,323 @@
 # The architects are designing the layout of the building.
 # 
 # Die Besucher des Schlosses kaufen eine Eintrittskarte.
-# The castle's visitors buy a ticket.
+# # The castle's visitors buy a ticket.
+# # 
+# # Wir suchen das verlorene Mädchen. Wir suchen die verlorenen Mädchen.
+# # We look for the lost girl. We look for the lost girls.
+# # 
+# # Sie hat den schwarzen Laptop. Sie hat die schwarzen Laptops.
+# # She has the black laptop. She has the black laptops.
+# # 
+# Ich habe die Gelegenheit genutzt, um mich mit meinem Freund zu treffen. 
+# (Eu aproveitei a oportunidade para encontrar meu amigo.)
 # 
-# Wir suchen das verlorene Mädchen. Wir suchen die verlorenen Mädchen.
-# We look for the lost girl. We look for the lost girls.
+# Bei der Party gibt es die Gelegenheit, neue Leute kennenzulernen. 
+# (Na festa, há a oportunidade de conhecer novas pessoas.)
 # 
-# Sie hat den schwarzen Laptop. Sie hat die schwarzen Laptops.
-# She has the black laptop. She has the black laptops.
+# Das war eine einmalige Gelegenheit, die ich nicht verpassen wollte. 
+# (Foi uma oportunidade única que eu não quis perder.)
 # 
-Ich habe eine Beratung von einem Finanzberater erhalten, bevor ich in Aktien investiert habe.
-Recebi aconselhamento de um consultor financeiro antes de investir em ações.
-
-Das Unternehmen bietet Beratungsdienste für kleine und mittlere Unternehmen an.
-A empresa oferece serviços de consultoria para pequenas e médias empresas.
-
-Meine Freundin hat mir eine Beratung bei ihrem Friseur empfohlen.
-Minha amiga me recomendou aconselhamento com o cabeleireiro dela.
-
-Der Anwalt gab mir eine Beratung, bevor ich den Vertrag unterschrieben habe.
-O advogado me deu aconselhamento antes de assinar o contrato.
-
-Bevor ich meine Masterarbeit geschrieben habe, habe ich eine Beratung mit meinem Professor vereinbart.
-Antes de escrever minha tese de mestrado, eu agendei uma consulta com meu professor.
-
-Mein Vater gab mir den Rat, immer hart zu arbeiten, um erfolgreich zu sein.
-Meu pai me aconselhou a sempre trabalhar duro para ser bem-sucedido.
-
-Der Nachbar gab mir den Rat, ein gutes Sicherheitssystem für mein Haus zu installieren.
-Meu vizinho me aconselhou a instalar um bom sistema de segurança em minha casa.
-
-Ich habe den Rat meines Freundes befolgt und das neue Restaurant in der Stadt ausprobiert.
-Segui o conselho do meu amigo e experimentei o novo restaurante da cidade.
-
-Der Lehrer gab den Schülern den Rat, ihre Hausaufgaben immer rechtzeitig zu erledigen.
-O professor aconselhou os alunos a sempre fazerem suas tarefas de casa a tempo.
-
-Meine Mutter gab mir den Rat, regelmäßig Sport zu treiben, um gesund zu bleiben.
-Minha mãe me aconselhou a praticar esportes regularmente para manter uma boa saúde.
-
-Ich habe mich an den Kundenservice gewendet, um mein Problem zu lösen. 
-Eu entrei em contato com o serviço de atendimento ao cliente para resolver meu problema.
-
-Wenn du Fragen hast, kannst du dich gerne an mich wenden. 
-Se você tiver dúvidas, pode entrar em contato comigo.
-
-Hast du scho den Müll rausgetragen?
-Have you already taken out the trash? - inf
-
-Könntest du bitte den Müll raustragen?
-Could you please take out the trash? - inf
-
-Ich habe noch nicht gefrühstückt.
-I haven't had breakfast yet.
-
-Hast du schon gefrühstückt?
-Have you had breakfast yet? - inf
-
-Ich muss die Fenster putzen.
-I have to clean the windows today.
-
-Hast du dein Zimmer aufgeräumt?
-Have you cleaned up your room? - inf
-
-Ich habe heute das Badezimmer geputzt.
-I cleaned the bathroom today.
-
-Ich muss morgen früh aufstehen.
-I have to get up early tomorrow.
-
-Ich bin heute um 6 Uhr aufgestanden. Ich bin so müde.
-I got up at 6 am today. I am so tired.
-
-Wann bist du heute aufgestanden?
-When did you get up today? - inf
-
-Muss du heute arbeiten?
-Do you have to work today? - inf
-
-Ich muss morgen arbeiten.
-I have to work tomorrow.
-
-Ich fahre mit der U-Bahn.
-I'm taking the subway.
-
-Er fährt mit dem Taxi.
-He's taking the taxi.
-
-Wir fahren mit dem Auto.
-We're going by car.
-
-Er fährt mit der Bahn.
-He's taking the train.
-
-Jonas ist bei mir.
-Jonas is at my place.
-
-Der Hund ist bei uns.
-The dog is at our place.
-
-Der Schlüssel ist bei Florian.
-The key is at Florian's place.
-
-Ich bin bei meinen Eltern.
-I'm at my parents' place.
-
-Seid ihr bei Stephan?
-Are you guys at Stephan's place?
-
-Marko hat sein Handy immer bei sich.
-Marko always has his phone on him.
-
-Marko hat sein Handy immer dabei.
-Marko always has his phone on him.
-
-Hast du deine Tasche bei dir?
-Do you have your bag with you?
-
-der Koffer eines Mannes
-a man's suitcase
-
-der Lebenslauf einer Bewerberin
-an applicant's CV
-
-die Fassade eines Gebäudes
-a fachada de um prédio
-
-Das ist das Motorrad eines Kollegen.
-This is collegue's motorcycle.
-
-Das sind die Kinder einer Freundin.
-This is a friend's child.
-
-Das sind die Medikamente eines Patienten.
-This is a patient's medication.
-
-Die Handtasche einer Frau ist ein Universum.
-A woman's bag is a universe.
-
-Das ist die Tochter eines Landwirts.
-This is a farmer's daughter.
-
-Das sind die Kinder einer Nachbarin.
-Estes são os filhos de uma vizinha.
-
-Die Eltern eines Schülers haben den Kuchen mitgebracht.
-A student's parents brought the cake.
-
-Die Kinder eines Kollegen sind krank.
-A co-worker's kids are sick.
-
-Sie ist die Geschäftsführerin eines Kaufhauses.
-She ist the manager of a department store.
-
-Das ist die Praxis eines Gynäkologen.
-Esta é a clinica de um ginecologista.
-
-Das ist das Auto eines Freundes.
-This is a friend's car.
-
-Die Risiken eines Start-up-Unternehmens sind hoch.
-The risks of a start up are high.
-
-Die Mitarbeiter haben Angst von den Folgen einer Fusionierung.
-The employees are afraid of the consequences of a merger.
-
-Die Kosten einer Scheidung sind oft sehr hoch.
-The costs of a divorce are often very high.
-
-Der Lärm einer Großstadt ist oft unerträglich.
-The noise of a big city is often unbearable.
-
-Die Nerven eines Grundschullehrers sind stark.
-The nerves of an elementary school teacher are strong.
-
-Die Planung einer Hochzeit ist sehr aufwendig.
-The planning of a wedding is very time consuming.
-
-Johannes hat die große Orange. Johannes hat die großen Orangen.
-Johannes has the big orange. Johannes has the big oranges.
-
-Suse möchte das weiße Hemd. Suse möchte die weißen Hemden.
-Suse wants the white shirt. Suse wants the white shirts.
-
-Der Junge hat die schnelle Maus. Der Junge hat die schnellen Mäuse.
-The boy has the fast mouse. The boy has the fast mice.
-
-Er findet einen verlorenen Schlüssel. Er findet die verlorenen Schlüssel.
-He finds a lost key. He finds the lost keys.
-
-Er findet eine verlorene Katze. Er findet die verlorenen Katzen.
-He finds a lost cat. He finds the lost cats.
-
-Sie findet den verlorenen Löffel. Sie findet die verlorenen Löffel.
-She finds the lost spoon. She finds the lost spoons.
-
-Hans sucht den roten Ball. Hans sucht die roten Bälle.
-Hans looks for the red ball. Hans looks for the red balls.
-
-Hans sucht auch das braune Pferd. Hans sucht auch die braunen Pferde.
-Hans also looks for the brown horse. Hans also looks for the brown horses.
-
-Suse hat einen teuren Stift. Suse hat die teuren Stifte.
-Suse has an expensive pen. Suse has the expensive pencils.
-
-Sophie und Hans haben einen schwarzen Hund. Sophie und Hans haben die schwarzen Hunde.
-Sophie and Hans have a black dog. Sophie and Hans have the black dogs.
-
-Das Kind mag den weißen Zug. Das Kind mag die weißen Züge.
-The child likes the white train. The child likes the white train.
-
-Ich sehe eine Katze. 
-I see a cat.
-
-Ich sehe katzen. 
-I see cats.
-
-Ich sehe keine Katzen. 
-I don't see any cats.
-
-Ich sehe die Katze nicht. 
-I don't see a specific cat.
-
-Er hört einen Zug. Er hört keinen Zug.
-He hears a train. He does not hear a train.
-
-Da ist ein Zug. Da ist kein Zug.
-There is a train. There is no train.
-
-Frau Wagner sieht einen Hund. Frau Wagner sieht keinen Hund.
-Mrs Wagner sees a dog. Mrs Wagner does not see a dog.
-
-Da ist ein Mann. Da ist kein Mann.
-There is a man. There is no man.
-
-Wir fahren ein Auto. Wir fahren kein Auto.
-We are driving a car. We are not driving a car.
-
-Da ist ein Hund. Da ist kein Hund.
-There is a dog. There is no dog.
-
-Sie sieht einen Mann. Sie sieht keinen Mann.
-She sees a man. She doesn't see a man.
-
-Da ist eine Frau. Da ist keine Frau.
-There is a woman. There is no woman.
-
-Er sieht eine Frau. Er sieht keine Frau.
-He sees a woman. He sees no woman.
-
-Da ist ein Auto. Da ist kein Auto.
-There is a car. There is no car.
-
-Er hat ein Steak. Er hat kein Steak.
-He's got a steak. He doesn't have a steak.
-
-Da ist ein Steak. Da ist kein Steak.
-There's a steak. There is no steak.
-
-Das Kind hat eine Pampelmuse. Das Kind hat keine Pampelmuse.
-The child has a grapefruit. The child has no grapefruit.
-
-Da ist der Bahnhof. Da ist kein Bahnhof.
-There is the station. There is no station.
-
-Das Mädchen hat eine Katze. Das Mädchen hat keine Katze.
-The girl has a cat. The girl has no cat.
-
-Da ist die S-Bahn. Da ist keine S-Bahn.
-There is the S-Bahn. There is no S-Bahn.
-
-Herr Wagner hat ein Auto. Herr Wagner hat kein Auto.
-Mr Wagner has a car. Mr Wagner has no car.
-
-Da ist die U-Bahn. Da ist keine U-Bahn.
-There is the subway. There is no subway.
-
-Der Junge möchte einen Ball. Der Junge möchte keinen Ball.
-The boy wants a ball. The boy does not want a ball.
-
-Da ist ein Ball. Da ist kein Ball.
-There is a ball. There is no ball.
-
-Der Vater schneidet den Apfel. Der Vater schneidet keinen Apfel.
-The father cuts the apple. The father is not cutting an apple.
-
-Der Vater schneidet ein Brot. Der Vater schneidet kein Brot.
-The father cuts a loaf of bread. The father does not cut bread.
-
+# Wenn sich eine Gelegenheit ergibt, werde ich mich um eine Beförderung bemühen. 
+# (Se surgir uma oportunidade, vou me esforçar para conseguir uma promoção.)
+# 
+# Die Gelegenheit, ins Ausland zu reisen, hat sich endlich ergeben. 
+# (Finalmente surgiu a oportunidade de viajar para o exterior.)
+# 
+# Wenn du hart arbeitest, hast du eine gute Chance, deine Ziele zu erreichen. 
+# (Se você trabalhar duro, terá uma boa chance de alcançar seus objetivos.)
+# 
+# Die Chance, dass wir den Wettbewerb gewinnen, ist nicht sehr groß. 
+# (A chance de ganharmos a competição não é muito grande.)
+# 
+# Die Firma bietet ihren Mitarbeitern eine Chance zur beruflichen Weiterbildung. 
+# (A empresa oferece aos seus funcionários uma oportunidade de desenvolvimento profissional.)
+# 
+# Durch Zufall hatte ich die Chance, meinen Lieblingsschauspieler zu treffen. 
+# (Por acaso, tive a chance de encontrar meu ator favorito.)
+# 
+# Ich habe eine Chance verpasst, als ich mich geweigert habe, das Angebot anzunehmen. 
+# (Perdi uma oportunidade quando recusei a oferta.)
+# 
+# Ich habe eine Beratung von einem Finanzberater erhalten, bevor ich in Aktien investiert habe.
+# Recebi aconselhamento de um consultor financeiro antes de investir em ações.
+# 
+# Das Unternehmen bietet Beratungsdienste für kleine und mittlere Unternehmen an.
+# A empresa oferece serviços de consultoria para pequenas e médias empresas.
+# 
+# Meine Freundin hat mir eine Beratung bei ihrem Friseur empfohlen.
+# Minha amiga me recomendou aconselhamento com o cabeleireiro dela.
+# 
+# Der Anwalt gab mir eine Beratung, bevor ich den Vertrag unterschrieben habe.
+# O advogado me deu aconselhamento antes de assinar o contrato.
+# 
+# Bevor ich meine Masterarbeit geschrieben habe, habe ich eine Beratung mit meinem Professor vereinbart.
+# Antes de escrever minha tese de mestrado, eu agendei uma consulta com meu professor.
+# 
+# Mein Vater gab mir den Rat, immer hart zu arbeiten, um erfolgreich zu sein.
+# Meu pai me aconselhou a sempre trabalhar duro para ser bem-sucedido.
+# 
+# Der Nachbar gab mir den Rat, ein gutes Sicherheitssystem für mein Haus zu installieren.
+# Meu vizinho me aconselhou a instalar um bom sistema de segurança em minha casa.
+# 
+# Ich habe den Rat meines Freundes befolgt und das neue Restaurant in der Stadt ausprobiert.
+# Segui o conselho do meu amigo e experimentei o novo restaurante da cidade.
+# 
+# Der Lehrer gab den Schülern den Rat, ihre Hausaufgaben immer rechtzeitig zu erledigen.
+# O professor aconselhou os alunos a sempre fazerem suas tarefas de casa a tempo.
+# 
+# Meine Mutter gab mir den Rat, regelmäßig Sport zu treiben, um gesund zu bleiben.
+# Minha mãe me aconselhou a praticar esportes regularmente para manter uma boa saúde.
+# 
+# Ich habe mich an den Kundenservice gewendet, um mein Problem zu lösen. 
+# Eu entrei em contato com o serviço de atendimento ao cliente para resolver meu problema.
+# 
+# Wenn du Fragen hast, kannst du dich gerne an mich wenden. 
+# Se você tiver dúvidas, pode entrar em contato comigo.
+# 
+# Hast du scho den Müll rausgetragen?
+# Have you already taken out the trash? - inf
+# 
+# Könntest du bitte den Müll raustragen?
+# Could you please take out the trash? - inf
+# 
+# Ich habe noch nicht gefrühstückt.
+# I haven't had breakfast yet.
+# 
+# Hast du schon gefrühstückt?
+# Have you had breakfast yet? - inf
+# 
+# Ich muss die Fenster putzen.
+# I have to clean the windows today.
+# 
+# Hast du dein Zimmer aufgeräumt?
+# Have you cleaned up your room? - inf
+# 
+# Ich habe heute das Badezimmer geputzt.
+# I cleaned the bathroom today.
+# 
+# Ich muss morgen früh aufstehen.
+# I have to get up early tomorrow.
+# 
+# Ich bin heute um 6 Uhr aufgestanden. Ich bin so müde.
+# I got up at 6 am today. I am so tired.
+# 
+# Wann bist du heute aufgestanden?
+# When did you get up today? - inf
+# 
+# Muss du heute arbeiten?
+# Do you have to work today? - inf
+# 
+# Ich muss morgen arbeiten.
+# I have to work tomorrow.
+# 
+# Ich fahre mit der U-Bahn.
+# I'm taking the subway.
+# 
+# Er fährt mit dem Taxi.
+# He's taking the taxi.
+# 
+# Wir fahren mit dem Auto.
+# We're going by car.
+# 
+# Er fährt mit der Bahn.
+# He's taking the train.
+# 
+# Jonas ist bei mir.
+# Jonas is at my place.
+# 
+# Der Hund ist bei uns.
+# The dog is at our place.
+# 
+# Der Schlüssel ist bei Florian.
+# The key is at Florian's place.
+# 
+# Ich bin bei meinen Eltern.
+# I'm at my parents' place.
+# 
+# Seid ihr bei Stephan?
+# Are you guys at Stephan's place?
+# 
+# Marko hat sein Handy immer bei sich.
+# Marko always has his phone on him.
+# 
+# Marko hat sein Handy immer dabei.
+# Marko always has his phone on him.
+# 
+# Hast du deine Tasche bei dir?
+# Do you have your bag with you?
+# 
+# der Koffer eines Mannes
+# a man's suitcase
+# 
+# der Lebenslauf einer Bewerberin
+# an applicant's CV
+# 
+# die Fassade eines Gebäudes
+# a fachada de um prédio
+# 
+# Das ist das Motorrad eines Kollegen.
+# This is collegue's motorcycle.
+# 
+# Das sind die Kinder einer Freundin.
+# This is a friend's child.
+# 
+# Das sind die Medikamente eines Patienten.
+# This is a patient's medication.
+# 
+# Die Handtasche einer Frau ist ein Universum.
+# A woman's bag is a universe.
+# 
+# Das ist die Tochter eines Landwirts.
+# This is a farmer's daughter.
+# 
+# Das sind die Kinder einer Nachbarin.
+# Estes são os filhos de uma vizinha.
+# 
+# Die Eltern eines Schülers haben den Kuchen mitgebracht.
+# A student's parents brought the cake.
+# 
+# Die Kinder eines Kollegen sind krank.
+# A co-worker's kids are sick.
+# 
+# Sie ist die Geschäftsführerin eines Kaufhauses.
+# She ist the manager of a department store.
+# 
+# Das ist die Praxis eines Gynäkologen.
+# Esta é a clinica de um ginecologista.
+# 
+# Das ist das Auto eines Freundes.
+# This is a friend's car.
+# 
+# Die Risiken eines Start-up-Unternehmens sind hoch.
+# The risks of a start up are high.
+# 
+# Die Mitarbeiter haben Angst von den Folgen einer Fusionierung.
+# The employees are afraid of the consequences of a merger.
+# 
+# Die Kosten einer Scheidung sind oft sehr hoch.
+# The costs of a divorce are often very high.
+# 
+# Der Lärm einer Großstadt ist oft unerträglich.
+# The noise of a big city is often unbearable.
+# 
+# Die Nerven eines Grundschullehrers sind stark.
+# The nerves of an elementary school teacher are strong.
+# 
+# Die Planung einer Hochzeit ist sehr aufwendig.
+# The planning of a wedding is very time consuming.
+# 
+# Johannes hat die große Orange. Johannes hat die großen Orangen.
+# Johannes has the big orange. Johannes has the big oranges.
+# 
+# Suse möchte das weiße Hemd. Suse möchte die weißen Hemden.
+# Suse wants the white shirt. Suse wants the white shirts.
+# 
+# Der Junge hat die schnelle Maus. Der Junge hat die schnellen Mäuse.
+# The boy has the fast mouse. The boy has the fast mice.
+# 
+# Er findet einen verlorenen Schlüssel. Er findet die verlorenen Schlüssel.
+# He finds a lost key. He finds the lost keys.
+# 
+# Er findet eine verlorene Katze. Er findet die verlorenen Katzen.
+# He finds a lost cat. He finds the lost cats.
+# 
+# Sie findet den verlorenen Löffel. Sie findet die verlorenen Löffel.
+# She finds the lost spoon. She finds the lost spoons.
+# 
+# Hans sucht den roten Ball. Hans sucht die roten Bälle.
+# Hans looks for the red ball. Hans looks for the red balls.
+# 
+# Hans sucht auch das braune Pferd. Hans sucht auch die braunen Pferde.
+# Hans also looks for the brown horse. Hans also looks for the brown horses.
+# 
+# Suse hat einen teuren Stift. Suse hat die teuren Stifte.
+# Suse has an expensive pen. Suse has the expensive pencils.
+# 
+# Sophie und Hans haben einen schwarzen Hund. Sophie und Hans haben die schwarzen Hunde.
+# Sophie and Hans have a black dog. Sophie and Hans have the black dogs.
+# 
+# Das Kind mag den weißen Zug. Das Kind mag die weißen Züge.
+# The child likes the white train. The child likes the white train.
+# 
+# Ich sehe eine Katze. 
+# I see a cat.
+# 
+# Ich sehe katzen. 
+# I see cats.
+# 
+# Ich sehe keine Katzen. 
+# I don't see any cats.
+# 
+# Ich sehe die Katze nicht. 
+# I don't see a specific cat.
+# 
+# Er hört einen Zug. Er hört keinen Zug.
+# He hears a train. He does not hear a train.
+# 
+# Da ist ein Zug. Da ist kein Zug.
+# There is a train. There is no train.
+# 
+# Frau Wagner sieht einen Hund. Frau Wagner sieht keinen Hund.
+# Mrs Wagner sees a dog. Mrs Wagner does not see a dog.
+# 
+# Da ist ein Mann. Da ist kein Mann.
+# There is a man. There is no man.
+# 
+# Wir fahren ein Auto. Wir fahren kein Auto.
+# We are driving a car. We are not driving a car.
+# 
+# Da ist ein Hund. Da ist kein Hund.
+# There is a dog. There is no dog.
+# 
+# Sie sieht einen Mann. Sie sieht keinen Mann.
+# She sees a man. She doesn't see a man.
+# 
+# Da ist eine Frau. Da ist keine Frau.
+# There is a woman. There is no woman.
+# 
+# Er sieht eine Frau. Er sieht keine Frau.
+# He sees a woman. He sees no woman.
+# 
+# Da ist ein Auto. Da ist kein Auto.
+# There is a car. There is no car.
+# 
+# Er hat ein Steak. Er hat kein Steak.
+# He's got a steak. He doesn't have a steak.
+# 
+# Da ist ein Steak. Da ist kein Steak.
+# There's a steak. There is no steak.
+# 
+# Das Kind hat eine Pampelmuse. Das Kind hat keine Pampelmuse.
+# The child has a grapefruit. The child has no grapefruit.
+# 
+# Da ist der Bahnhof. Da ist kein Bahnhof.
+# There is the station. There is no station.
+# 
+# Das Mädchen hat eine Katze. Das Mädchen hat keine Katze.
+# The girl has a cat. The girl has no cat.
+# 
+# Da ist die S-Bahn. Da ist keine S-Bahn.
+# There is the S-Bahn. There is no S-Bahn.
+# 
+# Herr Wagner hat ein Auto. Herr Wagner hat kein Auto.
+# Mr Wagner has a car. Mr Wagner has no car.
+# 
+# Da ist die U-Bahn. Da ist keine U-Bahn.
+# There is the subway. There is no subway.
+# 
+# Der Junge möchte einen Ball. Der Junge möchte keinen Ball.
+# The boy wants a ball. The boy does not want a ball.
+# 
+# Da ist ein Ball. Da ist kein Ball.
+# There is a ball. There is no ball.
+# 
+# Der Vater schneidet den Apfel. Der Vater schneidet keinen Apfel.
+# The father cuts the apple. The father is not cutting an apple.
+# 
+# Der Vater schneidet ein Brot. Der Vater schneidet kein Brot.
+# The father cuts a loaf of bread. The father does not cut bread.
+# 
 Die Mutter schneidet eine Pampelmuse. Die Mutter schneidet keine Pampelmuse.
 The mother cuts a grapefruit. The mother does not cut grapefruit.
 
