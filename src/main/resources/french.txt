@@ -15843,127 +15843,127 @@
 # François et Claire came back from the Bahamas the day before yesterday and are resuming work tomorrow on a rainy day. They are totally depressed.
 # 
 # Quand je pense à la quantité de dossiers qu'il me reste à traiter pour demain, je suis déprimé.
-# When I think about the number of files left that I have to deal with tomorrow, I am depressed.
+# # When I think about the number of files left that I have to deal with tomorrow, I am depressed.
+# # 
+# # Si mes professeurs avaient été moins sévères, j'aurais été plus motivé à terminer ma première année de médicine.
+# # If my teachers hat been less strict, I would have been more motivated to finish my first year of medicine.
+# # 
+# # Les pom-poms girls sont un élément essentiel pour que l'équipe soit super motivée.
+# # The chearleaders are essetial for motivating the team.
 # 
-# Si mes professeurs avaient été moins sévères, j'aurais été plus motivé à terminer ma première année de médicine.
-# If my teachers hat been less strict, I would have been more motivated to finish my first year of medicine.
+# Hors de question!
+# Out of question!
 # 
-# Les pom-poms girls sont un élément essentiel pour que l'équipe soit super motivée.
-# The chearleaders are essetial for motivating the team.
-
-Hors de question!
-Out of question!
-
-Même pas en rêve!
-Not even in your dreams!
-
-N'y pense même pas!
-Don't even think about it!
-
-Certainement/Absolument pas!
-Certainly/absolutly not!
-
-En aucun cas!
-By no means!
-
-Sans façon!
-No, but thank you all the same!
-
-Aucune chance!
-No chance!
-
-Je crains que non!
-I'm afraid not!
-
-Je crains que ce ne soit pas possible!
-I'm afraid that isn't possible!
-
-Je me dois de refuser/décliner.
-I'll have to refuse/decline.
-
-Est-ce que tu peux me prêter ta voiture, s'il te plaît? Hors de question! Je te rappelle que la dernière fois, j'ai dû la récupérer à la fourrière!
-Could you lend me your car pleaese? Out of the question! Remember last time I had to pick it up at the tow-lot!
-
-Mélanie veut payer l'addition! Même pas en rêve! C'est toujours elle qui invite, appelle le serveur, je m'en charge.
-Mélanie wants to pay the bill! Not a chance! She's always the one that pays. Call the server, I'll take care of it.
-
-On aimerait beacoup partir en Thailande avec ma femme le mois prochain. N'y pense même pas! C'est la période de la mousson.
-We'd love to go to Thailand with my wife next month. Don't even think about it! It's monsoon season.
-
-Pensez-vous que son discours était bien préparé? Mais enfirn, absolument pas! Il n'a pas arrêté de regarder ses fiches.
-Do you think his speech was well prepared? Oh come on, absolutely not! He didn't stop looking at his notes.
-
-Ta mère aimerait-elle vivre dans une grande ville, comme Paris? En aucun cas! C'est une femme très proche de la nature.
-Would your mom like to live in a big city like Paris? No way! She's a woman very close to nature.
-
-Est-ce que tu veux reprendre du dessert? Sans façon, merci, tu sais très bien que je déteste les framboises!
-Would you like some more dessert? No thanks, you know that I can't stand raspberries!
-
-Tu penses qu'elle va accpeter notre proposition? Aucune chance. Elle n'avait pas l'air convaincu du tout.
-Do you think she will accept our offer? Not a chance. She didn't look convinced at all.
-
-Le colis sera livré demain matin entre 6h e 8h. Impossible. Cet horaire ne m'arrange pas du tout!
-The parcel will be delivered tomorrow morning, between 6 and 8 a.m. Impossible! Those times are not convinient at all.
-
-Je voudrais changer mon billet de train pour la semaine suivante. Je crains que ce ne soit pas possible.
-I'd like to change my train ticket to the following week. I'm afraid that is not possible.
-
-Nous vous proposons une sublime chambre avec vue sur la piscine. Je me dois de refuser et de vous demander une chambre côté cour, afin d'être au calme.
-We're offering you an amazing room with a view overlooking the pool. I'll have to refuse and ask you for a room on the courtyard side, in order to have some tranquility.
-
-La première chose que je fais en arrivant au travail, c'est d'allumer mon ordinateur et de me connecter au programme de l'entreprise pour voir les tâches en cours.
-The first thing I do when I get to work is to turn on the computer and connect myself to the company software to see the tasks in progress.
-
-On doit mettre à jour les fichiers en attente pour savoir quels clients recontacter en priorité.
-We have to update all the pending files to know which clients to prioritize contacting.
-
-Nous répondons toujours au mieux attentes de nos clients, et c'est ce qui explique le succès de notre entreprise.
-We always do our best to meet our clients' expectations, which explains the success of our company.
-
-Le service marketing écrit, envoie et échange en moyenne une treitaine de courriers électroniques par jour.
-The marketing department writes, sends and exchanges an average of thirty e-mails a day.
-
-C'est Judith qui se charge de la réception du courrier, des demandes d'information générales, et de tous les appels entrants.
-Judith is in charge of the reception of the mail, requests for general information, and all the incoming calls.
-
-Le service client joue évidemment un rôlel très important dans l'entreprise puisque ses employés sont en charge de gérer les conflits avec les clients.
-Customer service obviously plays a very important role in the company since its employees are in charge of handling the conflicts with the clients.
-
-Il ne faut pas se précipiter. Face à une situation délicate, si nous analysons le problème avec calme, on trouvera toujours une solution.
-We shouldn't rush. When faced with a delicate situation, if we analyse the problem calmy, we'll always find a solution.
-
-Je pense que nous prenons chaque jour de décisions qui mettent en jeu le futur de notre entreprise.
-I believe that we make decisions every day that put the future of our company at stake.
-
-Si vous recevez des informations claires et cohérentes, vous saurez comment traiter ce dossier.
-If you get clear and consistent information, you will know how to deal with this file.
-
-Luc organise des rendez-vous trimestriels avec nos plus gros clients et des clients potentiels.
-Luc organizes meetings every quarter with our biggest clients and potential ones.
-
-On est trop dégouté le concert a été annulé 2 heures avant sans aucune explication!
-We are so disgusted the concert was cancelled 2 hours beforehand, with no explanation at all!
-
-Ça me dégoute qu'on ne puisse pas voyager comme prévu la semaine prochaine.
-I'm so annoyed that we can't travel next week as planned.
-
-J'ai trop les boules, j'avais enfin fini de rédiger tout mon travail et je n'ai rien sauvegardé.
-I'm so pissed, I had finally finished writing all my work and I didn't save any of it.
-
-Quel dommmage que les enfants ne puissent pas profiter de la piscine aujourd'hui, il pleut des cordes!
-It's such a shame that the children can't enjoy the pool today, it's rainning cats and dogs!
-
-C'est trop bête que tu ne m'aies pas appelé pour me dire que tu venais!
-That's too bad you didn't call me to tell me you were passing by!
-
-Marc avait dit qu'il serait à l'heure et il a déjà deux heures de retard
-Marc had said that he would be on time and he is already 2 hours late.
-
-C'est vraiment ballot que nous soyons arrivé trop tard pour le spectacle à cause des emboutaillages.
-It'really silly that we came too late to be able to see the show because of the traffic jam.
-
-Il l'á quittée sans raisons ni explications. Je n'arrive pas y croire, cette attitude est décevante!
-He left her without reason or explanation. I can't believe it, doing that is so disappointing!
-
-Oh non, c'est pas possible! La chambre est bien plus petite que sur les photos!
-Oh no, it can't be true! The room is way smaller than in the pictures!
+# Même pas en rêve!
+# Not even in your dreams!
+# 
+# N'y pense même pas!
+# Don't even think about it!
+# 
+# Certainement/Absolument pas!
+# Certainly/absolutly not!
+# 
+# En aucun cas!
+# By no means!
+# 
+# Sans façon!
+# No, but thank you all the same!
+# 
+# Aucune chance!
+# No chance!
+# 
+# Je crains que non!
+# I'm afraid not!
+# 
+# Je crains que ce ne soit pas possible!
+# I'm afraid that isn't possible!
+# 
+# Je me dois de refuser/décliner.
+# I'll have to refuse/decline.
+# 
+# Est-ce que tu peux me prêter ta voiture, s'il te plaît? Hors de question! Je te rappelle que la dernière fois, j'ai dû la récupérer à la fourrière!
+# Could you lend me your car pleaese? Out of the question! Remember last time I had to pick it up at the tow-lot!
+# 
+# Mélanie veut payer l'addition! Même pas en rêve! C'est toujours elle qui invite, appelle le serveur, je m'en charge.
+# Mélanie wants to pay the bill! Not a chance! She's always the one that pays. Call the server, I'll take care of it.
+# 
+# On aimerait beacoup partir en Thailande avec ma femme le mois prochain. N'y pense même pas! C'est la période de la mousson.
+# We'd love to go to Thailand with my wife next month. Don't even think about it! It's monsoon season.
+# 
+# Pensez-vous que son discours était bien préparé? Mais enfirn, absolument pas! Il n'a pas arrêté de regarder ses fiches.
+# Do you think his speech was well prepared? Oh come on, absolutely not! He didn't stop looking at his notes.
+# 
+# Ta mère aimerait-elle vivre dans une grande ville, comme Paris? En aucun cas! C'est une femme très proche de la nature.
+# Would your mom like to live in a big city like Paris? No way! She's a woman very close to nature.
+# 
+# Est-ce que tu veux reprendre du dessert? Sans façon, merci, tu sais très bien que je déteste les framboises!
+# Would you like some more dessert? No thanks, you know that I can't stand raspberries!
+# 
+# Tu penses qu'elle va accpeter notre proposition? Aucune chance. Elle n'avait pas l'air convaincu du tout.
+# Do you think she will accept our offer? Not a chance. She didn't look convinced at all.
+# 
+# Le colis sera livré demain matin entre 6h e 8h. Impossible. Cet horaire ne m'arrange pas du tout!
+# The parcel will be delivered tomorrow morning, between 6 and 8 a.m. Impossible! Those times are not convinient at all.
+# 
+# Je voudrais changer mon billet de train pour la semaine suivante. Je crains que ce ne soit pas possible.
+# I'd like to change my train ticket to the following week. I'm afraid that is not possible.
+# 
+# Nous vous proposons une sublime chambre avec vue sur la piscine. Je me dois de refuser et de vous demander une chambre côté cour, afin d'être au calme.
+# We're offering you an amazing room with a view overlooking the pool. I'll have to refuse and ask you for a room on the courtyard side, in order to have some tranquility.
+# 
+# La première chose que je fais en arrivant au travail, c'est d'allumer mon ordinateur et de me connecter au programme de l'entreprise pour voir les tâches en cours.
+# The first thing I do when I get to work is to turn on the computer and connect myself to the company software to see the tasks in progress.
+# 
+# On doit mettre à jour les fichiers en attente pour savoir quels clients recontacter en priorité.
+# We have to update all the pending files to know which clients to prioritize contacting.
+# 
+# Nous répondons toujours au mieux attentes de nos clients, et c'est ce qui explique le succès de notre entreprise.
+# We always do our best to meet our clients' expectations, which explains the success of our company.
+# 
+# Le service marketing écrit, envoie et échange en moyenne une treitaine de courriers électroniques par jour.
+# The marketing department writes, sends and exchanges an average of thirty e-mails a day.
+# 
+# C'est Judith qui se charge de la réception du courrier, des demandes d'information générales, et de tous les appels entrants.
+# Judith is in charge of the reception of the mail, requests for general information, and all the incoming calls.
+# 
+# Le service client joue évidemment un rôlel très important dans l'entreprise puisque ses employés sont en charge de gérer les conflits avec les clients.
+# Customer service obviously plays a very important role in the company since its employees are in charge of handling the conflicts with the clients.
+# 
+# Il ne faut pas se précipiter. Face à une situation délicate, si nous analysons le problème avec calme, on trouvera toujours une solution.
+# We shouldn't rush. When faced with a delicate situation, if we analyse the problem calmy, we'll always find a solution.
+# 
+# Je pense que nous prenons chaque jour de décisions qui mettent en jeu le futur de notre entreprise.
+# I believe that we make decisions every day that put the future of our company at stake.
+# 
+# Si vous recevez des informations claires et cohérentes, vous saurez comment traiter ce dossier.
+# If you get clear and consistent information, you will know how to deal with this file.
+# 
+# Luc organise des rendez-vous trimestriels avec nos plus gros clients et des clients potentiels.
+# Luc organizes meetings every quarter with our biggest clients and potential ones.
+# 
+# On est trop dégouté le concert a été annulé 2 heures avant sans aucune explication!
+# We are so disgusted the concert was cancelled 2 hours beforehand, with no explanation at all!
+# 
+# Ça me dégoute qu'on ne puisse pas voyager comme prévu la semaine prochaine.
+# I'm so annoyed that we can't travel next week as planned.
+# 
+# J'ai trop les boules, j'avais enfin fini de rédiger tout mon travail et je n'ai rien sauvegardé.
+# I'm so pissed, I had finally finished writing all my work and I didn't save any of it.
+# 
+# Quel dommmage que les enfants ne puissent pas profiter de la piscine aujourd'hui, il pleut des cordes!
+# It's such a shame that the children can't enjoy the pool today, it's rainning cats and dogs!
+# 
+# C'est trop bête que tu ne m'aies pas appelé pour me dire que tu venais!
+# That's too bad you didn't call me to tell me you were passing by!
+# 
+# Marc avait dit qu'il serait à l'heure et il a déjà deux heures de retard
+# Marc had said that he would be on time and he is already 2 hours late.
+# 
+# C'est vraiment ballot que nous soyons arrivé trop tard pour le spectacle à cause des emboutaillages.
+# It'really silly that we came too late to be able to see the show because of the traffic jam.
+# 
+# Il l'á quittée sans raisons ni explications. Je n'arrive pas y croire, cette attitude est décevante!
+# He left her without reason or explanation. I can't believe it, doing that is so disappointing!
+# 
+# Oh non, c'est pas possible! La chambre est bien plus petite que sur les photos!
+# Oh no, it can't be true! The room is way smaller than in the pictures!
