@@ -11997,6 +11997,45 @@
 # Der Vater schneidet ein Brot. Der Vater schneidet kein Brot.
 # The father cuts a loaf of bread. The father does not cut bread.
 # 
+Wie geht es dir? 
+(Como você está?)
+
+Ich möchte wissen, wie du das gemacht hast. 
+(Eu gostaria de saber como você fez isso.)
+
+Sie sieht aus wie ihre Mutter. 
+(Ela se parece com a mãe dela.)
+
+Ich bin müde, wie ich lange gearbeitet habe.
+ (Estou cansado, pois trabalhei muito.)
+
+Ich war glücklicher, als ich jung war. 
+(Eu era mais feliz quando era jovem.)
+
+Er verdient mehr als sein Bruder. 
+(Ele ganha mais do que o irmão dele.)
+
+Als ich klein war, habe ich Klavierunterricht genommen. 
+(Quando eu era pequeno, eu fazia aulas de piano.)
+
+Ich folge dir zur Bushaltestelle. 
+(Eu estou te seguindo até o ponto de ônibus.)
+
+Kannst du dem Lehrer folgen? 
+(Você consegue acompanhar o professor?)
+
+Die Geschichte war schwierig zu folgen. 
+(A história foi difícil de entender/seguir.)
+
+Bitte befolgen Sie die Anweisungen auf dem Schild.
+ (Por favor, siga as instruções na placa.)
+
+Er befolgte den Rat seines Arztes. 
+(Ele seguiu o conselho do médico.)
+
+Die Schüler müssen die Schulregeln befolgen. 
+(Os alunos devem obedecer às regras da escola.)
+
 Die Mutter schneidet eine Pampelmuse. Die Mutter schneidet keine Pampelmuse.
 The mother cuts a grapefruit. The mother does not cut grapefruit.
 
