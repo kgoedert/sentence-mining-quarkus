@@ -11997,6 +11997,33 @@
 # Der Vater schneidet ein Brot. Der Vater schneidet kein Brot.
 # The father cuts a loaf of bread. The father does not cut bread.
 # 
+Er hat Angst vor dem Dunkeln.
+(Ele tem medo do escuro.)
+
+Sie hat Angst vor Hunden.
+(Ela tem medo de cães.)
+
+Wir haben Angst vor Prüfungen.
+(Nós temos medo de exames.)
+
+Ihr habt Angst vor der Zukunft.
+(Vocês têm medo do futuro.)
+
+Sie hat Angst vor dem Fliegen.
+(Ela tem medo de voar.)
+
+Er hat Angst vor öffentlichen Reden.
+(Ele tem medo de falar em público.)
+
+Sie hat Angst vor großen Menschenmengen.
+(Ela tem medo de grandes multidões.)
+
+Ich habe Angst vor dem Zahnarzt.
+(Eu tenho medo do dentista.)
+
+Wir haben Angst vor dem Verlust unserer Arbeit.
+(Nós temos medo de perder nosso emprego.)
+
 Wie geht es dir? 
 (Como você está?)
 
