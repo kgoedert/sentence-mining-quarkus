@@ -11997,7 +11997,6 @@
 # Der Vater schneidet ein Brot. Der Vater schneidet kein Brot.
 # The father cuts a loaf of bread. The father does not cut bread.
 # 
-<<<<<<< HEAD
 Er hat Angst vor dem Dunkeln.
 (Ele tem medo do escuro.)
 
@@ -12024,7 +12023,6 @@ Ich habe Angst vor dem Zahnarzt.
 
 Wir haben Angst vor dem Verlust unserer Arbeit.
 (Nós temos medo de perder nosso emprego.)
-=======
 Ich mag Schokolade.
 I like chocolat.
 
@@ -12366,7 +12364,6 @@ I like turtles.
 
 Diese Schildkröte habe ich von einem meiner Schüler geschenkt bekommen.
 One of my students gave me this turtle.
->>>>>>> 8f60b1798149426b78c6a4044c163622d7e0cc06
 
 Wie geht es dir? 
 (Como você está?)
