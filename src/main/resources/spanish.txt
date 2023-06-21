@@ -13940,3 +13940,171 @@
 # 
 # Cuanto peor huela ese queso, mejor sabrá.
 # Quanto pior o cheiro do queijo, melhor será o sabor.
+
+Mira cómo va vestido. Y tiene más años que Matusalén.
+Olha como ele está vestido. E ele é mais velho que Matusalém.
+
+Es suficiente como chaqueta. Hace menos frío de lo que pensaba.
+É o suficiente como uma jaqueta. Está menos frio do que eu pensava.
+
+Hoy no hay tantas olas como ayer.
+Hoje não há tantas ondas como ontem.
+
+Este vino tiene tantos años como el que has traído.
+Este vinho é tão velho quanto o que você trouxe.
+
+No vino tanta gente como esperábamos.
+Não vieram tantas pessoas quanto esperávamos.
+
+Tengo más problemas que soluciones.
+Tenho mais problemas do que soluções.
+
+Tienes menos dinero que yo pelo.
+Você tem menos dinheiro do que eu.
+
+Esta casa tiene más habitaciones que la que habéis comprado.
+Esta casa tem mais cômodos do que aquela que você comprou.
+
+Hay menos comida de la que hemos comprado.
+Há menos comida do que compramos.
+
+Tiene más años de lo que dijo.
+Ele é mais velho do que disse.
+
+Hace menos frío de lo que pensaba.
+Está menos frio do que eu pensava.
+
+Hay menos gente de lo habitual.
+Há menos pessoas do que o normal.
+
+Nos hacen trabajar más horas de lo acordado.
+Eles nos fazem trabalhar mais horas do que o combinado.
+
+Nos hacen trabajar más horas de las acordadas.
+Eles nos fazem trabalhar mais horas do que as combinadas.
+
+Sevilla tiene más habitantes que Córdoba.
+Sevilha tem mais habitantes que Córdoba.
+
+Este invierno ha nevado más que el año pasado.
+Neste inverno nevou mais do que no ano passado.
+
+Luisa tiene tantos amigos como enemigos.
+Luisa tem tantos amigos quanto inimigos.
+
+Este año ha habido más frío que agua.
+Este ano houve mais frio do que água.
+
+Daniel tiene tanto dinero como yo deudas.
+Daniel tem tanto dinheiro quanto eu tenho dívidas.
+
+Yo he escrito más libros que tú has leído.
+Escrevi mais livros do que você leu.
+
+He comprado tanta fruta como he podido.
+Comprei o máximo de frutas que pude.
+
+Había más trabajo del que yo creía.
+Havia mais trabalho do que eu pensava.
+
+Hemos comido demasiadas cerezas. Yo he comido más de las que debía.
+Comemos muitas cerejas. Comi mais do que deveria.
+
+Tengo que hacer algo. Tengo muchas canas. Sí, pero tienes menos que yo.
+Tenho que fazer algo. Eu tenho muitos cabelos grisalhos. Sim, mas você tem menos do que eu.
+
+Esta casa tiene muchas escaleras. Sí, la mía no tiene tantas.
+Esta casa tem muitas escadas. Sim, o meu não tem tantos.
+
+Mi piso tiene bastante metros cuadrados. Pues el mío tiene tantos como el tuyo.
+Meu apartamento tem alguns metros quadrados. Bem, o meu tem tantos quanto o seu.
+
+Cuánto más dinero, más problemas.
+Quanto mais dinheiro, mais problemas.
+
+Venid todos. Cuanto más gente mejor.
+Venham todos. Quanto mais pessoas, melhor.
+
+Cuantas más horas duermo, más cansado estoy.
+Quanto mais horas durmo, mais cansado fico.
+
+Cuántos más alumnos aprueban, más contento me pongo.
+Quanto mais alunos passam, mais feliz eu fico.
+
+Cuántos más alumnos aprueban, mejor.
+Quanto mais alunos passarem, melhor.
+
+Cuántos más números aciertes, mayor será el premio.
+Quanto mais números acertar, maior será o prêmio.
+
+Mamá. Voy a cenar con unos amigos. Llegaré tarde.
+Mãe. Vou jantar com alguns amigos. Chegarei tarde.
+
+¿Quién era? Lalo. Dice que va a cenar con unos amigos y que llegará tarde.
+Quem era? lalo. Ele diz que vai jantar com alguns amigos e que vai se atrasar.
+
+¿Has visto qué horas es, Lalo? Son más de las tres. Te dije que llegaría tarde.
+Você viu que horas são, Lalo? Já passa das três. Eu disse que chegaria tarde.
+
+Dices que me vas a ayudar, pero nunca lo haces.
+Você diz que vai me ajudar, mas nunca ajuda.
+
+Ha prometido que vendrá a vernos cuando pueda.
+Ele prometeu vir nos ver quando puder.
+
+Galileo fue la primera persona que afirmó que la Terra giraba alrededor del sol.
+Galileu foi a primeira pessoa a afirmar que a Terra girava em torno do sol.
+
+Ha hablado con Lorena y me ha asegurado que el banco me dará el crédito.
+Ele falou com a Lorena e me garantiu que o banco vai me dar o crédito.
+
+Ayer estuve hablando con Marcos y me contó que su hijo quiere casarse.
+Ontem eu estava conversando com o Marcos e ele me disse que o filho dele quer casar.
+
+Me he tropezado con Tito esta mañana. Me ha dicho que trabaja en una galería de arte.
+Encontrei Tito esta manhã. Ele me disse que trabalha em uma galeria de arte.
+
+Ayer estuve con Lorenzo. Me dijo que ahora vive en España, pero que el año pasado estuvo trabajando en Brasil.
+Ontem estive com o Lorenzo. Ele me disse que agora mora na Espanha, mas no ano passado estava trabalhando no Brasil.
+
+La última vez que hablé con Mónica fue hace seis meses y me dijo que quería regresar a España.
+A última vez que falei com a Mónica foi há seis meses e ela disse-me que queria regressar a Espanha.
+
+Anoche hablé con Merche. Me dijo que todavía no han encontrado hotel.
+Ontem à noite falei com Merche. Ele me disse que ainda não encontraram um hotel.
+
+Cuando llegamos a la estación, una señora nos dijo que el tren a Córdoba ya había pasado.
+Quando chegamos à estação, uma senhora nos disse que o trem para Córdoba já havia passado.
+
+He recibido un correo de Ernesto. Dice que vendrá a vernos la semana que viene.
+Recebi um e-mail do Ernesto. Ele diz que vem nos ver na semana que vem.
+
+Anoche estuve charlando un rato con Fidel y me comentó que va a pedir aumento de sueldo.
+Ontem à noite conversei um pouco com Fidel e ele me disse que vai pedir um aumento de salário.
+
+Ayer me llamó Renata y me dijo que nos ayudará con la limpieza cuando venga.
+Ontem a Renata me ligou e disse que vai nos ajudar na limpeza quando vier.
+
+De niño, Santiago decía siempre que de mayor iba a ser bombero.
+Quando criança, Santiago sempre dizia que quando crescesse ia ser bombeiro.
+
+¿Aún no ha llamado Carla? No, y nos aseguró que llamaría esta mañana.
+A Carla ainda não ligou? Não, e ele nos garantiu que ligaria esta manhã.
+
+Cuando hablé con Fermín el pasado miércoles me dijo que vendría al día siguiente, pero estoy esperando.
+Quando falei com o Fermín na quarta-feira passada, ele disse-me que viria no dia seguinte, mas estou à espera.
+
+Carlos dice simpre que va a trabajar en Estados Unidos cuando acabe la carrera.
+Carlos sempre diz que vai trabalhar nos Estados Unidos quando terminar o curso.
+
+Begoña decía siempre que vendría a vernos a Lisboa cuando tuviera tiempo. Pero nunca lo hizo.
+Begoña sempre disse que viria nos ver em Lisboa quando tivesse tempo. Mas isso nunca aconteceu.
+
+Ayer estuve con Lorenzo. Me dijo que ahora vivía en España.
+Ontem estive com o Lorenzo. Ele me disse que agora morava na Espanha.
+
+Anoche hablé con Merche. Me dijo que todavía no habían encontrado hotel.
+Ontem à noite falei com Merche. Ele me disse que ainda não haviam encontrado um hotel.
+
+No te preocupes. Renata dijo que nos ayudaría con la limpieza.
+Não te preocupes. A Renata disse que nos ajudaria a limpar.
