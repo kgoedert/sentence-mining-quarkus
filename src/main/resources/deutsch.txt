@@ -11989,316 +11989,316 @@
 # The boy wants a ball. The boy does not want a ball.
 # 
 # Da ist ein Ball. Da ist kein Ball.
-# There is a ball. There is no ball.
+# # There is a ball. There is no ball.
+# # 
+# # Der Vater schneidet den Apfel. Der Vater schneidet keinen Apfel.
+# # The father cuts the apple. The father is not cutting an apple.
+# # 
+# # Der Vater schneidet ein Brot. Der Vater schneidet kein Brot.
+# # The father cuts a loaf of bread. The father does not cut bread.
+# # 
+# Er hat Angst vor dem Dunkeln.
+# (Ele tem medo do escuro.)
 # 
-# Der Vater schneidet den Apfel. Der Vater schneidet keinen Apfel.
-# The father cuts the apple. The father is not cutting an apple.
+# Sie hat Angst vor Hunden.
+# (Ela tem medo de cães.)
 # 
-# Der Vater schneidet ein Brot. Der Vater schneidet kein Brot.
-# The father cuts a loaf of bread. The father does not cut bread.
+# Wir haben Angst vor Prüfungen.
+# (Nós temos medo de exames.)
 # 
-Er hat Angst vor dem Dunkeln.
-(Ele tem medo do escuro.)
-
-Sie hat Angst vor Hunden.
-(Ela tem medo de cães.)
-
-Wir haben Angst vor Prüfungen.
-(Nós temos medo de exames.)
-
-Ihr habt Angst vor der Zukunft.
-(Vocês têm medo do futuro.)
-
-Sie hat Angst vor dem Fliegen.
-(Ela tem medo de voar.)
-
-Er hat Angst vor öffentlichen Reden.
-(Ele tem medo de falar em público.)
-
-Sie hat Angst vor großen Menschenmengen.
-(Ela tem medo de grandes multidões.)
-
-Ich habe Angst vor dem Zahnarzt.
-(Eu tenho medo do dentista.)
-
-Wir haben Angst vor dem Verlust unserer Arbeit.
-(Nós temos medo de perder nosso emprego.)
-Ich mag Schokolade.
-I like chocolat.
-
-Ich mag meinen Bruder.
-I like my brother.
-
-Ich koche gerne.
-I like to cook.
-
-Ich schwimme gerne.
-I like to swim.
-
-Ich backe gerne.
-I like to bake.
-
-Ich mache gerne Sport.
-I like to work out.
-
-Ich spiele gerne mit meinen Hunden.
-I like to play with my dogs.
-
-Ich esse gerne dunkle Schokolade.
-I like to eat dark chocolat.
-
-Ich mag dunkle Schokolade.
-I like dark chocolate.
-
-Ich trinke gerne Kaffee mit Sojamilch.
-I like to drink coffee with soy milk.
-
-Ich koche gerne vegane Gerichte.
-I like to cook vegan meals.
-
-Ich mag Obst and Gemüse.
-I like fruits and vegetables.
-
-Ich mag eure Kommentare.
-I like your comments.
-
-Ich übersetze gerne.
-I like to translate.
-
-Ich mag meine Meerschweinchen.
-I like my guinea pigs.
-
-Ich fahre gerne Ski.
-I like to ski.
-
-Ich fahre nicht gerne Snowboard.
-I don't like Snowboard.
-
-Ich fahre gern in Urlaub.
-I like to go on vacation.
-
-Ich liege gern am Strand.
-I like to lie on the beach.
-
-Ich tauche gerne.
-I like to dive.
-
-Ich tanze gerne Salsa.
-I like to dance salsa.
-
-Ich fahre gern Auto, aber nur kurze Strecken.
-I like to drive, but only short distances.
-
-Ich fahre gern auf der deutschen Autobahn.
-I like to drive on the german highway.
-
-Ich räume nicht gerne auf.
-I don't like to clean up.
-
-Ich mache nicht gerne meine Steuerklärung.
-I don't like to do my taxes.
-
-Ich telefoniere gerne mit meiner Mama un mit meinem Papa.
-I like to speak on the phone with my mom and my dad.
-
-Ich skype gerne mit meiner Schwester.
-I like to skype with my sister.
-
-Ich verbringe gern Zeit mit meinen Freunden.
-I like to spend time with my friends.
-
-Ich spreche gern Fremdsprachen.
-I like to speak foreign languages.
-
-Ich unterhalte mich gern über nachhaltige Trends.
-I like to talk about sustainable trends.
-
-Ich interessiere mich für Nachhaltigkeit.
-I am interested in sustainability.
-
-Ich lache gerne.
-I like to laugh.
-
-Ich mache gerne Ausritte.
-I like to go on trailrides.
-
-Ich falte nicht gern meine Wäsche.
-I don't like to fold my laundry.
-
-Ich stehe nicht gerne im Stau.
-I don't like to be stuck in a traffic jam.
-
-Ich nehme nicht gern an Besprechungen teil.
-I don't like to participate in meetings.
-
-Ich gehe nicht gern zu Besprechungen.
-I don't like to go to meetings.
-
-Ich kaufe gerne Klamotten im Internet.
-I like to buy clothing on the internet.
-
-Ich recherchiere gerne im Internet.
-I like to do research on the internet.
-
-Ich mag den Apfelbaum meiner Eltern.
-I like my parent's apple tree.
-
-Die Äpfel von diesem Apfelbaum schmecken super.
-The apples from this apple tree taste great.
-
-Ich mag meinen Saugroboter.
-I like my vaccum cleaning robot.
-
-Ich mag Reiswaffle mit dunkler Schokolade.
-I like rice waffles with dark chocolate.
-
-Ich lese gerne.
-I like to read.
-
-Ich gucke gerne amerikanische Serien, wie zum Biespiel Friends.
-I like to watch american tv shows, such as Friends.
-
-Das sind deutsche Komiker und TV-Entertainer.
-Those are german comedians and TV entertainers.
-
-Das ist eine vegane Marke.
-That's a vegan brand.
-
-Das ist zwar sehr teuer. Das Shampoo ist sehr teuer und die Spülung ist sehr teuer.
-Altough, it's very expensive. The shampoo ist very expensive, and the conditioner is very expensive.
-
-Ich mag scharfes Essen.
-I like spicy food.
-
-Ich gehe gern essen.
-I like to eat out.
-
-Ich wiege mich nicht gerne.
-I don't like to weigh myself.
-
-Ich streite mich nicht gerne.
-I don't like to argue.
-
-Ich schminke mich nicht gern.
-I don't like to put on make-up.
-
-Aber manchmal muss ich mich schminken.
-But sometimes, I have to put make-up on.
-
-Ich glätte mir gerne die Haare.
-I like to straighten my hair.
-
-Ich habe nämlich Naturwellen.
-Because I have naturally wavy hair.
-
-Ich schlafe gern wie jeder.
-I like to sleep like everyone.
-
-Ich stehe nicht gern früh auf.
-I don't like to get up early.
-
-Normalerweise stehe ich um 9 Uhr auf.
-Usually, I get up at 9.
-
-Ich mache nicht gern Bauchmuskeltraining. Das ist so anstrengend.
-I don't like to train my abs. That's so tiring.
-
-Ich mag große Supermärkte nicht. Ich bevorzuge kleine Supermärkten
-I don't like big supermarkets. I prefer small supermarkets.
-
-Ich mag keine arroganten und hinterfotzigen Leute und ich mag auch keine Lügner.
-I don't like arrogant and backstabing people and I don't like liars either.
-
-Ich wasche mir gerne meine Haare.
-I like to wash my hair.
-
-Ich fliege nicht gerne. Aber ich mag FLughäfen.
-I don't like to fly. But I like airports.
-
-Ich mag Europa.
-I like Europe.
-
-Ich mag Biobauernhöfe.
-I like organic farms.
-
-Ich mag Cafés, besonders Starbucks obwohl der Kaffee da ziemlich sehr teuer ist.
-I like cafés, especially Starbucks altough the coffee there is pretty expensive.
-
-Ich mag ARTE. Das ist ein deutsch-französischer Fernsehsender.
-I like ARTE. That's a german-french tv channel.
-
-Kängurus und Koalas habe ich shon in der Wildnis gesehen, als ich letztes Jahr in Australien war.
-I have already seen kangaroos and koalas in the wild, when I was in Australia last year.
-
-Delfine habe ich schon mal in der Wildnis gesehen, auf einem Segelbot.
-I have seen dolphins in the wild, on a sailboat.
-
-Ich mag Bootstouren und Segeltouren.
-I like boat trips and sailing trips.
-
-Ich mag die Natur.
-I like nature.
-
-Museen mag ich nicht. Dort ist immer sehr langweilig.
-I don't like museums. It's always boring there.
-
-In der Hinsicht bin ich vielleicht ein Kulturbanause.
-In that aspect, I might be a philistine.
-
-Krankenhäuser mag ich auch nicht. Dort ist immer so ein komischer Geruch.
-I don't like hospitals either. There is always a funny smell there.
-
-Ich mag Cashewkerne.
-I like cashew nuts.
-
-Ich fahre gerne Fahrrad.
-I like to ride a bike.
-
-Ich mag Erdbeeren.
-I like strawberries.
-
-Ich mag die Sonne.
-I like the sun.
-
-Ich mag den Sommer.
-I like the summer.
-
-Schlechtes Wetter mag ich nicht.
-I don't like bad wether.
-
-Ich mag bequeme Schuhe.
-I like comfortable shoes.
-
-Ich ziehe gern Jeans an.
-I like to wear jeans.
-
-Ich mag Kapuzenpullover.
-I like hoodies.
-
-Magst du deinen Chef? Ich habe keinen Chef
-Do you like your boss? I don't have a boss - inf
-
-Ich mag e-bay Kleinanzeigen. Dort finde ich immer viele Dinge.
-I like e-bay classify-ads. I always find many things there.
-
-Dort kaufe ich vieles und dort verkaufe ich auch vieles.
-I buy lots of things there and I also sell lots there.
-
-Ich mag keine Nachtclubs.
-I don't like night clubs.
-
-In deutschen Nachtclubs wird oft geraucht und das mag ich nicht.
-People often smoke in german night clubs and I don't like that.
-
-Ich mag neue Technologien.
-I like new techonologies.
-
-Ich mag Tiere.
-I like animals.
-
-Ich mag es nicht, wenn ich meine Haare geglättet habe und es anfängt zu regnen.
-I don't like it, when I have straightened my hair and it starts raining.
-
+# Ihr habt Angst vor der Zukunft.
+# (Vocês têm medo do futuro.)
+# 
+# Sie hat Angst vor dem Fliegen.
+# (Ela tem medo de voar.)
+# 
+# Er hat Angst vor öffentlichen Reden.
+# (Ele tem medo de falar em público.)
+# 
+# Sie hat Angst vor großen Menschenmengen.
+# (Ela tem medo de grandes multidões.)
+# 
+# Ich habe Angst vor dem Zahnarzt.
+# (Eu tenho medo do dentista.)
+# 
+# Wir haben Angst vor dem Verlust unserer Arbeit.
+# (Nós temos medo de perder nosso emprego.)
+# Ich mag Schokolade.
+# I like chocolat.
+# 
+# Ich mag meinen Bruder.
+# I like my brother.
+# 
+# Ich koche gerne.
+# I like to cook.
+# 
+# Ich schwimme gerne.
+# I like to swim.
+# 
+# Ich backe gerne.
+# I like to bake.
+# 
+# Ich mache gerne Sport.
+# I like to work out.
+# 
+# Ich spiele gerne mit meinen Hunden.
+# I like to play with my dogs.
+# 
+# Ich esse gerne dunkle Schokolade.
+# I like to eat dark chocolat.
+# 
+# Ich mag dunkle Schokolade.
+# I like dark chocolate.
+# 
+# Ich trinke gerne Kaffee mit Sojamilch.
+# I like to drink coffee with soy milk.
+# 
+# Ich koche gerne vegane Gerichte.
+# I like to cook vegan meals.
+# 
+# Ich mag Obst and Gemüse.
+# I like fruits and vegetables.
+# 
+# Ich mag eure Kommentare.
+# I like your comments.
+# 
+# Ich übersetze gerne.
+# I like to translate.
+# 
+# Ich mag meine Meerschweinchen.
+# I like my guinea pigs.
+# 
+# Ich fahre gerne Ski.
+# I like to ski.
+# 
+# Ich fahre nicht gerne Snowboard.
+# I don't like Snowboard.
+# 
+# Ich fahre gern in Urlaub.
+# I like to go on vacation.
+# 
+# Ich liege gern am Strand.
+# I like to lie on the beach.
+# 
+# Ich tauche gerne.
+# I like to dive.
+# 
+# Ich tanze gerne Salsa.
+# I like to dance salsa.
+# 
+# Ich fahre gern Auto, aber nur kurze Strecken.
+# I like to drive, but only short distances.
+# 
+# Ich fahre gern auf der deutschen Autobahn.
+# I like to drive on the german highway.
+# 
+# Ich räume nicht gerne auf.
+# I don't like to clean up.
+# 
+# Ich mache nicht gerne meine Steuerklärung.
+# I don't like to do my taxes.
+# 
+# Ich telefoniere gerne mit meiner Mama un mit meinem Papa.
+# I like to speak on the phone with my mom and my dad.
+# 
+# Ich skype gerne mit meiner Schwester.
+# I like to skype with my sister.
+# 
+# Ich verbringe gern Zeit mit meinen Freunden.
+# I like to spend time with my friends.
+# 
+# Ich spreche gern Fremdsprachen.
+# I like to speak foreign languages.
+# 
+# Ich unterhalte mich gern über nachhaltige Trends.
+# I like to talk about sustainable trends.
+# 
+# Ich interessiere mich für Nachhaltigkeit.
+# I am interested in sustainability.
+# 
+# Ich lache gerne.
+# I like to laugh.
+# 
+# Ich mache gerne Ausritte.
+# I like to go on trailrides.
+# 
+# Ich falte nicht gern meine Wäsche.
+# I don't like to fold my laundry.
+# 
+# Ich stehe nicht gerne im Stau.
+# I don't like to be stuck in a traffic jam.
+# 
+# Ich nehme nicht gern an Besprechungen teil.
+# I don't like to participate in meetings.
+# 
+# Ich gehe nicht gern zu Besprechungen.
+# I don't like to go to meetings.
+# 
+# Ich kaufe gerne Klamotten im Internet.
+# I like to buy clothing on the internet.
+# 
+# Ich recherchiere gerne im Internet.
+# I like to do research on the internet.
+# 
+# Ich mag den Apfelbaum meiner Eltern.
+# I like my parent's apple tree.
+# 
+# Die Äpfel von diesem Apfelbaum schmecken super.
+# The apples from this apple tree taste great.
+# 
+# Ich mag meinen Saugroboter.
+# I like my vaccum cleaning robot.
+# 
+# Ich mag Reiswaffle mit dunkler Schokolade.
+# I like rice waffles with dark chocolate.
+# 
+# Ich lese gerne.
+# I like to read.
+# 
+# Ich gucke gerne amerikanische Serien, wie zum Biespiel Friends.
+# I like to watch american tv shows, such as Friends.
+# 
+# Das sind deutsche Komiker und TV-Entertainer.
+# Those are german comedians and TV entertainers.
+# 
+# Das ist eine vegane Marke.
+# That's a vegan brand.
+# 
+# Das ist zwar sehr teuer. Das Shampoo ist sehr teuer und die Spülung ist sehr teuer.
+# Altough, it's very expensive. The shampoo ist very expensive, and the conditioner is very expensive.
+# 
+# Ich mag scharfes Essen.
+# I like spicy food.
+# 
+# Ich gehe gern essen.
+# I like to eat out.
+# 
+# Ich wiege mich nicht gerne.
+# I don't like to weigh myself.
+# 
+# Ich streite mich nicht gerne.
+# I don't like to argue.
+# 
+# Ich schminke mich nicht gern.
+# I don't like to put on make-up.
+# 
+# Aber manchmal muss ich mich schminken.
+# But sometimes, I have to put make-up on.
+# 
+# Ich glätte mir gerne die Haare.
+# I like to straighten my hair.
+# 
+# Ich habe nämlich Naturwellen.
+# Because I have naturally wavy hair.
+# 
+# Ich schlafe gern wie jeder.
+# I like to sleep like everyone.
+# 
+# Ich stehe nicht gern früh auf.
+# I don't like to get up early.
+# 
+# Normalerweise stehe ich um 9 Uhr auf.
+# Usually, I get up at 9.
+# 
+# Ich mache nicht gern Bauchmuskeltraining. Das ist so anstrengend.
+# I don't like to train my abs. That's so tiring.
+# 
+# Ich mag große Supermärkte nicht. Ich bevorzuge kleine Supermärkten
+# I don't like big supermarkets. I prefer small supermarkets.
+# 
+# Ich mag keine arroganten und hinterfotzigen Leute und ich mag auch keine Lügner.
+# I don't like arrogant and backstabing people and I don't like liars either.
+# 
+# Ich wasche mir gerne meine Haare.
+# I like to wash my hair.
+# 
+# Ich fliege nicht gerne. Aber ich mag FLughäfen.
+# I don't like to fly. But I like airports.
+# 
+# Ich mag Europa.
+# I like Europe.
+# 
+# Ich mag Biobauernhöfe.
+# I like organic farms.
+# 
+# Ich mag Cafés, besonders Starbucks obwohl der Kaffee da ziemlich sehr teuer ist.
+# I like cafés, especially Starbucks altough the coffee there is pretty expensive.
+# 
+# Ich mag ARTE. Das ist ein deutsch-französischer Fernsehsender.
+# I like ARTE. That's a german-french tv channel.
+# 
+# Kängurus und Koalas habe ich shon in der Wildnis gesehen, als ich letztes Jahr in Australien war.
+# I have already seen kangaroos and koalas in the wild, when I was in Australia last year.
+# 
+# Delfine habe ich schon mal in der Wildnis gesehen, auf einem Segelbot.
+# I have seen dolphins in the wild, on a sailboat.
+# 
+# Ich mag Bootstouren und Segeltouren.
+# I like boat trips and sailing trips.
+# 
+# Ich mag die Natur.
+# I like nature.
+# 
+# Museen mag ich nicht. Dort ist immer sehr langweilig.
+# I don't like museums. It's always boring there.
+# 
+# In der Hinsicht bin ich vielleicht ein Kulturbanause.
+# In that aspect, I might be a philistine.
+# 
+# Krankenhäuser mag ich auch nicht. Dort ist immer so ein komischer Geruch.
+# I don't like hospitals either. There is always a funny smell there.
+# 
+# Ich mag Cashewkerne.
+# I like cashew nuts.
+# 
+# Ich fahre gerne Fahrrad.
+# I like to ride a bike.
+# 
+# Ich mag Erdbeeren.
+# I like strawberries.
+# 
+# Ich mag die Sonne.
+# I like the sun.
+# 
+# Ich mag den Sommer.
+# I like the summer.
+# 
+# Schlechtes Wetter mag ich nicht.
+# I don't like bad wether.
+# 
+# Ich mag bequeme Schuhe.
+# I like comfortable shoes.
+# 
+# Ich ziehe gern Jeans an.
+# I like to wear jeans.
+# 
+# Ich mag Kapuzenpullover.
+# I like hoodies.
+# 
+# Magst du deinen Chef? Ich habe keinen Chef
+# Do you like your boss? I don't have a boss - inf
+# 
+# Ich mag e-bay Kleinanzeigen. Dort finde ich immer viele Dinge.
+# I like e-bay classify-ads. I always find many things there.
+# 
+# Dort kaufe ich vieles und dort verkaufe ich auch vieles.
+# I buy lots of things there and I also sell lots there.
+# 
+# Ich mag keine Nachtclubs.
+# I don't like night clubs.
+# 
+# In deutschen Nachtclubs wird oft geraucht und das mag ich nicht.
+# People often smoke in german night clubs and I don't like that.
+# 
+# Ich mag neue Technologien.
+# I like new techonologies.
+# 
+# Ich mag Tiere.
+# I like animals.
+# 
+# Ich mag es nicht, wenn ich meine Haare geglättet habe und es anfängt zu regnen.
+# I don't like it, when I have straightened my hair and it starts raining.
+# 
 Ich mag es nicht, wenn der Akku von meinem Handy leer ist.
 I don't like it, when my cell phone's battery is empty.
 
