@@ -12299,6 +12299,192 @@
 # Ich mag es nicht, wenn ich meine Haare geglättet habe und es anfängt zu regnen.
 # I don't like it, when I have straightened my hair and it starts raining.
 # 
+Ich esse immer etwas, bevor ich zur Arbeit gehe. 
+(Eu sempre como algo antes de ir para o trabalho.)
+
+Bitte warte, bevor du die Tür öffnest. 
+(Por favor, espere antes de abrir a porta.)
+
+Bevor wir ins Kino gehen, sollten wir noch Popcorn kaufen. 
+(Antes de irmos ao cinema, devemos comprar pipoca.)
+
+Sie übt Klavier, bevor sie Hausaufgaben macht. 
+(Ela pratica piano antes de fazer a lição de casa.)
+
+Bevor du die Prüfung ablegst, musst du gut vorbereitet sein. 
+(Antes de fazer o exame, você precisa estar bem preparado.)
+
+Er ruft immer seine Mutter an, bevor er ins Bett geht. 
+(Ele sempre liga para sua mãe antes de ir para a cama.)
+
+Bevor wir einkaufen gehen, sollten wir eine Einkaufsliste machen. 
+(Antes de irmos às compras, devemos fazer uma lista de compras.)
+
+Bitte melde dich ab, bevor du den Raum verlässt. 
+(Por favor, faça o check-out antes de sair da sala.)
+
+Bevor wir zum Flughafen fahren, müssen wir das Gepäck überprüfen. 
+(Antes de irmos para o aeroporto, precisamos verificar a bagagem.)
+
+Er trinkt immer einen Kaffee, bevor er zur Arbeit geht. 
+(Ele sempre toma um café antes de ir para o trabalho.)
+
+Ich traue mir zu, diese Präsentation erfolgreich durchzuführen. 
+(Eu confio em mim mesmo para realizar essa apresentação com sucesso.)
+
+Ich traue ihm nicht zu, diese Aufgabe alleine zu bewältigen. 
+(Eu não confio nele para lidar com essa tarefa sozinho.)
+
+Ich vertraue meiner besten Freundin, sie wird mein Geheimnis nicht verraten. 
+(Eu confio na minha melhor amiga, ela não vai revelar meu segredo.)
+
+Das Kind vertraut seinem Vater und fühlt sich sicher. 
+(A criança confia no pai e se sente segura.)
+
+Sie hat ihrem Partner das Vertrauen gebrochen und nun ist es schwer, ihm wieder zu vertrauen. 
+(Ela quebrou a confiança de seu parceiro e agora é difícil confiar nele novamente.)
+
+Wir sollten unserer Intuition vertrauen und auf unser Bauchgefühl hören. 
+(Devemos confiar em nossa intuição e seguir nossa intuição.)
+
+Er traut sich nicht, vor einer großen Menschenmenge zu sprechen. 
+(Ele não se sente confiante em falar diante de uma grande multidão.)
+
+Sie vertraut ihrem Arzt und folgt seinen Ratschlägen. 
+(Ela confia em seu médico e segue seus conselhos.)
+
+Nach vielen Enttäuschungen ist es schwer, wieder jemandem zu vertrauen. 
+(Após muitas decepções, é difícil confiar em alguém novamente.)
+
+Ich traue dem Politiker nicht zu, seine Versprechen zu halten. 
+(Eu não confio no político para cumprir suas promessas.)
+
+Als du mich gestern angerufen hast, stand ich unter der Dusche.
+When you called me yesterday, I was in the shower.
+
+Als wir in Berlin gewohnt haben, bin ich auf eine Privateschule gegangen.
+When I lived in Berlin, I went to a private school.
+
+Als ich das Blut gesehen habe, ist mir schlecht geworden.
+When I saw the blood, I became nauseous.
+
+Frúher haben meine Schwester und ich immer mit Playmobil und Lego gespielt, wenn es geregnet hat.
+In the past, my sister and I always played with Playmobil and Lego whenever it rained.
+
+Wenn es morgen regnet, bleible ich zu Hause.
+If it rains tomorrow, I'm staying at home.
+
+Ich kann dir helfen, wenn du willst.
+I can help you, if you want. - inf
+
+Ich weißt nicht, ob das eine gute Idee wäre.
+I don't know if that would be a good idea.
+
+Ich bin mir nicht sicher, ob ich mein Auto verkaufen sollte.
+I'm not sure if/wether I should sell my car.
+
+Ich weiß nicht, wann er vorbeikommt.
+I don't know when he is comming over.
+
+Wann hast du Zeit?
+When do you have time?
+
+Ich weiß nicht, wann er Zeit hat.
+I don't know when he has time.
+
+Wann können wir anfangen?
+When can we start?
+
+Ich war zu Hause.
+I was at home.
+
+Ich war gestern zu Hause.
+I was at home yesterday.
+
+Ich war gestern nicht zu Hause.
+I was not at home yesterday.
+
+Warst du gestern zu Hause?
+Were you at home yesterday? - inf
+
+Waren Sie gestern zu Hause?
+Were you at home yesterday? - formal
+
+Richard war gestern auf der Arbeit.
+Richard was at work yesterday.
+
+Susanne war gestern nicht auf der Arbeit.
+Susanne was not at work yesterday.
+
+Warst du gestern im Büro?
+Were you in the office yesterday?  - inf
+
+Waren Sie gestern im Büro?
+Were you in the office yesterday? - formal
+
+Wo warst du?
+Where were you? - inf
+
+Wo waren Sie?
+Where were you? - formal
+
+Wo waren Sie gestern?
+Where were you yesterday? - formal
+
+Wie waren im Urlaub.
+We were on vacation.
+
+Wir waren in der Schweiz.
+We were in Switzerland.
+
+Wir waren in Deutschland.
+We were in Germany.
+
+Warst du allein?
+Were you alone? - inf
+
+War er allein?
+Was he alone?
+
+Sie war gestern nicht da.
+She wasn't there yesterday.
+
+Waren Sie gestern da?
+Were you there yesterday? - formal
+
+Ich war krank.
+I was sick.
+
+Ich war beim Arzt.
+I was at the doctor.
+
+Ich war bei meiner Tante.
+I was at my aunt's.
+
+Ich war gestern bei meiner Tante.
+I was at my aunt's yesterday.
+
+Ich war im Auto.
+I was in the car.
+
+Er war im Zug.
+He was in the train.
+
+Sabine war in der U-Bahn.
+Sabine was in the subway.
+
+Sie war im Krankenhaus.
+She was at the hospital.
+
+Wir waren im Supermarkt.
+We were in the supermaket.
+
+Er war im Fitnessstudio.
+He was at the gym.
+
+Herr Schmidt war auf Dienstreise.
+Mr Schmidt was on a business trip.
+
 Ich mag es nicht, wenn der Akku von meinem Handy leer ist.
 I don't like it, when my cell phone's battery is empty.
 
