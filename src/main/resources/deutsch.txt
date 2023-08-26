@@ -12299,6 +12299,18 @@
 # Ich mag es nicht, wenn ich meine Haare geglättet habe und es anfängt zu regnen.
 # I don't like it, when I have straightened my hair and it starts raining.
 # 
+"Ich möchte zum Museum gelangen." 
+(Eu gostaria de chegar ao museu.)
+
+"Die Nachricht gelangte endlich zu ihm." 
+(A mensagem finalmente chegou até ele.)
+
+"Durch harte Arbeit gelang es ihm, seine Ziele zu erreichen." 
+(Através de trabalho árduo, ele conseguiu alcançar seus objetivos.)
+
+"Das Buch hat große Popularität erlangt." 
+(O livro alcançou grande popularidade.)
+
 Ich habe einen Brief an meine beste Freundin geschrieben. 
 (Eu escrevi uma carta para minha melhor amiga.)
 

@@ -16276,111 +16276,111 @@
 # 
 # Les freins permettent d'arrêter ou de ralentir la voiture.
 # Brakes allow us to stop or slow the car down.
-
-J'ai de moins en moins envie de vivre en ville.
-I feel less and less like living in the city.
-
-J'ai de plus en plus envie de vivre à la campagne.
-I have more and more desire to live in the countryside.
-
-Mes étudiants ont de plus en plus de facilités avec les verbes irréguliers en français.
-My students are having more and more easiness with irregular verbs in french.
-
-Les étudiants ont de moins en moins de problèmes avec les verbs irréguliers en français.
-The students are having fewer and fewer problems with irregular verbs in french.
-
-Vous avez de moins en moins d'insomnies depuis que vous avez arrêté de boire du café.
-You are having less and less insomnia since you stopped drinking coffee.
-
-Marie fait de plus en plus d'autocorrections quand elle parle en français.
-Marie is correcting herself more and more when she speaks in french.
-
-Vous faites de plus en plus la cuisine et vos plats sont vraiment délicieux!
-You are cooking more and more, and your dishes are really delicious!
-
-Elle a décidé de manger de moins en moins de sucre et de faire de plus en plus de sport.
-She has decided to eat less and less sugar and to do more and more exercise.
-
-La voiture accélère de plus en plus.
-The car is accelarating more and more.
-
-Les français voyagent de plus en plus an Asie.
-French people are travelling more and more to Asia.
-
-Les prix augmentent de plus en plus dans la capitale.
-Prices are going up more and more in the capital.
-
-Elle court de moins en moins.
-She runs less and less.
-
-Vous dormez de moins en moins tôt ces derniers temps.
-You have been sleeping less and less early lately.
-
-Vous vous couchez de plus en plus tard en ce moment.
-You are going to bed later and later these days.
-
-Vous dormez de mieux en mieux depuis que vous ne consommez plus de café.
-You are sleeping better and better since you stopped drinking coffee.
-
-Elle mange de pire en pire.
-She's eating worse and worse.
-
-Les enfants sont de plus en plus adorables.
-The kids are getting more and more adorable.
-
-Ils se comportent mieux. Ils sont plus calmes.
-They behave better. They are calmer.
-
-Les enfants sont de plus en plus adorable en société.
-The children are more and more adorable in society.
-
-Les enfants sont de moins en moins obéissants.
-Children are less and less well-bahaved.
-
-Elle est de plus en plus à l'aise pour s'exprimer à l'oral.
-She is increasingly at ease, at speaking.
-
-Elle est de moins en moins timide quand elle doit parler en public.
-She is less and less shy when she has to speak in public.
-
-J'améliore de plus en plus mon français.
-I'm getting better and better at french.
-
-Je mange de mieux en mieux pour rester en forme.
-I'm eating better and better to stay in shape.
-
-Je crois qu'elle a un faible pour ce garçon.
-I think she has a crush on that boy.
-
-Tu as clairment craqué pour lui!
-You clearly fell for him!
-
-Il est complètement accroc à cette fille, ça se voit!
-He is completely addicted/hooked to this girl, it's obvious!
-
-Ça fait 6 mois qu'ils sont ensemble et Inès n'a d'yeux que pour lui!
-They have been together for 6 months and Ines only has eyes for him!
-
-Marc est un véritable coeur d'artichaud, à chaque fois que je le vois, il est avec une nouvelle fille.
-Marc se apaixona muito facilmente, toda vez que eu o vejo, ele está com uma garota nova.
-
-Depuis sa séparation, je vois bien qu'elle en a gros sur le coeur.
-Since her separation, I can see that she has a lot on her heart.
-
-J'ai vraiment eu un coup de coeur pour ta cousine, elle est très intéressante, charmante et drôle.
-I really had a crush on your cousin, she's very interesting, charming and funny.
-
-Lors des premiers rendez-vous avec lui j'avais des papillons au ventre.
-On the first few dates with him I had butterflies in my stomach.
-
-Depuis qu'elle est avec lui, elle voit la vie en rose et elle à des étoiles dans les yeux.
-Since she's been with him, she has been seen life in pink and she has stars in her eyes.
-
-On est partis en vacances pendant une semaine en amoureux.
-We went on vacation for a romantic weekend.
-
-Ce weekend on va à la plage en amoureux.
-This weekend we are going to the beach as a couple.
-
-Après avoir dragué et séduit, Cédric a enfin déclaré sa flamme à Céline.
-After having flirted and seduced her, Cédric finally declared his love to Céline.
+# 
+# J'ai de moins en moins envie de vivre en ville.
+# I feel less and less like living in the city.
+# 
+# J'ai de plus en plus envie de vivre à la campagne.
+# I have more and more desire to live in the countryside.
+# 
+# Mes étudiants ont de plus en plus de facilités avec les verbes irréguliers en français.
+# My students are having more and more easiness with irregular verbs in french.
+# 
+# Les étudiants ont de moins en moins de problèmes avec les verbs irréguliers en français.
+# The students are having fewer and fewer problems with irregular verbs in french.
+# 
+# Vous avez de moins en moins d'insomnies depuis que vous avez arrêté de boire du café.
+# You are having less and less insomnia since you stopped drinking coffee.
+# 
+# Marie fait de plus en plus d'autocorrections quand elle parle en français.
+# Marie is correcting herself more and more when she speaks in french.
+# 
+# Vous faites de plus en plus la cuisine et vos plats sont vraiment délicieux!
+# You are cooking more and more, and your dishes are really delicious!
+# 
+# Elle a décidé de manger de moins en moins de sucre et de faire de plus en plus de sport.
+# She has decided to eat less and less sugar and to do more and more exercise.
+# 
+# La voiture accélère de plus en plus.
+# The car is accelarating more and more.
+# 
+# Les français voyagent de plus en plus an Asie.
+# French people are travelling more and more to Asia.
+# 
+# Les prix augmentent de plus en plus dans la capitale.
+# Prices are going up more and more in the capital.
+# 
+# Elle court de moins en moins.
+# She runs less and less.
+# 
+# Vous dormez de moins en moins tôt ces derniers temps.
+# You have been sleeping less and less early lately.
+# 
+# Vous vous couchez de plus en plus tard en ce moment.
+# You are going to bed later and later these days.
+# 
+# Vous dormez de mieux en mieux depuis que vous ne consommez plus de café.
+# You are sleeping better and better since you stopped drinking coffee.
+# 
+# Elle mange de pire en pire.
+# She's eating worse and worse.
+# 
+# Les enfants sont de plus en plus adorables.
+# The kids are getting more and more adorable.
+# 
+# Ils se comportent mieux. Ils sont plus calmes.
+# They behave better. They are calmer.
+# 
+# Les enfants sont de plus en plus adorable en société.
+# The children are more and more adorable in society.
+# 
+# Les enfants sont de moins en moins obéissants.
+# Children are less and less well-bahaved.
+# 
+# Elle est de plus en plus à l'aise pour s'exprimer à l'oral.
+# She is increasingly at ease, at speaking.
+# 
+# Elle est de moins en moins timide quand elle doit parler en public.
+# She is less and less shy when she has to speak in public.
+# 
+# J'améliore de plus en plus mon français.
+# I'm getting better and better at french.
+# 
+# Je mange de mieux en mieux pour rester en forme.
+# I'm eating better and better to stay in shape.
+# 
+# Je crois qu'elle a un faible pour ce garçon.
+# I think she has a crush on that boy.
+# 
+# Tu as clairment craqué pour lui!
+# You clearly fell for him!
+# 
+# Il est complètement accroc à cette fille, ça se voit!
+# He is completely addicted/hooked to this girl, it's obvious!
+# 
+# Ça fait 6 mois qu'ils sont ensemble et Inès n'a d'yeux que pour lui!
+# They have been together for 6 months and Ines only has eyes for him!
+# 
+# Marc est un véritable coeur d'artichaud, à chaque fois que je le vois, il est avec une nouvelle fille.
+# Marc se apaixona muito facilmente, toda vez que eu o vejo, ele está com uma garota nova.
+# 
+# Depuis sa séparation, je vois bien qu'elle en a gros sur le coeur.
+# Since her separation, I can see that she has a lot on her heart.
+# 
+# J'ai vraiment eu un coup de coeur pour ta cousine, elle est très intéressante, charmante et drôle.
+# I really had a crush on your cousin, she's very interesting, charming and funny.
+# 
+# Lors des premiers rendez-vous avec lui j'avais des papillons au ventre.
+# On the first few dates with him I had butterflies in my stomach.
+# 
+# Depuis qu'elle est avec lui, elle voit la vie en rose et elle à des étoiles dans les yeux.
+# Since she's been with him, she has been seen life in pink and she has stars in her eyes.
+# 
+# On est partis en vacances pendant une semaine en amoureux.
+# We went on vacation for a romantic weekend.
+# 
+# Ce weekend on va à la plage en amoureux.
+# This weekend we are going to the beach as a couple.
+# 
+# Après avoir dragué et séduit, Cédric a enfin déclaré sa flamme à Céline.
+# After having flirted and seduced her, Cédric finally declared his love to Céline.
