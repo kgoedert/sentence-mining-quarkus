@@ -14411,3 +14411,7 @@
 # 
 # Aquí venden ropa de niño.
 # Eles vendem roupas infantis aqui.
+
+¿Qué libro te gustaría? Uno entretenido.
+Qual livro você gostaria? Um divertido.
+
