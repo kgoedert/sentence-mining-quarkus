@@ -16384,3 +16384,87 @@
 # 
 # Après avoir dragué et séduit, Cédric a enfin déclaré sa flamme à Céline.
 # After having flirted and seduced her, Cédric finally declared his love to Céline.
+# 
+# Une petite tour Eiffel et un micro noir.
+# Uma pequena torre Eiffel e um microfone preto.
+# 
+# Un petit chat noir.
+# Um gatinho preto.
+# 
+# Une grande maison moderne.
+# Uma grande casa moderna.
+# 
+# Cette tour Eiffel vient de Paris.
+# Esta torre Eiffel vem de Paris.
+# 
+# Cette fleur est artificielle.
+# Esta flor é artificial.
+# 
+# Ce micro fonctionne-t-il bien ?
+# Este microfone funciona bem?
+# 
+# Son cours est très intéressant.
+# Sua aula é muito interessante.
+# 
+# Mon père est jardinier.
+# Meu pai é jardineiro.
+# 
+# Ton vélo est électrique.
+# Sua bicicleta é elétrica.
+# 
+# Vos enfants sont charmants
+# Seus filhos são encantadores.
+# 
+# Prends-moi le 3e livre en commençant par la gauche.
+# Seus filhos são encantadores.
+# 
+# C'est votre 1er enfant ? Non, c'est mon 3e.
+# É seu primeiro filho? Não, é meu terceiro.
+# 
+# Une belle maison.
+# Uma bela casa.
+# 
+# Un enfant calme.
+# Uma criança calma.
+# 
+# La mer est calme.
+# O mar está calmo.
+# 
+# Cet enfant est agréable.
+# Essa criança é agradável.
+# 
+# Les maisons sont belles.
+# As casas são bonitas.
+# 
+# Cette voiture est neuve.
+# Este carro é novo.
+# 
+# La maison, silencieuse, lui faisait un peu peur.
+# A casa, silenciosa, lhe causava um pouco de medo.
+# 
+# La femme, mystérieuse, s'est levée et est partie sans dire un mot.
+# A mulher, misteriosa, levantou-se e partiu sem dizer uma palavra.
+# 
+# La ville, bruyante, nous fascinait.
+# A cidade, barulhenta, nos fascinava.
+# 
+# Cette femme est merveilleuse.
+# Esta mulher é maravilhosa.
+# 
+# Son frère s'appelle Marc.
+# O irmão dele/dela se chama Marc.
+# 
+# Il a reçu son premier vélo pour son anniversaire.
+# Ele recebeu sua primeira bicicleta de aniversário.
+# 
+# Ils ont un jardin immense.
+# Eles têm um jardim enorme.
+# 
+# Le chat noir est sur la table.
+# O gato preto está sobre a mesa.
+# 
+# Les enfants épuisés sont allés directement se coucher.
+# As crianças exaustas foram direto para a cama.
+# 
+# Les filles sont contentes. C'est enfin le week-end.
+# As meninas estão contentes. Finalmente é fim de semana.
