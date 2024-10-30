@@ -12288,161 +12288,161 @@
 # I don't like night clubs.
 # 
 # In deutschen Nachtclubs wird oft geraucht und das mag ich nicht.
-# People often smoke in german night clubs and I don't like that.
+# # People often smoke in german night clubs and I don't like that.
+# # 
+# # Ich mag neue Technologien.
+# # I like new techonologies.
+# # 
+# # Ich mag Tiere.
+# # I like animals.
+# # 
+# # Ich mag es nicht, wenn ich meine Haare geglättet habe und es anfängt zu regnen.
+# # I don't like it, when I have straightened my hair and it starts raining.
+# # 
+# "Ich möchte zum Museum gelangen." 
+# (Eu gostaria de chegar ao museu.)
 # 
-# Ich mag neue Technologien.
-# I like new techonologies.
+# "Die Nachricht gelangte endlich zu ihm." 
+# (A mensagem finalmente chegou até ele.)
 # 
-# Ich mag Tiere.
-# I like animals.
+# "Durch harte Arbeit gelang es ihm, seine Ziele zu erreichen." 
+# (Através de trabalho árduo, ele conseguiu alcançar seus objetivos.)
 # 
-# Ich mag es nicht, wenn ich meine Haare geglättet habe und es anfängt zu regnen.
-# I don't like it, when I have straightened my hair and it starts raining.
+# "Das Buch hat große Popularität erlangt." 
+# (O livro alcançou grande popularidade.)
 # 
-"Ich möchte zum Museum gelangen." 
-(Eu gostaria de chegar ao museu.)
-
-"Die Nachricht gelangte endlich zu ihm." 
-(A mensagem finalmente chegou até ele.)
-
-"Durch harte Arbeit gelang es ihm, seine Ziele zu erreichen." 
-(Através de trabalho árduo, ele conseguiu alcançar seus objetivos.)
-
-"Das Buch hat große Popularität erlangt." 
-(O livro alcançou grande popularidade.)
-
-Ich habe einen Brief an meine beste Freundin geschrieben. 
-(Eu escrevi uma carta para minha melhor amiga.)
-
-Er gab ein Geschenk an seinen Bruder. 
-(Ele deu um presente para o seu irmão.)
-
-Die Lehrerin sprach an ihre Schüler. 
-(A professora falou com seus alunos.)
-
-Meine Eltern schickten eine E-Mail an meinen Lehrer. 
-(Meus pais enviaram um e-mail para o meu professor.)
-
-Der Kunde richtete eine Beschwerde an das Unternehmen. 
-(O cliente fez uma reclamação para a empresa.)
-
-"Was würden Sie dazu sagen?" 
-(O que você diria sobre isso?)
-
-"Ich möchte gerne Ihre Meinung dazu hören." 
-(Eu gostaria de ouvir a sua opinião sobre isso.)
-
-"Er wies auf die Landkarte." 
-(Ele apontou no mapa.)
-
-"Die Hinweisschilder wiesen den Weg zur Sehenswürdigkeit." 
-(As placas de sinalização indicavam o caminho para a atração turística.)
-
-"Wenn wir die Daten analysieren, werden wir feststellen, ob es einen Zusammenhang gibt." 
-(Quando analisarmos os dados, vamos constatar se há uma correlação.)
-
-"In der nächsten Untersuchung werden wir feststellen, ob die Behandlung wirksam ist." 
-(Na próxima pesquisa, iremos perceber se o tratamento é eficaz.)
-
-"Das Display zeigt die Uhrzeit an." 
-(O visor mostra a hora.)
-
-"Die Anzeige auf dem Bildschirm ist sehr deutlich." 
-(A exibição na tela é muito clara.)
-
-"Er hat viel Wissen in seinem Studium erworben." 
-(Ele adquiriu muito conhecimento em seus estudos.)
-
-"Die Firma präsentiert stolz ihre erworbenen Zertifikate." 
-(A empresa apresenta orgulhosamente seus certificados adquiridos.)
-
-"Das Wetter in der Region ist wechselhaft, mit Sonnenschein und Regenschauern." 
-(O clima na região é variável, com períodos de sol e pancadas de chuva.)
-
-"Seine Leistungen zeigen ein wechselhaftes Muster, manchmal ist er brillant, manchmal unterdurchschnittlich." 
-(Seu desempenho mostra um padrão inconstante, às vezes ele é brilhante, às vezes abaixo da média.)
-
-"Das Gemälde versinnbildlicht den Kampf zwischen Gut und Böse." 
-(A pintura simboliza a luta entre o bem e o mal.)
-
-"Der Vogel wird oft als Freiheit versinnbildlicht." 
-(O pássaro é frequentemente simbolizado como liberdade.)
-
-"Er ist ein zielstrebiger Student, der hart arbeitet, um seine Ziele zu erreichen." 
-(Ele é um estudante determinado que trabalha duro para alcançar seus objetivos.)
-
-"Mit ihrer zielstrebigen Herangehensweise hat sie das Projekt erfolgreich abgeschlossen." 
-(Com sua abordagem determinada, ela concluiu o projeto com sucesso.)
-
-"Er ist ein ehrgeiziger Unternehmer und möchte sein Unternehmen weltweit ausbauen." 
-(Ele é um empresário ambicioso e quer expandir sua empresa globalmente.)
-
-"Sie ist eine ehrgeizige Schauspielerin und träumt davon, in Hollywood berühmt zu werden." 
-(Ela é uma atriz dedicada e sonha em se tornar famosa em Hollywood.)
-
-"Der Besuch im Museum war sehr lehrreich und hat uns viel über die Geschichte gelehrt." 
-(A visita ao museu foi muito instrutiva e nos ensinou muito sobre a história.)
-
-"Das Buch ist nicht nur unterhaltsam, sondern auch lehrreich." 
-(O livro não é apenas divertido, mas também educativo.)
-
-"Im Zeitalter der E-Mails und sozialen Medien ist der Briefverkehr weniger häufig geworden." 
-(Na era dos e-mails e das redes sociais, o tráfego de cartas diminuiu.)
-
-"Die Vertraulichkeit des Briefverkehrs ist in vielen Ländern gesetzlich geschützt." 
-(A confidencialidade da correspondência é protegida por lei em muitos países.)
-
-"Eine vollwertige Mahlzeit sollte verschiedene Nährstoffe enthalten." 
-(Uma refeição completa deve conter diferentes nutrientes.)
-
-"Ein vollwertiges Training beinhaltet Aufwärmen, Übungen und Cool-Down." 
-(Um treino completo inclui aquecimento, exercícios e desaquecimento.)
-
-"Das Studienjahr beginnt im September und endet im Juni." 
-(O ano acadêmico começa em setembro e termina em junho.)
-
-"Im letzten Studienjahr konzentrieren sich die Studenten auf ihre Abschlussarbeiten." 
-(No último ano acadêmico, os estudantes se concentram em suas teses de conclusão de curso.)
-
-"Er ist gestern aus dem Urlaub zurückgekehrt." 
-(Ele retornou das férias ontem.)
-
-"Nach einem langen Auslandsaufenthalt ist sie endlich zurückgekehrt." 
-(Depois de uma longa estadia no exterior, ela finalmente voltou.)
-
-"Das Gesamtvermögen des Unternehmens hat sich in den letzten Jahren erheblich erhöht." 
-(O patrimônio total da empresa aumentou consideravelmente nos últimos anos.)
-
-"Das Gesamtvermögen der Familie umfasst Immobilien, Aktien und Bankguthaben." 
-(O patrimônio total da família inclui imóveis, ações e saldos bancários.)
-
-"Ich kaufe meine Lehrbücher für das neue Semester online." 
-(Eu compro meus livros didáticos para o novo semestre online.)
-
-"Die Schülerinnen und Schüler benutzen die Lehrbücher, um den Unterrichtsstoff zu lernen." 
-(Os alunos usam os livros didáticos para aprender o conteúdo das aulas.)
-
-"Ich versuche mir die Vokabeln einzuprägen." 
-(Estou tentando memorizar as palavras do vocabulário.)
-
-"Der Lehrer wiederholt den Stoff, damit sich die Schüler ihn besser einprägen können." 
-(O professor revisa o material para que os alunos possam fixá-lo melhor em suas mentes.)
-
-"Der Dieb wurde von der Polizei erhascht." 
-(O ladrão foi pego pela polícia.)
-
-"Er hat einen kurzen Blick auf das geheime Dokument erhascht." 
-(Ele conseguiu dar uma olhada rápida no documento secreto.)
-
-"Das Fleisch wird durch das Pökelverfahren haltbar gemacht." 
-(A carne é tornada durável através do processo de salga.)
-
-"Das Pökelverfahren verleiht dem Fleisch seinen charakteristischen Geschmack." 
-(O processo de salga confere à carne o seu sabor característico.)
-
-"Die Verkoster bewerten die Weine auf einer Skala von 1 bis 10." 
-(Os provadores avaliam os vinhos em uma escala de 1 a 10.)
-
+# Ich habe einen Brief an meine beste Freundin geschrieben. 
+# (Eu escrevi uma carta para minha melhor amiga.)
+# 
+# Er gab ein Geschenk an seinen Bruder. 
+# (Ele deu um presente para o seu irmão.)
+# 
+# Die Lehrerin sprach an ihre Schüler. 
+# (A professora falou com seus alunos.)
+# 
+# Meine Eltern schickten eine E-Mail an meinen Lehrer. 
+# (Meus pais enviaram um e-mail para o meu professor.)
+# 
+# Der Kunde richtete eine Beschwerde an das Unternehmen. 
+# (O cliente fez uma reclamação para a empresa.)
+# 
+# "Was würden Sie dazu sagen?" 
+# (O que você diria sobre isso?)
+# 
+# "Ich möchte gerne Ihre Meinung dazu hören." 
+# (Eu gostaria de ouvir a sua opinião sobre isso.)
+# 
+# "Er wies auf die Landkarte." 
+# (Ele apontou no mapa.)
+# 
+# "Die Hinweisschilder wiesen den Weg zur Sehenswürdigkeit." 
+# (As placas de sinalização indicavam o caminho para a atração turística.)
+# 
+# "Wenn wir die Daten analysieren, werden wir feststellen, ob es einen Zusammenhang gibt." 
+# (Quando analisarmos os dados, vamos constatar se há uma correlação.)
+# 
+# "In der nächsten Untersuchung werden wir feststellen, ob die Behandlung wirksam ist." 
+# (Na próxima pesquisa, iremos perceber se o tratamento é eficaz.)
+# 
+# "Das Display zeigt die Uhrzeit an." 
+# (O visor mostra a hora.)
+# 
+# "Die Anzeige auf dem Bildschirm ist sehr deutlich." 
+# (A exibição na tela é muito clara.)
+# 
+# "Er hat viel Wissen in seinem Studium erworben." 
+# (Ele adquiriu muito conhecimento em seus estudos.)
+# 
+# "Die Firma präsentiert stolz ihre erworbenen Zertifikate." 
+# (A empresa apresenta orgulhosamente seus certificados adquiridos.)
+# 
+# "Das Wetter in der Region ist wechselhaft, mit Sonnenschein und Regenschauern." 
+# (O clima na região é variável, com períodos de sol e pancadas de chuva.)
+# 
+# "Seine Leistungen zeigen ein wechselhaftes Muster, manchmal ist er brillant, manchmal unterdurchschnittlich." 
+# (Seu desempenho mostra um padrão inconstante, às vezes ele é brilhante, às vezes abaixo da média.)
+# 
+# "Das Gemälde versinnbildlicht den Kampf zwischen Gut und Böse." 
+# (A pintura simboliza a luta entre o bem e o mal.)
+# 
+# "Der Vogel wird oft als Freiheit versinnbildlicht." 
+# (O pássaro é frequentemente simbolizado como liberdade.)
+# 
+# "Er ist ein zielstrebiger Student, der hart arbeitet, um seine Ziele zu erreichen." 
+# (Ele é um estudante determinado que trabalha duro para alcançar seus objetivos.)
+# 
+# "Mit ihrer zielstrebigen Herangehensweise hat sie das Projekt erfolgreich abgeschlossen." 
+# (Com sua abordagem determinada, ela concluiu o projeto com sucesso.)
+# 
+# "Er ist ein ehrgeiziger Unternehmer und möchte sein Unternehmen weltweit ausbauen." 
+# (Ele é um empresário ambicioso e quer expandir sua empresa globalmente.)
+# 
+# "Sie ist eine ehrgeizige Schauspielerin und träumt davon, in Hollywood berühmt zu werden." 
+# (Ela é uma atriz dedicada e sonha em se tornar famosa em Hollywood.)
+# 
+# "Der Besuch im Museum war sehr lehrreich und hat uns viel über die Geschichte gelehrt." 
+# (A visita ao museu foi muito instrutiva e nos ensinou muito sobre a história.)
+# 
+# "Das Buch ist nicht nur unterhaltsam, sondern auch lehrreich." 
+# (O livro não é apenas divertido, mas também educativo.)
+# 
+# "Im Zeitalter der E-Mails und sozialen Medien ist der Briefverkehr weniger häufig geworden." 
+# (Na era dos e-mails e das redes sociais, o tráfego de cartas diminuiu.)
+# 
+# "Die Vertraulichkeit des Briefverkehrs ist in vielen Ländern gesetzlich geschützt." 
+# (A confidencialidade da correspondência é protegida por lei em muitos países.)
+# 
+# "Eine vollwertige Mahlzeit sollte verschiedene Nährstoffe enthalten." 
+# (Uma refeição completa deve conter diferentes nutrientes.)
+# 
+# "Ein vollwertiges Training beinhaltet Aufwärmen, Übungen und Cool-Down." 
+# (Um treino completo inclui aquecimento, exercícios e desaquecimento.)
+# 
+# "Das Studienjahr beginnt im September und endet im Juni." 
+# (O ano acadêmico começa em setembro e termina em junho.)
+# 
+# "Im letzten Studienjahr konzentrieren sich die Studenten auf ihre Abschlussarbeiten." 
+# (No último ano acadêmico, os estudantes se concentram em suas teses de conclusão de curso.)
+# 
+# "Er ist gestern aus dem Urlaub zurückgekehrt." 
+# (Ele retornou das férias ontem.)
+# 
+# "Nach einem langen Auslandsaufenthalt ist sie endlich zurückgekehrt." 
+# (Depois de uma longa estadia no exterior, ela finalmente voltou.)
+# 
+# "Das Gesamtvermögen des Unternehmens hat sich in den letzten Jahren erheblich erhöht." 
+# (O patrimônio total da empresa aumentou consideravelmente nos últimos anos.)
+# 
+# "Das Gesamtvermögen der Familie umfasst Immobilien, Aktien und Bankguthaben." 
+# (O patrimônio total da família inclui imóveis, ações e saldos bancários.)
+# 
+# "Ich kaufe meine Lehrbücher für das neue Semester online." 
+# (Eu compro meus livros didáticos para o novo semestre online.)
+# 
+# "Die Schülerinnen und Schüler benutzen die Lehrbücher, um den Unterrichtsstoff zu lernen." 
+# (Os alunos usam os livros didáticos para aprender o conteúdo das aulas.)
+# 
+# "Ich versuche mir die Vokabeln einzuprägen." 
+# (Estou tentando memorizar as palavras do vocabulário.)
+# 
+# "Der Lehrer wiederholt den Stoff, damit sich die Schüler ihn besser einprägen können." 
+# (O professor revisa o material para que os alunos possam fixá-lo melhor em suas mentes.)
+# 
+# "Der Dieb wurde von der Polizei erhascht." 
+# (O ladrão foi pego pela polícia.)
+# 
+# "Er hat einen kurzen Blick auf das geheime Dokument erhascht." 
+# (Ele conseguiu dar uma olhada rápida no documento secreto.)
+# 
+# "Das Fleisch wird durch das Pökelverfahren haltbar gemacht." 
+# (A carne é tornada durável através do processo de salga.)
+# 
+# "Das Pökelverfahren verleiht dem Fleisch seinen charakteristischen Geschmack." 
+# (O processo de salga confere à carne o seu sabor característico.)
+# 
+# "Die Verkoster bewerten die Weine auf einer Skala von 1 bis 10." 
+# (Os provadores avaliam os vinhos em uma escala de 1 a 10.)
+# 
 "Als Verkoster bei einem Weinfestival kann man viele verschiedene Rebsorten probieren." 
 (Como provador em um festival de vinho, é possível provar muitas variedades diferentes de uva.)
 
